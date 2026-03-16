@@ -12,3 +12,11 @@ python3 -m playwright install chromium
 
 python3 fetch.py
 ```
+
+## Automatic script
+
+To periodically fetch the sources, add a cronjob which executes the script.
+
+```sh
+0 6 * * * /path/to/tos-tracker/update.sh
+```
