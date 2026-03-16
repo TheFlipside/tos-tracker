@@ -1,0 +1,186 @@
+Spaces Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Spaces Recommendations
+
+The Spaces Tab is a dedicated part of the 𝕏 app that shows a list of live Spaces that a user can scroll and select from. The goal of the Spaces Tab recommender is to personalize the list of Spaces for a user so they can find ones that they want to listen to.
+
+How does 𝕏 find Spaces
+
+When the user loads the Spaces Tab, the recommender uses metadata about the currently live Spaces and information about a user’s past listening selections as inputs to a machine learning model that’s trained to rank Spaces in order of the likelihood that a user will choose to listen.
+
+How does 𝕏 decide which Spaces to show you
+
+𝕏 uses machine learning algorithms to influence how we rank the Spaces we present to you. Space creators tag Spaces according to Topics. This makes it possible for us to track how long a user listens to Spaces related to a specific Topic. We combine this information with other features, such as the number of participants, language, follow relationship, the popularity of the host, and so forth to develop an overall prediction.
+
+How you can influence the Spaces you see
+
+You can influence the Spaces that are shown across 𝕏 by reporting a Space if you think it violates our rules, and you can influence Spaces that are shown to you by reporting that you are not interested in a Space. You can also influence the Spaces shown to you by changing your language preference, or the Topics you follow. (Learn more,
+here
+.)
+
+𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful. (Learn more,
+here
+.)
+
+How you can see non-personalized suggestions
+
+Users in the European Union are recommended Spaces based only on popularity as no personalized features are included as signals into the suggestions.
+
+More information
+
+For a more detailed view of how our Spaces recommendation system works, please see:
+
+An overview from our engineering team below; or
+
+Our About Spaces help center article,
+here
+.
+
+System Overview
+
+Our recommendation system for Spaces is trained on information we collect from a variety of sources. The diagram below describes the primary storage systems involved, when data is written to them, and how they relate to each other:
+
+As illustrated above, when a user opens the Spaces tab, their client makes a request to the Proxsee service for a list of available Spaces. Proxsee is the main backend service for Spaces and is responsible for major user requests such as login, following and watching; it calls other micro-services to power different user activities. Proxee receives metadata about each Space, including any Topics that the host has tagged it with. This makes it possible for us to track the amount of time a user spends listening to different Topics. We also rely on two tables:
+SpacesMLRequesterFeatures
+, which contains information about the user, such as their preferred language and historical watch data, and
+SpacesMLCandidateFeatures
+, which contains information about available Spaces, such as their titles, any tagged Topics, the number of active watchers, and so on.
+
+In addition to
+BroadcastViewEndedDay
+, which contains a user’s watch duration of a certain Space, where they view it from, and so on, our models use additional datasets that contain serving time information. In addition, our models receive values for the total past watch time for Spaces labeled as related to particular Topics. We use RedisLabs as the user feature store, which contains user’s historical watch data. For each space, the host may tag it with specific Topics such as Cryptocurrencies, Business & Finance, Music, Gaming, Sports, and so on. When the user stops watching a Space, we collect the watch duration of the tags and Topics associated with this space, and aggregate them to the user’s historical watch data.
+
+The specific inputs our models use to recommend Spaces include the following. You can think of the model as a mathematical function that takes these values as arguments and outputs a probability that the user will listen to the Space. Internally, the model is a neural net trained on historical data to estimate the probability given a set of inputs. Examples of this include:
+
+title
+
+The title of the space
+
+is_verified_user
+
+The Space host is a verified user
+
+locale
+
+The user’s language
+
+broadcast_language
+
+Space language
+
+is_trending
+
+A weighted sum of the number of listeners, number of followers of the hosts and speakers of the spaces
+
+is_featured
+
+Whether the Space has been marked as “featured” by a human curator
+
+duration
+
+How long has the broadcast been running
+
+n_watchers
+
+Number of watchers on app
+
+n_stickers
+
+Number of watchers that watch for more than 15s
+
+n_entrants
+
+Number of listeners who have entered (and possibly already left)
+
+n_watchers_web
+
+Number of watchers on web
+
+n_hearts
+
+Number of emoji reactions
+
+n_hearts_capped
+
+A capped number of emoji reactions
+
+n_comments
+
+Number of posts shared in space
+
+n_comments_capped
+
+Related to number of posts shared in space
+
+n_guests_followed
+
+Number of speakers that the requester follows
+
+n_admins_followed
+
+Number of hosts that the requester follows
+
+n_participants_followed
+
+Number of listeners that the requester follows
+
+session_count
+
+Number of Spaces engagement session by user in past
+
+n_overlapped_topics
+
+Number of overlapped topics between current Space and previous Spaces user has engaged with in past N days
+
+n_overlapped_categories
+
+Number of overlapped categories between current Space and previous Spaces user has engaged with in past N days
+
+avg_overlapped_topics_watch_time
+
+Average watch time for overlapped topics between current Space and previous Spaces user has engaged with in past N days
+
+avg_overlapped_categories_watch_time
+
+Average watch time for overlapped categories between current Space and previous Spaces user has engaged with in past N days
+
+n_uninterested
+
+Number of users that clicked uninterested on Space
+
+audio_space_type
+
+Live or Recorded space types
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

@@ -1,0 +1,258 @@
+Search Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Search Recommendations
+
+There are many ways to use search on 𝕏. You can find posts from yourself, friends, local businesses, and everyone from well-known entertainers to global political leaders. By searching for Topic keywords or hashtags, you can follow ongoing conversations about breaking news or personal interests.
+
+We give you control over what you see in your search results through safe search mode. These filters exclude potentially sensitive content from your search results. You have the option to turn this off, or back on, at any time.
+
+How does 𝕏 find search results
+
+Our search systems are split into five categories: Top, Latest, People, Media, and Lists. 𝕏 also supports typeahead, or ‘autocomplete’, searches, which are queries that run behind the scenes when you type something on the search bar. You can access these categories using any search term on
+https://x.com/search
+. Each of them works in a similar fashion, except Latest search.
+
+Top:
+ a filtered search of posts focusing on the more relevance and more popular posts
+
+Latest:
+ latest posts without filtering
+
+People:
+ user accounts matching the query in relevance order
+
+Media:
+ posts with photos / videos
+
+Lists:
+ curated lists of accounts
+
+How does 𝕏 decide which search results to show you
+
+Millions of posts are created daily and globally, and only a small fraction are relevant to any specific search. 𝕏 uses a wide variety of signals to decide which results to show you, depending on the search category. For example:
+
+Top:
+ posts are ranked using a combination of scores from three models:
+
+an engagement score, which relies on a detailed social score, post media interaction, author score, author in network score, media details, media popularity, is trending, has media and hashtags post category, post latency score, search score results, and a post category score;
+
+a health score, which is based on spam reports, number of blocked, number of policies infractions, spam post content; and
+
+a relevance score, which relies on a query matching score, post social score, post age, post author network, and post content score.
+
+Latest:
+ posts are recommended based on the relevance from query keyword matching in the order of which they are being published. Users can use specific language keywords (such as “From:exampleuser”) to get more targeted results.
+
+People:
+ users are recommended using a variety of criteria, including search score, last updated post, popularity score, in-network score, and recent engagement score.
+
+Media:
+ media is recommended using a variety of criteria, including content and engagement.
+
+Lists:
+ lists are recommended based on content of the list and follower graphs.
+
+How you can influence the search results you see
+
+You can influence the search results that are shown across 𝕏 by reporting content if you think it violates our rule. You can also influence the search results shown to you by adjusting your search criteria (for example, to only show posts with links, to only show results from those you follow, to limit results to a particular location, or by setting engagement thresholds or date ranges), or through using ‘safe search’ mode. (Learn more,
+here
+.)
+
+𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful. (Learn more,
+here
+.)
+
+How you can see non-personalized search results
+
+You can always choose to see search results that are not tailored for you by using the Latest results view. Latest search uses the search terms in your query and returns matching posts in reverse chronological order (the only filters applied in this case is global visibility filter removing posts from spam accounts, protected accounts, deactivated accounts, and so on.)
+
+More information
+
+For a more detailed view of how our search results recommendation system works, please see:
+
+An overview from our engineering team below; or
+
+Our About Search Rules and Restrictions help center article,
+here
+.
+
+System Overview
+
+The major components of our search recommendation system are illustrated below:
+
+Query processing and decoration is done via search-mixer which gets the raw query from our graphql service
+
+Search session is created by asynchronously collecting data about the search so we can improve quality via AI model that are trained few times a year and used in search-ranker
+
+For latest search since no ranking is needed search-mixer calls directly earlybird to get the latest posts.
+
+Search-mixer Search Assistant Service helps fix typo’s
+
+Search mixer uses visibility filtering to ensure it does not return posts to users for blocked users, protected users, deactivated users.
+
+For all other searches Candidates Retrieval then happens in search-ranker; for each user, potential candidates are fetched by the user’s location and interests.
+
+Ranking (search-ranker): Machine learning models are used to rank the candidates to optimize engagements, relevance and health.
+
+Feedback Collection via client events: User feedback, such as social actions on posts (e.g., repost, reply, quote, favorite, etc.), are collected after the search for model training and analysis.
+
+Life of a search query
+
+After pressing enter on a search query it gets sent to a graphql endpoint, which creates a Thrift request without content modification and sends it to the search-mixer service for processing.
+
+Search-mixer is a thrift service that transforms the request into a language the different downstream services and databases can understand, aggregates results from downstream services and applies filtering to render results to the client.
+
+Search-mixer request processor follows the following logic:
+
+Transforms the raw query (input from user) into a parsed query language which is then interpreted by earlybird into Lucene query.
+
+Run validation (whether the query is properly crafted)
+
+Language identification (detect the language to prioritize post from this language)
+
+Search Assistance (detect potential typo and add search correction term to the query)
+
+Transforms special instructions (𝕏 supports around 50 custom operators that allows users to execute targeted queries such as filter follows, geo query or list queries, etc.)
+
+Mix all results into a hybrid timelines, create response
+
+Logs search terms for popularity ranking and offline analysis
+
+Search-mixer will then send the query to search-ranker and then execute a few rules with the results from search-ranker such as visibility filtering.
+
+Search-ranker talks to a few services to find relevant posts matching the query as follows:
+
+Process the query, look up query related metadata
+
+Look up user metadata and network features
+
+Search candidate retrieval:
+
+Posts from Earlybird (440 posts)
+
+users from ExpertSearch (people search only)
+
+Hydrate all results, do re-ranking, filtering, deduping, etc.
+
+Earlybird is 𝕏’s post index database; it is divided in multiple clusters and can be used to query:
+
+Recent post cluster (most recent 7-10 days of data)
+
+Full post cluster
+
+Post from protected users
+
+Post from X Premium
+
+Search candidate Retrieval
+
+This step retrieves the relevant posts given a user.
+
+Feature Hydration
+
+The posts and users' features are hydrated, meaning we collect information about the posts, and the author to use in the ranking stage. The information includes:
+
+Post features:
+
+health score
+
+Is NSFW filter
+
+topic category
+
+Users features:
+
+embeddings of user’s interests
+
+blocked users
+
+Filtering
+
+Unhealthy posts and blocked users are filtered out.
+
+Search Ranking
+
+This is where most of the algorithm logic happens: using a list of candidate sources we retrieve what we think is the best content for the search (semantic search, approximate nearest neighbor search, follower graph search). We get about 500 posts which we will rank using features (data) from the posts and authors and narrow down to 50 that will be sent in ranked order, following the algorithm we described above.
+
+Features
+
+Both users’ features and posts’ features are used. They are used to train the model to optimize user engagements and then for ranking.
+
+Post Models
+
+Posts are ranked by using a combination of three machine learning models to return the best search: The formula is the following => 1 * engagement + 0.5 * health + 0.031 * Relevance.
+
+Note that for different posts in the engagement model weight varies: favorite, replied, repost and quote has weight 1.0, photo clicked has weight 0.5, long linger has weight 0.1.
+
+User Models
+
+Users are ranked by relevance matching (query terms based on username, profile name, etc.) and ranked using social features such as (social scores, real graph score, new users, etc.).
+
+Scores
+
+Each Users/Posts then gets a score from the ranking formula above. The posts with the highest scores will then be selected to appear in search following their ranking.
+
+Feedback collection
+
+Top search results are served to the users, who can either click on the results or report them as irrelevant or spammy. Click engagements are used to further train the machine learning models.
+
+Typeahead search
+
+TypeAhead is a system that serves autocomplete suggestions for prefixes, and is used in multiple parts of our applications, including the Search bar, post compose box, and DM target user selector. It supports following types:
+
+queries (including #hashtags)
+
+users
+
+events
+
+topics channels (lists)
+
+Typeahead search is managed by the
+typeahead-mixer
+ service which, similar to
+search-mixer
+, includes the following logic:
+
+transforms the raw query (input from user) into a parsed query format;
+
+run validation (whether the query is properly crafted); and
+
+language identification (detecting the language to prioritize for query suggestions.
+
+In addition it adds some extra steps:
+
+Curation steps: to allow easy filtering of damaging content on the platform.
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

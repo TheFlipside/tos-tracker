@@ -1,0 +1,236 @@
+Privacy Choices
+
+            Contents
+
+                All Legal Docs
+
+Terms of Service
+
+Terms of Sale
+
+Privacy Notice
+
+Privacy Choices
+
+Monetized Streamer Agreement
+
+Privacy Choices
+
+ON THIS PAGE
+
+                        Last modified on
+
+                          05/17/2023
+
+See prior versions of Privacy Choices
+
+Your Privacy Controls & Choices
+
+Control Your Privacy Settings
+
+You have the ability to control who sees your content and personal information, and how it affects your experience on Twitch.
+ For example, you can disable notifications that are not relevant to you and keep notifications that are important to you about your stream. Someone might not want marketing emails, but they might want to know when an opportunity for streamers arises. They might not want emails when someone follows them, but they might want a text when something in their payout details changes.
+
+Here’s a breakdown of how you can adjust your privacy settings to best suit your needs:
+
+If you want to:
+For example:
+Do this:
+Update your user profile information and preferences
+Change your username or password
+You can update your own profile information by visiting Profile
+Settings
+, accessible by clicking your profile picture on the top right.
+Update your security and privacy settings
+Enable two factor authentication, add/remove a phone number to your account, block users, update cookie preferences, etc.
+You can update your security settings by visiting Profile
+Settings
+, accessible by clicking your profile picture on the top right and then selecting
+ Security & Privacy.
+Disable your Twitch user account
+Temporarily delete your account, making it able to be recovered at a later time.
+You can disable your account by logging into your Twitch account and visiting your
+Settings
+page, scrolling to the bottom and selecting
+disable my account
+.
+Close your account and delete your profile information
+Note: If you close your account, Twitch may retain other information about you for the activities described in our
+Privacy Notice
+, or as permitted or required by applicable law.
+Permanently delete your account.
+Note: A deleted account cannot be recovered.
+You can close your account and delete your information by accessing
+https://www.Twitch.tv/user/delete-account
+, or by submitting a
+Support request
+ under 'Privacy Questions'.
+If you have engaged in Twitch user surveys or research, please email
+surveysupport@Twitch.tv
+ to delete additional information.
+De-link your account from your other accounts and services (such as Blizzard Battle.net, Steam, and League of League of Legends) and opt out of sharing between the Twitch Services and these accounts and services of user-related data.
+Remove the association between your accounts and therefore disable the sharing of data and making certain data elements publicly available. For more details, see descriptions on the
+Connections
+page.
+You can de-link your account from other accounts and services by logging into your Twitch account, clicking your profile picture in the top right, selecting
+Settings
+ and then navigating to the
+Connections
+tab where you can connect or disconnect accounts.
+Update personal information which is out of date or incorrect
+Notice your personal information, like a birthday, is incorrect? Submit a request so we can help you update your profile.
+To update your account or profile information, log into your account, select your profile picture in the top right and go to your
+Settings
+ page.
+If you want to update other out of date or incorrect information, contact
+Twitch Support
+ under the 'Privacy Questions' category.
+Block Whispers from strangers
+Block people you do not know from sending you 1:1 chats.
+(A stranger is anyone who is NOT: someone you follow, someone you subscribe to, one of your mods, or one of your editors.)
+For new Twitch users, strangers cannot send you Whispers by default. To change your Whisper settings, you can block whispers from strangers by logging into your Twitch account, clicking your profile picture in the top right, selecting
+Settings
+ and then navigating to the
+Security and Privacy
+ tab.
+Block receiving gifts on channels you don't follow
+Block people who you do not follow from sending you gifts (i.e., only allowing people you follow to gift you items)
+You can block gifts from people you do not follow by logging into your Twitch account, clicking your profile picture in the top right, selecting
+Settings
+ and then navigating to the
+Security and Privacy
+ tab.
+Revoke your authorization to share your data with an Extension.
+Take away the permissions previously granted for Twitch to share your personal data with outside parties.
+Disconnect your Extensions and other connections from the
+Connections
+ tab in your Settings.
+You can also manage your Extensions permissions from your
+Creator Dashboard
+ under the Extensions section.
+Modify your cookie consent preferences
+Update your cookie consent preferences to alter the way in which Twitch collects data about how you use the platform.
+You can update your cookie consent preferences by logging into your Twitch account, clicking your profile picture in the top right and selecting "Cookie Preferences" to make your desired modifications.
+For streamers:
+Modify your chat permissions and moderation settings
+Customize your moderation controls and chat options from your Creator Dashboard
+You can customize AutoMod Controls, Suspicious Users Controls and Chat Options by navigating to
+Moderation Settings
+ within your
+Creator Dashboard
+.
+
+Your Privacy Choices
+
+We aim to provide you with a variety of privacy rights and choices regarding how we use the information we collect about you, and how you can manage your online privacy when you use Twitch Services.
+
+Here’s how you can exercise your privacy rights and choices:
+
+If you want to:
+For example:
+Do this:
+Download your VODs or highlights
+Receive a link with the total sum of your VOD or highlight content
+To download your VODs or highlights, log into your Twitch account, click your profile picture in the top right and select
+Video Producer
+. For a more detailed breakdown of your options, check out the
+VOD Help Page
+.
+
+Opt out of non-transactional email or push notifications
+Say "no" to pop up notifications on your devices from us.
+You can opt out of non-transactional notifications and emails by logging into your Twitch account, clicking your profile picture in the top right, selecting
+Settings
+ and then navigating to the
+Notifications
+tab.
+Opt out of marketing emails from Twitch
+Say "no" to receiving marketing emails from us.
+Use the "unsubscribe" link included in each email at the bottom of the content or set your preferences by accessing the
+Notifications
+tab in your
+Settings
+.
+Opt out of Ad Tracking on your mobile device
+Say "no" to your personal data being leveraged to enhance your advertising experience while on the Twitch platform.
+To opt out of Ad Tracking, go to the Privacy Settings on your mobile device under Tracking and/or Ads.
+Opt out of tracking by participating third-party advertising networks' and ad servers.
+Say "no" to third parties
+(groups external to Twitch
+) having access to your user data and therefore, have a less personalized ad experience.
+You can opt out of tracking by third- party advertising networks and servers by visiting the
+Network Advertising Initiative opt-out page
+, the
+Digital Advertising Alliance opt-out page
+, or the
+Your Online Choices
+ page.
+Learn more about or opt out of Nielsen services in connection with your use of the Twitch Services
+Nielsen uses software and products to provide digital measurement services to analyze how consumers engage with media to offer research insights into consumer behavior.
+Visit
+http://www.nielsen.com/digitalprivacy
+ and/or utilize on-service data management tools (for example, the Privacy settings on your mobile device).
+Obtain access to or a copy of certain personal data we hold about you.
+Download a copy of your personal data to better understand and see what information Twitch has on file.
+If you want to see your account information, go to the drop-down menu on the top of your screen.
+If you want to download your VODs or highlights, please go to your video producer page.
+If you want to obtain other types of information that we hold about you can request the data directly from your
+Security and Privacy Settings page
+ under "Download Your Data", please see our
+help article
+ for more information on how to use this feature.
+If you no longer have access to your account, you may also submit your request
+here
+ under the 'Privacy Questions' category. You will need to verify your identity to effect this right.
+Delete personal information Twitch holds about you
+Delete the personal information Twitch holds about you by permanently deleting your account.
+Note: A deleted account cannot be recovered.
+
+We need certain information in order to provide the Twitch services to you. As a result, we are unable to maintain your Twitch account and also delete all the personal information that Twitch processes about you.
+You can close your account and delete your information by accessing
+https://www.Twitch.tv/user/delete-account
+, or by submitting a Support request under 'Privacy Questions'.
+If you have engaged in Twitch user surveys or research, please email
+surveysupport@twitch.tv
+ to delete additional information.
+Restrict the way that we process and disclose specific personal information about you
+Don't want us to gather or share certain aspects of your personal or user data? Submit a request to let us know your personal preferences.
+Submit your request to restrict processing
+here
+ under the 'Privacy Questions' category.
+
+Transfer your personal information to a third-party provider of services
+Looking to transfer your VODs or highlights to an external site beyond Twitch? Submit a request to obtain a copy of your content!
+To export your VODs or highlights, please go to your video producer page.
+To obtain a copy of your information so that you can transfer that information, you can request the data directly from your
+Security and Privacy Settings page
+ under "Download Your Data".
+If you no longer have access to your account, you may also submit your request
+here
+ under the 'Privacy Questions' category. You will need to verify your identity to effect this right.
+Object to the processing of your personal information
+Say "no" to your personal data being processed and leveraged by Twitch.
+If you wish to object to processing of personal information, submit your request
+here
+ under the 'Privacy Questions' category.
+Obtain information about the categories of personal information we collect about you, and how we share and disclose this information.
+You want to better understand the kind of user data that is captured and held by Twitch, and how that is then communicated to groups within and beyond Twitch.
+Please see our
+Privacy Notice
+ and
+State-Specific Privacy Disclosures
+ which describes the categories of personal information we collect, the sources of such personal information, how we use that information for our business purposes, and the business purposes for which we disclose such information.
+
+Note that, to protect your privacy and security, when you initiate some of these requests we may ask that you provide us with additional information necessary to verify your identity (such as your IP address, date of birth, transaction IDs, and email address) before responding to your request.
+
+Twitch aims to provide the same privacy options regardless of location; however, certain options may differ in accordance with local regulations and requirements. For instance, Residents of the European Economic Area (“EEA”), Brazil, California and other states can exercise certain additional rights available to them under applicable data protection laws. To learn more about options available in your specific jurisdiction, visit our
+Privacy Notice
+ or
+Additional State-Specific Privacy Disclosures
+ page.
+
+If you need more information or have other privacy questions,
+contact Twitch Support
+ under the ‘Privacy Questions’ category.
+
+/home/ubuntu/actions-runner/_work/legal-hugo/legal-hugo/content/en/legal/privacy-choices.md

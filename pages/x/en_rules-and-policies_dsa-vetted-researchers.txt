@@ -1,0 +1,313 @@
+DSA Vetted Researchers
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Country-specific resources
+
+DSA Vetted Researchers
+DSA Vetted Researchers
+Help Center
+
+Country-specific resources
+
+          DSA Data Access for Vetted Researchers
+
+Under the EU Digital Services Act (
+DSA
+), vetted researchers that meet the independence and security requirements set out in the regulation may request access, via the European Commission’s DSA Data Access Portal, to X’s data for the sole purpose of conducting research that contributes to the detection, identification and understanding of systemic risks in the Union, and to the assessment of the adequacy, efficiency and impacts of the risk mitigation measures.
+
+This page provides information for vetted researchers on the data assets, their data structure and metadata, to which they may request access pursuant to Article 40(4) of the DSA, as well as the suggested data access modalities.
+
+          Vetted Researchers Data Access Requests
+
+Under the DSA and the Commission Delegated Regulation (EU) 2025/2050 of 1 July 2025, vetted researchers’ applications and data access requests under DSA Article 40(4) must be submitted through the dedicated
+DSA Data Access Portal
+.
+
+Data access applications under DSA Article 40(12) can be submitted through the following
+X DSA Researcher Application Form
+.
+
+          DSA Data Catalogue
+
+The following is X’s non-exhaustive data catalogue describing X’s available data assets which may be relevant to systemic risks and mitigation measures under Articles 34 and 35 of the DSA.
+
+The table below outlines the data structure, metadata, and suggested access modalities for key data categories, including:
+
+Content and Interaction Data
+User Related Data
+Community Notes Data
+Content Recommendations
+Ads Served in the EU
+Content Moderation
+
+Category
+
+Description
+
+Data Structure & Metadata
+
+Suggested Access Modalities
+
+Category
+
+Content and Interaction Data
+
+Description
+
+Public post identification, creation time, edit history, referenced posts, indication of content recognized as sensitive, public engagement metrics, such as like count, comments, reposts, views, and information on who can interact with a post.
+
+More information on content and interaction data that may be requested can be found
+here
+.
+
+Data Structure & Metadata
+
+X API:
+The Tweet object has a long list of ‘root-level’ fields, such as
+id
+,
+text
+, and
+created_at
+. Tweet objects are also the ‘parent’ object to several child objects including user, media, poll, and place. Use the field parameter
+tweet.fields
+ when requesting these root-level fields on the Tweet object. Examples of Tweet object metadata can be found
+here
+.
+
+Suggested Access Modalities
+
+X API
+ (suitable for all types of data expressly identified herein)
+
+X may suggest other modalities, including other secure processing environments for data, based on the type of data and the nature of the risk.
+
+Category
+
+User Related Data
+
+Description
+
+Public profile information, such as X handle, date of creation, bio description, if ID verified, specified location, account label and checkmarks (e.g., parody label, affiliation badges, blue checkmarks, etc.), user activity details (e.g., follower count, following count, post count, etc.).
+
+More information on user related data that may be requested can be found
+here
+.
+
+Data Structure & Metadata
+
+X API:
+The user object contains X user account metadata describing the referenced user. The user object is the primary object returned in the users lookup endpoint. When requesting additional user fields on this endpoint, use the fields parameter
+user.fields
+
+here
+.
+
+Suggested Access Modalities
+
+X API
+ (suitable for all types of data expressly identified herein)
+
+X may suggest other modalities, including other secure processing environments for data, based on the type of data and the nature of the risk.
+
+Category
+
+Community Notes Data
+
+Description
+
+Community Note id, creation time, post id for which the Community Note was requested or applied, user-entered source link, initial status rating, rescore timestamp, rating, hashed user identifiers, etc.
+
+More information on Community Notes data that may be requested can be found
+here
+.
+
+Data Structure & Metadata
+
+Download Community Notes Data:
+ All Community Notes contributions are publicly available
+here
+. The Community Notes data is released as separate files. Note-related tables can be joined on the
+noteId
+ field to create a combined dataset with hashed user identifiers and information about notes and their ratings. More information can be found
+here
+.
+
+X API:
+ The
+Community Notes endpoints
+ allows AI note writers to search for and propose Community Notes on X programmatically. Use of the API requires your account being signed up for X Developer AI access and enrolled in Community Notes as an AI Note Writer.
+
+Suggested Access Modalities
+
+Download Community Notes data
+ (suitable for all types of data expressly identified herein)
+
+X may suggest other modalities, including other secure processing environments for data, based on the type of data and the nature of the risk.
+
+Category
+
+Content Recommendations
+
+Description
+
+Open source code on algorithmic recommendations, which serves content across all product surfaces (e.g., For You, Explore, Notifications, Search, etc.). Repository allows researchers to review the actual infrastructure driving content recommendation for all users without compromising user safety and privacy (which requires protecting model weights and training data). This provides researchers the opportunity to understand how user engagement data feeds into the recommendation system and the machinations of that system to then source and recommend a certain pool of content.
+
+More information on X’s content recommendation system can be found
+here
+ and
+here
+.
+
+Data Structure & Metadata
+
+Github Repositories:
+X’s Github Repositories
+ include the
+main repo
+ and
+ml repo
+containing the source code for many parts of X, including our recommendations algorithm.
+
+Data may be in formats such as Scala (majority), Java, Python, Rust, JavaScript/TypeScript, Markdown (.md), ASCII diagrams, PlantUML, etc. The READMEs of each project contain instructions about how to run each project.
+
+Suggested Access Modalities
+
+X API
+ (suitable for all types of data expressly identified herein)
+
+Github Repositories
+ (suitable for all types of data expressly identified herein)
+
+X may suggest other modalities, including other secure processing environments for data, based on the type of data and the nature of the risk.
+
+Category
+
+Ads Served in the EU
+
+Description
+
+For ads served in the EU, the Ad Transparency center includes the following: Advertiser, Funding Entity, the Advertiser’s Main Parameters for serving the advertisement (e.g. particular groups, etc), Impression, and Reach of Ad to provide transparency around advertisements on the platform.
+
+The X Ads Repository also provides information related to ads halted from running on the platform.
+
+More information can be found
+here
+.
+
+Data Structure & Metadata
+
+X Ads Transparency Center:
+To access the Ads Repository to search for a particular account, country, and date range, use the
+user interface
+ or the X API (
+instructions here
+). The request will generate a .csv file containing the information about the applicable advertisement(s).
+
+Suggested Access Modalities
+
+X Ads Transparency Center
+ (suitable for all types of data expressly identified herein)
+
+X API
+ (generally suitable for all types of low-risk data)
+
+X may suggest other modalities, including other secure processing environments for data, based on the type of data and the nature of the risk.
+
+Category
+
+Content Moderation
+
+Description
+
+Number of content reports, actions taken on content reports, own initiative content moderation actions, grounds for action, number of complaints and appeals statistics.
+
+More information on X’s content moderation practices and the types of data that may be requested can be found in X’s DSA Transparency Reports available
+here
+.
+
+Data Structure & Metadata
+
+Dependent on the type of data (.csv file, etc.).
+
+Suggested Access Modalities
+
+The access modality for this type of data is dependent on the types of data requests, but may include
+X DSA Transparency Report
+ as well as secure processing environments.
+
+Notes on Catalogue:
+
+Data may include historical and real-time data where relevant and available. The
+X Privacy Policy
+ describes how long we generally keep different types of information.
+
+Where available and applicable, X may provide vetted researchers with relevant metadata and documentation describing the data made available.
+
+Where applicable, X will inform vetted researchers of any data limitations (e.g., sampling, anonymization methods).
+
+          Data Access Modalities
+
+The data access modalities should be adequate to address the sensitivity of the specific data requested in a data access application and appropriate to fulfil the requirements of data security, data confidentiality and protection of personal data.
+
+To help vetted researchers better identify the appropriate modality, the table above outlines X’s suggested non-exhaustive access modalities for the data described in the DSA data catalogue. However, we note that other data access modalities may be more appropriate depending on the specific types of data ultimately requested by vetted researchers.
+
+Depending on the relevant access modality, technical, organisational and/or legal conditions for access may be applicable, including, but not limited to: creation of a developer account by the researcher and programmatic retrieval (more information available at:
+https://docs.x.com/overview)
+; enabling a secure environment via access controls; email and login information controls; acceptance of the
+X Developer Agreement
+ and
+X Developer Policy
+, which include specific provisions on accessing data for the purposes of DSA Art. 40; use of
+batch compliance endpoints
+ tools to help researchers maintain X data in compliance with the
+X Developer Agreement
+ and
+X Developer Policy
+; any security measures necessary for the vetted researcher to ensure confidentiality and security of personal data and non-personal data at all times; entering into non-disclosure agreements.
+
+          Contacts
+
+DSA Portal:
+https://data-access.dsa.ec.europa.eu/home
+
+For general API questions:
+https://docs.x.com/x-api/introduction
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

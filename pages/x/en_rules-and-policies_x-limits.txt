@@ -1,0 +1,87 @@
+Understanding X limits | X Help
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Platform Use Guidelines
+
+About X limits
+About X limits
+Help Center
+
+Platform Use Guidelines
+
+          About X limits
+
+Why have limits?
+
+Limits alleviate some of the strain on the behind-the-scenes part of X and reduce downtime and error pages. For the sake of reliability, we've placed some limits on the account actions below.
+
+Current X limits
+
+The current technical limits for accounts are:
+
+Direct Messages (daily)
+: The limit is 500 messages sent per day.
+posts
+: 2,400 per day. The daily update limit is further broken down into smaller limits for semi-hourly intervals. Reposts are counted as posts.
+Changes to account email
+: 4 per hour.
+Following (daily)
+: The technical follow limit is 400 per day. Please note that this is a technical account limit only, and there are additional rules prohibiting aggressive following behavior.
+Following (account-based)
+: Once an account is following 5,000 other accounts, additional follow attempts are limited by account-specific ratios.
+
+These limits include actions from all devices, including web, mobile, phone, API, etc. API requests from all third-party applications are tracked against the hourly API limit. People who use multiple third-party applications with their account will therefore reach the API limit more quickly.
+
+These limits may be temporarily reduced during periods of heavy site usage. In such cases, we will post an update on the
+X status
+ site.
+
+What happens if I hit a limit?
+
+If you do reach a limit, we'll let you know with an error message telling you which limit you've hit. For limits that are time-based (like the Direct Messages, posts, changes to account email, and API request limits), you'll be able to try again after the time limit has elapsed.
+
+The post limit of 2,400 updates per day is further broken down into semi-hourly intervals. If you hit your account update/post limit, please try again in a few hours after the limit period has elapsed.
+
+Having trouble?
+
+If you've hit a follow limit, please see this
+follow limit troubleshooting
+ article for more information.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

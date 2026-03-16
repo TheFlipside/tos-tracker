@@ -1,0 +1,179 @@
+Facebook
+
+Log In
+Log In
+Forgot Account?
+Data Terms
+Last Updated:
+ January 1, 2024
+These terms (“Data Terms”) apply to any and all Personal Information that Company accesses, receives, processes, and/or obtains from or on behalf of Meta Platforms, Inc. and/or any of its affiliates (collectively, “Meta”) in connection with the Applicable Agreement (“Meta Platforms Data”).
+Applicability.
+ These Data Terms independently apply to and supplement each agreement that Company enters into with Meta that incorporates by reference these Data Terms (each an “Applicable Agreement”). With respect to each Applicable Agreement, Company is a “Service Provider”, “Processor” and/or “Third Party” hereunder to the extent identified as such in or under the Applicable Agreement. To the extent Company is not expressly identified as a “Third Party” or “Controller” in or under the Applicable Agreement, Company is a “Service Provider” and “Processor” hereunder. The parties to these Data Terms are hereinafter collectively referred to as the “Parties”.
+General Safeguards.
+ Company will:
+comply with Applicable Law in connection with its processing (including disclosure) of Meta Platforms Data;
+maintain reasonable technical, organizational, and physical data security safeguards to protect Meta Platforms Data;
+encrypt in storage and transit any Meta Platforms Data that Company knows or should reasonably know consists of user passwords and will not request, on Meta’s behalf, user passwords for any application, website, or other services that are not controlled by Meta;
+not use or disclose for the purpose of serving advertisements any telephone number of a Meta user contained within the Meta Platforms Data, unless expressly permitted by Meta;
+provide notice to Meta at vendor-incident@meta.com promptly following Company’s discovery of any unauthorized or unlawful processing (including access or disclosure) of Meta Platforms Data; and
+reasonably cooperate with Meta’s reasonable request from time to time for information regarding Company’s privacy and security practices and compliance with these Data Terms, including information Meta deems necessary to comply or demonstrate compliance with Applicable Law.
+If Meta determines in its reasonable discretion that Company has violated the Meta Terms, then Meta may take enforcement action against Company by limiting, suspending, or terminating Company’s access to Meta Platforms Data or taking other action that may be reasonably necessary to protect the privacy or security of Meta Platforms Data.
+Notwithstanding anything to the contrary in the Applicable Agreement, Meta may retain any documentation necessary to demonstrate its compliance with Applicable Law for at least five (5) years following receipt, unless other legal or regulatory obligations impose a longer retention period.
+The Parties acknowledge and agree that the existence of these Data Terms does not constitute an admission that the disclosure of Personal Information to Company constitutes a sale or sharing of Personal Information.
+Service Provider.
+ The following terms apply to Company’s processing of Meta Platforms Data as a Service Provider or Processor.
+Company shall:
+use, collect, retain, and securely destroy Meta Platforms Data solely for and at the direction of Meta, for the purposes specified in the Applicable Agreement, and for no other individual or entity and for no other purpose;
+not retain, use, or disclose Meta Platforms Data, or any Personal Information derived from such Meta Platforms Data, except for and at the direction of Meta, for the purpose of providing services requested by a Meta user and for no other purpose; and
+notwithstanding the foregoing, if and to the extent Company receives permission from Meta to use contractors or subcontractors in connection with the processing of Meta Platforms Data (each a “Subcontractor”), Company will ensure that each Subcontractor’s processing (including disclosure) of Meta Platforms Data is consistent with the Applicable Agreement (which includes these Data Terms).
+To the extent the Applicable Agreement specifies Company as a “Service Provider” or “Processor” and Meta makes available Meta Platforms Data about USA Consumers to Company under the Applicable Agreement and to the extent required of service providers, processors, or contractors, as relevant, under USA Privacy Laws, Company:
+shall process such Meta Platforms Data solely as a service provider or processor on Meta’s behalf for one or more business purposes described in the Applicable Agreement or as otherwise permitted of service providers or processors under USA Privacy Laws;
+shall not sell or share Meta Platforms Data;
+shall not retain, use, or disclose such Meta Platforms Data outside of the direct business relationship with Meta or for any purpose other than for the specific business purposes described in the Applicable Agreement, including retaining, using, or disclosing such Meta Platforms Data for a commercial purpose other than performing the business purposes described in the Applicable Agreement;
+except as permitted by USA Privacy Laws, shall not combine the Meta Platforms Data with other Personal Information that the Company has not collected from, or on behalf of, Meta;
+hereby certifies by agreeing to these Data Terms that the Company understands the restrictions imposed by Sections 3(b)(i) to 3(b)(iv) and will comply with them;
+shall notify Meta immediately if Company can no longer meet its obligations under USA Privacy Laws;
+shall grant Meta the right, upon notice, to take reasonable and appropriate steps to stop and remediate any unauthorized use of Meta Platforms Data;
+shall, if Company wishes to change a Subcontractor listed in the Applicable Agreement or engage any additional Subcontractors not listed in the Applicable Agreement to process Meta Platforms Data, notify Meta in writing at subprocessors@meta.com. Meta may object to Company's appointment of any proposed Subcontractor(s) by notifying Company in writing within thirty (30) days of Meta's receipt of Company's written notice. For the avoidance of doubt, Company shall not appoint any additional Subcontractors to Process Meta Platforms Data on Meta’s behalf until (a) Meta has approved such appointment; or (b) after the thirty (30) day period following Company's written notice has elapsed. Company shall enter into a written contract with Subcontractor that requires the Subcontractor to comply with requirements at least as strong as these Data Terms and other requirements imposed on service providers, processors, and contractors, as applicable, under USA Privacy Law;
+shall, to the extent Company receives a request to exercise Privacy Rights from a USA Consumer relating to Meta Platforms Data Company processes on behalf of Meta under the Applicable Agreement, promptly (a) inform the USA Consumer that the request cannot be acted upon because the request has been sent to a service provider or processor, as applicable; and (b) provide instructions on how the USA Consumer may submit the request to Meta. Unless specified otherwise, such instructions shall be as specified in Meta’s Privacy Policy, available at
+https://www.facebook.com/privacy/policy
+; and
+
+shall ensure that all persons authorized to Process Meta Platforms Data on behalf of Company in accordance with these USA Data Terms and the Applicable Agreement have committed themselves in writing to confidentiality or are under an appropriate statutory obligation of confidentiality in relation to such Meta Platforms Data.
+Company’s safeguards for Meta Platforms Data will include an information security and privacy program that: (i) is designed to protect the security of and protect against the unauthorized processing (including disclosure) of Meta Platforms Data; and (ii) meets industry standards commensurate with Company’s activities, and the volume and sensitivity of Meta Platforms Data.
+Third Party.
+ To the extent the Applicable Agreement specifies Company as a “Third Party” or “Controller”:
+Company may not use, facilitate use of, or permit a third party to use Meta Platforms Data in an independent consumer application or website, unless expressly provided otherwise under the Applicable Agreement.
+If and to the extent Section 4(a) does not apply under the Applicable Agreement, then Company agrees that it will, promptly following Meta's request (no more than once annually in the ordinary course), certify to Meta that it is in compliance with the Meta Terms, its purpose(s) or use(s) for the Meta Platforms Data, and that each such purpose or use complies with the Meta Terms; and
+To the extent Meta makes available Meta Platforms Data about a USA Consumer to Company under the Applicable Agreement, the Parties acknowledge (i) that such USA Consumer has used or directed Meta or a Meta product or service to intentionally disclose such Meta Platforms Data or has used the same to intentionally interact with Company, or (ii) that the disclosure of such Meta Platforms Data is for the purpose of providing a product or service requested by such USA Consumer.
+Company shall comply with USA Privacy Laws, including providing the same level of data protection as required of businesses under the CCPA.
+Notice.
+ Company acknowledges and agrees that Meta may update these Data Terms from time to time, including to reflect or comply with any law, regulation, and/or court order applicable to Meta Platforms Data, including USA Privacy Laws (“Applicable Law”), effective on the Last Updated date. Meta shall use commercially reasonable efforts to provide at least thirty (30) days’ prior notice to Company of any material updates to these Data Terms. As a condition to Company’s retention or other processing of any Meta Platforms Data, Company agrees to review and comply with the latest version of these Data Terms, and Company waives any objection to the means and manner of Company’s acceptance of these Data Terms that may be specified in or required by the Applicable Agreement.
+
+Survival.
+ Notwithstanding anything to the contrary in the Applicable Agreement, Company’s obligations regarding Meta Platforms Data will survive any termination or expiration of the Applicable Agreement to the extent Company continues to retain or otherwise process Meta Platforms Data (as such retention or other processing may be permitted under the Applicable Agreement or Applicable Law).
+
+Interpretation.
+ Notwithstanding anything to the contrary, to the extent any term in these Data Terms conflicts or is inconsistent with any other term in the Agreement or the Meta Terms (which includes these Data Terms), then the conflicting term that is more protective of Meta Platforms Data shall apply. Notwithstanding the foregoing, if both the Global DPA and the Data Terms are incorporated by reference in the Agreement, then the Global DPA shall apply. Without limiting the foregoing, any addendum or term that is part of the Meta Terms and required under the Applicable Law of a particular jurisdiction, whether inside or outside the United States, shall at a minimum apply to the processing of Meta Platforms Data that is subject to such laws. Except as expressly provided in these Data Terms, the Applicable Agreement will remain in full force and effect in accordance with its terms. To the extent these Data Terms are incorporated by reference into the Applicable Agreement by amendment (the “Amendment”) and the Applicable Agreement identifies required mechanism(s) to effectuate an amendment, Company’s manifestation of assent (including via click-through) to the Amendment waives any objection as to the means or manner of amending the Applicable Agreement and such Amendment will be deemed binding on Company as of the date of such manifestation of assent. If any portion of these Data Terms is found to be unenforceable, then that portion will be limited to the minimum extent necessary to remain enforceable or if necessary severed and the remaining portions will remain in full force and effect. Any failure by Meta to enforce any of its rights under the Applicable Agreement will not be deemed a waiver.
+
+Definitions.
+"
+Business
+," “
+business purpose
+,” “
+commercial purpose
+,” “
+contractors
+,” “
+process
+” “
+processor
+,” “
+sale
+,”“
+sell
+,” and “
+service provider
+” shall have the meanings ascribed to them in the USA Privacy Laws  as applicable, and the term “share” shall have the meaning ascribed to it in the CCPA.
+
+“
+Company
+” means the counterparty(ies) to Meta under the Applicable Agreement.
+
+“
+Global DPA
+” means the terms available at https://www.facebook.com/legal/terms/Privacy (or a successor location).
+
+“
+Meta Terms
+” means policies, terms, and procedures that apply to Company and that relate to the privacy, confidentiality, and integrity (e.g., unauthorized destruction, corruption, and/or falsification) of Meta Platforms Data.
+
+“
+Personal Information
+” means any information from, about, or that can be associated with any household, individual consumer, or other individual, including any Meta users, employees, and contingent workers, or that otherwise is regarded as personal data or personal information under Applicable Law.
+
+“
+Privacy Rights
+” means all rights granted to individuals under USA Privacy Laws concerning the processing of their Personal Information by Company or Meta, including, to the extent applicable, any rights of access, knowledge, correction, objection, erasure, restriction, deletion, data portability, or similar rights granted under USA Privacy Laws.
+
+“
+USA Consumer
+” means an individual that is a “consumer” under USA Privacy Laws, as applicable.
+
+“
+USA Privacy Laws
+” shall mean the California Privacy Rights Act (“CCPA”); the Colorado Privacy Act (“CPA”); the Connecticut Act Concerning Personal Data Privacy and Online Monitoring (“CTDPA”); the Delaware Personal Data Privacy Act (“DPDPA”); the Florida Digital Bill of Rights (“FDBR”); the Iowa Act Relating to Consumer Data Protection (“ICDPA”); the Montana Consumer Data Protection Act ("MCDPA"); the Oregon Consumer Privacy Act (“OCPA”); the Texas Data Privacy and Security Act (“TDPSA”); the Utah Consumer Privacy Act (“UCPA”); the Virginia Consumer Data Protection Act (”VCDPA”) , or similar U.S. state privacy laws that require recipients of Personal Information to comply with one or more of the contractual commitments set out in these Data Terms and come into effect after January 1, 2024.
+
+English (US)
+Deutsch
+Türkçe
+Polski
+Italiano
+Română
+Français (France)
+Русский
+العربية
+Español
+Português (Brasil)
+Sign Up
+Log In
+Messenger
+Facebook Lite
+Video
+Meta Pay
+Meta Store
+Meta Quest
+Ray-Ban Meta
+Meta AI
+Instagram
+Threads
+Privacy Policy
+Ranking Transparency
+Privacy Center
+About
+Create ad
+Create Page
+Developers
+Careers
+Cookies
+Ad choices
+Imprint/Terms
+Help
+Contact Uploading & Non-Users
+Cancel contracts here
+
+Allow the use of cookies from Facebook on this browser?
+We use cookies and similar technologies to help provide and improve content on
+Meta Products
+. We also use them to provide a safer experience by using information we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.
+Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
+Cookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.
+You have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our
+Cookies Policy
+.
+About cookies
+What are cookies?
+Learn more
+Why do we use cookies?
+Learn more
+What are Meta Products?
+Learn more
+Your cookie choices
+Learn more
+Cookies from other companies
+We use cookies from
+other companies
+ in order to show you ads off of our Products, and provide features like maps, payment services and video.
+Choose cookies by category
+How we use these cookies
+If you allow these cookies
+If you don't allow these cookies
+Other ways you can control your information
+Manage your ad experience in Accounts Center
+More information about online advertising
+Controlling cookies with browser settings
+Allow all cookies
+Decline optional cookies
+Allow all cookies
+Decline optional cookies

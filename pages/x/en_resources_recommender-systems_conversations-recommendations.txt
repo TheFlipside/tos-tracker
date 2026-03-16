@@ -1,0 +1,157 @@
+Conversations Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Conversations Recommendations
+
+Conversations are happening all the time on 𝕏, and it all starts with just one reply to a post.
+
+Popular conversations are easy to find and join. We show you the most interesting content first, and when you join in, you will have the full character limit to craft your reply with. Below we’ve outlined some basics about how we recommend Conversations to our users.
+
+How does 𝕏 find Conversations
+
+When users click on any post on 𝕏, they are taken to the Conversations tab. On this tab, users can see the conversation happening around the post in the form of nested replies:
+
+How does 𝕏 decide which Conversations to show you
+
+𝕏 shows you replies in the Conversations tab algorithmically. Some of the signals our algorithm considers include:
+
+Replies from accounts you follow;
+
+Replies to which the original post’s author has replied;
+
+Account verification status;
+
+ML/AI based ranking (using features such as post author, post likes, viewer-author relationship etc.);
+
+Conversation linearization (flattening the conversation tree and selecting a subset of branches of a conversation to show); and
+
+Health sectioning (moving abusive and other violative content into a separate section).
+
+How you can influence the Conversations you see
+
+You can influence the Conversations that are shown across 𝕏 by reporting a Conversation if you think it violates our rules, and you can influence Conversations that are shown to you by reporting that you are not interested in a Conversation. You can also influence the Conversation shown to you by changing your language preference, or the Topics you follow. (Learn more,
+here
+.)
+
+𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful. (Learn more,
+here
+.)
+
+How to see content that is not personalized for you
+
+You can always choose to see Replies that are not personalized for you by selecting either ‘Latest’ or ‘Likes’ in the sorting options. By selecting ‘Latest,’ you will see the most recent Replies first with the rest of the Conversation descending in reverse chronological order. ‘Likes’ will sort Replies by placing the most liked Replies at the top of the Conversation in descending order.
+
+More information
+
+For a more detailed view of how our Conversation recommendation system works, please see:
+
+An overview from our engineering team below; or
+
+Our About Conversations help center article,
+here
+.
+
+System Overview
+
+For every post that is clicked, we go through the following stages:
+
+Fetching Candidates:
+ Candidates are the replies to posts. Posts can have 100K+ replies so we need to fetch replies from multiple sources balancing fresh replies and top replies.
+
+ML Features & Scoring:
+ Next we fetch the ML features for each reply and then score them using a machine learning model.
+
+Business Logic:
+ We assemble the conversation tree and apply sectioning to make sure replies that don’t abide by our policies are shown at the bottom.
+
+Here is a more detailed diagram of the whole system, which we’ll explain in more detail below:
+
+Candidate Generation
+
+We have three sources to fetch the reply candidates for a conversation:
+
+Haplo Lite:
+ Haplo is a cache that stores up to 3,200 of the most recent replies for all the conversations.
+
+Earlybird:
+ Earlybird is a search index service. For conversations larger than 3,200 replies, we get top 800 replies ranked by the search model as candidates.
+
+Ancestor Store:
+ Ancestor store serves as a repairing candidate source. When we cannot reconstruct the conversation’s tree from the candidates fetched from Haplo and Earlybird, Ancestor store is called. This store is also invoked when the post that is clicked has ancestors and the user scrolls up.
+
+At this point we build out the conversation tree with all the replies we have fetched. Depending on the service load, we have a graceful degradation mechanism to control the number of candidates fetched and processed at this stage of the pipeline. Since this is the first step of the candidate pipeline, reducing candidates here helps control latency when the system is under heavy load.
+
+Feature Fetching
+
+In order to show the most relevant view of the conversation we fetch ML features for all the replies. We can classify the features we fetch in two categories:
+
+Candidate-level Features:
+ These are per post (Author of the post, Likes the post received) features and most predictive.
+
+Request-level Features:
+ These are per Viewer (Likes made by this viewer) and per Conversation features. These are the same for all candidates but can be predictive as a result of feature crosses.
+
+We make RPC calls using the internal feature store library that helps abstract out numerous underlying stores where these features are available.
+
+Scoring
+
+We have multiple models to predict the likelihood of engagement with each reply for the viewing user. We predict the following engagements: fav, reply, repost and negative engagements (such as mutes and reports, for example). These models are hosted in a prediction service, which given a User ID, Post ID, and all the relevant features provides a score back to our service.
+
+The final score a node gets is a weighted average of all these engagement prediction scores. The weights are tuned via grid search mechanism over time for overall active minutes optimization. After this step, each node in the tree has a score assigned to it.
+
+Conversation Assembly
+
+Once we have the scores there are a few things we need to do:
+
+1) Linearize the conversation:
+ From the conversation tree we cannot show all the branches at the same time. We use a heuristic based approach to select which branch to show. We compute the average score of each thread taking fixed depth into account and build the tree bottom up choosing which node to show to the user.
+
+In addition to the linearizing we apply product rules to show replies in the following order:
+
+Replies from accounts viewer follows and root author has replied to
+
+Verified accounts
+
+Everyone else
+
+Whenever there is more than one reply in any of these the ordering is determined based on the ML score as described previously.
+
+2) Health Sectioning:
+ The conversations page is a potential vector for abuse and abusive replies can lead to poor user experience.  To mitigate this problem the health team provides labels to downrank descendant threads. Depending on the label the descendant threads are divided into three sections.
+
+3) Ad insertion:
+ We call the ads service and insert an ad into the response. Depending on the size of the conversation one or multiple ads might be inserted in a conversation.
+
+Once all of this is done we log the data for model training and analysis and the response is served to the user.
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

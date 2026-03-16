@@ -1,0 +1,339 @@
+Notifications Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Notifications Recommendations
+
+𝕏 aims to deliver users the best of what’s happening in the world. Each day, there are around 500 million posts posted on 𝕏 and notifications are pivotal in keeping you informed about relevant posts to improve your experience.
+
+Notifications help you stay in-the-know about the things you care about. From the Notifications timeline, you are able to see which of your posts have been liked, the latest Reposts (of your posts), posts directed to you (replies and mentions), your new List followers, as well as your new account followers. In addition to your notifications, we will elevate content that we think you’ll be most interested in and contribute to the conversation in a meaningful way, such as content that is relevant, credible, and safe.
+Learn more
+.
+
+How 𝕏 finds posts to notify you about
+
+𝕏 finds posts to notify you about by performing personalised analysis into accounts that you follow and contextual analysis into posts that all users positively engage with. You can influence these outcomes by changing the accounts that you follow.
+
+How 𝕏 decides which posts to notify you about
+
+For users who frequently log in to 𝕏, our notifications are personalised based on your account information, your interests, your preferences (for example, when you choose “See Less Often”) and your recent engagement on 𝕏. 𝕏 combines personalised analysis with contextual analysis with a view to recommending content that leads to a positive user experience for you. When personalising notifications, 𝕏 will more heavily rely upon your preferences and recent engagement with 𝕏 than on your interests.
+
+For new users and users who don’t use 𝕏 very often, 𝕏 uses contextual analysis to notify you about posts that create a positive user experience. 𝕏 promotes content that leads to positive user experiences, such as repost, reply, quote and user active minutes, and penalises content that leads to negative user experiences, such as dislikes and post/account abuse reports. You cannot change these parameters as they are non-personalised.
+
+Prior to sending you a notification, 𝕏 also applies rule-based, contextual filtering. This may include filtering based on sensitivity of content or account, abuse reports, length of the post.
+
+How you can control your 𝕏 notifications
+
+You have options within the settings menu to filter the notifications you receive. These options include: quality filter, muted words, preferences, and advanced filters.
+
+Quality filter, when turned on, it filters lower-quality content from your notifications, for example, duplicate posts or content that appears to be automated — it does not filter notifications from people you follow or accounts you’ve recently interacted with. You have the option to turn this on or off in your notifications settings.
+
+Mute allows you to mute notifications for particular words and phrases you’d like to avoid seeing in your notifications. You can learn more about muting words and phrases here. You can also mute notifications for accounts you'd like to avoid seeing notifications from. This includes muting accounts you follow or don't know. For muted accounts you follow, replies and mentions by the muted account will still appear in your notifications timeline. You can learn more about muting accounts here.
+
+Advanced filters allow you to disable notifications from certain types of accounts you’d like to avoid. In addition, if your account receives a lot of sudden attention, we may insert a notification in your Notifications tab inviting you to adjust these filters to give you more control over what you see.
+
+𝕏 also makes it easy to control which types of notifications you want to enable. You can change your preferences for push notifications, SMS text notifications and email notifications at any time:
+
+Mobile.
+Learn more.
+Desktop.
+Learn more.
+
+Preferences allow you to choose which types of notifications you’d want to receive via email and on your mobile device. Some of these notification types include replies, Topics, News, and Spaces. We may use your recent engagement on 𝕏 to determine when to send fewer recommended notifications in order to make your experience better.
+
+More information
+
+For a more detailed view of how our Notifications recommendation system works, please see:
+
+An overview from our engineering team below; or
+
+𝕏 algorithm.
+Learn more
+.
+
+System Overview
+
+There are 5 major components in our system, as illustrated in the following diagram:
+
+Candidate sourcing:
+
+For each eligible user, we fetch potential notification candidates from various sources which are based on different algorithms.
+
+Light Ranking:
+
+A relatively simple deep learning ranking model to select topK post candidates from the original candidate sources.
+
+Heavy Ranking
+
+The core deep learning ranking models to rank all available candidates based on the probability of being clicked and engaged by the user receiving the notification.
+
+Quality Control
+
+Various filters on the top candidates from the heavy ranking step to remove any low-quality and unhealthy candidates.
+
+Feedback Collection
+
+Collect user feedback, such as notification opens, reposts, abuse reports, likes and dislikes for model training and analysis.
+
+Candidate Sourcing
+
+𝕏 notification recommendation system has several candidate sources that we use to retrieve recent and relevant posts for our users. On average, we are able to find 1400 best post candidates for each request from millions of posts posted on 𝕏 each day. There are two major types of candidate sources:
+
+In-network Source
+
+The in-network source aims to find relevant posts posted recently by accounts our target users follow directly. This is one of the most important sources in our recommendation system, since it can inform users about the recent activities of accounts they’re interested in.
+
+Out-of-Network Sources
+
+Some users may have a limited number of accounts they follow, while others may want to explore more interesting and popular posts on 𝕏. The out-of-network sources aim to search relevant posts posted by accounts our target users don't follow directly. We utilise various signals and algorithms to answer questions like, “What posts are our users more likely to engage with even if their authors are not followed by users?”, “Will users find interesting posts posted by accounts that are similar to what they follow?” or “If users like certain types of content, will they be interested in similar posts?” Those out-of-network sources are important to expand user interests on 𝕏 and to provide more information about what’s happening in the world for our target audience.
+
+Light Ranking
+
+After the candidate sourcing step, around 1400 candidates in total on average are available to each eligible user. The light ranking step utilises a personalised deep learning model to rank all the candidates and select top-50 candidates for heavy ranking. The major purpose of this is to filter out posts that users are most unlikely to open or engage, so that it reduces our system workload significantly without hurting user experience.
+
+Heavy Ranking
+
+This is the core step to rank available candidates based on user relevance and post quality in our recommendation system. It’s consist of two major ranking models:
+
+Personalised User Relevance Ranking Model
+
+This user relevance model aims to answer questions like “how likely will users open the sent notifications?” and “how likely will users engage, such as like, repost, reply and quote, after clicking the sent notifications?” This model is a personalised deep learning model that utilises both user information and post information to find the best relevant posts to our eligible users.
+
+Non-Personalised Post Quality Ranking Model
+
+This post quality ranking model is non-personalised, which solely depends on the post information. It aims to quantify the post quality based on potential positive engagements, such as repost, reply, quote and user active minutes, and negative user feedback, such as dislikes and post/account abuse reports. It penalises ranking scores heavily if they’re more likely to receive negative feedback.
+
+For users who frequently login in 𝕏 and provide feedback, our personalised user relevance model is used to rank all the available notification candidates, since it is able to capture users’  interests and preferences. However, for new users and users who don’t use 𝕏 very often, their preference and feedback are harder to analyse. The non-personalised post quality ranking model is then used to identify and boost rank high quality posts. Hence, the combination of these two models are used to rank all the available notification candidates for them.
+
+Quality Control
+
+After the heavy ranking stage, we apply various heuristic rule-based and machine learning model-based quality filters to identify and prevent low-quality Out-of-Network (OON) posts from being sent out as notifications. Some examples are:
+
+Post Length Filtering: Filter out short OON posts based on word count, character count and post language
+
+Abusive Report Filtering: Filter out OON posts that are likely to receive abusive reports from our users
+
+NSFW Content Filtering: Filter out OON posts that contain Not-Safe-For-Work (NSFW) information, such as nudity photos or videos and sensitive text information
+
+Sensitive Author Filtering: Filter out OON posts whose authors includes NSFW information in their profile pages and posted or engaged with NSFW posts in the past
+
+User Dislike Filtering: Filter out OON posts that received lots of dislikes from many users recently
+
+Feedback Collection
+
+After sending notifications to users, we collect various user feedback and actions to evaluate the performance of our recommendation system. Those signals are critical to further improve our ranking models and to identify better ways to serve our users.
+
+Some important user feedback we collect are:
+
+Whether users open push notifications from the lock screen
+
+Whether users click items in the notification tab with the 𝕏 app
+
+Whether users dismiss the sent notifications
+
+Whether users choose to dislikes posts after click the sent notifications
+
+Whether users choose to repost posts after click the sent notifications
+
+Whether users choose to like posts after click the sent notifications
+
+Whether users choose to reply to posts after click the sent notifications
+
+Whether users choose to quote posts after click the sent notifications
+
+Whether users choose to follow accounts after click the sent notifications
+
+Whether users choose to submit abusive reports on posts after click the sent notifications
+
+Whether users choose to submit abusive reports on the author of posts after click the sent notifications
+
+Whether users choose to disable notification after click the sent notifications
+
+How long users linger and stay active on 𝕏 after click the sent notifications
+
+Notification Feature Summary
+
+Below is a description of the major feature groups which are input to the 𝕏 notification recommendation system.
+
+Aggregate Features
+
+𝕏's aggregate features comprise the bulk of 𝕏's feature count and are generated by maintaining rolling aggregations of feature values within a specific scope within a specific time window. We compute aggregates over both the long-term and short-term.
+
+Real-time User Notification Engagement Aggregate Features
+
+The aggregated counts and occurrence rates of users engagements with the sent notifications within the last 8 hrs, such as push open, ntab clicks, dislikes, dismisses and impressions.
+
+Real-time User Timeline Engagement Aggregate Features
+
+The aggregated counts of user engagements with posts on their home timelines within the last 30 minutes, such as reposts without quotes, clicks, dislikes, dwelling time, favorites, follows, opening links, expanding photos, clicking profiles, quotes, replies, reposts, posts, sharing posts in direct messages, video playbacks and video views.
+
+Long-term User Timeline Engagement Aggregate Features
+
+The aggregated counts and sums of user engagements with posts on their home timelines within the last 50 days, such as
+
+In-network favorites, reposts and replies
+
+Number of the overall favorites,  inspected posts, mentions, profile views, reposts, post clicks, dwelling time, replies on home timelines
+
+Number of favorites, replies, reposts, blender scores and text scores in the search results
+
+Number of posts containing media, conversations, embedded impressions, embedded urls, from mutual followers, cards, images, links, news, multiple media, periscope, promoted videos, trends, vines, visible links, business scores, sensitive information, link languages and hashtags on their home timelines
+
+Long-term User Notification Engagement Aggregate Features
+
+The aggregated counts and sums of user engagements, such as favorites, follows, lingers, link clicks, ntab clicks, dislikes, impressions, dismisses, push opens ,  with posts on notifications within the last 28 days based on different post types, such as
+
+Posts that contain gifs, mentions, photos, camera as the composer source, cards, consumer videos, expando cards, image urls, links, multiple trends, multiple hashtags, multiple media, native images, news urls, promoted videos, quotes, trends, video urls, visible links, replies, reposts, sensitive information, embedded impressions, embedded urls, duplicated contents, stocks, periscopes, video views, broadcasts, photos, urls, videos, without media, emojis, mid-post mentions, image descriptions, selected image previews, media titles, 360 media
+
+Multi-term Overall User Notification Engagement Aggregate Features
+
+The aggregated counts of user engagements with posts on notifications within the last 3, 7, 14, 28 days, such as quotes, replies, reposts, video watches, favorites, lingers, link clicks, ntab clicks, dislikes, impressions, dismisses, photo expands and push opens
+
+Real-time User Topic Engagement Aggregate Features
+
+The aggregated counts of user engagements with different topics on their home timelines within the last 30 minutes, such as reposts without quote, blocks, clicks, dislikes, dwells, favorites, follows, mutes, photo expands, link opens, profile clicks, quotes, replies, post abuse reports, reposts, post sharing in direct messages, topic unfollows, video playbacks and video views
+
+Real-time Post Notification Engagement Aggregate Features
+
+The aggregated counts of post engagements in the sent notifications from users in the last 1 and 4 hours, such as dismisses, impressions, ntab clicks, dislikes and opens.
+
+Real-time Post Timeline Engagement Aggregate Features
+
+The aggregated counts of post engagements in the sent notifications from users in the last 30 minutes, such as reposts, clicks, dislikes, dwells, favorites, follows, link opens, photo expands, profile clicks, quotes, replies, post sharing in direct messages, video playbacks and video views
+
+Long-term User-Author Interaction Aggregate Features
+
+The aggregated counts of interactions between the target user and the post authors in the sent notification in the last 28 days, such as favorites, follows, lingers, link clicks, ntab clicks, dislikes, impressions, photo expands, dismisses, push opens, quotes, replies, reposts and video watches
+
+Long-term Notification Type User Engagement Aggregate Features
+
+The aggregated counts of user engagements with different types of notifications in the last 28 days, such as opens, ntab clicks, dislikes, impressions, dismisses and push opens
+
+Long-term Semantic Core User Engagement Aggregate Features
+
+The aggregated counts of user engagements with different semantic cores inferred from post notifications in the last 28 days, such as ntab clicks, dislikes, impressions, dismisses and push opens
+
+Long-term SimClusters User Engagement Aggregate Features
+
+The aggregated counts of user engagements with different SimClusters inferred from post notifications in the last 28 days, such as ntab clicks, dislikes, impressions, dismisses and push opens
+
+Long-term Social Context User Engagement Aggregate Features
+
+The aggregated counts of user engagements with posts from their social contexts, such as favorites, follows, lingers, link clicks, photo expands, dismisses, impressions, push opens, quotes, replies, reposts and video watches
+
+Long-term 𝕏 Author Engagement Aggregate Features
+
+The aggregated counts of different types of post author engagements in the last 7 and 28 days, such as favorites, lingers, link clicks, ntab clicks, dislikes, photo expands, push opens, quotes, replies, abuse reports, reposts and video watches
+
+Non-Aggregate Features
+
+We have a number of standalone features capturing information about the user, the post, the author, and the post context.
+
+User Notification Engagement History
+
+Counts of user engagement with sent notifications in the last 2, 3, 5, 7, 9, 14, 28, 56 & 90 days, such as follows, logins, reposts, favorites and user active minutes
+
+Post Author Notification Engagement History
+
+Counts of engagements from the author of post notifications in the last 2, 3, 5, 7, 9, 14, 28, 56 & 90 days, such as follows, logins, reposts, favorites and user active minutes
+
+Overall User Feedback to Non-recommended Notifications
+
+The overall open rates and dismiss rates of the target users on non-recommended notifications triggered by different events, such as address book contacts, direct messages, being favorited, being followed, group direct messages, media tags, mentions, quotes and being reposted.
+
+The counts of different user actions to notifications in the last 3, 7, 14, 28, 56 days, such as app opens without badges, app opens with nonzero badges, navigates to the notification tab, clicks on non-recommended notifications, pulls to refresh in notification tab, total app opens and total pulls to refresh in the app
+
+Basic User Information
+
+The probability of being a DAU, account languages, secondary account status, active followers, age buckets, favorites received in the last 28 days, followings, gender, verified status, reposts received in the last 28 days, reposts sent in the last 28 days, posts in the last 28 days, days since user last posted, user state, device manufacturer, mobile SDK version, number of clients, primary & secondary client types and user geo location
+
+Basic Notification Copy Information
+
+Whether the copy contains broadcasts, photos, urls, videos and posts without media in the notification tab and push notifications
+
+Basic Information about Author of post Notifications
+
+Counts of posts, active followers, followings, age bucket, favorites received in the last 28 days, gender, verified status, reposts received in the last 28 days, reposts sent in the last 28 days, days since user last posted, user state, account language and geo location
+
+User-postAuthor Interactions on Home Timeline
+
+Counts and days since last time for different interactions between users and post notification authors on their timelines, such as clicks, likes, mentions, profile views, reposts and follows
+
+Basic post Media Information
+
+Aspect ratios, bitrates, dominant color RGBs, heights and widths of each image, embeddable media, media descriptions, media with selected previews, media titles, monetizable media, 360 media, max face area, color counts, face counts, sticker counts, tag screen name counts, video counts and duration
+
+Post Information
+
+Flags to indicate whether posts contains cards, consumer videos, expando cards, image urls, links, hashtags, trends, media, native images, news url, periscopes, promoted videos, quotes, video urls, vines, visible links, nullcasts, cash tags, gifs, photos, vines, emojis, question marks, mid-post mentions and variations of he/she/I/you/they
+
+Flags to indicate whether posts are from verified accounts, cameras as composer source, offensive, replies, reposts, user bots, new users, nsfw users, spam users and duplicated content
+
+Counts of post information,  such as hashtags, mentions, favorites, replies, reposts, quotes, embedded impressions, embedded urls, fake favorites, fake reposts, fake quotes, fake replies, stocks, video views, capitals, exclamation, new lines, non-mention tokens, punctuations and white spaces
+
+Post information, such as language, link language, post length, previous user-post engagements, text score, user reputation and visible token ratio
+
+Time span since the creation of different engagements, such as favorites, replies, reposts and quotes
+
+User History Engagement Features
+
+Number of days users received and sent different types of engagements in the recent 2, 3, 5, 7, 9, 14, 28, 56 & 90 days, such as favorites, follows reposts and logins
+
+Counts of different user activities in the recent 2, 3, 5, 7, 9, 14, 28, 56 & 90 days, such as logins, received favorites, sent favorites, received follows, sent follows, received reposts, sent reposts and user active seconds
+
+User Social Context Interaction Features
+
+Average/Max/Min of counts and time span since last time of different interactions between users and their social context, such as clicks, likes, mentions, profile views, reposts and follows
+
+User Real Graph Interaction Features
+
+Different types of interactions between the target users and other users, such as address book contacts, direct messages, dwell times, favorites, follows, inspected statuses, link clicks, mentions, photo tags, profile views, reposts and post clicks
+
+Post Author Real Graph Interaction Features
+
+Different types of interactions between the post authors and other users, such as address book contacts, direct messages, dwell times, favorites, follows, inspected statuses, link clicks, mentions, photo tags, profile views, reposts and post clicks
+
+Embedding Features
+
+post Media Understanding Embedding
+
+An embedding indicating probabilities of different content safety categories
+
+User Media Understanding Embedding
+
+An overall representation of User’s media
+
+User Simcluster Embedding
+
+An embedding representing groups of accounts that share similar interests with the target user
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

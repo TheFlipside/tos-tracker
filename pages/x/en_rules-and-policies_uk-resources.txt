@@ -1,0 +1,259 @@
+United Kingdom Online Safety Information
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Country-specific resources
+
+UK Resources
+UK Resources
+Help Center
+
+Country-specific resources
+
+          United Kingdom Online Safety Information
+
+          Information from X
+
+The
+X Rules
+ are to ensure all people can participate in the public conversation freely and safely.
+
+We have a
+range of enforcement options
+, which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by
+filing a report
+.
+
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to this
+link
+ for further information.
+
+We suggest staying informed about
+account safety and security
+, safeguarding your privacy, avoiding spam and scams, and consider
+controlling what you see
+. Our Help Center provides answers to the most
+common questions
+; but if you need account support, submitting a
+support form
+ ensures your request is routed to the appropriate team.
+
+          Content moderation practices
+
+Our content moderation systems are designed and tailored to protect users without unnecessarily restricting the use of our service and fundamental rights, especially freedom of expression. Content moderation activities are implemented and anchored on principled policies and leverage a diverse set of interventions to ensure that our actions are reasonable, proportionate and effective. Our content moderation systems blend automated and human review paired with a robust reporting and appeals system that enables our users to quickly raise potential moderation anomalies or mistakes.
+
+To enforce our Rules, we use a combination of machine learning and human review. Our systems are able to surface content to human moderators who use important context to make decisions about potential violations. This work is led by an international, cross-functional team with 24-hour coverage and the ability to cover multiple languages. We also have a complaints process for any potential errors that may occur.
+
+          Automated content enforcement
+
+X employs a combination of artificial intelligence models, heuristics, and machine learning algorithms to automatically detect content that we believe violates the
+X Rules
+ and policies enforced on our platform. We use combinations of natural language processing models, image processing models and other sophisticated machine learning methods to detect potentially violative content. These machine learning models vary in complexity and in the outputs they produce. Heuristics are simple rule-based models (patterns of behaviours, text, or keywords that may be typical of a certain category of violations), typically utilised to enable X to react quickly to new forms of violative behavior that emerge on the platform. Content flagged by machine learning models and heuristics are either reviewed by human content reviewers before an action is taken or, in some cases, automatically actioned, based on the measured historical accuracy of the specific method.
+
+Examples of automated content enforcement:
+
+A vast majority of all accounts that are suspended for the promotion of terrorism and Child Sexual Exploitation and Abuse (CSEA) are proactively flagged by a combination of technology and other purpose-built internal proprietary tools. When we remove CSEA content with these automated systems, we immediately report it to the National Center for Missing and Exploited Children (NCMEC). NCMEC makes reports available to the appropriate law enforcement agencies around the world to facilitate investigations and prosecutions.
+
+Our current methods deploy a range of internal tools and third party solutions that utilises industry standard hash libraries (e.g.,
+PhotoDNA
+) to ensure known CSEA is caught prior to any user reports being filed. We leverage the hashes provided by NCMEC and industry partners. We scan media uploaded to X for matches to hashes of known CSEA. We also have the ability to block keywords and phrases from Trending and block search results for certain terms that are known to be associated with CSEA.
+
+X continues to iterate and improve upon its automated moderation techniques for improved detection of violative content before it is reported, including AI-based technology solutions. Our continued investment in proprietary technology is steadily reducing the burden on people to report this content to us.
+
+          User controls
+
+To help you enjoy a safe experience on X, we provide tools designed to help you to control what you see, so that you can personalize your experience on X. We make it easy for you to take action on a post. Tap the … icon at the top of any post on your timeline to quickly access options like unfollow, mute, block, report, and more.
+
+Following and unfollowing:
+Users can choose to either see or stop seeing someone’s posts on their timeline.
+
+Muting
+: Users can mute an account if they do not want to see that account’s posts.
+Blocking
+: Block is a feature that helps you control how you interact with other accounts on X. This feature helps people in restricting specific accounts from following, Direct Messaging, and engaging with them.
+Controlling replies:
+Users can choose who can reply to their posts. The default setting for public accounts is that anyone can reply, but options are available to turn off replies entirely (except for mentioned accounts), limit replies to verified accounts, or limit replies to accounts that the posting user follows. A user can adjust these settings when composing a post, with their adjustments affecting that individual post. To help minimise unwanted replies and improve meaningful conversations, users can also adjust who can reply to a post after the post has been shared. Learn more about conversations on X
+here
+.
+Reporting
+: Users can report accounts or posts they think are in violation of the X Rules. More details can be found below.
+
+We also provide tools to help you decide what others can see about you. This includes but is not limited to our discoverability settings, sharing your location in posts, and media settings which allow you to mark your posts as containing sensitive content.
+
+          Your rights
+
+With hundreds of millions of posts posted every day around the world, our goal is to respect user expression, while also taking into consideration applicable local laws.
+
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual Post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the X Rules. Other times, it may be in response to a valid legal request from an authorized entity, or a report from an affected UK person.
+
+You may also challenge an enforcement action we take by filing a lawsuit with a competent court. If you believe X to be in breach of contract with regard to its use of proactive technology, you have a right to bring proceedings in a competent court.
+
+          Information for parents and minors
+
+X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age.
+
+Learn more
+here
+ about information for parents and minor users in the UK.
+
+          Online safety in the United Kingdom
+
+The UK Online Safety Act 2023 (“the Act”) establishes standards and obligations designed to protect users from exposure to illegal content and harmful activities online, including content harmful to children. Under the Act, we are committed to handling complaints to ensure that illegal content and content harmful to children is identified, reviewed and (if necessary) removed, thereby minimising the potential harmful impact on individuals. Our complaint-handling processes provide clear and accessible routes for reporting, enabling action through dedicated review mechanisms and takedown procedures.
+
+          Information regarding illegal content and content harmful to children
+
+As part of illegal content duties under the Act, we will be restricting access to illegal content in the United Kingdom, namely:
+
+Terrorist content
+
+Child sexual exploitation and abuse
+
+Encouraging or assisting self-harm
+
+Encouraging or assisting suicide
+
+Harassment, stalking, threats, and abuse, including hate offences
+
+Drugs and psychoactive substances
+
+Firearms and other weapons
+
+Unlawful immigration
+
+Human trafficking offences
+
+Sexual exploitation of adults
+
+Extreme pornography
+
+Intimate image abuse
+
+Cyberflashing
+
+Fraud and other financial offences
+
+Foreign interference offence
+
+False communications
+
+Animal welfare
+
+Obscene content showing torture of humans and animals
+
+Epilepsy trolling
+
+          Illegal content is prohibited on X in the United Kingdom
+
+​​You can report content in violation to X.
+
+Furthermore, under the Act, we will be restricting content harmful to children from minors in the United Kingdom, namely:
+
+Encouraging or assisting eating disorders
+
+Body stigma content
+
+Depression content
+
+Bullying content
+
+Harmful substances
+
+Dangerous stunts and challenges
+
+Adult nudity harmful to children
+
+          Content harmful to children is restricted from minors on X in the United Kingdom
+
+​​You can report content in violation to X.
+
+          Reporting illegal content or content harmful to children in the United Kingdom
+
+You can make a report or complaint about such material which is accessible on X in the United Kingdom, pursuant to the Act, by making a report to X through this
+form
+.
+
+          Reporting a Post, List or Direct Message
+
+Learn more
+here
+ about how you can submit a report or complaint about illegal content on a post, list or direct message.
+
+          Reporting flow process
+
+Please complete all necessary information in the form, following the instructions, in order to submit the report. Upon submission, you will receive confirmation that your report was submitted. Your report will then be routed to the appropriate team and processed expeditiously.
+
+In the case of a report about content that is illegal and/or that X is legally required to restrict under the law, if a violation is identified, X will notify the violating account about the enforcement action and their right to appeal. In most cases, you will be notified of the outcome of your report as soon as our team has all available information to make a final decision. X does not disclose information about the person who submitted the complaint.
+
+          Appeal process
+
+Users can appeal an illegal content or content harmful to children decision if they believe we made an error. They can do this through this
+form
+.
+
+          Withholding a post or account in a country
+
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about
+country withheld content
+.
+
+          Reporting non-compliance with relevant duties under the Act
+
+You can make a complaint about X’s compliance with relevant duties under the Act by making a report to X through this
+form
+. Once the review is complete, we will send you a message if a potential issue has been identified and X will take appropriate action.
+
+          Reporting use of proactive technology inconsistent with X Rules
+
+You can make a complaint about automated enforcement actions inconsistent with the
+X Rules
+ and
+Terms of Service
+ by making a report to X through this
+form
+. Once the review is complete, we will send you a message if a potential issue has been identified and X will take appropriate action.
+
+NOTE:
+ Informational resources available on our
+Help Center
+ are not intended for law enforcement use and such requests should be directed to X's Legal Request Submission site, available at
+t.co/lr
+ or
+legalrequests.x.com
+.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

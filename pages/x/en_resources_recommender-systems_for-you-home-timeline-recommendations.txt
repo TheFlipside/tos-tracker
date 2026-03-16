@@ -1,0 +1,70 @@
+For You Home Timeline Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          For You Home Timeline Recommendations
+
+𝕏 aims to deliver you the best of what’s happening in the world right now. This requires a recommendation algorithm to distill the roughly 500 million posts made daily down to a handful of top posts that ultimately show up on your device’s For You timeline. For You serves content from accounts and Topics you follow as well as recommended posts.
+Learn more
+.
+
+How 𝕏 finds content to show you
+
+𝕏 aims to find recent and relevant content for you from the hundreds of millions of posts on the platform. 𝕏 finds content for you from both your network (accounts, Lists and Topics you follow) as well as from accounts that you don’t explicitly follow. You can influence the content that 𝕏 finds for you by changing the accounts and Topics that you follow.
+
+How 𝕏 decides which content to show you
+
+After finding content from inside and outside your network, 𝕏 ranks the relevance of posts using a neural network that is continuously trained on your interactions (e.g. Likes, Reposts, and Replies) to give you a positive experience. We recommend posts to you based on a variety of signals including, but not limited to, accounts you follow, Topics you follow, posts you like, posts liked by those in your network, and accounts followed by those in your network. You may also see content such as promoted posts or reposts from accounts you follow in your For You timeline. Prior to showing you content, 𝕏 filters content that might be harmful, abusive or spammy.
+
+How you can control your 𝕏 experience
+
+You can influence the content that 𝕏 shows to you by reporting content that you are not interested in. 𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful -
+Learn more
+.
+
+How to see content that is not personalized for you
+
+You can always choose to see posts that are not personalized for you by selecting the Following timeline. The Following timeline displays posts only from the accounts you follow and they are shown in reverse chronological order.
+
+More information
+
+For a more detailed view of how For You recommends content:
+
+An overview from our engineering team:
+Learn more
+.
+
+𝕏 algorithm:
+Learn more
+.
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

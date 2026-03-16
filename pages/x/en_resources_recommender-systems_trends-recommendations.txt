@@ -1,0 +1,151 @@
+Trends Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Trends Recommendations
+
+𝕏 aims to deliver you the best of what’s happening in the world. 𝕏 helps you discover the hottest emerging topics of discussion in the Explore tab when signed into your account. These are topics that are popular now, rather than topics that have been popular for a while or on a daily basis, and are called “Trends”.
+Learn more.
+
+You may also see Trends in the What’s happening box that appears as a module alongside the For You home timeline. In the European Union, these Trends are not personalized for you, similar to the Trending tab in Explore.
+
+How does 𝕏 find Trends
+
+𝕏 detects Trends by analyzing posts (i.e. text, author’s details, etc.), the duration of Trends tracked in real-time, how likely a post is to trend. Trends will be filtered to help protect you - e.g filtered for uncredible accounts (e.g. an author account with a low number of followers, bots, and newly created accounts), inappropriate words, and spam posts.
+
+How does 𝕏 decide which Trends to show you
+
+Millions of Trends are detected daily and globally, and only a small fraction are relevant to you. Trends will be shown to you based on topics you follow, your recent engagement with 𝕏,  your shared interests with other groups of users, and your location. You can also easily filter Trends tailored for you in Explore by selecting tabs like News, Sports, or Entertainment.
+
+How you can control the Trends you see
+
+You can influence the Trends that are shown across 𝕏 by reporting a Trend as “harmful or spammy” and you can influence Trends that are shown to you by reporting that you are not interested in a Trend. You can also influence the Trends shown to you by changing the Topics you follow at any time.
+
+𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful -
+Learn more
+.
+
+How you can see non-personalized Trends
+
+You can always choose to see Trends that are not tailored for you by selecting the Trending tab in the Explore setting. These Trends identify popular topics among people in a specific geographic location. You can also choose to view Trends in another specific location by changing your settings.
+Learn more
+.
+
+More information
+
+For a more detailed view of how our Trends recommendation system works, please see an overview from our engineering team below.
+
+System Overview
+
+There are 4 major components in our system, as illustrated in the following diagram:
+
+Trends Detection: The posts texts are used to detect trends in certain domains, such as countries, topics, and user interests.
+
+Trends Candidates Retrieval: For each user, potential trends candidates are fetched by the user’s location and interests.
+
+Trends Ranking: Machine learning models are used to rank the candidates to optimize engagements.
+
+Feedback Collection: User feedback, such as trends clicks and blocks, are collected for model training and analysis.
+
+Trends Detection
+
+Trends detection detects what’s trending in a context, such as a country and an interest.
+
+Posts
+
+Any trend starts with posts. Trends detection only uses the post text and the author’s context, such as author account age, interests, and locations (country, region, and city). The post text is tokenized into phrases which are often persons’ names, locations, organizations, etc. These phrases combined with the author’s context are potential trends candidates.
+
+Filtering
+
+Posts from uncredible users and unsafe phrases are filtered out for the quality and safety. For example, new accounts with a small number of followers are excluded. Also, stop words and curse words are filtered out.
+
+Counting
+
+The counts of different durations for the trends candidates are tracked in real time.
+
+Scoring
+
+The counts are used in statistical algorithms to score the trends candidates. The trends scores reflect how “trendy” a candidate is.
+
+Candidate Retrieval
+
+Millions of trends are detected daily and globally, and only a small fraction are relevant to specific users. This step retrieves the relevant trends given a user.
+
+User’s Trends
+
+Given a user, the user’s locations and interests are used to fetch relevant trends from the pool of millions of trends.
+
+Feature Hydration
+
+The trends’ and users’ features are hydrated.
+
+Trends features:
+
+health score
+
+topic category
+
+embeddings of the trend’s topic
+
+trends score from the 1st step
+
+Users features:
+
+embeddings of user’s interests
+
+blocked trends
+
+Filtering
+
+The unhealthy trends and user blocked trends are filtered out.
+
+Light Ranking
+
+The light ranking uses trend scores, user embeddings, and trends embeddings. The user embedding and trends embeddings are used to calculate the similarity scores. The final ranking score is a weighted sum of the trends scores and similarity scores. Similarity score is given a 50% higher weight relative to the weight for trend score.
+
+Trends Ranking
+
+Trends are ranked by machine learning models to optimize user engagements.
+
+Models
+
+Two machine learning models are used. One online model is trained continuously using user engagements on trends. The other model is trained offline using more features and is updated regularly.
+
+Features
+
+Both users’ features and trends’ features are used.
+
+Feedback Collection
+
+The top trends are served to the users, and users can either click on the trends or report the trends as irrelevant or spammy. The clicks engagements are used to train the machine learning models. The reported trends are used as a blacklist for the reporting users to filter out such trends.
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

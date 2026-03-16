@@ -1,0 +1,408 @@
+Account Recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+          Account Recommendations
+
+Followers are people who receive your Posts. Following someone on 𝕏 means: you are subscribing to their posts as a follower; their updates will appear in your
+Home timeline
+; and that person is able to send you
+Direct Messages
+. To improve your experience with our platform, our Account Recommendation or ‘Who to Follow’ service may recommend accounts we think you may be interested in.
+
+How does 𝕏 find accounts to follow
+
+Our account suggestions are based on algorithms that make personalized suggestions for you.
+
+How does 𝕏 decide which accounts to recommend to you
+
+You may see suggestions based on criterion such as:
+
+If you’ve uploaded your contacts to 𝕏, we’ll suggest you connect with those who already have 𝕏 accounts.
+
+If someone has uploaded their contacts to 𝕏, and your email address or phone number is included in their contacts, we may suggest you follow them.
+
+We may also make suggestions based on your location, such as the city or country you are in.
+
+We may make suggestions based on your activity on 𝕏, such as your likes or reposts, who you follow, and accounts and posts that you view or otherwise interact with.
+
+Recommendations delivered to you via email or through 𝕏 will not suggest content that includes your muted words and hashtags. (Learn more,
+here
+.)
+
+How you can influence the accounts you see
+
+You can control whether we will suggest your account to someone else who has your email address or phone number in their contacts by adjusting your privacy settings. For more information and instructions about adjusting your settings, read
+this article
+.
+
+When you upload your contacts to 𝕏, these contacts may appear as suggested accounts for you to follow. Conversely, your account may appear as a suggestion for others to follow. You can control whether 𝕏 will use your address book to suggest your account to others by adjusting the privacy settings that let others find you by your email address or phone number.
+
+You can also remove contacts you’ve previously uploaded. When you remove previously uploaded contacts, we will no longer make suggestions based on those contacts, but we may make similar suggestions based on who you already follow, and other factors. For more information and instructions for removing previously imported contacts, see this article.
+
+𝕏 has also designed tools that help you control all content that you see across the platform and to protect you from content you consider harmful. (Learn more,
+here
+.)
+
+How you can see non-personalized suggestions
+
+European Union users can see non-personalized account suggestions in our “Who to Follow”, “You might like”, and "What's happening" modules.
+
+More information
+
+For a more detailed view of how our Account Recommendation system works, please see:
+
+An overview from our engineering team below;
+
+Our About Account Suggestions help center article,
+here
+; or
+
+Our source code, which is available,
+here
+.
+
+System Overview
+
+Our account recommendation system helps users with little familiarity with 𝕏 easily and quickly discover new accounts to follow or subscribe. It leverages various user signals and algorithms to provide personalized account recommendations. The overview of the system is illustrated in following diagram:
+
+Several of our services are powered by the account recommendation system including, for example: the home timeline, account profile page, cluster follow, Connect tab, new user signup flow, promoted accounts, and relevant people.
+
+System Overview
+
+The account recommendation system, which powers several of our services (including, for example, home timeline, account profile page, cluster follow, Connect tab, new user signup flow, promoted accounts, and relevant people), consists of the following steps:
+
+Candidate Generation
+
+The system leverages various signals to generate account candidates that the target user (i.e., the user who is viewing the module) might be interested in. (See the "Signals" section below for more information.) All candidates are generated from those signals.
+
+Candidate Blending and Filtering
+
+After generating candidates from various candidate sources, the system down-samples from each candidate source based on their historical performance, and blends the selected candidates into a candidate pool. Then the system filters out candidates using some signals to ensure quality and health of the account recommendations.
+
+Candidate Ranking
+
+By utilizing various signals from the target user and candidates, the system ranks candidates based on the likelihood of the candidate being followed and positively engaged by the audience. (See the "Signals" section below for more information.)
+
+Signals
+
+This section describes the list of signals leveraged in the account recommendation system:
+
+Signal Name
+
+From
+
+Description
+
+System Step
+
+User State
+
+Target User,
+
+Candidate
+
+𝕏 internal defined user state based on daily login frequency and daily post frequency.
+
+Ranking
+
+Language
+
+Target User,
+
+Candidate
+
+Preferred language selected by user
+
+Candidate Generation, Ranking
+
+Geo info (Country, IP address, non-precise geolocation)
+
+Target User,
+
+Candidate
+
+Non-precise geolocation information derived from IP addresses.
+
+Candidate Generation, Ranking
+
+Client
+
+Target User
+
+Client type (e.g. iPhone, Android, Web, etc)
+
+Ranking
+
+Days since signup
+
+Target User
+
+Time since user signup
+
+Ranking
+
+Phone book
+
+Target User,
+
+Candidate
+
+Phone book contacts
+
+Candidate Generation, Ranking
+
+Email book
+
+Target User,
+
+Candidate
+
+Email book contacts
+
+Candidate Generation, Ranking
+
+Interests
+
+Target User
+
+Followed interests (topics)
+
+Ranking
+
+Follows
+
+Target User,
+
+Candidate
+
+Followings and follow actions
+
+Ranking
+
+Unfollows
+
+Target User,
+
+Candidate
+
+Unfollow actions
+
+Ranking
+
+Post created
+
+Target User,
+
+Candidate
+
+Post creation actions
+
+Filtering, Ranking
+
+Like
+
+Target User,
+
+Candidate
+
+Post like action
+
+Candidate Generation, Ranking
+
+Don’t like
+
+Target User,
+
+Candidate
+
+“Not interested in” feedback and un-like actions
+
+Ranking
+
+Repost
+
+Target User,
+
+Candidate
+
+Repost action
+
+Candidate Generation, Ranking
+
+Quote
+
+Target User,
+
+Candidate
+
+Post quote action
+
+Ranking
+
+Mention
+
+Target User,
+
+Candidate
+
+Mention action
+
+Candidate Generation, Ranking
+
+Profile view
+
+Target User,
+
+Candidate
+
+Profile view action
+
+Candidate Generation, Ranking
+
+Post impression
+
+Target User,
+
+Candidate
+
+Post impression
+
+Ranking
+
+Post click
+
+Target User,
+
+Candidate
+
+Post click action
+
+Candidate Generation, Ranking
+
+Photo expanded
+
+Target User,
+
+Candidate
+
+Photo expand action
+
+Ranking
+
+Who-to-Follow module impression
+
+Target User
+
+Impression on the Who-to-Follow / Who-to-Subscribe module
+
+Ranking
+
+Push notification open
+
+Candidate
+
+Push notification open action
+
+Ranking
+
+Notification tab click
+
+Candidate
+
+Notification tab notification click action
+
+Ranking
+
+Mute
+
+Target User,
+
+Candidate
+
+Account mute action
+
+Ranking
+
+Block
+
+Target User,
+
+Candidate
+
+Account block action
+
+Ranking
+
+Report
+
+Target User,
+
+Candidate
+
+Post report action
+
+Ranking
+
+Display location
+
+Target User
+
+Where the account recommendation module is (e.g. home timeline, profile page, etc)
+
+Ranking
+
+Creator (subscription) eligibility
+
+Candidate
+
+Whether eligible for creator subscription
+
+Ranking
+
+Login days
+
+Target User
+
+Days since last login
+
+Filtering, Ranking
+
+Health label
+
+Candidate
+
+Health label (e.g. NSFW) and score generated by the Health team
+
+Filtering
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

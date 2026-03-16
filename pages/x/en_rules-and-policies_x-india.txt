@@ -1,0 +1,215 @@
+X India
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Country-specific resources
+
+X India
+X India
+Help Center
+
+Country-specific resources
+
+          About X India
+
+In addition to the
+X Rules
+ that help all people participate in the public conversation freely and safely, our
+Help Center
+ provides resources and tips that help you
+stay safe on X
+. Where applicable, we also offer information about any policies and practices that are region-specific.
+
+India IT Rules Amendment 2026
+
+Confirmed phone numbers
+
+Grievance Officer
+
+India IT Rules Amendment 2026
+
+            India IT Rules Amendment 2026
+
+            Confirmed phone numbers
+
+            Grievance Officer
+
+          India IT Rules Amendment 2026
+
+In India, the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026 (“IT Rules Amendment 2026”), issued by the Ministry of Electronics and Information Technology, require us to publish the below information.
+
+When you use X, you are responsible for the content you create, including any synthetically generated information. This section sets out requirements governing your use of the Services, in light of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026 and action X may take, in case of non-compliance. This section is to be read along with the
+Terms of Service
+,
+Privacy Policy
+, the
+X Rules
+ and other applicable policies governing your use of the Services.
+
+          General notice for users
+
+It is your responsibility to comply with all applicable laws, rules, policies, and regulations that are applicable to you or your Content. In case of non-compliance, we may suspend or terminate your access or usage rights and/or remove violative content. The IT Rules Amendment 2026 requires us to inform you that, if your content violates the law, you may also be subject to penalties or punishments under applicable law. Where required by law, including under the Bharatiya Nagarik Suraksha Sanhita, 2023 or the Protection of Children from Sexual Offences Act, 2012, we may report the offence to the appropriate authority.
+
+          Notice for synthetically generated information
+
+What is ‘synthetically generated information’ (SGI)
+
+Under the IT Rules Amendment 2026, SGI means “audio, visual or audio-visual information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information appears to be real, authentic or true and depicts or portrays any individual or event in a manner that is, or is likely to be perceived as indistinguishable from a natural person or real-world event.” The IT Rules Amendment 2026 requires us to inform you that, in addition to the above, if you post SGI that “violates any law for the time being in force,” Indian law may require X to disclose your information to the complainant.
+
+Your responsibilities for SGI
+
+Declaration:
+By posting any SGI, you are declaring that, if the content you post is “synthetically generated information,” you will prominently label it as such in a way “that is easily noticeable and adequately perceivable,” and in the case of synthetically generated “audio content,” include a “prominently prefixed audio disclosure.”
+
+No tampering:
+ You must not attempt to remove, modify, suppress, or tamper with any labels, metadata or other technical provenance identifiers applied to SGI.
+
+What is not SGI
+
+Under the IT Rules Amendment 2026, SGI does not include “routine or good faith actions” or content that “arises from:
+
+(a)
+routine or good-faith editing, formatting, enhancement, technical correction, colour adjustment, noise reduction, transcription, or compression that does not materially alter, distort, or misrepresent the substance, context, or meaning of the underlying audio, visual or audio-visual information; or
+
+(b)
+ the routine or good-faith creation, preparation, formatting, presentation or design of documents, presentations, portable document format (PDF) files, educational or training materials, research outputs, including the use of illustrative, hypothetical, draft, template-based or conceptual content, where such creation or presentation does not result in the creation or generation of any false document or false electronic record; or
+
+(c)
+the use of computer resources solely for improving accessibility, clarity, quality, translation, description, searchability, or discoverability, without generating, altering, or manipulating any material part of the underlying audio, visual or audio-visual information."
+
+We’re introducing a profile setting which allows people in India to mark their X account as having a confirmed phone number. Activating this setting displays a
+Confirmed phone number
+mark  in the profile. Only logged-in X customers in India can see this mark, and activating the mark reveals to them that you're also in India.
+
+Please note that the
+Confirmed phone number
+mark  isn’t the same as a
+verified blue checkmark
+, and doesn’t give people who activate the phone number mark a verified blue checkmark
+. For information about requirements related to a verified blue checkmark, read
+How to get verified on X
+.
+
+Will my phone number display on my X profile?
+
+No, this profile setting only activates a
+Confirmed phone number
+mark
+ next to your profile picture. It doesn’t display your phone number.
+
+How do I activate the profile setting to display the “Confirmed phone number” mark?
+
+If you already have an accurate, up-to-date phone number associated with your X account you can activate this setting the same way you
+customize your profile
+. If you’re based in India, you’ll select
+Confirmed phone number
+mark, and toggle the setting on.
+
+What should I do if my phone number is out of date?
+
+If you previously added a phone number and need to update it, follow
+these instructions
+. Having an up-to-date phone number helps keep your account secure.
+
+More about phone numbers on X:
+
+How to add a phone number
+
+Phone number FAQs
+
+Help with connecting a phone number to your account
+
+          Grievance Officer - India
+
+How to report a violation through our Help Center
+
+Here is an overview on
+how to report potential violations
+ of the
+X Rules
+ and
+Terms of Service
+.
+
+Submitting requests through our
+support forms
+ will ensure that they are routed to the appropriate team and processed expeditiously. More information is available in the Help Center.
+
+Grievance Officer contact information for users in India
+
+X Corp.
+
+865 FM 1209, Building 2
+
+Bastrop, TX 78602
+
+United States
+
+Resident Grievance Officer
+
+Vinay Prakash
+
+The Resident Grievance Officer cannot be contacted by email, and X Corp. does not accept service of any legal process by email.
+
+To contact the Resident Grievance Officer, to submit a grievance, or to serve a summons or notice in a civil proceeding for the attention of X Corp., use the
+Report to Grievance Officer Form
+.
+
+All law enforcement and government requests must be submitted at
+legalrequests.x.com
+.
+
+X Corp. can also be contacted in India at the following address:
+
+8th Floor, The Estate,
+
+121 Dickenson Road,
+
+Bangalore 560 042
+
+India Transparency Report
+
+Pursuant to Rule 4(1)(d) of India’s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, X publishes a monthly report regarding our processing of reports from users in India. For the latest report, click
+here
+.
+
+Publishers of news and current affairs
+
+If you are a publisher of news and current affairs content under the Information Technology (Intermediary Liability and Digital Media Ethics Code) Rules, 2021, as per Rule 5, X is required to inform you that you need to provide details of your X accounts to the Ministry of Information and Broadcasting, Government of India under Rule 18 of the above rules.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

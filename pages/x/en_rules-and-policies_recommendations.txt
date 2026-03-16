@@ -1,0 +1,340 @@
+About our approach to recommendations
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Rules and policies
+
+About our approach to recommendations
+About our approach to recommendations
+Help Center
+
+Rules and policies
+
+          Our approach to recommendations
+
+Overview
+
+Every day, people come to X to keep up with what’s happening. The choices you make when using X, such as the
+accounts
+ and
+Topics
+ you follow and the
+Lists
+ you create or join, help determine the content you see. For example, when you follow an account or Topic, those posts will appear in your Home timeline alongside others we think you might be interested in.
+
+In addition to showing content from accounts and Topics you follow, we also make recommendations to make it easier and faster for you to find content and accounts that are relevant to your interests. We share recommendations on various areas on X, including Notifications, Topic Landing Pages, Explore, Spaces Tab, Email and on the Home timeline. Our recommendations are based upon a variety of signals and no one signal is statically assigned a greater weight of importance over another. A complex multi-layer network of these signals (including, but not limited to, interests you choose during onboarding; accounts and Topics you follow; posts you’ve liked, reposted, shared, replied to, etc.; media you've watched; and content that is popular in your network) all contribute to determining which of the over 500 million daily posts will most likely create a positive user experience. The more you engage with content on X, the better our recommendations get at delivering this positive user experience.
+
+Recommending responsibly
+
+Recommendations may amplify content, so it’s important they’re surfaced responsibly. Promoting
+healthy conversations
+ is one of X’s core
+principles
+; “freedom of speech is a fundamental human right — but freedom to have that speech amplified by X is not.” While our
+enforcement philosophy
+ empowers people to understand different sides of an issue by allowing many forms of speech to exist on our platform, we also work hard to prevent the amplification of harmful content on X.
+
+We have several ways of preventing potentially harmful or offensive content and accounts from being amplified, including using machine learning technology, reviewing user reports, and other tools. So, while harmful or offensive content and accounts may still exist on the X platform, they may not be eligible for amplification in the following ways:
+
+As a recommendation in Home timeline from someone you don’t follow
+
+As part of the top section of Replies in post details or conversations
+
+As a recommendation on the “For you tab” in Explore
+
+As a push notification
+
+Content that can’t be recommended will still be available on X to people who follow the post author and on the post author’s profile.
+
+Prioritizing safety
+
+During important events including, but not limited to, certain crises and elections, the likelihood, immediacy, severity, and potential for harm may increase significantly. We take additional steps in these cases to prevent potentially misleading or harmful content from being inadvertently amplified. For example, during events such as
+civic processes
+ and certain
+crises
+, we may proactively recommend informative messages or updates to add context to disputed or potentially misleading narratives that emerge. This includes creating X
+Moments
+ and
+launching prebunks
+, which proactively feature informative messages or updates designed to counter emergent misleading narratives.
+
+Content ineligible for recommendations
+
+Because there is a range of
+enforcement options
+ for certain potential violations, X does not always take down potentially problematic content. However, we strive to keep the following categories of content out of our recommendations:
+
+Content from
+state-affiliated media
+ accounts or the accounts of governments that are known to restrict access to the open internet during armed interstate conflicts.
+
+Content that includes information known to be obtained through a
+hack
+ and does not come from websites (specific articles or whole domains) that comment on or distribute materials in the course of some additional purpose, such as journalist coverage or commentary.
+
+Content that violates any of the
+X Rules
+, but has been left on the platform due to the
+public-interest exception
+.
+
+Content that promotes the use of
+regulated substances or weapons
+.
+
+Content that is deemed marginally abusive and is ineligible for amplification under our safety policies, including our
+Abusive Behavior
+ and
+Hateful Conduct policies
+.
+
+​​Harmful misleading information, including violations of the
+Civic integrity policy
+,
+Synthetic and manipulated media policy
+, and any other misleading information policies listed at
+help.twitter.com/misinfo
+.
+
+Content that automated systems have determined may violate the
+X Rules
+, but that has not yet been reviewed by a human and/or may have been identified in error.
+
+Accounts ineligible for recommendations
+
+Because there is a range of
+enforcement options
+ for certain potential violations, X does not suspend all potentially problematic accounts. However, we strive to keep the following categories of accounts out of our recommendations:
+
+Accounts that recently violated the
+X Rules
+.
+
+Accounts sharing harmful misleading information, including violations of the
+Civic integrity policy
+ and
+Synthetic and manipulated media policy
+, and any other misleading information policies listed at
+help.twitter.com/misinfo
+.
+
+Accounts that are thought to be engaged in
+spammy
+ behavior.
+
+Accounts that contain
+graphic violence or hateful imagery
+ in X profile elements.
+
+Accounts labeled as
+state-affiliated media
+ or which belong to
+states
+ that limit access to free information and are engaged in armed interstate conflict.
+
+Where can I find recommendations?
+
+We share recommendations on various areas on X including Notifications, Topic Landing Pages, Explore, Spaces Tab, Email and the Home timeline. Below, we share more about recommendations on the Home timeline, Explore, and Notifications.
+
+Timeline
+
+For You shows posts from accounts and Topics you follow, as well as other recommended content. This means you will sometimes see posts in your Home timeline from accounts you don't follow. We recommend posts to you based on a variety of signals including, but not limited to, accounts you follow, Topics you follow, posts you like, posts liked by those in your network, and accounts followed by those in your network. You may also see content such as
+promoted posts
+ or Reposts from accounts you follow in your For You timeline.
+
+We want you to understand why you’re seeing certain recommendations in your Home timeline. We do this in various ways, including by adding context to the post you see, such as the name of the Topic, or who in your network follows or has Reposted the post author.
+
+Learn more about the
+Home timeline
+ and how you can
+control
+ what you see in Home.
+
+Explore
+
+Explore catches you up on a range of subjects, tailored to your interests. This is where X shows you what’s happening, right now. The more you use X, the more personalized the Explore tab gets. Explore tabs may vary based on your location. Typically, you’ll see these sections under Explore:
+
+For you:
+ Trends, Events, Topics, and Moments that X thinks you'll enjoy most, based on your activity.
+
+Trending:
+ what’s happening in the world. Trends displayed on the Trending tab represent what's trending within a specific geographic area, and are not personalized for every account.
+
+News, Sports, Entertainment tabs:
+other top stories or news related to different subjects. Availability of these tabs may vary based on your location.
+
+More about trends
+
+Trends are meant to help you discover emerging topics of discussion on X, and are determined by algorithms that identify conversations that are popular now, rather than topics that have been popular over a period of time. One input used by the algorithm to rank and determine Trends is the number of posts relating to a given topic. Algorithmically, Trends and hashtags are grouped together if they are related to the same topic. For instance, #MondayMotivation and #MotivationMonday may both be represented by #MondayMotivation.
+
+When you’re signed into your account, Trends are tailored for you based on your account location. However, you have the ability to see what’s trending in other locations by
+changing
+ your location setting.
+
+Learn more about
+Explore
+ and
+Trends
+.
+
+Notifications
+
+Notifications help you stay in-the-know about the things you care about by sending you alerts. You can choose between
+notifications
+ related to you and your posts and recommended notifications. From the
+Notifications timeline
+, you’ll be able to see which of your posts have been liked, the latest Reposts (of your posts), posts directed to you (replies and mentions), your new List followers, recommended notifications for you based on your activity on X, as well as your new account followers. In addition to these notifications, we also elevate content that we think you’ll be most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe
+as described above.
+
+Notifications are personalized to each X account and you can choose which notifications you want to receive for either your web browser or your mobile device. In addition to choosing notifications preferences, you have other options within the settings menu to filter the notifications you receive. These
+options
+ include: quality filter, muted words, preferences, and advanced filters.
+
+Quality filter
+, when turned on, it filters lower-quality content from your notifications, for example, duplicate posts or content that appears to be automated — it does not filter notifications from people you follow or accounts you’ve recently interacted with. You have the option to turn this on or off in your notifications settings.
+
+Mute
+ allows you to mute notifications for particular words and phrases you’d like to avoid seeing in your notifications. You can learn more about muting words and phrases
+here
+. You can also mute notifications for accounts you'd like to avoid seeing notifications from. This includes muting accounts you follow or don't know. For muted accounts you follow, replies and mentions by the muted account will still appear in your notifications timeline. You can learn more about muting accounts
+here
+.
+
+Advanced filters
+allow you to disable notifications from certain types of accounts you’d like to avoid. In addition, if your account receives a lot of sudden attention, we may insert a notification in your Notifications tab inviting you to adjust these filters to give you more control over what you see.
+
+Preferences
+ allow you to choose which types of notifications you’d want to receive via email and on your mobile device. Some of these notification types include Mentions and replies, Topics, News, Moments, and Spaces.
+
+Learn more about
+notifications
+.
+
+Controlling your recommendations
+
+Controls are important in both helping you curate your own experience on X and providing critical feedback for our recommendation systems. People who use X have a variety of options when it comes to controlling what they do and don’t see on our service. As we build new features, we continue to look at ways to give you more control over your experience. Below, we highlight some of the controls available to you today. You can learn more about the range of controls available on X
+here
+.
+
+Home and latest
+
+On your timeline, you have two options to view posts: “For You” and “Following”. Under the For You tab, you will see recommended posts for you from both your network (accounts, lists and topics you follow) as well as from accounts that you don’t explicitly follow. Under the Following tab, you only see posts from accounts you follow
+
+Learn more about
+Home and latest
+.
+
+Mutes and blocks
+
+You have the option to mute posts that contain particular words, phrases, usernames, emojis, or hashtags. Muting only applies to your notifications and Home timeline.
+
+Muting an account allows you to remove an account's posts from your timeline without unfollowing or blocking that account.
+
+Blocking helps you control how you interact with other accounts on X. Accounts you have blocked cannot follow you or see your posts, and you cannot follow an account you have blocked.
+
+Learn more about
+muting words
+,
+muting accounts
+, and
+blocking accounts
+.
+
+Reporting posts
+
+If you think an account or post is in violation of the
+X Rules
+ or our
+Terms of Service
+, tell us about it by reporting the account or post to us. Some of the violations you can report include:
+abuse
+,
+sensitive media
+,
+impersonation
+, and
+spam
+. Submitting a report takes just  a few steps and will help us make X a better place for everyone.
+
+Learn more about
+reporting
+ potential violations of the
+X Rules
+ and
+Terms of Service
+.
+
+Control the media you see in posts
+
+Your
+Privacy and safety
+ settings include post media options, allowing you to decide whether you want to see a warning over media in posts that may contain
+sensitive content
+. Your settings default is to provide the warning, but you can change the setting at any time.
+
+Learn more about how to
+control the media you see in posts
+.
+
+Autoplay video settings
+
+You can stop videos from autoplaying in your timelines, Moments, and the Explore tab by changing the video autoplay setting. Your settings for video autoplay can be adjusted independently on
+twitter.com
+ and your X app (for example, you can set videos to autoplay on your iOS device and not on the web).
+
+Learn more about
+autoplay video settings
+.
+
+Notifications settings
+
+You can filter the notifications you receive by turning the Quality Filter on or utilizing the Advanced Filters to mute notifications from different accounts, such as accounts you don’t follow, new accounts, and accounts with a default profile picture. If you only want to receive specific notifications about your post activity or from X, you can select these preferences in the notifications settings.
+
+Learn more about
+notifications settings
+.
+
+Providing feedback on recommended content in Home
+
+You can provide feedback on recommendations you receive on X. For For You timeline recommendations, you can provide feedback by selecting “Not interested in this post” or “Not interested in this Topic”.  We use this as a signal to recommend less of that type of content to you.
+
+Learn more about
+not interested in Topic suggestions
+.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

@@ -1,0 +1,1390 @@
+<!DOCTYPE html><html lang="en" dir="ltr" x-data="geotargeting"><head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Choices</title>
+
+<meta name="description" content="">
+
+<meta property="og:site_name" content="Twitch.tv">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@twitch">
+<meta name="twitter:creator" content="@twitch">
+<meta name="twitter:title" content="Privacy Choices">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="">
+
+<link href="/icons/favicon.ico" rel="shortcut icon" type="image/x-icon" data-rewrite-ignore-locale="">
+<link rel="icon" type="image/png" href="/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/icons/favicon-16x16.png" sizes="16x16">
+
+<meta http-equiv="content-language" content="en">
+
+
+  
+    <link rel="alternate" href="https://legal.twitch.com/bg-bg/legal/privacy-choices/" hreflang="bg-bg">
+  
+    <link rel="alternate" href="https://legal.twitch.com/cs-cz/legal/privacy-choices/" hreflang="cs-cz">
+  
+    <link rel="alternate" href="https://legal.twitch.com/da-dk/legal/privacy-choices/" hreflang="da-dk">
+  
+    <link rel="alternate" href="https://legal.twitch.com/de-de/legal/privacy-choices/" hreflang="de-de">
+  
+    <link rel="alternate" href="https://legal.twitch.com/el-gr/legal/privacy-choices/" hreflang="el-gr">
+  
+    <link rel="alternate" href="https://legal.twitch.com/es-es/legal/privacy-choices/" hreflang="es-es">
+  
+    <link rel="alternate" href="https://legal.twitch.com/es-mx/legal/privacy-choices/" hreflang="es-mx">
+  
+    <link rel="alternate" href="https://legal.twitch.com/fi-fi/legal/privacy-choices/" hreflang="fi-fi">
+  
+    <link rel="alternate" href="https://legal.twitch.com/fr-fr/legal/privacy-choices/" hreflang="fr-fr">
+  
+    <link rel="alternate" href="https://legal.twitch.com/hu-hu/legal/privacy-choices/" hreflang="hu-hu">
+  
+    <link rel="alternate" href="https://legal.twitch.com/it-it/legal/privacy-choices/" hreflang="it-it">
+  
+    <link rel="alternate" href="https://legal.twitch.com/ja-jp/legal/privacy-choices/" hreflang="ja-jp">
+  
+    <link rel="alternate" href="https://legal.twitch.com/ko-kr/legal/privacy-choices/" hreflang="ko-kr">
+  
+    <link rel="alternate" href="https://legal.twitch.com/nl-nl/legal/privacy-choices/" hreflang="nl-nl">
+  
+    <link rel="alternate" href="https://legal.twitch.com/no-no/legal/privacy-choices/" hreflang="no-no">
+  
+    <link rel="alternate" href="https://legal.twitch.com/pl-pl/legal/privacy-choices/" hreflang="pl-pl">
+  
+    <link rel="alternate" href="https://legal.twitch.com/pt-br/legal/privacy-choices/" hreflang="pt-br">
+  
+    <link rel="alternate" href="https://legal.twitch.com/pt-pt/legal/privacy-choices/" hreflang="pt-pt">
+  
+    <link rel="alternate" href="https://legal.twitch.com/ro-ro/legal/privacy-choices/" hreflang="ro-ro">
+  
+    <link rel="alternate" href="https://legal.twitch.com/ru-ru/legal/privacy-choices/" hreflang="ru-ru">
+  
+    <link rel="alternate" href="https://legal.twitch.com/sk-sk/legal/privacy-choices/" hreflang="sk-sk">
+  
+    <link rel="alternate" href="https://legal.twitch.com/sv-se/legal/privacy-choices/" hreflang="sv-se">
+  
+    <link rel="alternate" href="https://legal.twitch.com/th-th/legal/privacy-choices/" hreflang="th-th">
+  
+    <link rel="alternate" href="https://legal.twitch.com/tr-tr/legal/privacy-choices/" hreflang="tr-tr">
+  
+    <link rel="alternate" href="https://legal.twitch.com/vi-vn/legal/privacy-choices/" hreflang="vi-vn">
+  
+    <link rel="alternate" href="https://legal.twitch.com/zh-cn/legal/privacy-choices/" hreflang="zh-cn">
+  
+    <link rel="alternate" href="https://legal.twitch.com/zh-tw/legal/privacy-choices/" hreflang="zh-tw">
+  
+
+
+    
+    <script defer="" src="/js/build.js"></script>
+    
+    
+    
+    <link rel="stylesheet" href="https://legal.twitch.com/css/bookshop.min.343054bb7b6f3846b2cb5bc8747d8376b8ec592f9c5e0dff07e2eb6ea651e44d.css">
+
+    
+  <link rel="stylesheet" href="/sass/main.css">
+
+
+
+
+    
+    <link rel="stylesheet" href="/css/styles.css">
+
+    <link href="/pagefind/pagefind-modular-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-modular-ui.js" defer=""></script>
+
+    <script async="" src="https://analytics.m7g.twitch.tv/270fb0ae91e9890ee407/"></script>
+  </head>
+  
+  
+  
+      
+
+      
+      
+      
+      
+  
+
+  <body class="font-default" x-data="{ geo_targeting: &quot;&quot;, redirectUrl: $el.dataset.redirectUrl }" data-redirect-url="/en/legal/" x-init="init();$watch('isVisible', value =&gt; {
+    if (value === false) { // Ensure it only redirects when explicitly false
+        setTimeout(() =&gt; {
+            window.location.href = redirectUrl;
+        }, 10000);
+    }
+  });">
+    <header>
+      <nav class="flex justify-center bg-brand-purple">
+  <a id="skip-to-content" href="#table-of-contents" tabindex="0" class="absolute top-0 transition-all focus:translate-y-0 -translate-y-full text-white text-base px-3 flex items-center gap-[10px] border-2 border-white rounded-lg p-[14px_12px] leading-[20px]">
+    Skip to content
+  </a>
+  <div class="max-w-[2000px] w-full px-5 lg:px-8 py-6 max-[479px]:flex-col flex-row flex gap-4 items-center col-start-2" x-data="{mobileSubNavOpen: false, mobileAccountNavOpen: false}">
+    
+    <a href="/en/legal/" class="flex flex-col items-center mr-auto" aria-label="Twitch Legal Home">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1139.43 379.04" height="32px">
+        <title>Twitch Legal Home</title>
+        <g data-name="Layer 2">
+          <g data-name="Layer 1">
+            <path class="wordmark-logo__bg fill-purple" d="M1119.44 269.32h-80v-99.75h-20v99.75h-80V20h80v69.78h60l40 39.9zm-199.9-99.75h-80v20h80v79.8H799.6l-40-39.9v-99.79l40-39.9h119.94zm-179.91 0h-70v20h70v79.8H629.69l-40-39.9V20h80v69.78h70zM569.72 69.83h-80V20h80zm0 199.49h-80V89.78h80zm-100 0H229.89l-40-39.9V89.78h80v99.74h20V89.78h80v99.74h20V89.78h80zm-299.8-99.75H100v20h70v79.8H60l-40-39.9V20h80v69.78h70zm919.54-99.74h-50V0H929.75l-50.47 69.83h-89.67l-30 29.92V69.83h-70V0H469.77v69.83H160.42L110 0H0v239.4L139.93 379h139.93v-39.9l40 39.9h269.85v-39.9l40 39.9h129.91v-39.9l40 39.9h249.88l90-89.78V119.7z" fill="#9145ff"></path>
+            <path class="wordmark-logo__text fill-white" d="M939.53 269.32h79.96v-99.75h19.99v99.75h79.96V129.68l-39.98-39.9h-59.97V19.96h-79.96v249.36zM589.71 229.42l39.97 39.9h109.95v-79.8h-69.96v-19.95h69.96V89.78h-69.96V19.96h-79.96v209.46zM759.62 229.42l39.98 39.9h119.94v-79.8h-79.96v-19.95h79.96V89.78H799.6l-39.98 39.9v99.74zM489.76 19.96h79.96v49.87h-79.96zM169.92 89.78H99.95V19.96H19.99v209.46l39.98 39.9h109.95v-79.8H99.95v-19.95h69.97V89.78zM189.91 229.42l39.97 39.9h239.89V89.78h-79.96v99.74h-20V89.78h-79.95v99.74h-19.99V89.78h-79.96v139.64zM489.76 89.78h79.96v179.54h-79.96z" fill="#FFF"></path>
+          </g>
+        </g>
+      </svg>
+      <div class="text-white text-base lg:text-2xl mt-[-10px] font-[400]">legal</div>
+    </a>
+
+    <div class="flex  items-center gap-4">
+      
+
+  <div class="relative max-[479px]:w-full" x-data="{languageModalOpen: false}">
+    <button class="max-[479px]:w-full max-[479px]:justify-center text-white text-base px-3 flex items-center gap-[10px] border-2 border-white rounded-lg p-[14px_12px] leading-[20px] " @click="languageModalOpen = true;$focus.within($refs.language_dropdown).first()" :aria-expanded="languageModalOpen" aria-haspopup="true" aria-label="Languages" @keydown.down.prevent="languageModalOpen = true;$focus.within($refs.language_dropdown).first()" @keydown.up.prevent="languageModalOpen = true;$focus.within($refs.language_dropdown).last()" @keydown.escape="languageModalOpen = false;$nextTick(() =&gt; $refs.language_button.focus())" x-ref="language_button" aria-expanded="false">
+        <div>
+          Languages
+        </div>
+        <img src="/images/icons/arrow.svg" alt="">
+    </button>
+
+    <ul class="max-[479px]:w-full border-brand-purple border rounded-lg bg-white p-2 absolute z-[200] top-[calc(100%+7.5px)]" role="menu" x-show="languageModalOpen" @click.outside="languageModalOpen = false" @keydown.escape="languageModalOpen = false;$nextTick(() =&gt; $refs.language_button.focus())" @keydown.down.prevent="$focus.wrap().next()" @keydown.up.prevent="$focus.wrap().previous()" x-ref="language_dropdown" x-trap.inert="languageModalOpen" style="display: none;">
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/de-de/legal/privacy-choices" lang="de">Deutsch</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/en/legal/privacy-choices" lang="en">English</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/es-es/legal/privacy-choices" lang="es">Español</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/fr-fr/legal/privacy-choices" lang="fr">Français</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/it-it/legal/privacy-choices" lang="it">Italiano</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/ko-kr/legal/privacy-choices" lang="ko">한국어</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/nl-nl/legal/privacy-choices" lang="nl">Nederlands</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/pl-pl/legal/privacy-choices" lang="pl">Polski</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/pt-br/legal/privacy-choices" lang="pt">Português Brasileiro</a>
+          </li>
+          
+      
+          
+          
+          
+          
+          
+          
+          <li role="none" class="flex hover:bg-brand-purple hover:text-white text-base text-brand-black">
+            
+            <a role="menuitem" tabindex="0" class="p-2 w-full whitespace-nowrap" href="/sv-se/legal/privacy-choices" lang="sv">Svenska</a>
+          </li>
+          
+      
+    </ul>
+  </div>
+
+    
+
+      <ul class="nav__list--desktop nav__unauthenticated max-[479px]:w-full">
+        
+        
+        
+          
+            <li class="nav__item text-brand-purple bg-brand-white border-2 border-[transparent] p-[14px_12px] text-base rounded-lg leading-[20px] require_logged_out">
+              <a href="https://www.twitch.tv/" class="nav__link flex gap-[10px] max-[479px]:justify-center ">
+                
+                <span data-i18n="menu:back-to-twitch">Back to Twitch</span>
+                <svg width="12" height="15" viewBox="0 0 12 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="rotate-[225deg] stroke-brand-purple">
+                  <path d="M11.0006 8.49963L6.00058 13.4996M6.00058 13.4996L1.00058 8.49963M6.00058 13.4996V1.49963" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg>
+              </a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    </header>
+    <template x-if="isVisible === true">
+      <main>
+        <div class="flex w-full">
+          <div class="flex-grow bg-brand-ice"></div>
+          <div class="grid grid-cols-1 lg:grid-cols-[350px_1fr] w-full max-w-[2000px]">
+            <aside class="lg:sticky top-0 self-start lg:h-[100vh] col-span-2 lg:col-span-1 col-start-1 bg-brand-ice pl-4 lg:pl-8 pt-4 pb-4 lg:pb-0 lg:pt-8 pr-4"><div class="w-full text-base font-[700]" x-data="{mobileSubNavOpen: false}">
+    <div class="relative flex items-center justify-between w-full">
+        <div class="flex items-center lg:hidden">
+            Contents
+            <button aria-label="Site menu" class="flex-none lg:hidden fill-white z-100" id="menu" @click="mobileSubNavOpen = !mobileSubNavOpen">
+                <svg height="32" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h48v48h-48z" fill="none"></path><path fill="#8D41F9" d="M6 36h36v-4h-36v4zm0-10h36v-4h-36v4zm0-14v4h36v-4h-36z"></path></svg>
+            </button>
+        </div>
+        <script>
+    
+    function initializeSearch() {
+       
+        try {
+            if (typeof PagefindModularUI !== 'undefined') {
+                window.instance = new PagefindModularUI.Instance();
+                let resultContainer = document.getElementById("results");
+
+                window.instance.add(new PagefindModularUI.Input({
+                    containerElement: "#search",
+                    debounceTimeoutMs: 500
+                }));
+
+                window.instance.on("results", async (results) => {
+                    let resultsCount = results.results.length;
+                    resultContainer.innerHTML = "";
+                    let cutDownResults = results.results.slice(0, 5);
+                    let innerContainer = document.createElement("div");
+
+                    for (const result of cutDownResults) {
+                        let data = await result.data();
+                        let content_array = data.excerpt.split(" ");
+                        let idx = 0;
+                        for (let i = 0; i < content_array.length; i++) {
+                            if (content_array[i].indexOf("<mark>") != -1) {
+                                idx = i;
+                                break;
+                            }
+                        }
+                        idx = idx == 0 ? idx : idx - 1;
+                        content_array = content_array.slice(idx, -1);
+                        let excerpt_text = content_array.join(" ");
+
+                        let resultDiv = document.createElement("a");
+                        resultDiv.href = data.url;
+                        let title = document.createElement("div");
+                        title.classList.add("underline");
+                        title.innerText = data.meta.title;
+                        resultDiv.append(title);
+                        let excerpt = document.createElement("div");
+                        excerpt.classList.add("overflow-hidden", "text-ellipsis", "whitespace-nowrap");
+                        excerpt.innerHTML = excerpt_text;
+                        resultDiv.append(excerpt);
+                        resultDiv.classList.add("pagefind-result");
+                        innerContainer.append(resultDiv);
+                    }
+
+                    innerContainer.classList.add("p-6");
+                    resultContainer.append(innerContainer);
+
+                    let bottom = document.createElement("div");
+                    bottom.classList.add("bg-brand-ice", "p-5", "flex", "items-center", "justify-between");
+                    let text = document.createElement("a");
+                    text.classList.add("underline");
+                    text.innerHTML = `See all ${resultsCount} results`;
+                    text.href = "\/en/legal/search?term=" + window.instance.searchTerm;
+                    bottom.append(text);
+
+                    resultContainer.append(bottom);
+                    resultContainer.classList.remove("hidden");
+                });
+
+                
+                setTimeout(() => {
+                    const input = document.querySelector(".pagefind-modular-input");
+                    if (input) {
+                        input.placeholder = "Search legal docs";
+                    }
+                }, 100);
+
+                document.addEventListener("click", e => {
+                    if (e.target.matches("input.pagefind-modular-input") || e.target.matches("#results")) {
+                        if (e.target.value) {
+                            window.instance.triggerSearch(e.target.value);
+                            resultContainer.classList.remove("hidden");
+                        }
+                    } else {
+                        resultContainer.classList.add("hidden");
+                    }
+                });
+
+                return true;
+            }
+            return false;
+        } catch (error) {
+            console.error("Error initializing search:", error);
+            return false;
+        }
+    }
+
+    
+    function tryInitializeSearch() {
+        
+        if (initializeSearch()) return;
+
+        
+        let attempts = 0;
+        const maxAttempts = 20;
+        const interval = setInterval(function () {
+            attempts++;
+
+            if (initializeSearch() || attempts >= maxAttempts) {
+                clearInterval(interval);
+            }
+        }, 250);
+    }
+
+    
+    tryInitializeSearch();
+
+    
+    document.addEventListener('DOMContentLoaded', tryInitializeSearch);
+
+    
+    window.addEventListener('load', tryInitializeSearch);
+</script>
+
+
+<div id="search" class="w-full max-[479px]:max-w-[55%] max-w-[40%] lg:max-w-full"></div>
+<div id="results" class="hidden absolute mt-4 bg-white border border-[#8D41F9] rounded-lg z-20 overflow-hidden lg:w-[446px] left-0 right-0 lg:left-auto lg:right-auto top-[100%]" role="dialog" aria-label="Search results"></div>
+
+    </div>
+    
+    
+    <ul class="mt-4" :class="mobileSubNavOpen ? 'block lg:block' : 'hidden lg:block'">
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex items-center stroke-black">
+            <svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1.25 11L10.204 2.04501C10.644 1.60601 11.356 1.60601 11.795 2.04501L20.75 11M3.5 8.75001V18.875C3.5 19.496 4.004 20 4.625 20H8.75V15.125C8.75 14.504 9.254 14 9.875 14H12.125C12.746 14 13.25 14.504 13.25 15.125V20H17.375C17.996 20 18.5 19.496 18.5 18.875V8.75001M7.25 20H15.5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+            <a class="p-2 " href="/en/legal/">
+                All Legal Docs
+            </a>
+        </li>
+        
+        
+        
+        
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/terms-of-service/" data-i18n="menu:terms-of-service">Terms of Service</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/terms-of-sale/" data-i18n="menu:terms-of-sale">Terms of Sale</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/privacy-notice/" data-i18n="menu:privacy-notice">Privacy Notice</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+                
+            
+            
+                <a class="p-3  text-brand-dragon font-[700] underline" aria-current="page" href="/en/legal/privacy-choices/" data-i18n="menu:privacy-choices">Privacy Choices</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/monetized-streamer-agreement/" data-i18n="menu:monetized-streamer-agreement">Monetized Streamer Agreement</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+
+        
+    </ul>
+</div>
+
+
+</aside>
+            <div id="main-content">
+              
+    
+    
+
+    
+      
+      
+        
+      <div class="grid grid-cols-1 pb-16 xl:grid-cols-[1fr_350px]">
+        
+        
+        
+        
+          
+          
+
+          
+            
+          
+        
+
+        <h1 class="pt-12 pl-5 text-4xl text-brand-purple-dark font-[700] mb-4 xl:col-span-2">Privacy Choices</h1>
+        
+        
+        
+        <div class=" xl:sticky top-0 self-start px-4 xl:pl-5 xl:pr-5 pt-8 xl:h-[100vh] xl:overflow-y-scroll xl:col-start-2 xl:row-start-2 xl:max-w-[350px] order-first xl:order-none" x-data="{mobileTOCOpen: false}">
+          <style>
+            @media (max-width: 1279px) {
+              .toc-header {
+                margin-bottom: 13px;
+              }
+            }
+          </style>
+          
+            <div class="bg-brand-ice xl:bg-transparent p-4 xl:p-0 rounded-lg xl:rounded-none">
+              <button class="text-sm font-[500] flex items-center justify-between xl:border-none xl:toc-header w-full text-left group" @click="mobileTOCOpen = !mobileTOCOpen" @keydown.enter="mobileTOCOpen = !mobileTOCOpen" @keydown.space.prevent="mobileTOCOpen = !mobileTOCOpen" aria-expanded="false" :aria-expanded="mobileTOCOpen ? 'true' : 'false'" :data-state="mobileTOCOpen ? 'open' : 'closed'" aria-controls="table-of-contents">
+                <div>ON THIS PAGE</div>
+                <div class="flex items-center justify-end xl:hidden">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4 transition-transform duration-300 select-none" :class="mobileTOCOpen ? '-scale-y-100' : ''"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg>
+                </div>
+              </button>
+              <div id="table-of-contents" :class="mobileTOCOpen ? 'block xl:block' : 'hidden xl:block'" class="xl:px-0" style="background-color: #F0F0FF; border-radius: 0.5rem; padding: 16px;">
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#control-your-privacy-settings"><strong>Control Your Privacy Settings</strong></a></li>
+    <li><a href="#your-privacy-choices"><strong>Your Privacy Choices</strong></a></li>
+  </ul>
+</nav>
+              </div>
+            </div>
+          
+        </div>
+        
+        <div class="pl-5 pr-5 xl:pr-0 xl:col-start-1 xl:row-start-2">
+          
+            
+              <div class="flex items-center justify-between mb-5">
+                <p class="text-xs">
+                  
+                    
+                    <span data-i18n="legal-enlegalprivacy-choices20230517:modified" style="display: block;">
+                        Last modified on 
+                        
+                          05/17/2023
+                        
+                    </span>
+                    
+                  
+                  
+                      <span data-i18n="legal-enlegalprivacy-choices20230517:modified" style="display: block;">
+                          <a class="font-bold text-brand-purple" href="/en/legal/privacy-choices/archive">See prior versions of Privacy Choices</a>
+                      </span>
+                  
+                </p>
+              </div>
+          
+
+          <article data-pagefind-body="" data-pagefind-meta="title:Privacy Choices" class="prose max-w-none prose-brand-purple prose-base prose-headings:text-brand-purple-dark prose-a:text-brand-black hover:prose-a:underline">
+            <h1 id="your-privacy-controls--choices">
+  <strong>Your Privacy Controls &amp; Choices</strong>
+</h1>
+<h2 id="control-your-privacy-settings" tabindex="-1">
+  <strong>Control Your Privacy Settings</strong>
+</h2>
+<p><strong>You have the ability to control who sees your content and personal information, and how it affects your experience on Twitch.</strong> For example, you can disable notifications that are not relevant to you and keep notifications that are important to you about your stream. Someone might not want marketing emails, but they might want to know when an opportunity for streamers arises. They might not want emails when someone follows them, but they might want a text when something in their payout details changes.</p>
+<p>Here’s a breakdown of how you can adjust your privacy settings to best suit your needs:</p>
+<table><tbody><tr><th><p><strong>If you want to:</strong></p></th><th><p><strong><em>For example:</em></strong></p></th><th><p><strong>Do this:</strong></p></th></tr><tr><td><p>Update your user profile information and preferences</p></td><td><p>Change your username or password</p></td><td><p>You can update your own profile information by visiting Profile <a href="https://www.twitch.tv/settings/profile">Settings</a>, accessible by clicking your profile picture on the top right.</p></td></tr><tr><td><p>Update your security and privacy settings</p></td><td><p>Enable two factor authentication, add/remove a phone number to your account, block users, update cookie preferences, etc.</p></td><td><p>You can update your security settings by visiting Profile <a href="https://www.twitch.tv/settings/profile">Settings</a>, accessible by clicking your profile picture on the top right and then selecting<a href="https://www.twitch.tv/settings/security"> Security &amp; Privacy. </a></p></td></tr><tr><td><p>Disable your Twitch user account</p></td><td><p>Temporarily delete your account, making it able to be recovered at a later time.</p></td><td><p>You can disable your account by logging into your Twitch account and visiting your <a href="https://www.twitch.tv/settings/profile">Settings </a>page, scrolling to the bottom and selecting <a href="https://www.twitch.tv/user/disable-account">disable my account</a>. </p></td></tr><tr><td><p>Close your account and delete your profile information</p><p>Note: If you close your account, Twitch may retain other information about you for the activities described in our <a href="https://www.twitch.tv/p/legal/privacy-notice/">Privacy Notice</a>, or as permitted or required by applicable law.</p></td><td><p>Permanently delete your account. </p><p>Note: A deleted account cannot be recovered. </p></td><td><p>You can close your account and delete your information by accessing <a href="https://www.twitch.tv/user/delete-account">https://www.Twitch.tv/user/delete-account</a>, or by submitting a <a href="https://help.twitch.tv/s/contactsupport">Support request</a> under 'Privacy Questions'.</p><p>If you have engaged in Twitch user surveys or research, please email <a href="mailto:surveysupport@twitch.tv">surveysupport@Twitch.tv</a> to delete additional information.</p></td></tr><tr><td><p>De-link your account from your other accounts and services (such as Blizzard Battle.net, Steam, and League of League of Legends) and opt out of sharing between the Twitch Services and these accounts and services of user-related data.</p></td><td><p>Remove the association between your accounts and therefore disable the sharing of data and making certain data elements publicly available. For more details, see descriptions on the <a href="https://www.twitch.tv/settings/connections">Connections </a>page. </p></td><td><p>You can de-link your account from other accounts and services by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/connections">Connections </a>tab where you can connect or disconnect accounts.</p></td></tr><tr><td><p>Update personal information which is out of date or incorrect</p></td><td><p>Notice your personal information, like a birthday, is incorrect? Submit a request so we can help you update your profile.</p></td><td><p>To update your account or profile information, log into your account, select your profile picture in the top right and go to your <a href="https://www.twitch.tv/settings/profile">Settings</a> page.</p><p>If you want to update other out of date or incorrect information, contact <a href="https://help.twitch.tv/s/contactsupport">Twitch Support</a> under the 'Privacy Questions' category.</p></td></tr><tr><td><p>Block Whispers from strangers</p></td><td><p>Block people you do not know from sending you 1:1 chats.</p><p><em>(A stranger is anyone who is NOT: someone you follow, someone you subscribe to, one of your mods, or one of your editors.)</em></p></td><td><p>For new Twitch users, strangers cannot send you Whispers by default. To change your Whisper settings, you can block whispers from strangers by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/security">Security and Privacy</a> tab.</p></td></tr><tr><td><p>Block receiving gifts on channels you don't follow</p></td><td><p>Block people who you do not follow from sending you gifts (i.e., only allowing people you follow to gift you items)</p></td><td><p>You can block gifts from people you do not follow by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/security">Security and Privacy</a> tab.</p></td></tr><tr><td><p>Revoke your authorization to share your data with an Extension.</p></td><td><p>Take away the permissions previously granted for Twitch to share your personal data with outside parties.</p></td><td><p>Disconnect your Extensions and other connections from the <a href="https://www.twitch.tv/settings/connections">Connections</a> tab in your Settings.</p><p>You can also manage your Extensions permissions from your <a href="https://dashboard.twitch.tv/">Creator Dashboard</a> under the Extensions section.</p></td></tr><tr><td><p>Modify your cookie consent preferences</p></td><td><p>Update your cookie consent preferences to alter the way in which Twitch collects data about how you use the platform.</p></td><td><p>You can update your cookie consent preferences by logging into your Twitch account, clicking your profile picture in the top right and selecting "Cookie Preferences" to make your desired modifications.</p></td></tr><tr><td><p><em>For streamers: </em>Modify your chat permissions and moderation settings</p></td><td><p>Customize your moderation controls and chat options from your Creator Dashboard</p></td><td><p>You can customize AutoMod Controls, Suspicious Users Controls and Chat Options by navigating to <a href="https://dashboard.twitch.tv/settings/moderation">Moderation Settings</a> within your <a href="https://dashboard.twitch.tv/">Creator Dashboard</a>. </p></td></tr></tbody></table>
+<h2 id="your-privacy-choices" tabindex="-1">
+  <strong>Your Privacy Choices</strong>
+</h2>
+<p>We aim to provide you with a variety of privacy rights and choices regarding how we use the information we collect about you, and how you can manage your online privacy when you use Twitch Services.</p>
+<p>Here’s how you can exercise your privacy rights and choices:</p>
+<table><tbody><tr><th><p><strong>If you want to:</strong></p></th><th><p><strong><em>For example:</em></strong></p></th><th><p><strong>Do this:</strong></p></th></tr><tr><td><p>Download your VODs or highlights</p></td><td><p>Receive a link with the total sum of your VOD or highlight content</p></td><td><p>To download your VODs or highlights, log into your Twitch account, click your profile picture in the top right and select <a href="https://dashboard.twitch.tv/content/video-producer">Video Producer</a>. For a more detailed breakdown of your options, check out the <a href="https://help.twitch.tv/s/article/video-on-demand">VOD Help Page</a>. </p><p> </p></td></tr><tr><td><p>Opt out of non-transactional email or push notifications</p></td><td><p>Say "no" to pop up notifications on your devices from us.</p></td><td><p>You can opt out of non-transactional notifications and emails by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/notifications">Notifications </a>tab.</p></td></tr><tr><td><p>Opt out of marketing emails from Twitch</p></td><td><p>Say "no" to receiving marketing emails from us.</p></td><td><p>Use the "unsubscribe" link included in each email at the bottom of the content or set your preferences by accessing the <a href="https://www.twitch.tv/settings/notifications">Notifications </a>tab in your <a href="https://www.twitch.tv/settings/profile">Settings</a>.</p></td></tr><tr><td><p>Opt out of Ad Tracking on your mobile device</p></td><td><p>Say "no" to your personal data being leveraged to enhance your advertising experience while on the Twitch platform.</p></td><td><p>To opt out of Ad Tracking, go to the Privacy Settings on your mobile device under Tracking and/or Ads. </p></td></tr><tr><td><p>Opt out of tracking by participating third-party advertising networks' and ad servers.</p></td><td><p>Say "no" to third parties <em>(groups external to Twitch</em>) having access to your user data and therefore, have a less personalized ad experience. </p></td><td><p>You can opt out of tracking by third- party advertising networks and servers by visiting the <a href="https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options">Network Advertising Initiative opt-out page</a>, the <a href="https://optout.aboutads.info/?c=2&amp;lang=EN">Digital Advertising Alliance opt-out page</a>, or the <a href="https://www.youronlinechoices.eu/">Your Online Choices</a> page.</p></td></tr><tr><td><p>Learn more about or opt out of Nielsen services in connection with your use of the Twitch Services</p></td><td><p>Nielsen uses software and products to provide digital measurement services to analyze how consumers engage with media to offer research insights into consumer behavior.</p></td><td><p>Visit <a href="http://www.nielsen.com/digitalprivacy">http://www.nielsen.com/digitalprivacy</a> and/or utilize on-service data management tools (for example, the Privacy settings on your mobile device). </p></td></tr><tr><td><p>Obtain access to or a copy of certain personal data we hold about you.</p></td><td><p>Download a copy of your personal data to better understand and see what information Twitch has on file.</p></td><td><p>If you want to see your account information, go to the drop-down menu on the top of your screen.</p><p>If you want to download your VODs or highlights, please go to your video producer page.</p><p>If you want to obtain other types of information that we hold about you can request the data directly from your <a href="https://www.twitch.tv/settings/security">Security and Privacy Settings page</a> under "Download Your Data", please see our <a href="https://help.twitch.tv/s/article/requesting-your-data-from-twitch">help article</a> for more information on how to use this feature. </p><p>If you no longer have access to your account, you may also submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category. You will need to verify your identity to effect this right.</p></td></tr><tr><td><p>Delete personal information Twitch holds about you</p></td><td><p>Delete the personal information Twitch holds about you by permanently deleting your account. </p><p>Note: A deleted account cannot be recovered. </p><p> </p><p> </p><p> </p></td><td><p>We need certain information in order to provide the Twitch services to you. As a result, we are unable to maintain your Twitch account and also delete all the personal information that Twitch processes about you.</p><p>You can close your account and delete your information by accessing <a href="https://www.Twitch.tv/user/delete-account">https://www.Twitch.tv/user/delete-account</a>, or by submitting a Support request under 'Privacy Questions'.</p><p>If you have engaged in Twitch user surveys or research, please email <a href="mailto:surveysupport@twitch.tv">surveysupport@twitch.tv</a> to delete additional information.</p></td></tr><tr><td><p>Restrict the way that we process and disclose specific personal information about you</p></td><td><p>Don't want us to gather or share certain aspects of your personal or user data? Submit a request to let us know your personal preferences.</p></td><td><p>Submit your request to restrict processing <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category.</p><p> </p><p> </p></td></tr><tr><td><p>Transfer your personal information to a third-party provider of services</p></td><td><p>Looking to transfer your VODs or highlights to an external site beyond Twitch? Submit a request to obtain a copy of your content!</p></td><td><p>To export your VODs or highlights, please go to your video producer page.</p><p>To obtain a copy of your information so that you can transfer that information, you can request the data directly from your <a href="https://www.twitch.tv/settings/security">Security and Privacy Settings page</a> under "Download Your Data".</p><p>If you no longer have access to your account, you may also submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category. You will need to verify your identity to effect this right.</p></td></tr><tr><td><p>Object to the processing of your personal information</p></td><td><p>Say "no" to your personal data being processed and leveraged by Twitch.</p></td><td><p>If you wish to object to processing of personal information, submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category.</p></td></tr><tr><td><p>Obtain information about the categories of personal information we collect about you, and how we share and disclose this information.</p></td><td><p>You want to better understand the kind of user data that is captured and held by Twitch, and how that is then communicated to groups within and beyond Twitch.</p></td><td><p>Please see our <a href="https://www.twitch.tv/legal/privacy-notice/">Privacy Notice</a> and <a href="https://www.twitch.tv/legal/state-specific-privacy-disclosures/">State-Specific Privacy Disclosures</a> which describes the categories of personal information we collect, the sources of such personal information, how we use that information for our business purposes, and the business purposes for which we disclose such information.</p></td></tr></tbody></table>
+<p>Note that, to protect your privacy and security, when you initiate some of these requests we may ask that you provide us with additional information necessary to verify your identity (such as your IP address, date of birth, transaction IDs, and email address) before responding to your request.</p>
+<p>Twitch aims to provide the same privacy options regardless of location; however, certain options may differ in accordance with local regulations and requirements. For instance, Residents of the European Economic Area (“EEA”), Brazil, California and other states can exercise certain additional rights available to them under applicable data protection laws. To learn more about options available in your specific jurisdiction, visit our <a href="https://legal.twitch.com/legal/privacy-notice/">Privacy Notice</a> or <a href="https://legal.twitch.com/legal/state-specific-privacy-disclosures/">Additional State-Specific Privacy Disclosures</a> page.</p>
+<p>If you need more information or have other privacy questions, <a href="https://help.twitch.tv/s/contactsupport">contact Twitch Support</a> under the ‘Privacy Questions’ category.</p>
+
+          </article>
+        </div>
+      </div>
+    
+
+    <script>
+      
+      const io_options = {
+        rootMargin: '0px 0px -80% 0px',
+        threshold: [0.1, 0.5]
+      }
+      
+      
+      const observer = new IntersectionObserver(entries => {
+        
+        const intersectingEntries = entries.filter(entry => entry.isIntersecting);
+        
+        if (intersectingEntries.length > 0) {
+          
+          const entry = intersectingEntries[0];
+          const id = entry.target.getAttribute('id');
+          
+          
+          if (id) {
+            
+            document.querySelectorAll(`nav li`).forEach(li => {
+              li.classList.remove('active');
+            });
+            
+            
+            const activeLink = document.querySelector(`nav li a[href="#${id}"]`);
+            if (activeLink) {
+              activeLink.parentElement.classList.add('active');
+            }
+          }
+        }
+      }, io_options);
+      
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('main h2').forEach((section) => {
+          observer.observe(section);
+        });
+        
+        
+        const tocLinks = document.querySelectorAll('.toc-header + div a');
+        tocLinks.forEach(link => {
+          link.addEventListener('click', function(e) {
+            e.preventDefault(); 
+            const targetId = this.getAttribute('href').substring(1);
+            const targetHeading = document.getElementById(targetId);
+            
+            if (targetHeading) {
+              
+              targetHeading.focus();
+              
+              targetHeading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          });
+        });
+        
+        
+        if (window.location.hash) {
+          const hash = window.location.hash;
+          const activeLink = document.querySelector(`nav li a[href="${hash}"]`);
+          if (activeLink) {
+            document.querySelectorAll('nav li').forEach(li => {
+              li.classList.remove('active');
+            });
+            activeLink.parentElement.classList.add('active');
+          }
+        }
+      });
+    </script>
+
+            </div>
+          </div>
+          <div class="flex-grow"></div>
+        </div>
+      </main>
+    </template><main>
+        <div class="flex w-full">
+          <div class="flex-grow bg-brand-ice"></div>
+          <div class="grid grid-cols-1 lg:grid-cols-[350px_1fr] w-full max-w-[2000px]">
+            <aside class="lg:sticky top-0 self-start lg:h-[100vh] col-span-2 lg:col-span-1 col-start-1 bg-brand-ice pl-4 lg:pl-8 pt-4 pb-4 lg:pb-0 lg:pt-8 pr-4"><div class="w-full text-base font-[700]" x-data="{mobileSubNavOpen: false}">
+    <div class="relative flex items-center justify-between w-full">
+        <div class="flex items-center lg:hidden">
+            Contents
+            <button aria-label="Site menu" class="flex-none lg:hidden fill-white z-100" id="menu" @click="mobileSubNavOpen = !mobileSubNavOpen">
+                <svg height="32" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h48v48h-48z" fill="none"></path><path fill="#8D41F9" d="M6 36h36v-4h-36v4zm0-10h36v-4h-36v4zm0-14v4h36v-4h-36z"></path></svg>
+            </button>
+        </div>
+        <script>
+    
+    function initializeSearch() {
+       
+        try {
+            if (typeof PagefindModularUI !== 'undefined') {
+                window.instance = new PagefindModularUI.Instance();
+                let resultContainer = document.getElementById("results");
+
+                window.instance.add(new PagefindModularUI.Input({
+                    containerElement: "#search",
+                    debounceTimeoutMs: 500
+                }));
+
+                window.instance.on("results", async (results) => {
+                    let resultsCount = results.results.length;
+                    resultContainer.innerHTML = "";
+                    let cutDownResults = results.results.slice(0, 5);
+                    let innerContainer = document.createElement("div");
+
+                    for (const result of cutDownResults) {
+                        let data = await result.data();
+                        let content_array = data.excerpt.split(" ");
+                        let idx = 0;
+                        for (let i = 0; i < content_array.length; i++) {
+                            if (content_array[i].indexOf("<mark>") != -1) {
+                                idx = i;
+                                break;
+                            }
+                        }
+                        idx = idx == 0 ? idx : idx - 1;
+                        content_array = content_array.slice(idx, -1);
+                        let excerpt_text = content_array.join(" ");
+
+                        let resultDiv = document.createElement("a");
+                        resultDiv.href = data.url;
+                        let title = document.createElement("div");
+                        title.classList.add("underline");
+                        title.innerText = data.meta.title;
+                        resultDiv.append(title);
+                        let excerpt = document.createElement("div");
+                        excerpt.classList.add("overflow-hidden", "text-ellipsis", "whitespace-nowrap");
+                        excerpt.innerHTML = excerpt_text;
+                        resultDiv.append(excerpt);
+                        resultDiv.classList.add("pagefind-result");
+                        innerContainer.append(resultDiv);
+                    }
+
+                    innerContainer.classList.add("p-6");
+                    resultContainer.append(innerContainer);
+
+                    let bottom = document.createElement("div");
+                    bottom.classList.add("bg-brand-ice", "p-5", "flex", "items-center", "justify-between");
+                    let text = document.createElement("a");
+                    text.classList.add("underline");
+                    text.innerHTML = `See all ${resultsCount} results`;
+                    text.href = "\/en/legal/search?term=" + window.instance.searchTerm;
+                    bottom.append(text);
+
+                    resultContainer.append(bottom);
+                    resultContainer.classList.remove("hidden");
+                });
+
+                
+                setTimeout(() => {
+                    const input = document.querySelector(".pagefind-modular-input");
+                    if (input) {
+                        input.placeholder = "Search legal docs";
+                    }
+                }, 100);
+
+                document.addEventListener("click", e => {
+                    if (e.target.matches("input.pagefind-modular-input") || e.target.matches("#results")) {
+                        if (e.target.value) {
+                            window.instance.triggerSearch(e.target.value);
+                            resultContainer.classList.remove("hidden");
+                        }
+                    } else {
+                        resultContainer.classList.add("hidden");
+                    }
+                });
+
+                return true;
+            }
+            return false;
+        } catch (error) {
+            console.error("Error initializing search:", error);
+            return false;
+        }
+    }
+
+    
+    function tryInitializeSearch() {
+        
+        if (initializeSearch()) return;
+
+        
+        let attempts = 0;
+        const maxAttempts = 20;
+        const interval = setInterval(function () {
+            attempts++;
+
+            if (initializeSearch() || attempts >= maxAttempts) {
+                clearInterval(interval);
+            }
+        }, 250);
+    }
+
+    
+    tryInitializeSearch();
+
+    
+    document.addEventListener('DOMContentLoaded', tryInitializeSearch);
+
+    
+    window.addEventListener('load', tryInitializeSearch);
+</script>
+
+
+<div id="search" class="w-full max-[479px]:max-w-[55%] max-w-[40%] lg:max-w-full"></div>
+<div id="results" class="hidden absolute mt-4 bg-white border border-[#8D41F9] rounded-lg z-20 overflow-hidden lg:w-[446px] left-0 right-0 lg:left-auto lg:right-auto top-[100%]" role="dialog" aria-label="Search results"></div>
+
+    </div>
+    
+    
+    <ul class="mt-4 hidden lg:block" :class="mobileSubNavOpen ? 'block lg:block' : 'hidden lg:block'">
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex items-center stroke-black">
+            <svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1.25 11L10.204 2.04501C10.644 1.60601 11.356 1.60601 11.795 2.04501L20.75 11M3.5 8.75001V18.875C3.5 19.496 4.004 20 4.625 20H8.75V15.125C8.75 14.504 9.254 14 9.875 14H12.125C12.746 14 13.25 14.504 13.25 15.125V20H17.375C17.996 20 18.5 19.496 18.5 18.875V8.75001M7.25 20H15.5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+            <a class="p-2 " href="/en/legal/">
+                All Legal Docs
+            </a>
+        </li>
+        
+        
+        
+        
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/terms-of-service/" data-i18n="menu:terms-of-service">Terms of Service</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/terms-of-sale/" data-i18n="menu:terms-of-sale">Terms of Sale</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/privacy-notice/" data-i18n="menu:privacy-notice">Privacy Notice</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+                    
+
+                    
+                    
+                    
+                    
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+                
+            
+            
+                <a class="p-3  text-brand-dragon font-[700] underline" aria-current="page" href="/en/legal/privacy-choices/" data-i18n="menu:privacy-choices">Privacy Choices</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+        
+        
+            
+                
+            
+        
+        <li class="pt-[6px] pb-[6px] border-b border-brand-widow flex " data-available-countries="">
+            
+            
+            
+                <a class="p-3  " href="/en/legal/monetized-streamer-agreement/" data-i18n="menu:monetized-streamer-agreement">Monetized Streamer Agreement</a>
+            
+
+            
+        </li>
+    
+
+        
+            
+            
+            
+    
+
+        
+    </ul>
+</div>
+
+
+</aside>
+            <div id="main-content">
+              
+    
+    
+
+    
+      
+      
+        
+      <div class="grid grid-cols-1 pb-16 xl:grid-cols-[1fr_350px]">
+        
+        
+        
+        
+          
+          
+
+          
+            
+          
+        
+
+        <h1 class="pt-12 pl-5 text-4xl text-brand-purple-dark font-[700] mb-4 xl:col-span-2">Privacy Choices</h1>
+        
+        
+        
+        <div class=" xl:sticky top-0 self-start px-4 xl:pl-5 xl:pr-5 pt-8 xl:h-[100vh] xl:overflow-y-scroll xl:col-start-2 xl:row-start-2 xl:max-w-[350px] order-first xl:order-none" x-data="{mobileTOCOpen: false}">
+          <style>
+            @media (max-width: 1279px) {
+              .toc-header {
+                margin-bottom: 13px;
+              }
+            }
+          </style>
+          
+            <div class="bg-brand-ice xl:bg-transparent p-4 xl:p-0 rounded-lg xl:rounded-none">
+              <button class="text-sm font-[500] flex items-center justify-between xl:border-none xl:toc-header w-full text-left group" @click="mobileTOCOpen = !mobileTOCOpen" @keydown.enter="mobileTOCOpen = !mobileTOCOpen" @keydown.space.prevent="mobileTOCOpen = !mobileTOCOpen" aria-expanded="false" :aria-expanded="mobileTOCOpen ? 'true' : 'false'" :data-state="mobileTOCOpen ? 'open' : 'closed'" aria-controls="table-of-contents" data-state="closed">
+                <div>ON THIS PAGE</div>
+                <div class="flex items-center justify-end xl:hidden">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4 transition-transform duration-300 select-none" :class="mobileTOCOpen ? '-scale-y-100' : ''"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg>
+                </div>
+              </button>
+              <div id="table-of-contents" :class="mobileTOCOpen ? 'block xl:block' : 'hidden xl:block'" class="xl:px-0 hidden xl:block" style="background-color: #F0F0FF; border-radius: 0.5rem; padding: 16px;">
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#control-your-privacy-settings"><strong>Control Your Privacy Settings</strong></a></li>
+    <li><a href="#your-privacy-choices"><strong>Your Privacy Choices</strong></a></li>
+  </ul>
+</nav>
+              </div>
+            </div>
+          
+        </div>
+        
+        <div class="pl-5 pr-5 xl:pr-0 xl:col-start-1 xl:row-start-2">
+          
+            
+              <div class="flex items-center justify-between mb-5">
+                <p class="text-xs">
+                  
+                    
+                    <span data-i18n="legal-enlegalprivacy-choices20230517:modified" style="display: block;">
+                        Last modified on 
+                        
+                          05/17/2023
+                        
+                    </span>
+                    
+                  
+                  
+                      <span data-i18n="legal-enlegalprivacy-choices20230517:modified" style="display: block;">
+                          <a class="font-bold text-brand-purple" href="/en/legal/privacy-choices/archive">See prior versions of Privacy Choices</a>
+                      </span>
+                  
+                </p>
+              </div>
+          
+
+          <article data-pagefind-body="" data-pagefind-meta="title:Privacy Choices" class="prose max-w-none prose-brand-purple prose-base prose-headings:text-brand-purple-dark prose-a:text-brand-black hover:prose-a:underline">
+            <h1 id="your-privacy-controls--choices">
+  <strong>Your Privacy Controls &amp; Choices</strong>
+</h1>
+<h2 id="control-your-privacy-settings" tabindex="-1">
+  <strong>Control Your Privacy Settings</strong>
+</h2>
+<p><strong>You have the ability to control who sees your content and personal information, and how it affects your experience on Twitch.</strong> For example, you can disable notifications that are not relevant to you and keep notifications that are important to you about your stream. Someone might not want marketing emails, but they might want to know when an opportunity for streamers arises. They might not want emails when someone follows them, but they might want a text when something in their payout details changes.</p>
+<p>Here’s a breakdown of how you can adjust your privacy settings to best suit your needs:</p>
+<table><tbody><tr><th><p><strong>If you want to:</strong></p></th><th><p><strong><em>For example:</em></strong></p></th><th><p><strong>Do this:</strong></p></th></tr><tr><td><p>Update your user profile information and preferences</p></td><td><p>Change your username or password</p></td><td><p>You can update your own profile information by visiting Profile <a href="https://www.twitch.tv/settings/profile">Settings</a>, accessible by clicking your profile picture on the top right.</p></td></tr><tr><td><p>Update your security and privacy settings</p></td><td><p>Enable two factor authentication, add/remove a phone number to your account, block users, update cookie preferences, etc.</p></td><td><p>You can update your security settings by visiting Profile <a href="https://www.twitch.tv/settings/profile">Settings</a>, accessible by clicking your profile picture on the top right and then selecting<a href="https://www.twitch.tv/settings/security"> Security &amp; Privacy. </a></p></td></tr><tr><td><p>Disable your Twitch user account</p></td><td><p>Temporarily delete your account, making it able to be recovered at a later time.</p></td><td><p>You can disable your account by logging into your Twitch account and visiting your <a href="https://www.twitch.tv/settings/profile">Settings </a>page, scrolling to the bottom and selecting <a href="https://www.twitch.tv/user/disable-account">disable my account</a>. </p></td></tr><tr><td><p>Close your account and delete your profile information</p><p>Note: If you close your account, Twitch may retain other information about you for the activities described in our <a href="https://www.twitch.tv/p/legal/privacy-notice/">Privacy Notice</a>, or as permitted or required by applicable law.</p></td><td><p>Permanently delete your account. </p><p>Note: A deleted account cannot be recovered. </p></td><td><p>You can close your account and delete your information by accessing <a href="https://www.twitch.tv/user/delete-account">https://www.Twitch.tv/user/delete-account</a>, or by submitting a <a href="https://help.twitch.tv/s/contactsupport">Support request</a> under 'Privacy Questions'.</p><p>If you have engaged in Twitch user surveys or research, please email <a href="mailto:surveysupport@twitch.tv">surveysupport@Twitch.tv</a> to delete additional information.</p></td></tr><tr><td><p>De-link your account from your other accounts and services (such as Blizzard Battle.net, Steam, and League of League of Legends) and opt out of sharing between the Twitch Services and these accounts and services of user-related data.</p></td><td><p>Remove the association between your accounts and therefore disable the sharing of data and making certain data elements publicly available. For more details, see descriptions on the <a href="https://www.twitch.tv/settings/connections">Connections </a>page. </p></td><td><p>You can de-link your account from other accounts and services by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/connections">Connections </a>tab where you can connect or disconnect accounts.</p></td></tr><tr><td><p>Update personal information which is out of date or incorrect</p></td><td><p>Notice your personal information, like a birthday, is incorrect? Submit a request so we can help you update your profile.</p></td><td><p>To update your account or profile information, log into your account, select your profile picture in the top right and go to your <a href="https://www.twitch.tv/settings/profile">Settings</a> page.</p><p>If you want to update other out of date or incorrect information, contact <a href="https://help.twitch.tv/s/contactsupport">Twitch Support</a> under the 'Privacy Questions' category.</p></td></tr><tr><td><p>Block Whispers from strangers</p></td><td><p>Block people you do not know from sending you 1:1 chats.</p><p><em>(A stranger is anyone who is NOT: someone you follow, someone you subscribe to, one of your mods, or one of your editors.)</em></p></td><td><p>For new Twitch users, strangers cannot send you Whispers by default. To change your Whisper settings, you can block whispers from strangers by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/security">Security and Privacy</a> tab.</p></td></tr><tr><td><p>Block receiving gifts on channels you don't follow</p></td><td><p>Block people who you do not follow from sending you gifts (i.e., only allowing people you follow to gift you items)</p></td><td><p>You can block gifts from people you do not follow by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/security">Security and Privacy</a> tab.</p></td></tr><tr><td><p>Revoke your authorization to share your data with an Extension.</p></td><td><p>Take away the permissions previously granted for Twitch to share your personal data with outside parties.</p></td><td><p>Disconnect your Extensions and other connections from the <a href="https://www.twitch.tv/settings/connections">Connections</a> tab in your Settings.</p><p>You can also manage your Extensions permissions from your <a href="https://dashboard.twitch.tv/">Creator Dashboard</a> under the Extensions section.</p></td></tr><tr><td><p>Modify your cookie consent preferences</p></td><td><p>Update your cookie consent preferences to alter the way in which Twitch collects data about how you use the platform.</p></td><td><p>You can update your cookie consent preferences by logging into your Twitch account, clicking your profile picture in the top right and selecting "Cookie Preferences" to make your desired modifications.</p></td></tr><tr><td><p><em>For streamers: </em>Modify your chat permissions and moderation settings</p></td><td><p>Customize your moderation controls and chat options from your Creator Dashboard</p></td><td><p>You can customize AutoMod Controls, Suspicious Users Controls and Chat Options by navigating to <a href="https://dashboard.twitch.tv/settings/moderation">Moderation Settings</a> within your <a href="https://dashboard.twitch.tv/">Creator Dashboard</a>. </p></td></tr></tbody></table>
+<h2 id="your-privacy-choices" tabindex="-1">
+  <strong>Your Privacy Choices</strong>
+</h2>
+<p>We aim to provide you with a variety of privacy rights and choices regarding how we use the information we collect about you, and how you can manage your online privacy when you use Twitch Services.</p>
+<p>Here’s how you can exercise your privacy rights and choices:</p>
+<table><tbody><tr><th><p><strong>If you want to:</strong></p></th><th><p><strong><em>For example:</em></strong></p></th><th><p><strong>Do this:</strong></p></th></tr><tr><td><p>Download your VODs or highlights</p></td><td><p>Receive a link with the total sum of your VOD or highlight content</p></td><td><p>To download your VODs or highlights, log into your Twitch account, click your profile picture in the top right and select <a href="https://dashboard.twitch.tv/content/video-producer">Video Producer</a>. For a more detailed breakdown of your options, check out the <a href="https://help.twitch.tv/s/article/video-on-demand">VOD Help Page</a>. </p><p> </p></td></tr><tr><td><p>Opt out of non-transactional email or push notifications</p></td><td><p>Say "no" to pop up notifications on your devices from us.</p></td><td><p>You can opt out of non-transactional notifications and emails by logging into your Twitch account, clicking your profile picture in the top right, selecting <a href="https://www.twitch.tv/settings/profile">Settings</a> and then navigating to the <a href="https://www.twitch.tv/settings/notifications">Notifications </a>tab.</p></td></tr><tr><td><p>Opt out of marketing emails from Twitch</p></td><td><p>Say "no" to receiving marketing emails from us.</p></td><td><p>Use the "unsubscribe" link included in each email at the bottom of the content or set your preferences by accessing the <a href="https://www.twitch.tv/settings/notifications">Notifications </a>tab in your <a href="https://www.twitch.tv/settings/profile">Settings</a>.</p></td></tr><tr><td><p>Opt out of Ad Tracking on your mobile device</p></td><td><p>Say "no" to your personal data being leveraged to enhance your advertising experience while on the Twitch platform.</p></td><td><p>To opt out of Ad Tracking, go to the Privacy Settings on your mobile device under Tracking and/or Ads. </p></td></tr><tr><td><p>Opt out of tracking by participating third-party advertising networks' and ad servers.</p></td><td><p>Say "no" to third parties <em>(groups external to Twitch</em>) having access to your user data and therefore, have a less personalized ad experience. </p></td><td><p>You can opt out of tracking by third- party advertising networks and servers by visiting the <a href="https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options">Network Advertising Initiative opt-out page</a>, the <a href="https://optout.aboutads.info/?c=2&amp;lang=EN">Digital Advertising Alliance opt-out page</a>, or the <a href="https://www.youronlinechoices.eu/">Your Online Choices</a> page.</p></td></tr><tr><td><p>Learn more about or opt out of Nielsen services in connection with your use of the Twitch Services</p></td><td><p>Nielsen uses software and products to provide digital measurement services to analyze how consumers engage with media to offer research insights into consumer behavior.</p></td><td><p>Visit <a href="http://www.nielsen.com/digitalprivacy">http://www.nielsen.com/digitalprivacy</a> and/or utilize on-service data management tools (for example, the Privacy settings on your mobile device). </p></td></tr><tr><td><p>Obtain access to or a copy of certain personal data we hold about you.</p></td><td><p>Download a copy of your personal data to better understand and see what information Twitch has on file.</p></td><td><p>If you want to see your account information, go to the drop-down menu on the top of your screen.</p><p>If you want to download your VODs or highlights, please go to your video producer page.</p><p>If you want to obtain other types of information that we hold about you can request the data directly from your <a href="https://www.twitch.tv/settings/security">Security and Privacy Settings page</a> under "Download Your Data", please see our <a href="https://help.twitch.tv/s/article/requesting-your-data-from-twitch">help article</a> for more information on how to use this feature. </p><p>If you no longer have access to your account, you may also submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category. You will need to verify your identity to effect this right.</p></td></tr><tr><td><p>Delete personal information Twitch holds about you</p></td><td><p>Delete the personal information Twitch holds about you by permanently deleting your account. </p><p>Note: A deleted account cannot be recovered. </p><p> </p><p> </p><p> </p></td><td><p>We need certain information in order to provide the Twitch services to you. As a result, we are unable to maintain your Twitch account and also delete all the personal information that Twitch processes about you.</p><p>You can close your account and delete your information by accessing <a href="https://www.Twitch.tv/user/delete-account">https://www.Twitch.tv/user/delete-account</a>, or by submitting a Support request under 'Privacy Questions'.</p><p>If you have engaged in Twitch user surveys or research, please email <a href="mailto:surveysupport@twitch.tv">surveysupport@twitch.tv</a> to delete additional information.</p></td></tr><tr><td><p>Restrict the way that we process and disclose specific personal information about you</p></td><td><p>Don't want us to gather or share certain aspects of your personal or user data? Submit a request to let us know your personal preferences.</p></td><td><p>Submit your request to restrict processing <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category.</p><p> </p><p> </p></td></tr><tr><td><p>Transfer your personal information to a third-party provider of services</p></td><td><p>Looking to transfer your VODs or highlights to an external site beyond Twitch? Submit a request to obtain a copy of your content!</p></td><td><p>To export your VODs or highlights, please go to your video producer page.</p><p>To obtain a copy of your information so that you can transfer that information, you can request the data directly from your <a href="https://www.twitch.tv/settings/security">Security and Privacy Settings page</a> under "Download Your Data".</p><p>If you no longer have access to your account, you may also submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category. You will need to verify your identity to effect this right.</p></td></tr><tr><td><p>Object to the processing of your personal information</p></td><td><p>Say "no" to your personal data being processed and leveraged by Twitch.</p></td><td><p>If you wish to object to processing of personal information, submit your request <a href="https://help.twitch.tv/s/contactsupport">here</a> under the 'Privacy Questions' category.</p></td></tr><tr><td><p>Obtain information about the categories of personal information we collect about you, and how we share and disclose this information.</p></td><td><p>You want to better understand the kind of user data that is captured and held by Twitch, and how that is then communicated to groups within and beyond Twitch.</p></td><td><p>Please see our <a href="https://www.twitch.tv/legal/privacy-notice/">Privacy Notice</a> and <a href="https://www.twitch.tv/legal/state-specific-privacy-disclosures/">State-Specific Privacy Disclosures</a> which describes the categories of personal information we collect, the sources of such personal information, how we use that information for our business purposes, and the business purposes for which we disclose such information.</p></td></tr></tbody></table>
+<p>Note that, to protect your privacy and security, when you initiate some of these requests we may ask that you provide us with additional information necessary to verify your identity (such as your IP address, date of birth, transaction IDs, and email address) before responding to your request.</p>
+<p>Twitch aims to provide the same privacy options regardless of location; however, certain options may differ in accordance with local regulations and requirements. For instance, Residents of the European Economic Area (“EEA”), Brazil, California and other states can exercise certain additional rights available to them under applicable data protection laws. To learn more about options available in your specific jurisdiction, visit our <a href="https://legal.twitch.com/legal/privacy-notice/">Privacy Notice</a> or <a href="https://legal.twitch.com/legal/state-specific-privacy-disclosures/">Additional State-Specific Privacy Disclosures</a> page.</p>
+<p>If you need more information or have other privacy questions, <a href="https://help.twitch.tv/s/contactsupport">contact Twitch Support</a> under the ‘Privacy Questions’ category.</p>
+
+          </article>
+        </div>
+      </div>
+    
+
+    <script>
+      
+      const io_options = {
+        rootMargin: '0px 0px -80% 0px',
+        threshold: [0.1, 0.5]
+      }
+      
+      
+      const observer = new IntersectionObserver(entries => {
+        
+        const intersectingEntries = entries.filter(entry => entry.isIntersecting);
+        
+        if (intersectingEntries.length > 0) {
+          
+          const entry = intersectingEntries[0];
+          const id = entry.target.getAttribute('id');
+          
+          
+          if (id) {
+            
+            document.querySelectorAll(`nav li`).forEach(li => {
+              li.classList.remove('active');
+            });
+            
+            
+            const activeLink = document.querySelector(`nav li a[href="#${id}"]`);
+            if (activeLink) {
+              activeLink.parentElement.classList.add('active');
+            }
+          }
+        }
+      }, io_options);
+      
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('main h2').forEach((section) => {
+          observer.observe(section);
+        });
+        
+        
+        const tocLinks = document.querySelectorAll('.toc-header + div a');
+        tocLinks.forEach(link => {
+          link.addEventListener('click', function(e) {
+            e.preventDefault(); 
+            const targetId = this.getAttribute('href').substring(1);
+            const targetHeading = document.getElementById(targetId);
+            
+            if (targetHeading) {
+              
+              targetHeading.focus();
+              
+              targetHeading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          });
+        });
+        
+        
+        if (window.location.hash) {
+          const hash = window.location.hash;
+          const activeLink = document.querySelector(`nav li a[href="${hash}"]`);
+          if (activeLink) {
+            document.querySelectorAll('nav li').forEach(li => {
+              li.classList.remove('active');
+            });
+            activeLink.parentElement.classList.add('active');
+          }
+        }
+      });
+    </script>
+
+            </div>
+          </div>
+          <div class="flex-grow"></div>
+        </div>
+      </main>
+    <template x-if="isVisible === false">
+      <div>
+        <link rel="canonical" href="/en/legal/">
+
+        <div class="mo__center_content align-center">
+          <h3>…</h3>
+          <p>
+            <span x-show="countryCode">We detected you're in <strong x-text="countryCode.toUpperCase()"></strong>. </span>
+            This document is intended for users in other regions. You will be redirected shortly.
+          </p>
+          <a href="/en/legal/">Click here if you are not redirected.</a>
+        </div>
+      
+        <script>
+          (function () {
+            var url = Array.prototype.slice.call(document.getElementsByTagName('link')).reduce((url, element) => {
+              if (/canonical/i.test(element.getAttribute('rel'))) {
+                return element.href;
+              }
+              return url;
+            }, null);
+      
+            var search = location.search || '';
+            var hash = location.hash || '';
+            var q = !!~search.indexOf('?') ? '?' : '';
+            var h = !!~hash.indexOf('#') ? '#' : '';
+      
+            if (/twitch\.tv/.test(url)) {
+              location.replace(url + q + location.search + h + location.hash);
+            }
+          })();
+        </script>
+      </div>
+    </template>
+    <footer tw-impression-id="footer" class="bg-black text-white text-sm font-[700] leading-6 pt-12 pb-12 w-full flex justify-center">
+    <div class="grid max-w-[2000px] grid-cols-1 md:grid-cols-[auto_1fr] lg:grid-cols-2 w-full px-8 py-6 gap-8">
+        <div class="flex justify-center pb-6 md:justify-start lg:pb-0">
+            <a href="https://www.twitch.tv/p/en/about" aria-label="About Twitch">
+                <svg width="48" height="53" viewBox="0 0 30 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>About Twitch</title>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M27.4994 15.3919L22.5006 20.1262H17.4994L13.1233 24.2708V20.1262H7.49939V2.36833H27.4994V15.3919ZM6.24909 0L0 5.91853V27.2289H7.49939V33.1475L13.7485 27.2289H18.7497L30 16.5737V0H6.24909ZM23.7509 6.69873H21.2502V13.8008H23.7509V6.69873ZM14.3766 6.6709H16.8773V13.7739H14.3766V6.6709Z" fill="#FFFFFF"></path>
+                </svg>
+            </a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-[2fr_2fr]">
+            <div class="flex flex-col col-start-1 pb-6">
+                <a href="/en/legal/" class="pb-2 text-xs">Legal</a>
+                
+                
+                
+                <ul class="list-none">
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="/en/legal/terms-of-service/"><span data-i18n="menu:terms-of-service">Terms of Service</span></a></li>
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="/en/legal/terms-of-sale/"><span data-i18n="menu:terms-of-sale">Terms of Sale</span></a></li>
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="/en/legal/privacy-notice/"><span data-i18n="menu:privacy-notice">Privacy Notice</span></a></li>
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="/en/legal/privacy-choices/"><span data-i18n="menu:privacy-choices">Privacy Choices</span></a></li>
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="/en/legal/monetized-streamer-agreement/"><span data-i18n="menu:monetized-streamer-agreement">Monetized Streamer Agreement</span></a></li>
+                    
+                        
+                        <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3" href="https://www.twitch.tv/oss-attribution"><span data-i18n="menu:open-source-attribution">Open Source Attribution</span></a></li>
+                    
+                </ul>
+            </div>
+            <div class="md:col-start-2">
+                <a href="https://twitch.tv" class="flex gap-1 pb-2 text-xs">
+                    Twitch
+                    <img src="/images/icons/arrow.svg" class="rotate-[225deg] mt-[-5px]" alt="">
+                </a>
+                <div class="columns-2">
+                    
+                    
+                    
+                    <ul class="list-none">
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://www.twitch.tv/p/about/"><span data-i18n="menu:about">About</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://www.twitch.tv/jobs/"><span data-i18n="menu:careers">Careers</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://blog.twitch.tv/"><span data-i18n="menu:blog">Blog</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://www.twitch.tv/p/press-center/"><span data-i18n="menu:press">Press</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://brand.twitch.com/"><span data-i18n="menu:brand">Brand</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://dev.twitch.tv/"><span data-i18n="menu:developers">Developers</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://twitch.amazon.com/prime"><span data-i18n="menu:prime">Prime</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://twitch.amazon.com/bits"><span data-i18n="menu:bits">Bits</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://www.twitch.tv/p/extensions/"><span data-i18n="menu:extensions">Extensions</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="http://twitchadvertising.tv/"><span data-i18n="menu:advertise">Advertise</span></a></li>
+                        
+                            
+                            <li><a class="block hover:text-brand-purple hover:underline text-lg leading-[22px] pb-3 w-full" href="https://www.twitch.tv/p/giftcard/buy/?utm_source=footer"><span data-i18n="menu:gift-card">Gift Card</span></a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <div class="hidden">/home/ubuntu/actions-runner/_work/legal-hugo/legal-hugo/content/en/legal/privacy-choices.md</div>
+  
+
+</body></html>

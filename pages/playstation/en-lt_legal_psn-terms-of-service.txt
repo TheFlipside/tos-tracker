@@ -1,0 +1,1005 @@
+PlayStation Network Terms of Service
+Support
+Privacy Policy
+PSN Terms of Service
+PLAYSTATION NETWORK TERMS OF SERVICE
+IMPORTANT
+:
+PlayStation Network is not for children younger than 7.
+If you are 7 to 17 years old, your parent or legal guardian (“
+Responsible Adult
+”) must read and accept these Terms for you. You can read them too. Ask your Responsible Adult to explain anything you do not understand. You can also read the PSN Rules at www.playstation.com/legal/PSNTerms/. The Rules are shorter than these Terms. They help you understand the most important bits.
+AS A CONSUMER YOU MAY HAVE RIGHTS UNDER APPLICABLE LOCAL LAWS THAT CANNOT BE EXCLUDED, LIMITED OR CHANGED. THOSE RIGHTS TAKE PRIORITY OVER ANYTHING IN THESE TERMS.
+BEFORE YOU START USING YOUR ACCOUNT.
+Read these Terms. We will rely on these Terms when dealing with you. We may suspend an account if the account holder breaches these Terms. If you have any questions, contact our customer services – see section 30.
+1. When do these Terms apply?
+1.1. These terms apply to every account for PlayStation Network and all use of that account.
+2. What is PlayStation Network?
+2.1. PlayStation Network is also called PSN. PSN is a service delivered over the internet. It connects you with other players and provides access to a range of services. To use PSN you need an account.
+2.2.  In some countries we may only offer accounts that don’t provide full access to the PSN’s features.  For example, these accounts may only allow you to link your account with third party services or only allow use of your account on certain Authorised Systems.
+2.3. There is no charge for creating an account but there is a charge for some services available via PSN.
+3. Who are we?
+3.1. We are Sony Interactive Entertainment Network Europe Limited, company number 06020283 (“
+SIENE
+”). SIENE is incorporated in England and Wales.
+3.2. If you live in the European Economic Area we act through our branch in the Netherlands at Olympia 1, 1213NS Hilversum, Netherlands under establishment number 000051647869.
+4. Who can create an account for PSN?
+4.1. Only people aged 7 and over can have an account.
+4.2. If you are 7 to 17 years old, you need your Responsible Adult to agree to you having an account and help you to create it.
+4.3. If you are 18 or over you can create an account by yourself. Create your account first. Then create separate accounts for each child for whom you are the Responsible Adult. Set Parental Controls on each Child Family Member Account to tailor their activity. For more detail, see section 11 below.
+5. What happens if you breach these Terms?
+5.1. We may take various actions as set out in section 24, including suspending your account. While suspended, you will not be able to use PSN. That means you will not be able to use some Products, even those you paid for.
+6. Your commitment to us.
+6.1. You must be honest with us. Give us accurate personal information about yourself and any Child Family Members. Keep that information up to date via account management.
+6.2.
+Why it matters
+6.2.1. This is important because we rely on the information you provide. We send important information to the email addresses you give us. We use your Child Family Member’s date of birth to tailor their experience.
+6.2.2. If you give us false information we may suspend the affected accounts. For example, we may suspend adults accounts if children are using them. When that happens, you lose access to PSN and some Products, even paid for ones. You can contact customer services to understand why you or a Child Family Member has been suspended and what you can do.
+7. Defined Words and Phrases.
+“Approved Payment Method”:
+the payment methods we accept on PSN.
+“Authorised Systems”:
+ any of our games consoles (that includes original PlayStation, PlayStation®2, PlayStation®Portable, PlayStation®3, PlayStation®Vita, PlayStation®TV, PlayStation Classic, PlayStation®4, PlayStation®5 and PlayStation®Portal), the PlayStation Mobile App on iOS or Android and selected third party services available on PC.
+“Child Family Member Account”:
+an account for someone whose date of birth indicates they are under 18. A Child Family Member Account has some functionalities determined by age and comes with a range of Parental Controls which the Family Manager or Guardian can set. See section 10. On PS3 and PS Vita the term sub account has the same meaning as Child Family Member Account.
+“Child Family Member":
+someone with a Child Family Member Account.
+“Code of Conduct”:
+ how you must behave on PSN, as set out in section 12.
+“Family Manager”:
+the adult account holder who creates a Child Family Member Account is the Family Manager. An adult account holder who invites other adult account holders to join their “family” is also a Family Manager.
+“Family Member”
+any account holder who belongs to a “family”.
+“Guardian”:
+ an adult Family Member nominated by the Family Manager who can set Parental Controls for Child Family Members.
+“Parental Controls”:
+settings
+enabling a Family Manager or Guardian to tailor the experience of Child Family Members. Find more information about Parental Controls at: www.playstation.com/safety.
+“Products”:
+all the digital content and digital services available via PSN. Products may be free or paid-for. Products include games, music, movies, subscriptions, PSN Wallet top up service and funds, virtual communities (where you can interact with other players) and more. Available Products vary depending on which system you are using and where you live. Some Products may not be available in your preferred language.
+“PSN Wallet”
+ holds the funds you add to your account to spend on the PlayStation Store.
+“Responsible Adult”
+ the parent or legal guardian of a child.
+“Terms”
+ these PlayStation Network Terms of Service.
+“User Generated Content”
+, also called
+“UGC”:
+text, messages, comments, pictures, photographs, voice, music, videos, game assets, game videos and game-related information and other materials (i) created by you or others on PSN and/or (ii) shared by you or others via PSN.
+“Wallet Funds”
+funds in your PSN Wallet.
+“Wallet Top Up”
+ buying Wallet Funds or redeeming a voucher for Wallet Funds.
+8. What other terms apply when you use PSN?
+8.1. In addition to these Terms, the following terms apply and form part of your contract with us:
+8.1.1. PlayStation Privacy Policy (explains what data we collect and how we use and share it).
+8.1.2. System Software Licence (governs use of the software embedded in an Authorised System).
+8.1.3. Software Usage Terms (govern your use of PlayStation game and application software developed to operate on one or more of the Authorised Systems).
+8.1.4. PlayStation Stars Terms (governs your membership and use of PlayStation Stars).
+8.2. Find those documents at www.playstation.com/legal/PSNTerms/.
+8.3. To access some Products (e.g. games and services) you must agree specific terms notified to you by us or the publisher of that Product.
+8.4. If you fail to obey any of the terms mentioned above you will breach these Terms.
+9. Your account security.
+9.1. We use appropriate technical measures to secure PSN and the information we hold about you.
+9.2. You must play your part too. You are responsible for all use of your account, unless:
+9.2.1. someone else used the account because we failed to use appropriate technical measures to secure PSN or the information we hold about you; or
+9.2.2. someone else used the account but you had taken reasonable steps to prevent that happening including those in section 9.3.
+9.3. Some steps to stop others using your account:
+9.3.1. Sign-out of your account at the end of each session.
+9.3.2. Set a passcode to prevent anyone with access to your Authorised System logging in to your account.
+9.3.3. Use a strong password, different from any you use for other online services, and turn on “Require Password at Checkout” to prevent others spending on your account.
+9.3.4. Never share your account details with anyone else.
+9.3.5. Never let anyone else use your account, not even a family member or friend.
+9.4. What if something goes wrong?
+9.4.1. Change your password immediately if you think anyone else knows it.
+9.4.2. Notify us immediately if you think someone else has control of your account.
+9.4.3. Notify law enforcement if you are a victim of crime in relation to the PSN. (For example, someone else using your payment details on PSN.)
+10. Your Child Family Members.
+10.1. You must create a separate Child Family Member Account for each child. Set appropriate Parental Controls for each. See section 11.
+10.2. Child Family Members have access to our PlayStation Store. See section 14. One of the Parental Controls is a monthly spend limit. We set it to zero. You can increase it. Only allow Child Family Members a monthly spend limit higher than zero if you are satisfied they are able to understand the purchase flow and make purchase decisions up to that value.
+10.3. By setting a spend limit for a Child Family Member (or appointing a Guardian who does so), you are telling us:
+10.3.1. the child can understand (i) the concept of a purchase; (ii) the cost; and (iii) an online purchase flow; and
+10.3.2. you pre-approve and agree to pay for all PlayStation Store purchases by that Child Family Member up to the spend limit.
+10.4. For each Child Family Member Account, you must:
+10.4.1. provide accurate information – see section 6 – including age;
+10.4.1.1. Why? This affects how we deal with them. We will use their age to tailor what they can see, buy and do on PSN. However, not all Products available via PSN are rated and some contain adult language and material which your Child Family Members may see.
+10.4.2. explain to your Child Family Member how they should behave when using the PSN or dealing with us or the PSN community – see our Code of Conduct in section 12 – how to protect themselves and their account;
+10.4.3. set appropriate Parental Controls – see section 11;
+10.4.4. appropriately monitor their use of the PSN;
+10.4.4.1. Why? Your Child Family Members may receive communications from other PSN users that will not be copied to you.
+10.4.5. agree to supervise, and therefore accept responsibility for, your Child Family Member’s Account(s) activity to ensure they comply with these Terms. This will not apply:
+10.4.5.1. if someone else used the account because we failed to use appropriate technical measures to secure PSN or the information we hold about your Child Family Members; or
+10.4.5.2. if someone else used the account but you and your Child Family Member had taken reasonable steps to stop that happening.
+11. Parental Controls.
+11.1. We offer a variety of Parental Controls. You can read about them at www.playstation.com/safety.
+11.2. Important information about our Parental Controls:
+11.2.1. Guardians can set Parental Controls and adjust the ones you’ve set.
+11.2.2. We will not notify you of Parental Control changes made by Guardians.
+11.2.3. Only appoint Guardians you completely trust.
+12. Code of Conduct.
+12.1.
+You and your family members must follow our Code of Conduct in all dealings with us and other members of the PSN community. Read this carefully and help us keep PSN the best place to play for everyone.
+✓
+Be inclusive.
+PSN is for everyone, regardless of gender identity, sexual orientation, race, ethnicity, nationality, colour, immigration status, social and economic class, educational level, shape and size, family status, political belief, religion, and mental and physical ability, or any other attribute that people use to label others or divide communities.
+☒ Do not
+ do or say anything hateful. For more information, please visit playstation.com/hate-speech-policy.
+☒ Do not
+ threaten, harm, or alarm anyone or encourage anyone else to do so.
+☒ Do not
+ bully, harass, or stalk anyone.
+✓
+Be sensible. Follow the law.
+☒ Do not
+be vulgar or offensive.
+☒ Do not
+encourage anyone to hurt themselves or someone else.
+☒ Do not
+threaten, condone, perform, or promote any illegal acts.
+☒ Do not
+impersonate anyone else.
+☒ Do not
+infringe anyone’s privacy or spread lies about anyone.
+☒ Do not
+infringe anyone’s intellectual property.
+✓
+Be kind.
+Help each other out. Remember you were new once too. You can help make someone’s early gaming and community experiences good ones by being considerate.
+ ✓
+Be respectful.
+We know we can’t expect everyone to agree all the time. Disagree respectfully or walk away.
+☒ Do not
+do anything to harm the PlayStation brand or PSN community.
+✓
+Be responsible.
+ If you believe you have found a vulnerability in PSN products or services, tell us so we can fix it. Please visit HackerOne.com/PlayStation for information on our BugBounty program.
+☒ Do not
+ use the PSN or any of its products for, or associate them with, spam or any commercial activity.
+☒ Do not
+ share, buy, sell, rent, sub-licence, trade, or transfer any accounts, account details, or other credentials.
+✓
+Be a team player.
+☒ Do not
+disturb or interrupt gameplay.
+☒ Do not
+cheat.
+☒ Do not
+ use any bugs, glitches, vulnerabilities, or unintentional mechanics in products or PSN to get an advantage.
+☒ Do not
+ phish for or harvest any accounts, account details, or other credentials.
+☒ Do not
+ forward recommendations or offers to your contacts without their permission.
+☒ Do not
+ share or send information that misleads others.
+✓
+Be discreet. Keep it decent.
+Always use common sense and good manners. Things you say and do online affect other people and have real world consequences. Think before you post anything online. Beware that information you put online can spread and may be seen by people you didn’t expect would see it.
+☒ Do not
+reveal personal information about other people or yourself. It makes you and them vulnerable. Personal information includes, but is not limited to, social network handles, messaging app profiles, phone numbers, email addresses, and real-world addresses like your home, school, or temporary location.
+☒ Do not
+ share material that is pornographic, obscene,
+or that depicts extreme or abhorrent violence.
+☒ Do not
+share or threaten to share any image or other media of another person without their consent.
+✓
+Help us ensure PSN is the best place to play.
+We are committed to providing a safe and welcoming environment. If you breach this Code, or your conduct off PSN gives us reason to believe you may endanger the safety or well-being of our community, we may take any action as reasonably necessary to protect PSN and our players.
+If you believe someone has breached the Code of Conduct, tell us so we can take action to help keep PSN and our community safe. It is particularly important to tell us if you think there is a risk anyone could get hurt in real life. If you see someone else misbehaving:
+√
+Report them to us using our contextual grief reporting tools. For more information on grief reporting and blocking, please visit playstation.com/reporting and playstation.com/blocking.
+√
+If you engage with them, stay calm and respectful. Lead by example and don’t breach this Code yourself.
+☒ Do not
+submit false grief reports or otherwise abuse the grief reporting system.
+✓
+Follow any specific rules for each product.
+For more information, find additional resources at playstation.com/safety and playstation.com/behavior.
+13. Do we track what you do online?
+13.1. Yes, but we can’t track all activity and we make no commitment to do so.
+13.2. We may track and record your PSN activity and remove any of your UGC that breaches these Terms, without further notice to you. Other users may record things they see and send them to us.
+13.3. Information we get can include your content, voice and text communications, gameplay videos, the time and location of your activities, your real name, your PSN Online ID and IP address.
+13.4. We (or our affiliated companies) use that information to enforce these Terms, to comply with the law, to protect our rights and those of our licensors and users, and to protect our community. We may pass this information to the police or other appropriate authorities.
+13.5. See our Privacy Policy at www.playstation.com/legal/PSNTerms/ for more details about this use of your information.
+14. PlayStation Store.
+14.1. Everything you buy from PlayStation Store, you buy from us. That includes Wallet Funds and anything bought using Wallet Funds.
+14.2. You can pay using PSN Wallet funds or an Approved Payment Method.
+14.3. The currency and price displayed is inclusive of any indirect taxes. You must pay any import VAT and duties, foreign exchange and bank or card charges that apply (if any).
+14.4. Child Family members:
+14.4.1. We filter the rated content a Child Family Member can see and buy on PlayStation Store based on their date of birth and any Parental Controls you set.
+14.4.2. The cost of Products Child Family Members buy comes out of your PSN Wallet, up to the monthly spend limit you set for each Child Family Member (see section 10.3.2). If you do not accept this, do not change the Child Family Member’s spend limit from the default of zero and do not appoint a Guardian who can change it.
+14.4.3. Child Family Members cannot instigate a charge to your credit card. Their purchases will only be successful if you have enough funds in your PSN Wallet.
+15. Shopping on PlayStation Store.
+15.1. Make sure your Child Family Members understand how PlayStation Store works. What follows applies to them as well as you, except where indicated.
+15.2. We guide you through the buying process from Product choice to purchase confirmation via a series of screens and instructions.
+15.2.1. Read the information we show you during your purchase carefully. It affects the cancellation rights you may otherwise have under applicable local laws – see section 16.
+15.3. The last button press is “Order and Pay”. When you press that button:
+15.3.1. If your Wallet Funds are enough to pay the price, we deduct the funds from your PSN Wallet;
+15.3.2. If you have some but not enough Wallet Funds to pay the price, we take those and charge the balance to your Approved Payment Method. (Does not apply to Child Family Members);
+15.3.3. If you have no Wallet Funds, we charge the full price to the default Approved Payment Method stored on your account. (Does not apply to Child Family Members); and
+15.3.4. You send the order to us.
+15.4. If we cannot fulfil your order we will refund any sums deducted from your:
+15.4.1. PSN Wallet to your PSN Wallet;
+15.4.2. Approved Payment Method to that payment method unless it is one of the Approved Payment Methods for which we cannot do that. In those cases, we refund to your PSN Wallet.
+15.5. You buy a personal licence to use Products for private use. Your licence to use games is not transferrable unless your local applicable laws say it must be.
+15.5.1. This means you can use a Product in the ways described in the licence but do not own the Product.
+15.5.2. We tell you where to find the licence terms during the purchase flow.
+15.6. If you delete or close the purchasing account, you may lose access to and use of the Product.
+15.7. If a third party published the Product, you may need to associate or link your account for PSN to an account you hold with that third party to use the Product. The Product may become linked to that third party account as well as the purchasing account. If you unlink the third party account from your account for PSN or if your third party account is closed or deleted, you may lose access to the Product.
+16. Can I cancel my purchases just because I changed my mind?
+16.1. Yes, in limited circumstances and when you request it within certain timeframes. See our Cancellation Policy at www.playstation.com/store-cancellation-policy.
+16.2. Read the information we show you during your purchases carefully. When you buy, we provide information and follow a process which limits the change-of-mind cancellation rights you might otherwise have under applicable local laws.
+16.3. Change-of-mind cancellation rights explained. In some countries, local law says that, when you buy Products online, you have time to change your mind, cancel your purchase and get a refund. In countries of the European Economic Area, for example:
+16.3.1. When you buy digital content (like a game or movie), you can cancel for any reason within 14 days of your transaction
+16.3.2. When you buy services (like a subscription or Wallet Funds), you can cancel for any reason within 14 days of your transaction.
+16.3.3. But, the law also says that, if you consent to immediate delivery of the digital content or immediate supply of the service, we can provide them immediately and limit your right to cancel those orders provided we explain to you how that affects your cancellation rights.
+16.3.4. Because most of our customers want to use their purchases straight away, we design our purchase flows to get your consent to immediate delivery of digital content and services and we provide you with clear information about how that affects your cancellation rights.
+16.4. So, unless a Product is faulty or you have other rights to cancel your order under applicable local laws, when you shop with us:
+16.4.1. You will not be able to change your mind and cancel your digital content purchase once you begin to download the content; and
+16.4.2. You can change your mind and cancel your Subscription service purchases within 14 days of purchase but the amount we refund can be less than your purchase price (to account for the use you have had of the service).
+17. PSN Wallet.
+17.1. You can only use Wallet Funds to buy Products from PlayStation Store. We are not a bank and the PSN Wallet is not a bank account. Wallet Funds do not earn interest.
+18. Payment Methods.
+18.1. We store your credit and debit card and PayPal account details when you use them for a transaction. We use them for future purchases unless you delete them through your account settings.
+18.2. We do not store your payment card’s 3-digit security number. You do not need to enter it for future purchases.
+18.3. For other Approved Payment Methods you may need to enter the details each time you buy something.
+18.4. When you buy a Product using mobile billing your mobile network provider charges you the amount of the purchase. They may charge you their standard messaging rate on top.
+19. Chargebacks.
+19.1. A chargeback happens when your payment service provider (i.e. the supplier of your payment method such as a bank, or PayPal), reverses a payment you made. A chargeback of a sum paid to us for Products we provided results in a debt to us equal to the amount of the chargeback.
+19.2. As a chargeback can indicate you suspect fraud or account take-over, we will suspend your account or console to protect it while we investigate. If there is no lawful reason for the chargeback, your account will remain suspended until the debt is repaid. We may deduct funds from your PSN Wallet to pay any debt owed by you to us.
+20. Special Terms applying to some Products.
+General.
+20.1. Products we sell may not work with Authorised Systems and software licensed for sale outside of Europe, the Middle East, Africa, India, Russia and Oceania.
+20.2. Unless otherwise specified, all Products are for non-commercial, home use only.
+Games.
+20.3. Some games and apps let you buy:
+20.3.1. Products from the PlayStation Store; or
+20.3.2. other things directly from the publisher of the game or app.
+20.3.2.1. You cannot use Wallet Funds to buy anything from the publisher and you will need to register a payment method with them.
+20.3.2.2. The spend limit on a Child Family Member’s account only applies to purchases from PlayStation Store.
+20.4. Some Products offer online services like online multiplayer, leaderboards or communication facilities.
+20.4.1. To access online multiplayer you (or another account which has designated your PS4 as its “primary console” or, if you have a PS5, has enabled the “Offline & Homeshare” setting on your PS5) need to have an active PlayStation Plus subscription, unless stated otherwise for a particular Product.
+Subscriptions.
+20.5. Subscriptions continue indefinitely. We charge you on-going fees automatically on a regular basis until cancelled. We explain the on-going fees, the billing frequency and how to cancel before you buy. We email you before each payment is due.
+20.6. Trials roll into paid-for subscriptions. We charge you subscription fees unless your subscription is cancelled before the end of the trial period. We explain this, the on-going fees, the billing frequency and how to cancel before you take out a trial.
+20.7. If you do not have enough Wallet Funds to pay a recurring subscription fee, we charge the balance to your default payment method (if any).
+20.7.1. This does not apply to purchases made by Child Family Members.
+20.8. At the end of each billing period and at the end of a trial, we take the subscription fees for the next period. This will not happen if:
+20.8.1. You cancel the subscription before the end of the trial or current billing period.
+20.8.2. You do not have enough funds in your PSN Wallet and you do not have a registered payment method.
+20.8.3. We discontinue the subscription for any reason.
+20.9. If your payment for a subscription fails we may continue trying to take payment from you over the next few days.
+20.9.1. You may be able to access the subscription service during that period.
+20.9.2. Your billing period will not change. If a payment retry is successful, your next payment date will be the same as if your initial payment had not failed.
+20.10. We may change the on-going cost of a subscription (up or down) to reflect changes in the subscription product, to reflect our costs in providing the subscription, to ensure the subscription continues to be a viable service or to respond to market changes, such as changes to exchange rates, local taxes or inflation.
+20.10.1. We will notify you by email at least 60 days in advance of any price increase, telling you the new cost and the date from which the new cost will apply. You will be able to cancel before the price rise takes effect.
+20.11. If you already have a subscription (whether paid or as part of a free trial) and you buy another subscription for the same service, your current subscription will end at the end of the current billing period and the new subscription will begin.
+20.12. The package of Products in a subscription may vary throughout your subscription period. Age, geographic and other restrictions mean you may not be able to access all Products in the package. Some Products may be available to non-subscribers separately.
+Pre-Orders.
+20.13. You must pay for pre-orders on the date you place your pre-order.
+20.14. You can cancel your pre-order and get a refund as explained at the point of purchase and section 16. If you cancel a pre-order you will no longer be entitled to any promotional products offered with the pre-order.
+Virtual Currency.
+20.15. Some games include fictional currencies (“
+VC
+”). Depending on the game you can earn VC through gameplay or buy it from PlayStation Store. You can exchange it in-game for other in-game items, experiences or functionality.
+20.16. You must not:
+20.16.1. sell, purchase, transfer or use VC outside of the game;
+20.16.2. wager with or for VC (for example “skin betting”) unless the game provides that functionality;
+20.16.3. exchange or redeem VC for money or money’s worth.
+20.17. Each game publisher determines how their VC works and what you can do with it. See the game publisher’s terms for details.
+21. Content You Create and Share.
+21.1. Some Products allow you to share your UGC with us and other players.
+21.2. You own your UGC. However you must not commercially exploit it without consent. You need consent from us and, where relevant, the publisher of the Product. This is because the way you make and share your UGC means your UGC may be bound up with software or intellectual property belonging to us and the publisher of the Product.
+21.3. When you share your UGC:
+21.3.1. We may make it visible across the PSN.
+21.3.2. We may make it visible in other places like our websites and those of our affiliated companies.
+21.3.3. We and our affiliated companies may alter your UGC for various reasons, including to add your Online ID (or your real name if you choose to use it) so others know it is yours, to ensure it displays well on various devices and so on.
+21.3.4. Others can interact with it and do things to it like comment on it, alter it, delete it or reshare it.
+21.3.5. We and our affiliated companies may:
+21.3.5.1. license, sell and otherwise commercially exploit your UGC (for example, selling subscriptions to access your UGC alone or in combination with other UGC);
+21.3.5.2. receive advertising revenue in connection with UGC;
+21.3.5.3. use your UGC in the promotion of Products and any other PlayStation® products and services;
+21.3.5.4. alter or delete your UGC where necessary to comply with the law or exercise our rights under these Terms.
+21.4. We do not pay you for using your UGC as described in section 21.3.
+21.5. By sharing UGC you are telling us you have all rights necessary to such UGC and to grant the rights set out in this section 21.
+21.6. The licence for a Product may tell you more about how UGC sharing works for that Product.
+22. Do we ever change PSN or change Products after you buy them?
+22.1. Sometimes, yes, but only where it is reasonable because it is minor and justified. For example, we may change PSN and Products from time to time:
+22.1.1 to ensure the PSN or Products are working as intended (e.g. fix bugs and glitches and to improve efficiency);
+22.1.2 for security reasons;
+22.1.3 to adapt the PSN or Product to a new system or technical environment;
+22.1.4 to improve the PSN or Product. This may include updating in-game items, in-game levels and tasks or changing the rewards for completing in-game activities; or
+22.1.5 to adapt the PSN or Product to a change in number of users and/or to ensure the commercial viability of the PSN or Product.
+23. Closing your account.
+23.1. You may close your account by contacting us using the details at section 30.
+23.2. If you have not used your account for at least 36 months we may take steps to close it. In that case, we will contact you via the email address registered to your account and give you 6 months to either log in to your account or contact us and tell us to keep your account open.
+23.3. After your account is closed, you will not be able to access the PSN or use the Products purchased with that account. Account closure is irreversible.
+24. What we do if you breach these Terms or we think your account is compromised?
+24.1. If we have evidence to conclude that
+24.1.1. either:
+24.1.1.1. you;
+24.1.1.2. one of your Child Family Members; or
+24.1.1.3. the holder of any account that you permit to use your Authorised System;
+has breached these terms of service; or
+24.1.1.4. your account has been compromised (e.g. when you instigate a chargeback citing fraud);
+the actions we may take, and the duration of those actions, will be limited to what is objectively necessary to protect you, our interests and those of other users.
+24.2. We may take action against account holders who are responsible for or are affected by the breach.  This could include:
+24.2.1. any Authorised System you use;
+24.2.2. your accounts;
+24.2.3. your Child Family Member Accounts; and
+24.2.4. any other accounts on an Authorised System you use.
+24.3. Our actions may include:
+24.3.1. resetting account passwords;
+24.3.2. suspending subscriptions;
+24.3.3. suspending access to some or all Products;
+24.3.4. suspending accounts;
+24.3.5. uploading updates to the Authorised Systems intended to stop unauthorised use;
+24.3.6. preventing Authorised Systems connecting to PSN; and
+24.3.7. bringing, initiating and/or participating in government, criminal and/or private legal action against you.
+24.4. If we delay acting or fail to act in response to any breach, it will not stop us acting at a later date for that or any other breach.
+25. Our liability to you when things go wrong.
+25.1. As a consumer, you may have rights under applicable local laws that cannot be excluded, limited or changed. Those rights take priority over anything in this section 25.
+25.2. These Terms do not:
+25.2.1. affect any statutory guarantees or warranties you have as a consumer under local applicable laws; or
+25.2.2. exclude or limit our liability in any way unless we are allowed to do so under your applicable local laws.
+25.3. If you are a consumer we have unlimited liability for the following:
+25.3.1.
+Reason:
+ If we cause death or personal injury by our negligence or the negligence of our employees, agents or subcontractors.
+Our Liability:
+ Unlimited.
+25.3.2.
+Reason:
+ If the liability is caused by our deliberate breach, our fraud, our fraudulent misrepresentation, or our behaviour is grossly negligent.
+Our Liability:
+Unlimited.
+25.4. Subject to sections 25.1, 25.2 and 25.3, we limit our liability to you as follows:
+25.4.1.
+Reason:
+ If we fail to deliver any Product.
+Our Liability:
+ We will refund the amount you paid for the Product.
+25.4.2.
+Reason:
+ If we deliver a Product but it is faulty.
+Our Liability:
+ You will have the remedies available to you under the statutory warranties in your country of residence. In addition, we commit to the following:
+If a Product is faulty, we will always try to get it fixed or replace it.
+However, if the Product is so faulty that you have a right to reject it under applicable local law and you choose to reject, we will give you a full refund. If you choose to keep it, we will provide you with a partial refund. If you prefer you can have a replacement Product.
+If you don’t have a right to reject the Product but we can't get it fixed or replace it within a reasonable time, or without causing you significant inconvenience, we will provide you with a full or partial refund.
+We will calculate a partial refund as the difference between the price of the Product and the value of the Product as delivered.
+You may also have a right to compensation for reasonable, foreseeable loss or damage caused by the faulty Product.
+How Products are fixed.
+If a Product is faulty, it can usually be fixed by a process called patching. Patching updates the code over the internet. We sell Products that we do not make so we need someone else to patch them for us. We will always try to ensure they do so and do so in a reasonable time.
+25.4.3.
+Reason:
+Malicious or unauthorised use of the PSN, your account, your Child Family Member Accounts or Products including the activity of hackers.
+Our Liability:
+ Unless this is caused by our negligence or the negligence of our employees, agents or subcontractors, we have no liability to you.
+25.4.4.
+Reason:
+Temporary
+inability to use the PSN.
+Our Liability:
+ Unless this is caused by our negligence or the negligence of our employees, agents or subcontractors, we have no liability to you.
+25.4.5.
+Reason:
+If you close your account because you will not accept a material change to these Terms, the Software Usage Terms or our Privacy Policy or if we permanently close the PSN.
+Our Liability:
+ We will refund your unused PSN Wallet funds and a pro-rated refund for any unexpired periods of your subscriptions.
+25.4.6. .
+Reason:
+Any event outside our reasonable control (also known as “Force Majeure” or “Act of God”).
+Our Liability:
+ We have no liability to you.
+25.4.7.
+Reason:
+Damage that would have been avoided if you:
+- followed our advice to apply an update offered to you free of charge; or
+- followed installation instructions; or
+- had the minimum system requirements in place.
+Our Liability:
+ We have no liability to you.
+25.4.8
+Reason:
+Business losses including loss of profit, loss of business, business interruption or loss of business opportunity.
+Our Liability:
+ We have no liability to you.
+25.4.9
+Reason:
+Any loss you suffer that was not caused by our breach of these Terms and which is not otherwise covered above.
+Our Liability:
+ We have no liability to you.
+25.4.10
+Reason:
+In any cases not covered above.
+Our Liability:
+Our liability will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused Wallet Funds.
+25.5. To the extent you are using the PSN other than as a consumer:
+25.5.1. we do not limit our liability for: (i) death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; (ii) our fraud or fraudulent misrepresentation; (iii) deliberate breach; (iv) any liability that cannot be limited or excluded under applicable local laws.
+25.5.2. subject to section 25.5.1, we accept no liability for (i) loss of profit; (ii) loss of sales or business; (iii) loss of agreements or contracts; (iv) loss of anticipated savings; (v) loss of or corruption of software; (vi) data or information; (vii) loss of or damage to goodwill; and (viii) any indirect or consequential loss.
+25.5.3. subject to section 25.5.1, our total liability to you under or in connection with these Terms, whether in contract, tort (including negligence), breach of statutory duty or otherwise will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused Wallet Funds.
+26. Ownership and Use of Intellectual Property Rights (“IP”)
+26.1. We own or hold licences to all IP in Authorised Systems, PSN and our Products.
+26.2. Other people own or hold licences to all IP in their Products.
+26.3. You must use Authorised Systems, PSN and Products ONLY:
+26.3.1. in the ways set out in these Terms or the Product licence; unless
+26.3.2. expressly allowed under applicable local law.
+26.4. We take protection of our IP and the security of our Authorised Systems, PSN and Products seriously and pursue people who threaten them.
+26.5. Do not use stolen or illegally acquired Authorised Systems or Products.
+26.6. Do not do any of the following in connection with Authorised Systems, PSN or Products:
+26.6.1. emulate them;
+26.6.2. disrupt their operation;
+26.6.3. use any unauthorised hardware or software;
+26.6.4. avoid any authentication, encryption or security measures;
+26.6.5. access any information that does not belong to you or a Child Family Member;
+26.6.6. share, buy, sell, rent, sub-licence, trade, transfer, phish for or harvest any accounts or account details or other credentials; or
+26.6.7. help anyone else to do any of these things.
+26.7. Do not create derivative works from the Authorised Systems, PSN or Products.
+26.8. Do not hack, crack, decrypt, reverse engineer, decompile or disassemble the Authorised Systems, PSN or any Product or help anyone else to. This restriction applies to the fullest extent permitted under mandatory applicable local law.
+26.9. Do not use Authorised Systems, PSN and Products commercially, charge for their use or make any public performance without consent of the IP owner.
+26.10. If you use the advertised features of an Authorised System, the PSN or a Product in accordance with the licence to it, you will not breach sections 26.7, 26.8 and 26.9.
+26.11. Before you try to do anything that is not permitted under these Terms, we recommend you seek legal advice to confirm it is expressly allowed under applicable local laws.
+27. Do we ever change these Terms? And what happens then?
+27.1. Yes, we may make changes to these Terms.
+27.2. If the changes are reasonable because they are minor and justified, we will give you reasonable notice of the changes, for example by a posting when you sign in to the PSN, by PSN message or by email.
+27.3. For any other changes, we will ask you to accept the new Terms before you log into the PSN again. If your Child Family Member is the main user, you may have to accept before they can log in again too.
+28. How are these Terms enforced?
+28.1. If you are using the PSN as a consumer in the European Economic Area:
+28.1.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of the Netherlands but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of the Netherlands.
+28.1.2. we can enforce these Terms in a court of competent jurisdiction in the country in which you live.
+28.1.3. you can enforce these Terms in a court of competent jurisdiction in the country in which you live, in England and Wales where our company (SIENE) is incorporated (under company registration number 06020283), or in the Netherlands where our company is registered as a branch (under branch establishment number 000051647869).
+28.2. If you are using the PSN as a consumer outside of the European Economic Area:
+28.2.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of England and Wales.
+28.2.2. we can enforce these Terms in a court of competent jurisdiction the country in which you live.
+28.2.3. you can enforce these Terms in a court of competent jurisdiction in the country in which you live, or where our company is registered.
+28.3. To the extent you are using the PSN other than as a consumer:
+28.3.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales; and
+28.3.2. the courts of England and Wales will have exclusive jurisdiction.
+29. Can anyone else enforce these Terms?
+29.1. No. These Terms do not create any rights that are intended to be enforced by a third party.
+30. Questions?
+30.1. If you have any questions, contact us.
+30.2. For online support (help pages and an online contact form): www.playstation.com/get-help/contact-us/.To write to us the old-fashioned way use: Sony Interactive Entertainment Network Europe Limited, 10 Great Marlborough Street, London, W1F 7LP, UK.
+30.3. When you contact us, we expect our staff to be polite and respectful. We expect the same of you. If you are rude to or abuse or threaten our staff we may restrict you to contacting us by email or refuse to support you any further. If your behaviour suggests a risk to our staff, our community or our business we may suspend your account and escalate the matter to law enforcement.
+Version 1 Last updated: September 2025
+
+„PLAYSTATION NETWORK“ PASLAUGŲ TEIKIMO SĄLYGOS
+SVARBU
+:
+„PlayStation Network“ neskirta jaunesniems nei 7 metų vaikams.
+Jei jums yra nuo 7 iki 17 metų, kuris nors iš jūsų tėvų ar teisėtų globėjų (toliau –
+atsakingas suaugusysis
+) privalo už jus perskaityti šias Sąlygas ir su jomis sutikti. Jūs taip pat galite jas perskaityti. Paprašykite atsakingo suaugusiojo paaiškinti viską, ko nesuprantate. PSN taisykles taip pat galite perskaityti adresu www.playstation.com/legal/PSNTerms/. Taisyklės yra trumpesnės nei šios Sąlygos. Jos padės jums suprasti svarbiausius dalykus.
+GALI BŪTI, KAD KAIP VARTOTOJAS TURITE TEISIŲ PAGAL TAIKYTINUS VIETOS ĮSTATYMUS, KURIŲ NEGALIMA ATŠAUKTI, APRIBOTI AR KEISTI. ŠIOMS TEISĖMS TEIKIAMA PIRMENYBĖ PRIEŠ VISAS ŠIŲ SĄLYGŲ NUOSTATAS.
+PRIEŠ PRADĖDAMI NAUDOTI SAVO PASKYRĄ.
+Perskaitykite šias Sąlygas. Bendraudami su jumis, remsimės šiomis Sąlygomis. Jei paskyros savininkas pažeidžia šias Sąlygas, mes galime sustabdyti paskyros veikimą. Jei turite klausimų, susisiekite su mūsų klientų aptarnavimo tarnyba – žr. 30 skyrių.
+1. Kada taikomos šios Sąlygos?
+1.1. Šios Sąlygos taikomos kiekvienai „PlayStation Network“ paskyrai ir visam tos paskyros naudojimui.
+2. Kas yra „PlayStation Network“?
+2.1. „PlayStation Network“ taip pat vadinama PSN. PSN yra internetu teikiama paslauga. Ji sujungia jus su kitais žaidėjais ir suteikia prieigą prie įvairių paslaugų. Norint naudotis PSN, reikia turėti paskyrą.
+2.2. Kai kuriose šalyse mes galime siūlyti tik paskyras, kurios nesuteikia visapusiškos prieigos prie PSN funkcijų. Pavyzdžiui, šios paskyros gali tik leisti jums susieti savo paskyrą su trečiųjų šalių paslaugomis arba tik naudoti savo paskyrą tam tikrose patvirtintose sistemose.
+2.3. Paskyros sukūrimas yra nemokamas, tačiau kai kurios per PSN teikiamos paslaugos yra mokamos.
+3. Kas mes esame?
+3.1. Mes esame „Sony Interactive Entertainment Network Europe Limited“, įmonės kodas 06020283 (toliau –
+SIENE
+). SIENE yra registruota Anglijoje ir Velse.
+3.2. Jei gyvenate Europos ekonominėje erdvėje, mes veikiame per savo filialą Nyderlanduose, kurio adresas Olympia 1, 1213NS Hilversum, Nyderlandai, registracijos numeris 000051647869.
+4. Kas gali susikurti PSN paskyrą?
+4.1. Paskyrą gali turėti tik 7 metų ir vyresni asmenys.
+4.2. Jei jums nuo 7 iki 17 metų, už jus atsakingas suaugusysis turi sutikti, kad turėtumėte paskyrą, ir padėti ją susikurti.
+4.3. Jei jums 18 ar daugiau metų, paskyrą galite susikurti savarankiškai. Pirmiausia susikurkite savo paskyrą. Tada sukurkite atskiras paskyras kiekvienam vaikui, už kurį atsakote kaip suaugęs asmuo. Nustatykite tėvų kontrolę kiekvienam vaikui skirtoje šeimos nario paskyroje, kad pritaikytumėte jo veiklą. Daugiau informacijos rasite toliau, 11 skyriuje.
+5. Kas bus, jei pažeisite šias Sąlygas?
+5.1. Mes galime imtis įvairių veiksmų, nurodytų 24 skyriuje, įskaitant jūsų paskyros sustabdymą. Sustabdžius paskyrą, negalėsite naudotis PSN. Tai reiškia, kad negalėsite naudotis kai kuriais produktais, net ir tais, už kuriuos sumokėjote.
+6. Jūsų įsipareigojimas mums.
+6.1. Privalote su mumis elgtis sąžiningai. Pateikite mums tikslią asmeninę informaciją apie save ir visus vaikus-šeimos narius. Atnaujinkite šią informaciją tvarkydami paskyrą.
+6.2.
+Kodėl tai svarbu?
+6.2.1. Tai svarbu, nes mes remiamės jūsų pateikta informacija. Svarbią informaciją siunčiame jūsų pateiktu el. pašto adresu. Naudojame vaiko-šeimos nario gimimo datą, kad pritaikytume jo patirtį.
+6.2.2. Jei pateiksite mums neteisingą informaciją, galime sustabdyti susijusių paskyrų veikimą. Pavyzdžiui, galime sustabdyti suaugusiųjų paskyrų veikimą, jei jomis naudojasi vaikai. Tokiu atveju prarasite prieigą prie PSN ir kai kurių produktų, net jei už juos sumokėjote. Jei norite sužinoti, kodėl jūsų arba vaiko-šeimos nario veikla buvo sustabdyta, ir ką galite padaryti, susiekite su klientų aptarnavimo tarnyba.
+7. Apibrėžti žodžiai ir frazės.
+Patvirtintas mokėjimo būdas:
+mokėjimo būdai, kuriuos priimame PSN.
+Patvirtintos sistemos:
+ bet kuris iš mūsų žaidimų pultų (įskaitant pirminį „PlayStation“, „PlayStation®2“, „PlayStation®Portable“, „PlayStation®3“, „PlayStation®Vita“, „PlayStation®TV“, „PlayStation Classic“, „PlayStation®4“, „PlayStation®5“ ir „PlayStation®Portal“), programėlė „PlayStation Mobile“, skirta „iOS“ arba „Android“, ir atrinktos trečiųjų šalių paslaugos, teikiamos kompiuteryje.
+Vaiko-šeimos nario paskyra:
+paskyra asmeniui, kurio gimimo data nurodo, kad jam mažiau nei 18 metų. Vaiko-šeimos nario paskyroje yra tam tikrų funkcijų, priklausančių nuo amžiaus, joje šeimos vadovas ar globėjas gali nustatyti įvairias tėvų kontrolės funkcijas. Žr. 10 skyrių. PS3 ir „PS Vita“ antrinės paskyros sąvoka reiškia tą patį, kaip ir vaiko-šeimos nario paskyra.
+Vaikas-šeimos narys:
+asmuo, turintis vaiko-šeimos nario paskyrą.
+Elgesio kodeksas:
+ nurodo elgesio taisykles PSN, kaip išdėstyta 12 skyriuje.
+Šeimos vadovas:
+suaugęs paskyros savininkas, kuris sukuria vaiko-šeimos nario paskyrą, yra šeimos vadovas. Suaugęs paskyros savininkas, kuris kviečia kitus suaugusius paskyros savininkus prisijungti prie savo „šeimos“, taip pat yra šeimos vadovas.
+Šeimos narys
+ – bet kuris paskyros savininkas, priklausantis „šeimai“.
+Globėjas
+ – suaugęs šeimos narys, paskirtas šeimos vadovo, kuris gali nustatyti tėvų kontrolės funkcijas vaikams-šeimos nariams.
+Tėvų kontrolė:
+nustatymai, leidžiantys šeimos vadovui arba globėjui pritaikyti vaikų-šeimos narių patirtį. Daugiau informacijos apie tėvų kontrolės funkciją rasite adresu www.playstation.com/safety.
+Produktai:
+visas skaitmeninis turinys ir skaitmeninės paslaugos, prieinami per PSN. Produktai gali būti nemokami arba mokami. Produktai apima žaidimus, muziką, filmus, prenumeratas, PSN piniginės papildymo paslaugą ir lėšas, virtualiąsias bendruomenes (kur galite bendrauti su kitais žaidėjais) ir kt. Galimi produktai skiriasi pagal tai, kokią sistemą naudojate ir kur gyvenate. Kai kurie produktai gali būti neprieinami jūsų pageidaujama kalba.
+PSN piniginėje
+ laikomi pinigai, kuriuos įnešate į savo sąskaitą, kad galėtumėte juos išleisti „PlayStation Store“.
+Atsakingas suaugusysis
+ – vaiko tėvas, motina arba teisėtas globėjas.
+Sąlygos
+ – šios „PlayStation Network“ paslaugų teikimo sąlygos.
+Naudotojo sugeneruotas turinys“
+ (taip pat vadinamas UGC):
+tekstas, pranešimai, komentarai, paveikslėliai, nuotraukos, balsas, muzika, vaizdo įrašai, žaidimų turinys, žaidimų vaizdo įrašai ir su žaidimais susijusi informacija bei kita medžiaga, i) sukurta jūsų ar kitų asmenų PSN ir (arba) ii) jūsų ar kitų asmenų pasidalinta per PSN.
+Piniginės lėšos
+ – jūsų PSN piniginėje esančios lėšos.
+Piniginės papildymas
+ – piniginės lėšų pirkimas arba kupono iškeitimas į piniginės lėšas.
+8. Kokios kitos sąlygos taikomos, kai naudojatės PSN?
+8.1. Be šių Sąlygų taikomos ir toliau nurodytos sąlygos, kurios sudaro dalį jūsų sutarties su mumis:
+8.1.1. „PlayStation“ privatumo politika (paaiškina, kokius duomenis renkame, kaip juos naudojame ir bendriname).
+8.1.2. Sistemos programinės įrangos licencija (reglamentuoja patvirtintoje sistemoje įdiegtos programinės įrangos naudojimą).
+8.1.3. Programinės įrangos naudojimo sąlygos (reglamentuoja, kaip galite naudotis „PlayStation“ žaidimais ir programomis, sukurtomis vienai ar kelioms patvirtintoms sistemoms).
+8.1.4. „PlayStation Stars“ sąlygos (reglamentuoja jūsų narystę ir „PlayStation Stars“ naudojimą).
+8.2. Šiuos dokumentus rasite adresu www.playstation.com/legal/PSNTerms/.
+8.3. Norėdami naudotis kai kuriais produktais (pvz., žaidimais ir paslaugomis), turite sutikti su konkrečiomis sąlygomis, apie kurias jums pranešėme mes arba to produkto leidėjas.
+8.4. Jei nesilaikysite bet kurios iš minėtų sąlygų, pažeisite šias Sąlygas.
+9. Jūsų paskyros saugumas.
+9.1. Mes naudojame tinkamas technines priemones, kad užtikrintume PSN ir jūsų informacijos saugumą.
+9.2. Jūs taip pat turite atlikti savo vaidmenį. Esate atsakingi už visokeriopą naudojimąsi savo paskyra, išskyrus atvejus, kai:
+9.2.1. Paskyrą naudojo kitas asmuo, nes mes netaikėme tinkamų techninių priemonių PSN arba mūsų turimai informacijai apie jus apsaugoti; arba
+9.2.2. Paskyrą naudojo kitas asmuo, bet jūs ėmėtės pagrįstų priemonių, kad tai neįvyktų, įskaitant 9.3 poskyryje nurodytas priemones.
+9.3. Kai kurios priemonės, padedančios užkirsti kelią kitiems asmenims naudotis jūsų paskyra:
+9.3.1. Išsiregistruokite iš savo paskyros po kiekvienos sesijos.
+9.3.2. Nustatykite prieigos kodą, kad niekas, turintis prieigą prie jūsų patvirtintos sistemos, negalėtų prisijungti prie jūsų paskyros.
+9.3.3. Naudokite stiprų slaptažodį, kuris skirtųsi nuo kitų jūsų slaptažodžių, naudojamų kitoms internetinėms paslaugoms, ir įjunkite funkciją „Reikalauti slaptažodžio atsiskaitant“, kad kiti negalėtų leisti pinigų iš jūsų paskyros.
+9.3.4. Niekada niekam neatskleiskite savo paskyros duomenų.
+9.3.5. Neleiskite kitiems asmenims naudotis jūsų paskyra, netgi šeimos nariams ar draugams.
+9.4. Ką daryti, jei kažkas negerai?
+9.4.1. Jei manote, kad kas nors kitas žino jūsų slaptažodį, nedelsdami jį pakeiskite.
+9.4.2. Nedelsdami mums praneškite, jei manote, kad kažkas kitas perėmė jūsų paskyros valdymą.
+9.4.3. Jei tapote nusikaltimo, susijusio su PSN, auka, praneškite apie tai teisėsaugos institucijoms. (Pavyzdžiui, jei kas nors kitas naudoja jūsų mokėjimo duomenis PSN.)
+10. Jūsų vaikai-šeimos nariai.
+10.1. Kiekvienam vaikui privalote sukurti atskirą vaiko-šeimos nario paskyrą. Kiekvienai nustatykite atitinkamas tėvų kontrolės funkcijas. Žr. 11 skyrių.
+10.2. Vaikai-šeimos nariai gali pasiekti mūsų „PlayStation Store“. Žr. 14 skyrių. Viena iš tėvų kontrolės funkcijų yra mėnesinis išlaidų limitas. Mes esame nustatę nulinį limitą. Jūs galite jį padidinti. Didesnį nei nulinį mėnesio išlaidų limitą vaikams-šeimos nariams nustatykite tik tuo atveju, jei esate įsitikinę, kad jie supranta pirkimo procesą ir gali priimti sprendimus dėl pirkimo iki nustatytos vertės.
+10.3. Nustatydami išlaidų limitą vaikui-šeimos nariui (arba paskirdami globėją, kuris tai padarys), jūs mums pranešate, kad:
+10.3.1. Vaikas supranta i) pirkimo sąvoką; ii) kainą; ir iii) pirkimo internetu procesą;
+10.3.2. Jūs iš anksto patvirtinate ir sutinkate apmokėti visus to vaiko-šeimos nario pirkinius „PlayStation Store“ iki išlaidų limito.
+10.4. Kiekvienai vaiko-šeimos nario paskyrai privalote:
+10.4.1. Pateikti tikslią informaciją, įskaitant amžių – žr. 6 skyrių;
+10.4.1.1. Kodėl? Tai lemia, kaip elgsimės su šia paskyra. Pagal amžių pritaikysime, ką jis gali matyti, pirkti ir veikti PSN. Vis dėlto ne visi per PSN prieinami produktai yra įvertinti, o kai kuriuose yra suaugusiems skirtos kalbos ir medžiagos, kurią gali pamatyti jūsų vaikai-šeimos nariai.
+10.4.2. Paaiškinti savo vaikui-šeimos nariui, kaip jis turėtų elgtis naudodamasis PSN arba bendraudamas su mumis ar PSN bendruomene, kad apsaugotų save ir savo paskyrą (žr. mūsų elgesio kodeksą 12 skyriuje);
+10.4.3. Nustatyti atitinkamas tėvų kontrolės funkcijas – žr. 11 skyrių;
+10.4.4. Tinkamai stebėti, kaip vaikas naudojasi PSN;
+10.4.4.1. Kodėl? Jūsų vaikai-šeimos nariai gali gauti pranešimų iš kitų PSN naudotojų, kurie nebus kopijuojami jums.
+10.4.5. Sutikti prižiūrėti ir todėl prisiimti atsakomybę už savo vaiko-šeimos nario paskyros (-ų) veiklą, siekiant užtikrinti, kad būtų laikomasi šių Sąlygų. Tai nebus taikoma:
+10.4.5.1. Jei kas nors kitas naudojosi paskyra, nes mes nesiėmėme tinkamų techninių priemonių PSN arba informacijai, kurią turime apie jūsų vaikus-šeimos narius, apsaugoti; arba
+10.4.5.2. Jei kas nors kitas naudojosi paskyra, bet jūs ir jūsų vaikas-šeimos narys ėmėtės pagrįstų priemonių užkirsti tam kelią.
+11. Tėvų kontrolė
+11.1. Siūlome įvairias tėvų kontrolės funkcijas. Apie jas galite paskaityti adresu www.playstation.com/safety.
+11.2. Svarbi informacija apie mūsų tėvų kontrolės funkcijas:
+11.2.1. Globėjai gali nustatyti tėvų kontrolės funkcijas ir koreguoti jūsų nustatytas funkcijas.
+11.2.2. Mes nepranešime jums apie globėjų atliktus tėvų kontrolės funkcijų pakeitimus.
+11.2.3. Paskirkite tik tuos globėjus, kuriais visiškai pasitikite.
+12. Elgesio kodeksas.
+12.1.
+Jūs ir jūsų šeimos nariai privalote laikytis mūsų elgesio kodekso bendraudami su mumis ir kitais PSN bendruomenės nariais. Atidžiai perskaitykite šį kodeksą ir padėkite mums išlaikyti PSN geriausia žaidimų vieta visiems.
+✓
+Priimkite visus.
+PSN yra skirta visiems, nepriklausomai nuo lytinės tapatybės, seksualinės orientacijos, rasės, etninės priklausomybės, tautybės, odos spalvos, imigracijos statuso, socialinės ir ekonominės klasės, išsilavinimo lygio, figūros ir dydžio, šeiminės padėties, politinių įsitikinimų, religijos, protinių ir fizinių gebėjimų ar bet kokių kitų savybių, pagal kurias žmonės vertina kitus arba skirsto bendruomenes.
+☒ Nedarykite ir nesakykite
+ nieko, kas kelia neapykantą. Daugiau informacijos rasite adresu playstation.com/hate-speech-policy.
+☒ Negrasinkite, nekenkite ir negąsdinkite
+ kitų žmonių, taip pat neskatinkite kitų tai daryti.
+☒ Nepriekabiaukite, neužgauliokite ir nepersekiokite
+ kitų žmonių.
+✓
+Būkite protingi. Laikykitės įstatymų.
+☒ Nebūkite
+vulgarūs ir neįžeidinėkite.
+☒ Neskatinkite
+žaloti savęs ar kitų žmonių.
+☒ Negrasinkite, netoleruokite, nevykdykite ir neskatinkite
+jokių neteisėtų veiksmų.
+☒ Neapsimeskite
+kitu asmeniu.
+☒ Nepažeiskite
+kitų asmenų privatumo ir neskleiskite melagingos informacijos apie kitus.
+☒ Nepažeiskite
+kitų asmenų intelektinės nuosavybės teisių.
+✓
+Būkite malonūs.
+Padėkite vieni kitiems. Prisiminkite, kad ir jūs kažkada buvote naujokai. Būdami dėmesingi, galite padėti kitiems žaidėjams patirti gerų pirmųjų žaidimų ir bendravimo potyrių.
+ ✓
+Būkite pagarbūs.
+Žinome, kad negalime tikėtis, jog visi visada sutiks. Nesutikite pagarbiai arba pasitraukite.
+☒ Nedarykite
+nieko, kas galėtų pakenkti „PlayStation“ prekės ženklui ar PSN bendruomenei.
+✓
+Būkite atsakingi.
+Jei manote, kad radote PSN produktų ar paslaugų pažeidžiamumą, praneškite mums, kad galėtume jį ištaisyti. Informacijos apie mūsų programą „BugBounty“ rasite adresu HackerOne.com/PlayStation.
+☒ Nenaudokite
+ PSN ar bet kurio iš jos produktų brukalui siųsti ar komercinei veiklai, taip pat nesusiekite jų su tokia veikla.
+☒ Nesidalykite, nepirkite, neparduokite, neišnuomokite, nesuteikite sublicencijos, nekeiskite ir neperduokite
+ jokių paskyrų, paskyrų duomenų ar kitų prisijungimo duomenų.
+✓
+Būkite komandos žaidėjas.
+☒ Netrukdykite ir nepertraukite
+žaidimo.
+☒ Nesukčiaukite
+.
+☒ Neišnaudokite
+ jokių PSN ar produktų klaidų, gedimų, pažeidžiamų vietų ar netyčinių mechanizmų, kad gautumėte naudos.
+☒ Nesistenkite
+ išgauti ar rinkti jokių paskyrų, paskyrų duomenų ar kitos prisijungimo informacijos.
+☒ Nepersiųskite
+ rekomendacijų ar pasiūlymų savo adresatams be jų leidimo.
+☒ Nebendrinkite ir nesiųskite
+ informacijos, kuri klaidina kitus.
+✓
+Būkite diskretiški. Elkitės deramai.
+Visada vadovaukitės sveiku protu ir geromis manieromis. Jūsų žodžiai ir veiksmai internete daro įtaką kitiems žmonėms ir turi realių pasekmių. Pagalvokite, prieš ką nors skelbdami internete. Žinokite, kad informacija, kurią skelbiate internete, gali pasklisti ir ją gali pamatyti žmonės, kuriems nenorėtumėte jos rodyti.
+☒ Neatskleiskite
+asmeninės informacijos apie kitus žmones ar save. Jūs ir jie galite tapti pažeidžiami. Asmeninė informacija, be kita ko, apima vardus socialiniuose tinkluose, žinučių programų profilius, telefono numerius, el. pašto adresus ir realaus pasaulio adresus, pvz., namų, mokyklos ar laikinos buvimo vietos.
+☒ Nesidalykite
+ pornografine, nepadoria medžiaga arba kraštutinio ar baisaus smurto vaizdais.
+☒ Nesidalykite ir negrasinkite dalytis
+kito asmens nuotraukomis ar kita medija be jo sutikimo.
+✓
+Padėkite mums užtikrinti, kad PSN būtų geriausia vieta žaisti.
+Mes siekiame užtikrinti saugią ir draugišką aplinką. Jei pažeidžiate šį kodeksą arba jūsų elgesys už PSN ribų mums suteikia pagrindo manyti, kad galite kelti pavojų mūsų bendruomenės saugumui ar gerovei, mes galime imtis bet kokių pagrįstai būtinų veiksmų, kad apsaugotume PSN ir mūsų žaidėjus.
+Jei manote, kad kas nors pažeidė elgesio kodeksą, praneškite mums, kad galėtume imtis veiksmų, kurie padėtų užtikrinti PSN ir mūsų bendruomenės saugumą. Ypač svarbu mums pranešti, jei manote, kad yra pavojus, kad kas nors gali nukentėti realiame gyvenime. Jei matote, kad kas nors elgiasi netinkamai:
+√
+Praneškite mums apie tai naudodami mūsų kontekstinius skundų teikimo įrankius. Daugiau informacijos apie skundų teikimą ir blokavimą rasite adresu playstation.com/reporting ir playstation.com/blocking.
+√
+Jei bendraujate su tokiais žmonėmis, išlikite ramūs ir pagarbūs. Rodykite pavyzdį ir patys nepažeiskite šio kodekso.
+☒ Neteikite
+melagingų skundų ir kitaip nepiktnaudžiaukite skundų teikimo sistema.
+✓
+Laikykitės kiekvienam produktui taikomų konkrečių taisyklių.
+Daugiau informacijos rasite papildomuose ištekliuose adresu playstation.com/safety ir playstation.com/behavior.
+13. Ar mes sekame, ką veikiate internete?
+13.1. Taip, bet negalime sekti visos veiklos ir neįsipareigojame to daryti.
+13.2. Mes galime stebėti ir įrašyti jūsų PSN veiklą, taip pat be papildomo įspėjimo pašalinti bet kurį jūsų UGC, kuris pažeidžia šias sąlygas. Kiti naudotojai gali įrašyti tai, ką mato, ir atsiųsti mums.
+13.3. Gauta informacija gali apimti jūsų turinį, balso ir teksto komunikaciją, žaidimų vaizdo įrašus, jūsų veiklos laiką ir vietą, jūsų tikrą vardą, PSN internetinį ID ir IP adresą.
+13.4. Mes (arba mūsų susijusios bendrovės) naudojame šią informaciją, kad užtikrintume šių Sąlygų laikymąsi, laikytumės įstatymų, apsaugotume savo, mūsų licencijų išdavėjų bei naudotojų teises ir apgintume mūsų bendruomenę. Šią informaciją galime perduoti policijai ar kitoms atitinkamoms institucijoms.
+13.5. Peržiūrėkite mūsų privatumo politiką adresu www.playstation.com/legal/PSNTerms/, kur rasite daugiau duomenų, kaip naudojame jūsų informaciją.
+14. „PlayStation Store“.
+14.1. Viską, ką perkate iš „PlayStation Store“, perkate iš mūsų. Tai apima piniginės lėšas ir viską, kas perkama naudojant piniginės lėšas.
+14.2. Galite mokėti naudodami PSN piniginės lėšas arba patvirtintą mokėjimo būdą.
+14.3. Rodoma valiuta ir kaina apima visus netiesioginius mokesčius. Turite sumokėti visus taikytinus importo PVM ir muitus, valiutos keitimo ir banko arba kortelės mokesčius (jei taikoma).
+14.4. Vaikai-šeimos nariai:
+14.4.1. Remdamiesi vaikų-šeimos narių gimimo data ir jūsų nustatytais tėvų kontrolės nustatymais mes filtruojame turinį, kurį jie gali matyti ir pirkti „PlayStation Store“.
+14.4.2. Vaikų-šeimos narių perkamų produktų kaina apmokama iš jūsų PSN piniginės, neviršijant mėnesio išlaidų limito, kurį nustatėte kiekvienam vaikui-šeimos nariui (žr. 10.3.2 punktą). Jei nesutinkate su tuo, nekeiskite vaiko-šeimos nario išlaidų limito iš numatytosios nulinės vertės ir nepaskirkite globėjo, kuris galėtų jį keisti.
+14.4.3. Vaikai-šeimos nariai negali inicijuoti mokėjimo iš jūsų kredito kortelės. Jų atliekamas pirkimas bus sėkmingas tik tuo atveju, jei jūsų PSN piniginėje bus pakankamai lėšų.
+15. Pirkimas „PlayStation Store“.
+15.1. Įsitikinkite, kad jūsų vaikai-šeimos nariai supranta, kaip veikia „PlayStation Store“. Toliau pateikta informacija taikoma tiek jiems, tiek jums, išskyrus atvejus, kai nurodyta kitaip.
+15.2. Mes padėsime jums atlikti pirkimo procesą nuo produkto pasirinkimo iki pirkimo patvirtinimo, pateikdami seriją ekranų ir instrukcijų.
+15.2.1. Atidžiai perskaitykite informaciją, kurią jums pateikiame pirkimo metu. Ji turi įtakos atšaukimo teisėms, kurias galbūt turite pagal galiojančius vietos įstatymus – žr. 16 skyrių.
+15.3. Paskutinis mygtukas yra „Užsakyti ir sumokėti“. Kai paspaudžiate tą mygtuką:
+15.3.1. Jei jūsų piniginės lėšų pakanka sumokėti kainą, mes nuskaitome lėšas iš jūsų PSN piniginės;
+15.3.2. Jei turite piniginės lėšų, bet jų nepakanka sumokėti kainą, mes paimame tas lėšas ir likusią sumą nuskaičiuojame jūsų patvirtintu mokėjimo būdu (netaikoma vaikams-šeimos nariams);
+15.3.3. Jei neturite piniginės lėšų, mes nuskaičiuojame visą kainą jūsų paskyroje numatytu patvirtintu mokėjimo būdu (netaikoma vaikams-šeimos nariams); ir
+15.3.4. Jūs atsiunčiate mums užsakymą.
+15.4. Jei negalime įvykdyti jūsų užsakymo, grąžinsime visas sumas:
+15.4.1. nuskaičiuotas iš PSN piniginės – į jūsų PSN piniginę;
+15.4.2. nuskaičiuotas patvirtintu mokėjimo būdu – tuo pačiu mokėjimo būdu, išskyrus atvejus, kai tai yra vienas iš patvirtintų mokėjimo būdų, kuriuo to padaryti negalime. Tokiais atvejais grąžinsime pinigus į jūsų PSN piniginę.
+15.5. Jūs įsigyjate asmeninę licenciją naudoti produktus asmeninėms reikmėms. Jūsų licencija naudoti žaidimus nėra perleidžiama, išskyrus atvejus, kai tai privaloma pagal jūsų vietos teisės aktus.
+15.5.1. Tai reiškia, kad galite naudoti produktą licencijoje aprašytais būdais, bet produktas jums nepriklauso.
+15.5.2. Pirkimo proceso metu mes nurodome, kur rasti licencijos sąlygas.
+15.6. Jei ištrinsite arba uždarysite pirkimo paskyrą, galite prarasti prieigą prie produkto ir galimybę jį naudoti.
+15.7. Jei produktą išleido trečioji šalis, norint naudoti produktą gali tekti susieti arba prijungti savo PSN paskyrą prie turimos tos trečiosios šalies paskyros. Produktas gali tapti susietas su ta trečiosios šalies paskyra, taip pat su pirkimo paskyra. Jei atsiesite trečiosios šalies paskyrą nuo savo PSN paskyros arba jei jūsų trečiosios šalies paskyra bus uždaryta ar ištrinta, galite prarasti prieigą prie produkto.
+16. Ar galiu atšaukti pirkimus tik todėl, kad persigalvojau?
+16.1. Taip, tam tikromis aplinkybėmis ir jei to paprašysite per tam tikrą laikotarpį. Žiūrėkite mūsų atšaukimo politiką adresu www.playstation.com/store-cancellation-policy.
+16.2. Atidžiai perskaitykite informaciją, kurią pateikiame pirkimo metu. Kai perkate, mes pateikiame informaciją ir laikomės tvarkos, kuri riboja teises atsisakyti pirkimo persigalvojus, kurias galėtumėte turėti pagal taikytinus vietos įstatymus.
+16.3. Teisės atšaukti pirkimą persigalvojus paaiškinimas. Kai kuriose šalyse vietos įstatymai numato, kad pirkdami produktus internetu turite laiko persigalvoti, atšaukti pirkimą ir susigrąžinti pinigus. Pavyzdžiui, Europos ekonominės erdvės šalyse:
+16.3.1. Kai perkate skaitmeninį turinį (pavyzdžiui, žaidimą ar filmą), galite atšaukti užsakymą dėl bet kokios priežasties per 14 dienų nuo sandorio sudarymo.
+16.3.2. Kai perkate paslaugas (pavyzdžiui, prenumeratą ar piniginės lėšas), galite atšaukti užsakymą dėl bet kokios priežasties per 14 dienų nuo sandorio sudarymo.
+16.3.3. Visgi įstatymai taip pat numato, kad jums sutikus, jog skaitmeninis turinys būtų pristatytas arba paslauga būtų suteikta nedelsiant, mes galime tai padaryti iš karto ir apriboti jūsų teisę atšaukti užsakymą, jei paaiškiname, kaip tai paveiks jūsų teisę atšaukti užsakymą.
+16.3.4. Kadangi dauguma mūsų klientų nori nedelsdami naudotis savo pirkiniais, mes pirkimo procesą suorganizavome taip, kad gautume jūsų sutikimą dėl skaitmeninio turinio ir paslaugų pristatymo iš karto, ir pateikiame jums aiškią informaciją apie tai, kaip tai veikia jūsų atsisakymo teises.
+16.4. Taigi, jei produktas nėra su trūkumais arba jūs neturite kitų teisių atšaukti užsakymą pagal galiojančius vietos įstatymus, kai perkate pas mus:
+16.4.1. Pradėję atsisiųsti turinį nebegalėsite persigalvoti ir atšaukti skaitmeninio turinio pirkimo; ir
+16.4.2. Galėsite persigalvoti ir atšaukti prenumeratos paslaugos pirkimą per 14 dienų nuo pirkimo, bet grąžinama suma gali būti mažesnė už pirkimo kainą (atsižvelgiant į tai, kiek laiko paslauga buvo naudota).
+17. PSN piniginė.
+17.1. Piniginės lėšas galite naudoti tik produktams iš „PlayStation Store“ pirkti. Mes nesame bankas, o PSN piniginė nėra banko sąskaita. Už lėšas piniginėje palūkanos nemokamos.
+18. Mokėjimo būdai.
+18.1. Mes išsaugome jūsų kredito ir debetinių kortelių bei „PayPal“ sąskaitos duomenis, kai juos naudojate sandoriui atlikti. Šiuos duomenis naudosime būsimiems pirkimams, nebent juos ištrinate savo paskyros nustatymuose.
+18.2. Nelaikome jūsų mokėjimo kortelės 3 skaitmenų saugos numerio. Būsimiems pirkimams jo įvesti nereikia.
+18.3. Jei naudojate kitus patvirtintus mokėjimo būdus, kaskart ką nors pirkdami galite būti paprašyti įvesti duomenis.
+18.4. Kai produktą perkate atsiskaitydami iš mobiliojo ryšio sąskaitos, pirkimo sumą nuskaičiuos jūsų mobiliojo ryšio operatorius. Jis gali papildomai priskaičiuoti standartinį pranešimų siuntimo tarifą.
+19. Grąžinimai.
+19.1. Grąžinimas įvyksta, kai jūsų mokėjimo paslaugų teikėjas (t. y. jūsų mokėjimo būdo teikėjas, pvz., bankas ar „PayPal“) atšaukia jūsų atliktą mokėjimą. Jei grąžinama suma, mums sumokėta už mūsų pateiktus produktus, susidaro skola mums, lygi grąžinimo sumai.
+19.2. Kadangi grąžinimas gali reikšti, jog įtariate sukčiavimą ar paskyros perėmimą, mes sustabdysime jūsų paskyros ar pulto naudojimą, kad juos apsaugotume, kol atliekame tyrimą. Jei grąžinimui nėra teisėto pagrindo, jūsų paskyra liks sustabdyta, kol skola bus grąžinta. Galime nuskaičiuoti lėšas iš jūsų PSN piniginės, kad padengtume jūsų skolą mums.
+20. Specialiosios sąlygos, taikomos kai kuriems produktams.
+Bendrosios nuostatos.
+20.1. Mūsų parduodami produktai gali neveikti su patvirtintomis sistemomis ir programine įranga, licencijuota pardavinėti už Europos, Artimųjų Rytų, Afrikos, Indijos, Rusijos ir Okeanijos ribų.
+20.2. Jei nenurodyta kitaip, visi produktai skirti naudoti tik namuose, nekomerciniais tikslais.
+Žaidimai.
+20.3. Kai kuriuose žaidimuose ir programėlėse galite įsigyti:
+20.3.1. Produktų iš „PlayStation Store“; arba
+20.3.2. Kitų prekių tiesiogiai iš žaidimo ar programėlės leidėjo.
+20.3.2.1. Negalite naudoti piniginės lėšų, kad įsigytumėte ką nors iš leidėjo, turėsite užregistruoti mokėjimo būdą jo platformoje.
+20.3.2.2. Vaiko-šeimos nario paskyros išlaidų limitas taikomas tik pirkiniams iš „PlayStation Store“.
+20.4. Kai kurie produktai siūlo internetines paslaugas, pvz., internetinį daugelio žaidėjų režimą, lyderių lenteles ar bendravimo priemones.
+20.4.1. Norėdami naudotis internetiniu daugelio žaidėjų režimu, jūs (arba kita paskyra, kurioje jūsų PS4 yra nurodytas kaip „pagrindinis pultas“, arba (jei turite PS5) kurioje yra įjungta PS5 „Offline & Homeshare“ nuostata) privalote turėti aktyvią „PlayStation Plus“ prenumeratą, jei konkrečiam produktui nenurodyta kitaip.
+Prenumeratos.
+20.5. Prenumeratos galioja neribotą laiką. Mes reguliariai automatiškai nuskaičiuojame einamąsias įmokas, kol prenumerata nėra atšaukta. Prieš jums perkant paaiškiname einamąsias įmokas, atsiskaitymo dažnumą ir kaip atšaukti prenumeratą. Prieš kiekvieną mokėjimo terminą atsiunčiame jums el. laišką.
+20.6. Bandomosios versijos virsta mokamomis prenumeratomis. Mes nuskaičiuojame prenumeratos įmokas, nebent jūsų prenumerata būtų atšaukta iki bandomosios versijos galiojimo pabaigos. Prieš pradedant naudotis bandomąja versija, paaiškiname šį punktą, einamąsias įmokas, atsiskaitymo dažnumą ir kaip atšaukti prenumeratą.
+20.7. Jei jūsų piniginėje nėra pakankamai lėšų, kad galėtumėte sumokėti periodinį prenumeratos mokestį, likutį nuskaičiuojame jūsų numatytuoju mokėjimo būdu (jei toks yra).
+20.7.1. Tai netaikoma vaikų-šeimos narių pirkiniams.
+20.8. Kiekvieno atsiskaitymo laikotarpio pabaigoje ir bandomojo laikotarpio pabaigoje nuskaičiuojame prenumeratos mokesčius už kitą laikotarpį. Tai neįvyks, jei:
+20.8.1. Atšaukiate prenumeratą prieš bandomojo laikotarpio arba dabartinio atsiskaitymo laikotarpio pabaigą.
+20.8.2. Jūsų PSN piniginėje nėra pakankamai lėšų ir nesate užregistravę mokėjimo būdo.
+20.8.3. Mes nutraukiame prenumeratą dėl bet kokios priežasties.
+20.9. Jei nepavyksta apmokėti jūsų prenumeratos, galime bandyti iš jūsų gauti mokėjimą per keletą ateinančių dienų.
+20.9.1. Per tą laikotarpį galite naudotis prenumeratos paslauga.
+20.9.2. Jūsų atsiskaitymo laikotarpis nesikeis. Jei pakartotinis mokėjimo bandymas bus sėkmingas, jūsų kito mokėjimo terminas bus tas pats, kaip ir tuo atveju, jei pirminis mokėjimas būtų pavykęs.
+20.10. Mes galime keisti dabartinę prenumeratos kainą (padidinti arba sumažinti), atsižvelgdami į prenumeruojamo produkto pokyčius, mūsų išlaidas, susijusias su prenumeratos teikimu, siekdami užtikrinti, kad prenumerata ir toliau būtų perspektyvi paslauga, arba reaguodami į rinkos pokyčius, pvz., pasikeitusius valiutų kursus, vietinius mokesčius ar infliaciją.
+20.10.1. Apie bet kokį kainų padidinimą informuosime el. paštu likus ne mažiau kaip 60 dienų, nurodydami naują kainą ir datą, nuo kurios ji bus taikoma. Galėsite atšaukti prenumeratą, kol padidėjusios kainos neįsigaliojo.
+20.11. Jei jau turite prenumeratą (mokamą arba nemokamą bandomąją versiją) ir įsigyjate kitą tos pačios paslaugos prenumeratą, jūsų dabartinė prenumerata baigsis einamojo atsiskaitymo laikotarpio pabaigoje ir prasidės nauja prenumerata.
+20.12. Prenumeratos produktų paketas gali keistis per visą prenumeratos laikotarpį. Gali būti, kad dėl amžiaus, geografinės vietos ir kitų apribojimų negalėsite naudotis visais paketo produktais. Kai kurie produktai neturintiems prenumeratos gali būti prieinami atskirai.
+Išankstiniai užsakymai.
+20.13. Išankstinius užsakymus turite apmokėti išankstinio užsakymo pateikimo dieną.
+20.14. Išankstinį užsakymą galite atšaukti ir susigrąžinti pinigus, kaip paaiškinta pirkimo metu ir 16 skyriuje. Jei atšaukiate išankstinį užsakymą, nebeturėsite teisės į jokius su išankstiniu užsakymu siūlomus reklaminius produktus.
+Virtualioji valiuta.
+20.15. Kai kuriuose žaidimuose yra naudojama fiktyvi valiuta (
+VC
+). Priklausomai nuo žaidimo, VC galite uždirbti žaisdami žaidimą arba įsigyti jos „PlayStation Store“. Ją galite iškeisti žaidime į kitus žaidimo elementus, patirtis ar funkcijas.
+20.16. Draudžiama:
+20.16.1. Parduoti, pirkti, perduoti ar naudoti VC už žaidimo ribų;
+20.16.2. Lošti naudojant VC ar iš VC (pavyzdžiui, statyti virtualiąsias prekes), išskyrus atvejus, kai žaidimas suteikia tokią galimybę;
+20.16.3. Keisti VC į pinigus ar piniginę vertę turinčius ekvivalentus.
+20.17. Kiekvieno žaidimo leidėjas nustato, kaip veikia jo VC ir ką su ja galima daryti. Išsamią informaciją rasite žaidimo leidėjo sąlygose.
+21. Jūsų sukurtas ir bendrinamas turinys.
+21.1. Kai kurie produktai suteikia jums galimybę bendrinti savo UGC su mumis ir kitais žaidėjais.
+21.2. Jūs esate savo UGC savininkas. Tačiau be sutikimo negalite jo naudoti komerciniais tikslais. Jums reikalingas mūsų ir, jei taikoma, produkto leidėjo sutikimas. Taip yra todėl, kad kuriant ir bendrinant UGC, jūsų UGC gali būti susietas su mums ir produkto leidėjui priklausančia programine įranga ar intelektine nuosavybe.
+21.3. Kai bendrinate savo UGC:
+21.3.1. Padarome jį matomą visame PSN.
+21.3.2. Padarome jį matomą kitose vietose, pvz., mūsų ir susijusių bendrovių svetainėse.
+21.3.3. Mes ir mūsų susijusios bendrovės galime keisti jūsų UGC dėl įvairių priežasčių, įskaitant jūsų internetinio identifikatoriaus (arba jūsų tikrojo vardo, jei nuspręsite jį naudoti) pridėjimą, kad kiti žinotų, jog tai yra jūsų turinys, pastangas užtikrinti, kad jis būtų tinkamai rodomas įvairiuose įrenginiuose ir pan.
+21.3.4. Kiti asmenys gali su juo sąveikauti ir atlikti tam tikrus veiksmus, pvz., komentuoti, keisti, trinti ar bendrinti.
+21.3.5. Mes ir mūsų susijusios bendrovės galime:
+21.3.5.1. Licencijuoti, parduoti ir kitaip komerciškai naudoti jūsų UGC (pavyzdžiui, parduoti prenumeratas, leidžiančias pasiekti tik jūsų UGC arba derinį su kitu UGC);
+21.3.5.2. Gauti pajamų iš reklamos, susijusios su UGC;
+21.3.5.3. Naudoti jūsų UGC produktų ir bet kokių kitų „PlayStation®“ produktų bei paslaugų reklamai;
+21.3.5.4. Keisti arba ištrinti jūsų UGC, jei tai būtina, kad būtų laikomasi įstatymų arba įgyvendintos mūsų teisės pagal šias Sąlygas.
+21.4. Mes nemokame jums už jūsų UGC naudojimą, kaip aprašyta 21.3 poskyryje.
+21.5. Bendrindami UGC, jūs mums patvirtinate, kad turite visas reikiamas teises į tokį UGC ir suteikiate 21 skyriuje nurodytas teises.
+21.6. Produkto licencijoje galite rasti daugiau informacijos apie tai, kaip veikia UGC bendrinimas naudojantis tokiu produktu.
+22. Ar mes kada nors keičiame PSN arba keičiame produktus po to, kai juos įsigyjate?
+22.1. Kartais taip, bet tik tuomet, kai tai yra pagrįsta, nes pakeitimai yra nedideli ir pateisinami. Pavyzdžiui, mes galime kartais keisti PSN ir produktus:
+22.1.1 Siekdami užtikrinti, kad PSN ar produktai veiktų kaip numatyta (pvz., ištaisyti klaidas ir gedimus bei padidinti efektyvumą);
+22.1.2 Saugumo sumetimais;
+22.1.3 Siekdami pritaikyti PSN arba produktą prie naujos sistemos arba techninės aplinkos;
+22.1.4 Siekdami tobulinti PSN arba produktą. Tai gali apimti žaidimo elementų, žaidimo lygių ir užduočių atnaujinimą arba atlygio už žaidimo veiklos įvykdymą keitimą; arba
+22.1.5 Siekdami pritaikyti PSN arba produktą prie naudotojų skaičiaus pokyčių ir (arba) užtikrinti PSN arba produkto komercinį perspektyvumą.
+23. Savo paskyros uždarymas.
+23.1. Savo paskyrą galite uždaryti susisiekę su mumis 30 skyriuje pateiktais kontaktiniais duomenimis.
+23.2. Jei savo paskyros nenaudojote mažiausiai 36 mėnesius, mes galime imtis veiksmų ją uždaryti. Tokiu atveju susisieksime su jumis jūsų paskyroje nurodytu el. pašto adresu ir suteiksime jums 6 mėnesius laiko prisijungti prie savo paskyros arba susisiekti su mumis ir paprašyti palikti jūsų paskyrą veikiančią.
+23.3. Uždarius paskyrą, jūs nebegalėsite prisijungti prie PSN arba naudotis su ta paskyra įsigytais produktais. Paskyros uždarymas yra negrįžtamas.
+24. Ką darome, jei pažeidžiate šias Sąlygas arba manome, kad jūsų paskyra yra neteisėtai pasisavinta?
+24.1. Jei turime įrodymų, leidžiančių daryti išvadą, kad:
+24.1.1. arba
+24.1.1.1. jūs,
+24.1.1.2. vienas iš jūsų vaikų-šeimos narių, arba
+24.1.1.3. bet kurios paskyros, kuriai leidžiate naudoti jūsų patvirtintą sistemą, savininkas
+pažeidė šias paslaugų teikimo sąlygas; arba
+24.1.1.4. jūsų paskyra buvo neteisėtai pasisavinta (pvz., kai jūs inicijuojate grąžinimą, nurodydami sukčiavimą);
+veiksmai, kurių galime imtis, ir tų veiksmų trukmė bus ribojami tuo, kas objektyviai būtina jūsų, mūsų ir kitų naudotojų interesams apsaugoti.
+24.2. Mes galime imtis veiksmų prieš sąskaitų savininkus, kurie yra atsakingi už pažeidimą arba yra jo paveikti. Tai gali apimti:
+24.2.1. bet kurią jūsų naudojamą patvirtintą sistemą;
+24.2.2. jūsų paskyras;
+24.2.3. jūsų vaikų-šeimos narių paskyras; ir
+24.2.4. bet kurias kitas jūsų naudojamos patvirtintos sistemos paskyras.
+24.3. Mūsų veiksmai gali apimti:
+24.3.1. paskyrų slaptažodžių nustatymą iš naujo;
+24.3.2. prenumeratų sustabdymą;
+24.3.3. prieigos prie kai kurių arba visų produktų sustabdymą;
+24.3.4. paskyrų veikimo sustabdymą;
+24.3.5. atnaujinimų įkėlimą į patvirtintas sistemas, kurių paskirtis – sustabdyti neteisėtą naudojimą;
+24.3.6. patvirtintų sistemų prisijungimo prie PSN uždraudimą; ir
+24.3.7. vyriausybinių, baudžiamųjų ir (arba) privačių teisinių veiksmų prieš jus inicijavimą ir (arba) dalyvavimą juose.
+24.4. Jei mes vėluojame imtis veiksmų arba nesiimame veiksmų reaguodami į bet kokį pažeidimą, tai nesustabdys mūsų imtis veiksmų vėliau dėl to ar bet kokio kito pažeidimo.
+25. Mūsų atsakomybė jums, kai kas nors nepavyksta.
+25.1. Kaip vartotojas, jūs galite turėti teisių pagal taikytinus vietos įstatymus, kurių negalima atšaukti, apriboti ar pakeisti. Šioms teisėms teikiama pirmenybė prieš bet kokias šio 25 skyriaus nuostatas.
+25.2. Šios Sąlygos:
+25.2.1. neturi įtakos jokioms įstatyminėms garantijoms ar laidavimams, kuriuos turite kaip vartotojas pagal taikytinus vietos įstatymus; arba
+25.2.2. jokiu būdu neatleidžia mūsų nuo atsakomybės ir jos neapriboja, išskyrus atvejus, kai tai leidžiama pagal jūsų taikytinus vietos įstatymus.
+25.3. Jei esate vartotojas, mes prisiimame neribotą atsakomybę už toliau nurodytus dalykus.
+25.3.1.
+Priežastis:
+ jei dėl mūsų darbuotojų, agentų ar subrangovų neatsargumo sukeliame mirtį ar sužalojame asmenį.
+Mūsų atsakomybė:
+ neribota.
+25.3.2.
+Priežastis:
+ jei atsakomybė kyla dėl mūsų įvykdyto tyčinio pažeidimo, sukčiavimo, apgaulingo klaidinimo ar didelio neatsargumo.
+Mūsų atsakomybė:
+neribota.
+25.4. Atsižvelgiant į 25.1, 25.2 ir 25.3 poskyrius, mes ribojame savo atsakomybę jums taip, kaip nurodyta toliau.
+25.4.1.
+Priežastis:
+ mes nepateikiame jokio produkto.
+Mūsų atsakomybė:
+ grąžinsime sumą, kurią sumokėjote už produktą.
+25.4.2.
+Priežastis:
+ pateikėme produktą, bet jis yra su trūkumais.
+Mūsų atsakomybė:
+galėsite naudotis teisių gynimo būdais, numatytais pagal jūsų gyvenamosios šalies įstatymines garantijas. Be to, mes įsipareigojame imtis toliau nurodytų priemonių.
+Jei produktas yra su trūkumais, visada stengsimės jį pataisyti arba pakeisti.
+Visgi, jei produktas yra su tokiais trūkumais, kad pagal galiojančius vietos įstatymus turite teisę jo atsisakyti, ir jūs nusprendžiate jo atsisakyti, mes grąžinsime jums visą sumą. Jei nuspręsite jį pasilikti, mes grąžinsime jums dalį sumos. Jei pageidaujate, galite gauti kitą produktą.
+Jei neturite teisės atsisakyti produkto, bet mes negalime jo pataisyti ar pakeisti per protingą laikotarpį arba nesukeliant jums didelių nepatogumų, mes grąžinsime jums visą arba dalį sumokėtos sumos.
+Dalinę kompensaciją apskaičiuosime kaip skirtumą tarp produkto kainos ir produkto vertės pristatymo metu.
+Jūs taip pat turite teisę į kompensaciją už pagrįstus, numatomus nuostolius ar žalą, kuriuos sukėlė defektuotas produktas.
+Kaip taisomi produktai.
+Jei produktas yra defektuotas, paprastai jį galima pataisyti atliekant procedūrą, vadinamą „pataisymu“. Pataisymas atnaujina kodą per internetą. Mes parduodame produktus, kurių negaminame, todėl mums reikia, kad kas nors kitas juos pataisytų. Mes visada stengsimės užtikrinti, kad tai būtų padaryta per pagrįstą laiką.
+25.4.3.
+Priežastis:
+piktavališkas arba neteisėtas PSN, jūsų paskyros, jūsų vaiko-šeimos nario paskyros arba produktų naudojimas, įskaitant įsilaužėlių veiklą.
+Mūsų atsakomybė:
+ išskyrus atvejus, kai tai yra mūsų, mūsų darbuotojų, agentų arba subrangovų aplaidumo pasekmė, mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.4.
+Priežastis:
+laikinas negalėjimas naudotis PSN.
+Mūsų atsakomybė:
+ išskyrus atvejus, kai tai yra mūsų, mūsų darbuotojų, agentų arba subrangovų aplaidumo pasekmė, mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.5.
+Priežastis:
+jei uždarote savo paskyrą, nes nesutinkate su esminiais šių Sąlygų, programinės įrangos naudojimo sąlygų ar mūsų privatumo politikos pakeitimais, arba jei mes visam laikui uždarome PSN.
+Mūsų atsakomybė:
+ grąžinsime jūsų nepanaudotas PSN piniginės lėšas ir proporcingai grąžinsime pinigus už bet kokį jūsų prenumeratos laikotarpį, kuris dar nepasibaigė.
+25.4.6. .
+Priežastis:
+bet koks įvykis, kurio mes negalime kontroliuoti (dar vadinamas nenugalima jėga arba stichine nelaime).
+Mūsų atsakomybė:
+ mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.7.
+Priežastis:
+žala, kurios būtų buvę galima išvengti, jei jūs:
+– būtumėte laikęsi mūsų patarimo įdiegti jums nemokamai siūlomą atnaujinimą; arba
+– būtumėte laikęsi diegimo instrukcijų; arba
+– jūsų sistema būtų atitikusi bent minimalius reikalavimus.
+Mūsų atsakomybė:
+ mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.8
+Priežastis:
+verslo nuostoliai, įskaitant pelno praradimą, verslo praradimą, verslo pertraukimą ar verslo galimybių praradimą.
+Mūsų atsakomybė:
+ mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.9
+Priežastis:
+bet kokie jūsų patirti nuostoliai, kurie kilo ne todėl, kad mes pažeidėme šias Sąlygas, ir kurie nėra kitaip aptarti pirmiau.
+Mūsų atsakomybė:
+ mes neprisiimame jokios atsakomybės jūsų atžvilgiu.
+25.4.10
+Priežastis:
+bet kokie atvejai, kurie nėra nurodyti pirmiau.
+Mūsų atsakomybė:
+mūsų atsakomybė nebus didesnė nei 100 GBP (arba lygiavertė suma vietine valiuta) arba nepanaudotų piniginės lėšų suma (jei ši suma didesnė).
+25.5. Jei naudojatės PSN ne kaip vartotojas:
+25.5.1. mes neribojame savo atsakomybės dėl: i) mirties ar asmens sužalojimo, sukelto dėl mūsų ar mūsų darbuotojų, atstovų arba subrangovų aplaidumo; ii) mūsų sukčiavimo ar apgaulingo klaidinimo; iii) tyčinio pažeidimo; iv) bet kokių įsipareigojimų, kurių negalima riboti ar atmesti pagal galiojančius vietos įstatymus.
+25.5.2. Atsižvelgiant į 25.5.1 punktą, mes neprisiimame jokios atsakomybės dėl: i) pelno praradimo; ii) pardavimo sandorių ar verslo praradimo; iii) susitarimų ar sutarčių praradimo; iv) numatytų santaupų praradimo; v) programinės įrangos praradimo ar sugadinimo; vi) duomenų ar informacijos praradimo; vii) reputacijos praradimo ar sugadinimo; ir viii) bet kokių netiesioginių ar kaip pasekmė kilusių nuostolių.
+25.5.3. Atsižvelgiant į 25.5.1 punktą, mūsų bendra atsakomybė jūsų atžvilgiu pagal šias Sąlygas arba susijusi su jomis, nesvarbu, ar tai būtų sutartinė atsakomybė, deliktinė atsakomybė (įskaitant neatsargumą), įstatyminės pareigos pažeidimas ar kita, neviršys 100 GBP (arba lygiavertės sumos vietos valiuta) arba nepanaudotų piniginės lėšų sumos (jei ši suma didesnė).
+26. Intelektinės nuosavybės teisių (toliau – IP) turėjimas ir naudojimas
+26.1. Mums priklauso visos intelektinės nuosavybės, esančios patvirtintose sistemose, PSN ir mūsų produktuose, teisės arba turime šios IP licencijas.
+26.2. Kiti asmenys turi nuosavybės teisę į jų produktuose esančią IP arba turi jos licencijas.
+26.3. Patvirtintas sistemas, PSN ir produktus privalote naudoti TIK:
+26.3.1. šiose Sąlygose arba produkto licencijoje nustatytais būdais; išskyrus atvejus, kai
+26.3.2. tai aiškiai leidžiama pagal taikytinus vietos įstatymus.
+26.4. Mes rimtai žiūrime į savo IP apsaugą ir patvirtintų sistemų, PSN bei produktų saugumą, imamės priemonių prieš žmones, kurie jiems kelia grėsmę.
+26.5. Draudžiama naudoti pavogtas arba neteisėtai įsigytas patvirtintas sistemas ar produktus.
+26.6. Draudžiama atlikti bet kokius toliau išvardytus veiksmus, susijusius su patvirtintomis sistemomis, PSN ar produktais:
+26.6.1. juos imituoti;
+26.6.2. trukdyti jų veikimui;
+26.6.3. naudoti bet kokią neteisėtą aparatinę ar programinę įrangą;
+26.6.4. apeiti bet kokias tapatybės patvirtinimo, šifravimo ar saugumo priemones;
+26.6.5. prieiti prie bet kokios informacijos, kuri nepriklauso jums ar vaikui-šeimos nariui;
+26.6.6. dalytis, pirkti, parduoti, nuomoti, suteikti sublicenciją, mainytis, perduoti, vogti ar rinkti bet kokias paskyras, paskyrų duomenis ar kitus prisijungimo duomenis; arba
+26.6.7. padėti kam nors kitam atlikti bet kurį iš šių veiksmų.
+26.7. Draudžiama kurti išvestinius kūrinius iš patvirtintų sistemų, PSN ar produktų.
+26.8. Draudžiama įsilaužti, nulaužti, iššifruoti, atlikti apgrąžos inžineriją, dekompiliuoti ar išardyti patvirtintas sistemas, PSN ar bet kokius produktus, taip pat padėti kitiems asmenims tai daryti. Šis apribojimas taikomas visapusiškai, kiek leidžia privalomi taikytini vietos įstatymai.
+26.9. Draudžiama naudoti patvirtintas sistemas, PSN ir produktus komerciniais tikslais, imti mokestį už jų naudojimą ar viešai juos demonstruoti be intelektinės nuosavybės savininko sutikimo.
+26.10. Jei naudojate patvirtintos sistemos, PSN ar produkto reklamuojamas funkcijas pagal licenciją, jūs nepažeidžiate 26.7, 26.8 ir 26.9 poskyrių.
+26.11. Prieš bandant daryti ką nors, kas nėra leidžiama pagal šias Sąlygas, rekomenduojame pasikonsultuoti su teisininku, kad įsitikintumėte, jog tai yra aiškiai leidžiama pagal galiojančius vietos įstatymus.
+27. Ar mes kada nors keičiame šias Sąlygas? Ir kas tada atsitinka?
+27.1. Taip, mes galime keisti šias Sąlygas.
+27.2. Jei pakeitimai yra pagrįsti, nes yra nedideli ir pateisinami, mes jus apie juos informuosime iš anksto, pavyzdžiui, paskelbdami pranešimą, kai prisijungsite prie PSN, atsiųsdami PSN žinutę arba el. paštu.
+27.3. Dėl bet kokių kitų pakeitimų prieš jums vėl prisijungiant prie PSN dar kartą paprašysime jūsų sutikti su naujomis Sąlygomis. Jei jūsų Vaikas-šeimos narys yra pagrindinis naudotojas, gali būti, kad jūs taip pat turėsite sutikti, kad jis galėtų prisijungti dar kartą.
+28. Kaip šios Sąlygos yra vykdomos?
+28.1. Jei naudojatės PSN kaip vartotojas Europos ekonominėje erdvėje:
+28.1.1. Šios Sąlygos, pagal jas sudarytos sutartys ir bet kokie su jomis susiję ginčai bus reglamentuojami ir sprendžiami pagal Nyderlandų įstatymus, tačiau jums bus taikoma papildoma apsauga pagal privalomus jūsų gyvenamosios šalies įstatymus. Privalomi jūsų gyvenamosios šalies įstatymai turi viršenybę prieš Nyderlandų įstatymus.
+28.1.2. Mes šių Sąlygų vykdymą galime užtikrinti kompetentingos jurisdikcijos teisme, veikiančiame šalyje, kurioje gyvenate.
+28.1.3. Jūs šių Sąlygų vykdymą galite užtikrinti kompetentingos jurisdikcijos teisme, veikiančiame šalyje, kurioje gyvenate, Anglijoje ir Velse, kur yra įregistruota mūsų bendrovė (SIENE, įmonės registracijos numeris 06020283), arba Nyderlanduose, kur mūsų bendrovė yra registruota kaip filialas (filialo įregistravimo numeris 000051647869).
+28.2. Jei naudojate PSN kaip vartotojas už Europos ekonominės erdvės ribų:
+28.2.1. Šios Sąlygos, pagal jas sudarytos sutartys ir bet kokie ginčai, susiję su jomis, bus reglamentuojami ir sprendžiami pagal Anglijos ir Velso įstatymus, tačiau jums bus taikoma papildoma apsauga pagal privalomus šalies, kurioje gyvenate, įstatymus. Privalomi jūsų gyvenamosios šalies įstatymai turi viršenybę prieš Anglijos ir Velso įstatymus.
+28.2.2. Šių Sąlygų vykdymą mes galime užtikrinti kompetentingos jurisdikcijos teisme, veikiančiame šalyje, kurioje gyvenate.
+28.2.3. Šių Sąlygų vykdymą jūs galite užtikrinti kompetentingos jurisdikcijos teisme, veikiančiame šalyje, kurioje gyvenate, arba ten, kur yra registruota mūsų bendrovė.
+28.3. Jei naudojatės PSN ne kaip vartotojas:
+28.3.1. Šios Sąlygos, pagal jas sudarytos sutartys ir bet kokie ginčai, susiję su jomis, bus reglamentuojami ir sprendžiami pagal Anglijos ir Velso įstatymus; ir
+28.3.2. Anglijos ir Velso teismai turės išimtinę jurisdikciją.
+29. Ar kas nors kitas gali užtikrinti šių Sąlygų vykdymą?
+29.1. Ne. Šios Sąlygos nesukuria jokių teisių, kurių vykdymą galėtų užtikrinti trečioji šalis.
+30. Turite klausimų?
+30.1. Jei turite klausimų, susisiekite su mumis.
+30.2. Pagalbos internetu (pagalbos puslapiai ir kontaktinė forma internete) ieškokite www.playstation.com/get-help/contact-us/. Norėdami mums parašyti tradiciniu būdu, rašykite adresu: „Sony Interactive Entertainment Network Europe Limited“, 10 Great Marlborough Street, London, W1F 7LP, UK.
+30.3. Kai susisiekiate su mumis, tikimės, kad mūsų darbuotojai bus mandagūs ir pagarbūs. To paties tikimės ir iš jūsų. Jei elgsitės grubiai, užgauliosite ar grasinsite mūsų darbuotojams, galime apriboti jūsų galimybę susisiekti su mumis el. paštu arba atsisakyti toliau teikti pagalbą. Jei jūsų elgesys kelia pavojų mūsų darbuotojams, bendruomenei ar verslui, galime sustabdyti jūsų paskyros veikimą ir perduoti šį klausimą teisėsaugos institucijoms.
+1 versija Paskutinį kartą atnaujinta: 2025 m. rugsėjo mėn.
+Privacy Policy
+
+PSN Terms of Service
+
+Support
+
+Sony Interactive Entertainment use cookies to personalise your experience and ads on this website and on third party websites, measure analytics, improve website performance, and enable sharing to social media. For more info or to change settings,
+see our Cookie Policy.
+Settings
+
+Decline
+
+Accept
+Privacy Preference Center
+Privacy Preference Center
+Your Privacy
+Performance Cookies
+Targeting Cookies
+Functional Cookies
+Strictly Necessary Cookies
+YouTube
+Your Privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+
+More information
+Performance Cookies
+
+Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+Cookies Details
+Targeting Cookies
+
+Targeting Cookies
+
+We and certain third party analytics, advertising, social media, and similar companies may collect information from you when you visit our site through cookies in order to build a profile of your interests and show you relevant advertisements on other sites
+Cookies Details
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalization (for example to remember the choices you make when using our website). They may be set by us or by third party providers whose services we have added to our pages.
+Cookies Details
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems.
+Cookies Details
+YouTube
+
+YouTube
+
+YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. If user opts-out from this cookie, then YouTube video cannot be displayed (If opted-in again, video can be displayed as expected)
+Cookies Details
+Cookie List
+
+Consent
+
+Leg.Interest
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+Clear
+
+checkbox label
+
+label
+Apply
+
+Cancel
+Confirm My Choices
+Reject All
+
+Allow All

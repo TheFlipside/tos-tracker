@@ -1,0 +1,101 @@
+Specific instances when a post's reach may be limited
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Platform Use Guidelines
+
+About specific instances when a post’s reach may be limited
+About specific instances when a post’s reach may be limited
+Help Center
+
+Platform Use Guidelines
+
+          About specific instances when a post’s reach may be limited
+
+People may express themselves on X as long as they do not violate our
+X Rules
+.
+We do not block, limit, or remove content based on an individual’s views or opinions. In some situations, your post may not be seen by everyone, as outlined below:
+
+1. Violation of the X Rules
+
+Where appropriate, we will restrict the reach of posts that violate our policies and create a negative experience for other users by making the post less discoverable on X.  Learn more here about our
+range of enforcement options
+.
+
+2. Tools and controls
+
+We’ve developed a set of tools that enable people to control what they see on X.
+
+Block
+ — Block enables people to prevent someone from seeing their content or contacting them when logged in to X.
+
+Mute
+ — Mute enables people to avoid content they don’t want to see without letting other people know they’ve been muted. People can mute other accounts, specific keywords from appearing in Notifications, their Home timeline, and entire conversations.
+Notification filters
+ — We enable people to filter their notifications so they do not need to see posts from certain types of accounts, like those without a profile photo, unverified email address or phone numbers, and from accounts they do not follow.
+
+3. Quality and safety ranking
+
+We are constantly working on improving core parts of the X experience, including the timeline, conversations, and
+search
+ so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.
+
+We have also developed "safe search" functionality which removes posts that contain potentially sensitive content and posts from blocked and muted accounts from search results. As part of this, our team has been working on identifying and collapsing potentially abusive and low-quality replies so the most relevant conversations are brought forward. These post replies are still accessible to those who seek them out.
+
+We use a variety of behavior-based signals to inform how we rank content, such as who you follow, what conversations you join, and if someone is muted or blocked and by whom. For example, if you post to a number of accounts and they block or mute you, we have a strong signal that those accounts do not want to see your posts. Or, if everyone responds when you mention them in a post that demonstrates to us that they want to join the conversation. No one signal is used in isolation – the system uses many signals to continually determine how each account should be ranked.
+
+4. Experiments
+
+We are constantly running experiments on X which may limit the reach of certain posts. If we decide to make a feature or experience generally available, we will update the community and this Help Center page.
+
+5. Legal, quality, and technical issues
+
+We may limit a post’s reach if it violates our
+X Rules
+ or applicable laws, or is determined to be low quality. For more information on instances where we may withhold a post in a specific country, please see this Help Center
+article
+.
+
+Some people report issues related to their posts not appearing on X or their replies detaching from an original post that happen outside of enforcement actions and safety features. These cases may be the result of a post being identified as spam by our systems or may be due to some current technical issues and limitations of the service. We use @Support to update the community about technical issues like these.
+
+If you notice other instances where posts are not appearing, we encourage you to let us know by
+reporting the issue
+.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies

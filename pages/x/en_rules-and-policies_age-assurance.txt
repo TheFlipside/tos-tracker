@@ -1,0 +1,118 @@
+Age Assurance on X
+
+Skip to main content
+
+                  Help Center
+
+Using X
+Managing your account
+Safety and security
+Rules and policies
+Resources
+New user FAQ
+Glossary
+A safer X
+Accessibility
+Our rules
+My privacy
+How we address misinformation on X
+Recommender Systems
+T service
+Contact Us
+
+Help Center
+
+Platform Use Guidelines
+
+Age Assurance on X
+Age Assurance on X
+Help Center
+
+Platform Use Guidelines
+
+          Age Assurance on X
+
+          About Age Assurance on X
+
+We are required by regulations including the UK's Online Safety Act, the Irish Online Safety Code, the European Union Digital Services Act and Australia's Online Safety Act, to estimate or verify whether you are over or under a certain age, for example, 18 for access to certain types of content.
+
+Below, we outline our age verification and estimation methods which are designed to be privacy-focused and user-friendly.
+
+          How do our age assurance methods work?
+
+Where X is legally required to do so, we take a multi-faceted age assurance approach to verify or estimate whether users are 18 or under. This helps us apply appropriate settings, such as restricting access to sensitive media, including pornography.
+
+          Verification Using Existing Highly Reliable Signals
+
+Where these exist with regard to a user, we may start by assessing certain highly reliable signals in order to verify a user’s age. Such signals include:
+
+Self-attested age:
+If a user previously indicated that they are under 18.
+ID verification:
+ If a user previously completed X’s
+ID verification
+ process.
+Legacy verified public figures:
+If a user was verified according to our
+Legacy Verified policy
+.
+Account creation date:
+If an account was created in 2012 or earlier.
+Grey Badged accounts:
+The grey checkmark indicates that an account represents a government/multilateral organization or official.
+Gold Badged accounts:
+ The gold checkmark indicates that the account is an official organization account through Premium Business.
+
+Where these signals exist, we may use them to determine whether that user is above or below a certain age, for example, 18 or under, without requiring further action from them.
+
+          Estimation Methods Without Further User Involvement
+
+Where we do not have the signals from the above verification methods, we may also use the following additional methods, where available, to estimate or verify that a user is under or over 18 based on information that X already has access to:
+
+Email address-based estimation:
+ Users’ email address will be used to estimate their age.
+Phone number-based estimation:
+ Users’ phone number will be used to estimate their age.
+
+          User Involved Verification Options
+
+Users whose age X has not been able to estimate or verify in accordance with any of the other methods, are given a choice between two secure, privacy-respecting options to estimate or verify their age:
+
+Facial age estimation:
+ Users can upload a live selfie, which will be used to estimate their age by our artificial intelligence systems.
+ID verification:
+ Users can submit a government-issued ID, which will be used to estimate their age by artificial intelligence systems.
+
+          What happens if we determine you are over or under a relevant threshold age, for example, 18?
+
+Once determined through one of the age assurance methods, a user’s age status will be updated accordingly. If a user is determined to be under the relevant threshold age, for example, 18, they shall be defaulted into sensitive media settings, and should not be able to access sensitive media. If a user is determined to be over the relevant threshold age, for example, 18, they should be able to access sensitive media.
+
+          What happens if we’re not able to determine if you are over or under a relevant threshold age?
+
+Until we are able to determine if a user is 18 or over, they may not be able to access sensitive media.
+
+          How can you appeal an age assurance decision?
+
+If you believe we’ve incorrectly estimated your age as under 18 pursuant to one of the age assurance methods X has in place, you can challenge this by contacting X Support through the app or website.
+
+          Important Note
+
+Privacy and data handling:
+ X prioritizes your privacy. Third party providers will also be bound by strict data protection standards.
+
+          Share this article
+
+Post
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+
+Show more about your choices
+.
+
+                  Accept all cookies
+
+                  Refuse non-essential cookies
