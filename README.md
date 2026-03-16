@@ -7,5 +7,8 @@ By making use of version control systems, changes can be made visible easily.
 
 ```sh
 pip install -r requirements.txt
+
+python3 -m playwright install chromium
+
 python3 fetch.py
 ```
