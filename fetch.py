@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 """Fetch Terms of Service and Privacy Policy pages from sources.txt.
 
-Parses a markdown-style source list, downloads each URL using a
-headless browser (Playwright), extracts readable text, and stores
-it under pages/<company>/<slug>.txt for version-control tracking.
+Parses a markdown-style source list, downloads each URL, extracts
+readable text, and stores it under pages/<company>/<slug>.txt for
+version-control tracking.
+
+Uses Playwright (headless browser) by default for JS-heavy sites.
+Falls back to plain HTTP (requests) when the browser is blocked
+(e.g. Amazon detects automation but allows regular HTTP clients).
 """
 
 import argparse
@@ -12,6 +16,7 @@ import sys
 from pathlib import Path
 from urllib.parse import urlparse
 
+import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import Error as PlaywrightError
 from playwright.sync_api import sync_playwright
@@ -20,6 +25,11 @@ SOURCES_FILE = "sources.txt"
 OUTPUT_DIR = Path("pages")
 PAGE_TIMEOUT_MS = 30_000
 NAVIGATION_WAIT_MS = 3000
+HTTP_TIMEOUT = 30
+
+# Minimum body length (chars) to consider a fetch successful.
+# Catches error pages / CAPTCHA stubs that return 200.
+MIN_CONTENT_LENGTH = 200
 
 # Common boilerplate tags to strip before extracting text.
 STRIP_TAGS = [
@@ -33,6 +43,16 @@ STRIP_TAGS = [
     "img",
     "iframe",
 ]
+
+HTTP_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 
 def parse_sources(path: str) -> list[tuple[str, str]]:
@@ -94,23 +114,54 @@ def slugify_company(name: str) -> str:
     return slug.strip("-")
 
 
+def _fetch_http(url: str) -> str:
+    """Fetch a URL via plain HTTP and return extracted text."""
+    resp = requests.get(url, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT)
+    resp.raise_for_status()
+    return extract_text(resp.text)
+
+
+def _fetch_browser(page, url: str, wait_ms: int) -> str:
+    """Fetch a URL via Playwright and return extracted text."""
+    page.goto(url, wait_until="networkidle")
+    page.wait_for_timeout(wait_ms)
+    return extract_text(page.content())
+
+
+def _is_stub(text: str) -> bool:
+    """Return True if the text looks like an error stub."""
+    return len(text.strip()) < MIN_CONTENT_LENGTH
+
+
 def _fetch_one(page, url: str, dest: Path, wait_ms: int) -> bool:
-    """Fetch a single URL and write extracted text to dest.
+    """Fetch a URL with browser, falling back to HTTP.
 
     Returns True on success, False on failure.
     """
+    text = ""
+
+    # Try Playwright first (handles JS-rendered sites).
     try:
-        page.goto(url, wait_until="networkidle")
-        page.wait_for_timeout(wait_ms)
-        html = page.content()
-        text = extract_text(html)
-        dest.write_text(text, encoding="utf-8")
-        print(f"  OK  {dest}")
-        return True
+        text = _fetch_browser(page, url, wait_ms)
     except PlaywrightError as exc:
         msg = str(exc).splitlines()[0]
-        print(f" FAIL {url} — {msg}", file=sys.stderr)
+        print(f"  WARN browser failed: {msg}", file=sys.stderr)
+
+    # Fall back to plain HTTP if browser got blocked / stub.
+    if _is_stub(text):
+        try:
+            text = _fetch_http(url)
+        except requests.RequestException as exc:
+            print(f" FAIL {url} — {exc}", file=sys.stderr)
+            return False
+
+    if _is_stub(text):
+        print(f" FAIL {url} — content too short", file=sys.stderr)
         return False
+
+    dest.write_text(text, encoding="utf-8")
+    print(f"  OK  {dest}")
+    return True
 
 
 def _make_browser_context(pw):
@@ -118,11 +169,7 @@ def _make_browser_context(pw):
     browser = pw.chromium.launch(headless=True)
     context = browser.new_context(
         locale="en-US",
-        user_agent=(
-            "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0.0.0 Safari/537.36"
-        ),
+        user_agent=HTTP_HEADERS["User-Agent"],
     )
     return browser, context
 
@@ -132,7 +179,7 @@ def fetch_all(
     output_dir: Path,
     wait_ms: int,
 ) -> tuple[int, int]:
-    """Fetch every URL using a shared Playwright browser.
+    """Fetch every URL with browser + HTTP fallback.
 
     Returns (succeeded, failed) counts.
     """
@@ -162,13 +209,13 @@ def fetch_all(
 def main() -> int:
     """Entry point: parse sources, fetch pages, write output."""
     parser = argparse.ArgumentParser(
-        description="Fetch TOS/privacy pages listed in sources.txt."
+        description="Fetch TOS/privacy pages from sources.txt."
     )
     parser.add_argument(
         "-s",
         "--sources",
         default=SOURCES_FILE,
-        help=f"Path to sources file (default: {SOURCES_FILE})",
+        help=f"Sources file (default: {SOURCES_FILE})",
     )
     parser.add_argument(
         "-o",
@@ -197,9 +244,7 @@ def main() -> int:
         return 1
 
     print(f"Found {len(entries)} URLs from {sources_path}")
-
     succeeded, failed = fetch_all(entries, output_dir, args.wait)
-
     print(f"\nDone: {succeeded} succeeded, {failed} failed.")
     return 1 if failed else 0
 
