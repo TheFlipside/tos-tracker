@@ -92,7 +92,7 @@ def url_to_filename(url: str) -> str:
     safe = re.sub(r"[^a-zA-Z0-9._-]", "_", path)
     # Collapse repeated underscores.
     safe = re.sub(r"_+", "_", safe).strip("_")
-    return f"{safe}.txt"
+    return safe
 
 
 def extract_text(html: str) -> str:
@@ -115,17 +115,17 @@ def slugify_company(name: str) -> str:
 
 
 def _fetch_http(url: str) -> str:
-    """Fetch a URL via plain HTTP and return extracted text."""
+    """Fetch a URL via plain HTTP and return raw HTML."""
     resp = requests.get(url, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT)
     resp.raise_for_status()
-    return extract_text(resp.text)
+    return resp.text
 
 
 def _fetch_browser(page, url: str, wait_ms: int) -> str:
-    """Fetch a URL via Playwright and return extracted text."""
+    """Fetch a URL via Playwright and return raw HTML."""
     page.goto(url, wait_until="networkidle")
     page.wait_for_timeout(wait_ms)
-    return extract_text(page.content())
+    return page.content()
 
 
 def _is_stub(text: str) -> bool:
@@ -133,33 +133,36 @@ def _is_stub(text: str) -> bool:
     return len(text.strip()) < MIN_CONTENT_LENGTH
 
 
-def _fetch_one(page, url: str, dest: Path, wait_ms: int) -> bool:
+def _fetch_one(page, url: str, dest: Path, raw: Path, wait_ms: int) -> bool:
     """Fetch a URL with browser, falling back to HTTP.
 
+    Writes extracted text to dest and raw HTML to raw.
     Returns True on success, False on failure.
     """
-    text = ""
+    html = ""
 
     # Try Playwright first (handles JS-rendered sites).
     try:
-        text = _fetch_browser(page, url, wait_ms)
+        html = _fetch_browser(page, url, wait_ms)
     except PlaywrightError as exc:
         msg = str(exc).splitlines()[0]
         print(f"  WARN browser failed: {msg}", file=sys.stderr)
 
     # Fall back to plain HTTP if browser got blocked / stub.
-    if _is_stub(text):
+    if _is_stub(extract_text(html)):
         try:
-            text = _fetch_http(url)
+            html = _fetch_http(url)
         except requests.RequestException as exc:
             print(f" FAIL {url} — {exc}", file=sys.stderr)
             return False
 
+    text = extract_text(html)
     if _is_stub(text):
         print(f" FAIL {url} — content too short", file=sys.stderr)
         return False
 
     dest.write_text(text, encoding="utf-8")
+    raw.write_text(html, encoding="utf-8")
     print(f"  OK  {dest}")
     return True
 
@@ -172,6 +175,17 @@ def _make_browser_context(pw):
         user_agent=HTTP_HEADERS["User-Agent"],
     )
     return browser, context
+
+
+def _dest_paths(output_dir: Path, company: str, url: str) -> tuple[Path, Path]:
+    """Build text and raw HTML output paths for a URL."""
+    slug = slugify_company(company)
+    base = url_to_filename(url)
+    text_dir = output_dir / slug
+    raw_dir = output_dir / "raw" / slug
+    text_dir.mkdir(parents=True, exist_ok=True)
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    return text_dir / f"{base}.txt", raw_dir / f"{base}.html"
 
 
 def fetch_all(
@@ -192,11 +206,8 @@ def fetch_all(
         page.set_default_timeout(PAGE_TIMEOUT_MS)
 
         for company, url in entries:
-            company_dir = output_dir / slugify_company(company)
-            company_dir.mkdir(parents=True, exist_ok=True)
-            dest = company_dir / url_to_filename(url)
-
-            if _fetch_one(page, url, dest, wait_ms):
+            txt, htm = _dest_paths(output_dir, company, url)
+            if _fetch_one(page, url, txt, htm, wait_ms):
                 succeeded += 1
             else:
                 failed += 1
