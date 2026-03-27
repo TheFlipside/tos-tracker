@@ -2,7 +2,7 @@ Epic Games Terms of Service - Epic Games
 Agreements
 EPIC GAMES TERMS OF SERVICE
 
-Epic Games Terms of Service for the EU
+EPIC GAMES TERMS OF SERVICE
 
 Last Updated:      February 27, 2026
 Effective: November 28, 2025
@@ -518,7 +518,9 @@ Binding
 
 f.	Arbitration Procedure and Location
 
-You or Epic may initiate arbitration of any Disputes not resolved by Informal Resolution by filing a Demand for Arbitration with the arbitration provider. Instructions for filing a Demand for Arbitration with NAM are available on the NAM website or by emailing NAM at commercial@namadr.com. Instructions for filing a Demand for Arbitration with AAA—which you may do only if you reside in a jurisdiction where NAM is not available to arbitrate—are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any Demand for Arbitration to Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic will send any Demand for Arbitration to the email address and to any billing address you have provided us.
+You or Epic may initiate arbitration of any Disputes not resolved by Informal Resolution by filing a Demand for Arbitration with the arbitration provider. Instructions for filing a Demand for Arbitration with NAM are available on the NAM website or by emailing NAM at
+[email protected]
+. Instructions for filing a Demand for Arbitration with AAA—which you may do only if you reside in a jurisdiction where NAM is not available to arbitrate—are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any Demand for Arbitration to Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic will send any Demand for Arbitration to the email address and to any billing address you have provided us.
 
 The arbitration will be conducted by a single arbitrator with experience resolving similar Disputes. You and Epic both agree that the arbitration will be conducted in the English language and that—unless the arbitrator orders otherwise for reasons of hardship—any translation you may request will be at your expense. The arbitrator will apply this Section and all other applicable contractual terms as a court would and will adjudicate any Disputes according to applicable law and fact based only upon the record before the arbitrator.
 
