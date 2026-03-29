@@ -2,7 +2,7 @@ Epic Games Terms of Service - Epic Games
 Agreements
 EPIC GAMES TERMS OF SERVICE
 
-EPIC GAMES TERMS OF SERVICE
+Epic Games Terms of Service for the EU
 
 Last Updated:      February 27, 2026
 Effective: November 28, 2025
@@ -518,9 +518,7 @@ Binding
 
 f.	Arbitration Procedure and Location
 
-You or Epic may initiate arbitration of any Disputes not resolved by Informal Resolution by filing a Demand for Arbitration with the arbitration provider. Instructions for filing a Demand for Arbitration with NAM are available on the NAM website or by emailing NAM at
-[email protected]
-. Instructions for filing a Demand for Arbitration with AAA—which you may do only if you reside in a jurisdiction where NAM is not available to arbitrate—are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any Demand for Arbitration to Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic will send any Demand for Arbitration to the email address and to any billing address you have provided us.
+You or Epic may initiate arbitration of any Disputes not resolved by Informal Resolution by filing a Demand for Arbitration with the arbitration provider. Instructions for filing a Demand for Arbitration with NAM are available on the NAM website or by emailing NAM at commercial@namadr.com. Instructions for filing a Demand for Arbitration with AAA—which you may do only if you reside in a jurisdiction where NAM is not available to arbitrate—are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any Demand for Arbitration to Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic will send any Demand for Arbitration to the email address and to any billing address you have provided us.
 
 The arbitration will be conducted by a single arbitrator with experience resolving similar Disputes. You and Epic both agree that the arbitration will be conducted in the English language and that—unless the arbitrator orders otherwise for reasons of hardship—any translation you may request will be at your expense. The arbitrator will apply this Section and all other applicable contractual terms as a court would and will adjudicate any Disputes according to applicable law and fact based only upon the record before the arbitrator.
 
@@ -742,3 +740,43 @@ When you obtain licenses to Redeemable Developer-Made Content, they are limited 
 1.3 Subject to Sections 1.2.1 and 1.2.2 above and local applicable laws, the Developer is solely responsible for the offer, the content and any warranties related to the Developer-Made Content, as well for any claims that you may have related to the Developer-Made Content. If you have an issue with any Developer-Made Content, Epic may facilitate communication between you and the Developer and propose a non-binding solution.
 
 1.4 For avoidance of doubt, any dispute relating to Developer-Made Content must be resolved as a “Dispute,” as that term is defined in Section 17(b) of the Epic Games Terms of Service, and must be resolved following the procedures set forth in Sections 16 and 17 of those Terms. The Developer of that Developer-Made Content is an intended third-party beneficiary of the Terms, and able to compel a dispute to arbitration to the same extent as Epic.
+Privacy Preference Center
+Privacy Preference Center
+Your Privacy
+Strictly Necessary Cookies
+Your Privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+
+More information
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Cookies Details‎
+Cookie List
+
+Consent
+
+Leg.Interest
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+Clear
+
+checkbox label
+
+label
+Apply
+
+Cancel
+Confirm My Choices
+
+Allow All
