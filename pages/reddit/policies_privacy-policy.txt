@@ -52,15 +52,21 @@ Dansk
 
 Deutsch
 
+Ελληνικά
+
 English (US)
 
 Español (ES)
 
 Español (MX)
 
+Suomi
+
 Français (FR)
 
 Dutch (NL)
+
+Norsk bokmål
 
 Italiano
 
@@ -73,6 +79,8 @@ Polski
 Português (BR)
 
 Português (PT)
+
+Русский
 
 Svenska (SE)
 
@@ -95,6 +103,10 @@ Română
 Українська мова
 
 Tiếng Việt
+
+中文 (简体)
+
+中文 (繁體)
 
         Revisions
 
