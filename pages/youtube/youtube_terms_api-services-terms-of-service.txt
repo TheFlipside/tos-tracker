@@ -614,9 +614,3 @@ Google Developers Site Policies
 . Java is a registered trademark of Oracle and/or its affiliates.
 
 Last updated 2025-08-28 UTC.
-
-Info
-
-Chat
-
-API
