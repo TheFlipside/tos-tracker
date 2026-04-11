@@ -31,7 +31,7 @@ Platform Use Guidelines
 
           Automation rules
 
-Updated October 2025
+Updated April 2026
 
 This page is primarily intended for
 developers
@@ -222,8 +222,8 @@ After a user-initiated interaction ends, don’t send additional follow-up Direc
 
 D. Automated actions you take on posts or accounts
 
-Automated likes:
- You may not like posts in an automated manner.
+Automated likes or hide replies:
+ You may not like posts or hide replies in an automated manner.
 
 Automated Reposts:
  Provided you comply with all other rules, you may Repost or Quote post in an automated manner for entertainment, informational, or novelty purposes. Automated Reposts often lead to negative user experiences, and bulk, aggressive, or spammy Reposting is a violation of the

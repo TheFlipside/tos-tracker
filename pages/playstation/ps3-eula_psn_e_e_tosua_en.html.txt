@@ -1,1159 +1,814 @@
-PLAYSTATION NETWORK TERMS OF SERVICE,Software Uage Terms - EN
-
-PLAYSTATION NETWORK TERMS OF SERVICE
-
+PLAYSTATION TERMS OF SERVICE,PlayStation® Software Application End User License Agreement ("Software Terms")
+PLAYSTATION TERMS OF SERVICE
+Version 12 Last updated: April 2026
 IMPORTANT
 :
-
-PlayStation Network is not for children younger than 7.
-
-If you are 7 to 17 years old, your parent or legal guardian ("
+PlayStation Online Services are not for anyone under the age of 7 years old.
+If you are aged 7 to 17 years old, your parent or legal guardian ("
 Responsible Adult
-") must read and accept these Terms for you. You can read them too. Ask your Responsible Adult to explain anything you do not understand. You can also read the PSN Rules at www.playstation.com/legal/PSNTerms/. The Rules are shorter than these Terms. They help you understand the most important bits.
-
+") must read and accept these PlayStation Terms of Service ("Terms") for you. You can read them too. Ask your Responsible Adult to explain anything you do not understand. You can also read the PlayStation rules at www.playstation.com/legal/terms. The PlayStation rules are shorter than these Terms. They help you understand the most important bits.
 AS A CONSUMER YOU MAY HAVE RIGHTS UNDER APPLICABLE LOCAL LAWS THAT CANNOT BE EXCLUDED, LIMITED OR CHANGED. THOSE RIGHTS TAKE PRIORITY OVER ANYTHING IN THESE TERMS.
-
 BEFORE YOU START USING YOUR ACCOUNT.
-
-Read these Terms. We will rely on these Terms when dealing with you. We may suspend an account if the account holder breaches these Terms. If you have any questions, contact our customer services – see section 30.
-
-1. When do these Terms apply?
-
-1.1. These terms apply to every account for PlayStation Network and all use of that account.
-
-2. What is PlayStation Network?
-
-2.1. PlayStation Network is also called PSN. PSN is a service delivered over the internet. It connects you with other players and provides access to a range of services. To use PSN you need an account. There is no charge for creating an account but there is a charge for some services available via PSN.
-
-3. Who are we?
-
-3.1. We are Sony Interactive Entertainment Network Europe Limited, company number 06020283 ("
-SIENE
-"). SIENE is incorporated in England and Wales.
-
-3.2. If you live in the European Economic Area we act through our branch in the Netherlands at Olympia 1, 1213NS Hilversum, Netherlands under establishment number 000051647869.
-
-4. Who can create an account for PSN?
-
-4.1. Only people aged 7 and over can have an account.
-
-4.2. If you are 7 to 17 years old, you need your Responsible Adult to agree to you having an account and help you to create it.
-
-4.3. If you are 18 or over you can create an account by yourself. Create your account first. Then create separate accounts for each child for whom you are the Responsible Adult. Set Parental Controls on each Child Family Member Account to tailor their activity. For more detail, see section 11 below.
-
-5. What happens if you breach these Terms?
-
-5.1. We may take various actions as set out in section 24, including suspending your account. While suspended, you will not be able to use PSN. That means you will not be able to use some Products, even those you paid for.
-
-6. Your commitment to us.
-
-6.1. You must be honest with us. Give us accurate personal information about yourself and any Child Family Members. Keep that information up to date via account management.
-
-6.2.
-Why it matters
-
-6.2.1. This is important because we rely on the information you provide. We send important information to the email addresses you give us. We use your Child Family Member's date of birth to tailor their experience.
-
-6.2.2. If you give us false information we may suspend the affected accounts. For example, we may suspend adults accounts if children are using them. When that happens, you lose access to PSN and some Products, even paid for ones. You can contact customer services to understand why you or a Child Family Member has been suspended and what you can do.
-
-7. Defined Words and Phrases.
-
+Read these Terms. We will rely on these Terms when dealing with you. We may suspend an account for PlayStation if the account holder breaches these Terms. If you have any questions, contact our customer services – see section 28.
+1. Who are we?
+1.1 We are Sony Interactive Entertainment Network Europe Limited, company number 06020283, incorporated in England and Wales ("SIENE", "we", "us" or "our").
+1.2 If you live in the European Economic Area we act through our branch in the Netherlands at Olympia 1, 1213NS Hilversum, Netherlands under establishment number 000051647869.
+2. When do these Terms apply?
+2.1 An account for PlayStation (an "
+Account
+") is required to use online services delivered by us. Throughout these Terms we call these online services the "
+PlayStation Online Services
+".
+2.2 These Terms apply to every Account and all use of that Account.
+2.3 PlayStation Online Services are delivered over the internet and connect you with other players and provides access to a range of PlayStation services.
+In some countries, we may only offer Accounts that do not give
+2.4 full access to all PlayStation Online Services. For example, these Accounts may only allow you to link your Account with certain third-party services or only allow limited use of your Account on certain Authorised Systems.
+2.5 There is no charge for creating an Account but there is a charge for some services available via your Account.
+3. Defined Words and Phrases.
+3.1 We want our Terms to be easy to understand. So, when you see the following words with a capital letter in our Terms, here's what we mean:
 "Approved Payment Method":
-the payment methods we accept on PSN.
-
+the payment methods we accept on PlayStation Online Services
 "Authorised Systems":
- any of our games consoles. That includes original PlayStation, PlayStation®2, PlayStation®Portable, PlayStation®3, PlayStation®Vita, PlayStation®TV, PlayStation Classic, PlayStation®4 and PlayStation®5.
-
+ any of our games consoles or handheld devices, the PlayStation Mobile App on iOS or Android, selected third party services available on PC and other devices that we approve from time to time.
 "Child Family Member Account":
-an account for someone whose date of birth indicates they are under 18. A Child Family Member Account has some functionalities determined by age and comes with a range of Parental Controls which the Family Manager or Guardian can set. See section 10. On PS3 and PS Vita the term sub account has the same meaning as Child Family Member Account.
-
+an Account for someone whose date of birth indicates they are under 18.
 "Child Family Member":
 someone with a Child Family Member Account.
-
-"Code of Conduct":
- how you must behave on PSN, as set out in section 12.
-
+"Digital Products"
+: all the digital content and digital services available via PlayStation Online Services. Digital Products may be free or paid-for and may include games, music, movies, subscriptions or PlayStation Store Wallet Funds. Available Digital Products vary depending on which Authorised System you are using and where you live. Some Digital Products may not be available in your preferred language.
 "Family Manager":
-the adult account holder who creates a Child Family Member Account is the Family Manager. An adult account holder who invites other adult account holders to join their "family" is also a Family Manager.
-
-"Family Member"
-any account holder who belongs to a "family".
-
+the adult Account holder who creates a Child Family Member Account is the Family Manager. A holder of an adult Account who invites other holders of an adult Account to join their "family" is also a Family Manager.
+"Family Member":
+any Account holder who belongs to a "family".
 "Guardian":
  an adult Family Member nominated by the Family Manager who can set Parental Controls for Child Family Members.
-
 "Parental Controls":
 settings
 
 enabling a Family Manager or Guardian to tailor the experience of Child Family Members. Find more information about Parental Controls at: www.playstation.com/safety.
+"PlayStation Store Wallet"
+ holds the funds you add to your Account to spend on the PlayStation Store.
+"PlayStation Store Wallet Funds":
+funds in your
 
-"Products":
-all the digital content and digital services available via PSN. Products may be free or paid-for. Products include games, music, movies, subscriptions, PSN Wallet top up service and funds, virtual communities (where you can interact with other players) and more. Available Products vary depending on which system you are using and where you live. Some Products may not be available in your preferred language.
-
-"PSN Wallet"
- holds the funds you add to your account to spend on the PlayStation Store.
-
-"Responsible Adult"
- the parent or legal guardian of a child.
-
-"Terms"
- these PlayStation Network Terms of Service.
-
+PlayStation Store Wallet.
 "User Generated Content"
-, also called
+, or
 "UGC":
-text, messages, comments, pictures, photographs, voice, music, videos, game assets, game videos and game-related information and other materials (i) created by you or others on PSN and/or (ii) shared by you or others via PSN.
-
-"Wallet Funds"
-funds in your PSN Wallet.
-
-"Wallet Top Up"
- buying Wallet Funds or redeeming a voucher for Wallet Funds.
-
-8. What other terms apply when you use PSN?
-
-8.1. In addition to these Terms, the following terms apply and form part of your contract with us:
-
-8.1.1. PlayStation Privacy Policy (explains what data we collect and how we use and share it).
-
-8.1.2. System Software Licence (governs use of the software embedded in an Authorised System).
-
-8.1.3. Software Usage Terms (govern your use of PlayStation game and application software developed to operate on one or more of the Authorised Systems).
-
-8.1.4. PlayStation Stars Terms (governs your membership and use of PlayStation Stars).
-
-8.2. Find those documents at www.playstation.com/legal/PSNTerms/.
-
-8.3. To access some Products (e.g. games and services) you must agree specific terms notified to you by us or the publisher of that Product.
-
-8.4. If you fail to obey any of the terms mentioned above you will breach these Terms.
-
-9. Your account security.
-
-9.1. We use appropriate technical measures to secure PSN and the information we hold about you.
-
-9.2. You must play your part too. You are responsible for all use of your account, unless:
-
-9.2.1. someone else used the account because we failed to use appropriate technical measures to secure PSN or the information we hold about you; or
-
-9.2.2. someone else used the account but you had taken reasonable steps to prevent that happening including those in section 9.3.
-
-9.3. Some steps to stop others using your account:
-
-9.3.1. Sign-out of your account at the end of each session.
-
-9.3.2. Set a passcode to prevent anyone with access to your Authorised System logging in to your account.
-
-9.3.3. Use a strong password, different from any you use for other online services, and turn on "Require Password at Checkout" to prevent others spending on your account.
-
-9.3.4. Never share your account details with anyone else.
-
-9.3.5. Never let anyone else use your account, not even a family member or friend.
-
-9.4. What if something goes wrong?
-
-9.4.1. Change your password immediately if you think anyone else knows it.
-
-9.4.2. Notify us immediately if you think someone else has control of your account.
-
-9.4.3. Notify law enforcement if you are a victim of crime in relation to the PSN. (For example, someone else using your payment details on PSN.)
-
-10. Your Child Family Members.
-
-10.1. You must create a separate Child Family Member Account for each child. Set appropriate Parental Controls for each. See section 11.
-
-10.2. Child Family Members have access to our PlayStation Store. See section 14. One of the Parental Controls is a monthly spend limit. We set it to zero. You can increase it. Only allow Child Family Members a monthly spend limit higher than zero if you are satisfied they are able to understand the purchase flow and make purchase decisions up to that value.
-
-10.3. By setting a spend limit for a Child Family Member (or appointing a Guardian who does so), you are telling us:
-
-10.3.1. the child can understand (i) the concept of a purchase; (ii) the cost; and (iii) an online purchase flow; and
-
-10.3.2. you pre-approve and agree to pay for all PlayStation Store purchases by that Child Family Member up to the spend limit.
-
-10.4. For each Child Family Member Account, you must:
-
-10.4.1. provide accurate information – see section 6 – including age;
-
-10.4.1.1. Why? This affects how we deal with them. We will use their age to tailor what they can see, buy and do on PSN. However, not all Products available via PSN are rated and some contain adult language and material which your Child Family Members may see.
-
-10.4.2. explain to your Child Family Member how they should behave when using the PSN or dealing with us or the PSN community – see our Code of Conduct in section 12 – how to protect themselves and their account;
-
-10.4.3. set appropriate Parental Controls – see section 11;
-
-10.4.4. appropriately monitor their use of the PSN;
-
-10.4.4.1. Why? Your Child Family Members may receive communications from other PSN users that will not be copied to you.
-
-10.4.5. agree to supervise, and therefore accept responsibility for, your Child Family Member's Account(s) activity to ensure they comply with these Terms. This will not apply:
-
-10.4.5.1. if someone else used the account because we failed to use appropriate technical measures to secure PSN or the information we hold about your Child Family Members; or
-
-10.4.5.2. if someone else used the account but you and your Child Family Member had taken reasonable steps to stop that happening.
-
-11. Parental Controls.
-
-11.1. We offer a variety of Parental Controls. You can read about them at www.playstation.com/safety.
-
-11.2. Important information about our Parental Controls:
-
-11.2.1. Guardians can set Parental Controls and adjust the ones you've set.
-
-11.2.2. We will not notify you of Parental Control changes made by Guardians.
-
-11.2.3. Only appoint Guardians you completely trust.
-
-12. Code of Conduct.
-
-12.1. You and your family members must follow our Code of Conduct in all dealings with us and other members of the PSN community. Read this carefully and help us keep PSN the best place to play for everyone.
-
-√ Be inclusive.
-
-PSN is for everyone, regardless of gender identity, sexual orientation, race, ethnicity, nationality, colour, immigration status, social and economic class, educational level, shape and size, family status, political belief, religion, and mental and physical ability, or any other attribute that people use to label others or divide communities.
-
-☒ Do not
- do or say anything hateful. For more information, please visit playstation.com/hate-speech-policy.
-
-☒ Do not
- threaten, harm, or alarm anyone or encourage anyone else to do so.
-
-☒ Do not
- bully, harass, or stalk anyone.
-
-√ Be sensible. Follow the law.
-
-☒ Do not
-be vulgar or offensive.
-
-☒ Do not
-encourage anyone to hurt themselves or someone else.
-
-☒ Do not
-threaten, condone, perform, or promote any illegal acts.
-
-☒ Do not
-impersonate anyone else.
-
-☒ Do not
-infringe anyone's privacy or spread lies about anyone.
-
-☒ Do not
-infringe anyone's intellectual property.
-
-√ Be kind.
-
-Help each other out. Remember you were new once too. You can help make someone's early gaming and community experiences good ones by being considerate.
-
-√ Be respectful.
-
-We know we can't expect everyone to agree all the time. Disagree respectfully or walk away.
-
-☒ Do not
-do anything to harm the PlayStation brand or PSN community.
-
-√ Be responsible.
-
-If you believe you have found a vulnerability in PSN products or services, tell us so we can fix it. Please visit HackerOne.com/PlayStation for information on our BugBounty program.
-
-☒ Do not
- use the PSN or any of its products for, or associate them with, spam or any commercial activity.
-
-☒ Do not
- share, buy, sell, rent, sub-licence, trade, or transfer any accounts, account details, or other credentials.
-
-√ Be a team player.
-
-☒ Do not
-disturb or interrupt gameplay.
-
-☒ Do not
-cheat.
-
-☒ Do not
- use any bugs, glitches, vulnerabilities, or unintentional mechanics in products or PSN to get an advantage.
-
-☒ Do not
- phish for or harvest any accounts, account details, or other credentials.
-
-☒ Do not
- forward recommendations or offers to your contacts without their permission.
-
-☒ Do not
- share or send information that misleads others.
-
-√ Be discreet. Keep it decent.
-
-Always use common sense and good manners. Things you say and do online affect other people and have real world consequences. Think before you post anything online. Beware that information you put online can spread and may be seen by people you didn't expect would see it.
-
-☒ Do not
-reveal personal information about other people or yourself. It makes you and them vulnerable. Personal information includes, but is not limited to, social network handles, messaging app profiles, phone numbers, email addresses, and real-world addresses like your home, school, or temporary location.
-
-☒ Do not
- share material that is pornographic, obscene,
-
-or that depicts extreme or abhorrent violence.
-
-☒ Do not
-share or threaten to share any image or other media of another person without their consent.
-
-√ Help us ensure PSN is the best place to play.
-
-We are committed to providing a safe and welcoming environment. If you breach this Code, or your conduct off PSN gives us reason to believe you may endanger the safety or well-being of our community, we may take any action as reasonably necessary to protect PSN and our players.
-
-If you believe someone has breached the Code of Conduct, tell us so we can take action to help keep PSN and our community safe. It is particularly important to tell us if you think there is a risk anyone could get hurt in real life. If you see someone else misbehaving:
-
-√
-Report them to us using our contextual grief reporting tools. For more information on grief reporting and blocking, please visit playstation.com/reporting and playstation.com/blocking.
-
-√
-If you engage with them, stay calm and respectful. Lead by example and don't breach this Code yourself.
-
-☒ Do not
-submit false grief reports or otherwise abuse the grief reporting system.
-
-√ Follow any specific rules for each product.
-
-For more information, find additional resources at playstation.com/safety and playstation.com/behavior.
-
-13. Do we track what you do online?
-
-13.1. Yes, but we can't track all activity and we make no commitment to do so.
-
-13.2. We may track and record your PSN activity and remove any of your UGC that breaches these Terms, without further notice to you. Other users may record things they see and send them to us.
-
-13.3. Information we get can include your content, voice and text communications, gameplay videos, the time and location of your activities, your real name, your PSN Online ID and IP address.
-
-13.4. We (or our affiliated companies) use that information to enforce these Terms, to comply with the law, to protect our rights and those of our licensors and users, and to protect our community. We may pass this information to the police or other appropriate authorities.
-
-13.5. See our Privacy Policy at www.playstation.com/legal/PSNTerms/ for more details about this use of your information.
-
-14. PlayStation Store.
-
-14.1. All accounts can access PlayStation Store.
-
-14.2. Everything you buy from PlayStation Store, you buy from us. That includes Wallet Funds and anything bought using Wallet Funds.
-
-14.3. You can pay using PSN Wallet funds or an Approved Payment Method.
-
-14.4. The currency and price displayed is inclusive of any indirect taxes. You must pay any import VAT and duties, foreign exchange and bank or card charges that apply (if any).
-
-14.5. Child Family members:
-
-14.5.1. We filter the rated content a Child Family Member can see and buy on PlayStation Store based on their date of birth and any Parental Controls you set.
-
-14.5.2. The cost of Products Child Family Members buy comes out of your PSN Wallet, up to the monthly spend limit you set for each Child Family Member (see section 10.3.2). If you do not accept this, do not change the Child Family Member's spend limit from the default of zero and do not appoint a Guardian who can change it.
-
-14.5.3. Child Family Members cannot instigate a charge to your credit card. Their purchases will only be successful if you have enough funds in your PSN Wallet.
-
-15. Shopping on PlayStation Store.
-
-15.1. Make sure your Child Family Members understand how PlayStation Store works. What follows applies to them as well as you, except where indicated.
-
-15.2. We guide you through the buying process from Product choice to purchase confirmation via a series of screens and instructions.
-
-15.2.1. Read the information we show you during your purchase carefully. It affects the cancellation rights you may otherwise have under applicable local laws – see section 16.
-
-15.3. The last button press is "Order and Pay". When you press that button:
-
-15.3.1. If your Wallet Funds are enough to pay the price, we deduct the funds from your PSN Wallet;
-
-15.3.2. If you have some but not enough Wallet Funds to pay the price, we take those and charge the balance to your Approved Payment Method. (Does not apply to Child Family Members);
-
-15.3.3. If you have no Wallet Funds, we charge the full price to the default Approved Payment Method stored on your account. (Does not apply to Child Family Members); and
-
-15.3.4. You send the order to us.
-
-15.4. If we cannot fulfil your order we will refund any sums deducted from your:
-
-15.4.1. PSN Wallet to your PSN Wallet;
-
-15.4.2. Approved Payment Method to that payment method unless it is one of the Approved Payment Methods for which we cannot do that. In those cases, we refund to your PSN Wallet.
-
-15.5. You buy a personal licence to use Products for private use. Your licence to use games is not transferrable unless your local applicable laws say it must be.
-
-15.5.1. This means you can use a Product in the ways described in the licence but do not own the Product.
-
-15.5.2. We tell you where to find the licence terms during the purchase flow.
-
-15.6. If you delete or close the purchasing account, you may lose access to and use of the Product.
-
-15.7. If a third party published the Product, you may need to associate or link your account for PSN to an account you hold with that third party to use the Product. The Product may become linked to that third party account as well as the purchasing account. If you unlink the third party account from your account for PSN or if your third party account is closed or deleted, you may lose access to the Product.
-
-16. Can I cancel my purchases just because I changed my mind?
-
-16.1. Yes, in limited circumstances and when you request it within certain timeframes. See our Cancellation Policy at www.playstation.com/store-cancellation-policy.
-
-16.2. Read the information we show you during your purchases carefully. When you buy, we provide information and follow a process which limits the change-of-mind cancellation rights you might otherwise have under applicable local laws.
-
-16.3. Change-of-mind cancellation rights explained. In some countries, local law says that, when you buy Products online, you have time to change your mind, cancel your purchase and get a refund. In countries of the European Economic Area, for example:
-
-16.3.1. When you buy digital content (like a game or movie), you can cancel for any reason within 14 days of your transaction
-
-16.3.2. When you buy services (like a subscription or Wallet Funds), you can cancel for any reason within 14 days of your transaction.
-
-16.3.3. But, the law also says that, if you consent to immediate delivery of the digital content or immediate supply of the service, we can provide them immediately and limit your right to cancel those orders provided we explain to you how that affects your cancellation rights.
-
-16.3.4. Because most of our customers want to use their purchases straight away, we design our purchase flows to get your consent to immediate delivery of digital content and services and we provide you with clear information about how that affects your cancellation rights.
-
-16.4. So, unless a Product is faulty or you have other rights to cancel your order under applicable local laws, when you shop with us:
-
-16.4.1. You will not be able to change your mind and cancel your digital content purchase once you begin to download the content; and
-
-16.4.2. You can change your mind and cancel your Subscription service purchases within 14 days of purchase but the amount we refund can be less than your purchase price (to account for the use you have had of the service).
-
-17. PSN Wallet.
-
-17.1. You can only use Wallet Funds to buy Products from PlayStation Store. We are not a bank and the PSN Wallet is not a bank account. Wallet Funds do not earn interest.
-
-18. Payment Methods.
-
-18.1. We store your credit and debit card and PayPal account details when you use them for a transaction. We use them for future purchases unless you delete them through your account settings.
-
-18.2. We do not store your payment card's 3-digit security number. You do not need to enter it for future purchases.
-
-18.3. For other Approved Payment Methods you may need to enter the details each time you buy something.
-
-18.4. When you buy a Product using mobile billing your mobile network provider charges you the amount of the purchase. They may charge you their standard messaging rate on top.
-
-19. Chargebacks.
-
-19.1. A chargeback happens when your payment service provider (i.e. the supplier of your payment method such as a bank, or PayPal), reverses a payment you made. A chargeback of a sum paid to us for Products we provided results in a debt to us equal to the amount of the chargeback.
-
-19.2. As a chargeback can indicate you suspect fraud or account take-over, we will suspend your account or console to protect it while we investigate. If there is no lawful reason for the chargeback, your account will remain suspended until the debt is repaid. We may deduct funds from your PSN Wallet to pay any debt owed by you to us.
-
-20. Special Terms applying to some Products.
-
+text, messages, comments, pictures, photographs, voice, music, videos, game assets, game videos and game-related information and other materials (i) created by you or others on PlayStation Online Services and/or (ii) shared by you or others via PlayStation Online Services.
+4. Who can create an Account?
+4.1 Only people aged 7 and over can have an Account.
+4.2 If you are 7 to 17 years old, you need your Responsible Adult to agree to you having a Child Family Member Account and help you to create it.
+4.3 If you are 18 years old or over, you can create an Account by yourself. Create your Account first. Then you may create separate Child Family Member Account(s) for each child for whom you are the Responsible Adult.
+4.4 Set Parental Controls on each Child Family Member Account to tailor their activity. For more detail, see section 10 below.
+5. What happens if you breach these Terms?
+5.1 If you breach these Terms, which includes the documents referred to in section 7, we may take various actions as set out in section 22, including suspending your Account. While suspended, you will not be able to use PlayStation Online Services. That means you will not be able to use some Digital Products, even those you paid for.
+6. Your commitment to us.
+6.1 You must be honest with us. Give us accurate personal information, including any information about yourself such as where you live, your date of birth and any Child Family Members. Keep that information up to date via account management.
+6.2 Why it matters
+6.2.1 This is important because we rely on the information you provide. For example, we send important information to the email addresses you give us and we use the information that you provide about yourself to tailor your experience.
+6.2.2 If you give us false information we may suspend the affected Accounts. For example, we may suspend adult Accounts if children are using them. When an account is suspended, you may lose access to PlayStation Online Services and some Digital Products, even paid for ones. You can contact customer services (see section 28 for information on how to do this) to understand why your Account or a Child Family Member has been suspended and what you can do.
+7. What other terms apply when you use PlayStation Online Services?
+7.1. In addition to these Terms, the following terms apply and form part of your contract with us:
+7.1.1 PlayStation Code of Conduct (sets out what behaviour we expect from you when using PlayStation Online Services).
+7.1.2 PlayStation Privacy Policy (explains what data we collect and how we use and share it).
+7.1.3 System Software Licence (governs use of the software embedded in an Authorised System).
+7.1.4 PlayStation Software Application End User License Agreement (govern your use of PlayStation game and application software developed to operate on one or more of the Authorised Systems).
+7.1.5 PlayStation Stars Terms (governs your membership and use of PlayStation Stars).
+7.1.6 PlayStation Plus Usage Terms (if you are a PlayStation Plus subscriber, it explains how the PlayStation Plus subscription works).
+7.1.7 PlayStation Physical Goods Terms of Purchase (governs your purchase of physical items from us).
+7.2 Find those documents at www.playstation.com/legal/terms/.
+7.3 To access some Digital Products, you must agree to specific terms notified to you by us or the publisher of that Digital Product.
+7.4 If you fail to obey any of the terms mentioned above you will breach these Terms.
+8. Your Account security.
+8.1 We use appropriate technical measures to secure PlayStation Online Services and the information we hold about you.
+8.2 You must play your part too. You are responsible for all use of your Account, unless:
+8.2.1 someone else used the Account because we failed to use appropriate technical measures to secure PlayStation Online Services or the information we hold about you; or
+8.2.2 someone else used the Account but you had taken reasonable steps to prevent that happening including those in section 8.3.
+8.3 Some steps to stop others using your Account:
+8.3.1 Sign out of your Account at the end of each session.
+8.3.2 Set a passcode or passkey to prevent anyone with access to your Authorised System logging in to your Account.
+8.3.3 Use a passkey or strong password, different from any you use for other online services, and turn on "Require Password at Checkout" to prevent others spending on your Account.
+8.3.4 Never share your Account details with anyone else.
+8.3.5 Never let anyone else use your Account, not even a family member or friend.
+8.4 What if something goes wrong?
+8.4.1 Change your passkey or password immediately if you think anyone else knows it.
+8.4.2 Notify us immediately if you think someone else has control of your Account.
+8.4.3 Notify law enforcement if you are a victim of crime in relation to your use of PlayStation Online Services. For example, someone else using your payment details on PlayStation Online Services.
+9. Your Child Family Members.
+9.1 You must create a separate Child Family Member Account for each child and set appropriate Parental Controls. See section 10 for more information about Parental Controls.
+9.2 Child Family Members have access to our PlayStation Store. See section 10 for more information about Parental Controls. One of the Parental Controls is a monthly spend limit. We set it to zero. You can increase it. Only allow Child Family Members a monthly spend limit higher than zero if you are satisfied they are able to understand the purchase flow and make purchase decisions up to that value.
+9.3 By setting a spend limit for a Child Family Member (or appointing a Guardian who does so), you are telling us:
+9.3.1 the child can understand (i) the concept of a purchase; (ii) the cost; and (iii) an online purchase flow; and
+9.3.2 you pre-approve and agree to pay for all PlayStation Store purchases by that Child Family Member up to the spend limit.
+9.4 For each Child Family Member Account, you must:
+9.4.1 provide accurate information (including age) see section 6;
+9.4.1.1 Why? This affects how we deal with them. We will use their age to tailor what they can see, buy and do on PlayStation Online Services. However, not all Digital Products available via PlayStation Online Services are rated and some contain adult language and material which your Child Family Members may see.
+9.4.2 explain to your Child Family Member how they should behave when using the PlayStation Online Services or dealing with us or the PlayStation Online Services community – see our Code of Conduct available here: https://www.playstation.com/legal/code-of-conduct/;
+9.4.3 set appropriate Parental Controls – see section 10 for more information about Parental Controls;
+9.4.4 appropriately monitor their use of the PlayStation Online Services;
+9.4.4.1 Why? Your Child Family Members may receive communications from other PlayStation Online Services users that will not be copied to you.
+9.4.5 agree to supervise, and therefore accept responsibility for, your Child Family Member's Account(s) activity to ensure they comply with these Terms. This will not apply:
+9.4.5.1 if someone else used the Account because we failed to use appropriate technical measures to secure PlayStation Online Services or the information we hold about your Child Family Members; or
+9.4.5.2 if someone else used the Account but you and your Child Family Member had taken reasonable steps to stop that happening.
+10. Parental Controls.
+10.1 We offer a variety of Parental Controls. You can read about them at www.playstation.com/safety.
+10.2 Important information about our Parental Controls:
+10.2.1 Guardians can set Parental Controls and adjust the ones you've set.
+10.2.2 We will not notify you of Parental Control changes made by Guardians.
+10.2.3 Only appoint Guardians you completely trust.
+11. Do we track what you do online?
+11.1 Yes, but we can't track all activity and we make no commitment to do so.
+11.2 We may track and record your activity on PlayStation Online Services and remove any of your UGC that breaches these Terms, without further notice to you. Other users may report things they see and send them to us for review and, if appropriate, removal.
+11.3 Information we get can include your content, voice and text communications, gameplay videos, the time and location of your activities, your real name, your PlayStation Online ID and IP address.
+11.4 We (or our affiliated companies) use that information to enforce these Terms, to comply with the law, to protect our rights and those of our licensors and users, and to protect our community. We may pass this information to the police or other appropriate authorities.
+11.5 We may also take additional steps to protect our users from illegal content and content that is harmful to children, including terrorism content, child exploitation content, pornographic content or content that encourages, promotes or provides instructions for suicide, self-harm, self-injury or eating disorders.
+11.6 This means that we may use technology (such as hash-matching or other automated tools) that automatically detects online activities, communications, and content that may breach these Terms. This includes the detection of profane or hateful language, harmful URLs, spam messages or accounts, child exploitation content, illegal content and other content which may breach the Terms.
+11.7 We perform these checks in a way that we consider to be proportionate.  If you think we have made a mistake or if you disagree with a decision that we have made, you can contact our customer services – see section 28.  Alternatively, in some countries if you have had your Account permanently suspended, you can appeal this decision at: https://www.playstation.com/support/account/suspensions/. We handle appeals and reviews in a timely, non-discriminatory, diligent and objective manner. If your appeal is justified and we have made a mistake, as far as it is technically possible and reasonable, we will reverse the contested decision or measure.
+11.8 See our Privacy Policy at www.playstation.com/legal/terms/ for more details about this use of your information.
+12. PlayStation Store.
+12.1 Everything you buy from PlayStation Store, you buy from us. That includes PlayStation Store Wallet Funds and anything bought using PlayStation Store Wallet Funds.
+12.2 You can pay for purchases on PlayStation Store using an Approved Payment Method.
+12.3 The price displayed is inclusive of applicable VAT and equivalent taxes. You must pay any import VAT and duties that apply (if any). Additionally, you must pay any foreign exchange and bank or card charges that may apply as a result of our processing of your payment method in accordance with your purchase.
+12.4 For Child Family Members:
+12.4.1 We filter the rated content a Child Family Member can see and buy on PlayStation Store based on their date of birth and any Parental Controls you set.
+12.4.2 The cost of Digital Products that Child Family Members can buy comes out of your PlayStation Store Wallet, up to the monthly spend limit you set for each Child Family Member (see section 9.3.2). If you do not accept this, do not change the Child Family Member's spend limit from the default of zero and do not appoint a Guardian who can change it.
+12.4.3 Child Family Members cannot instigate a charge to your Approved Payment Method. Their purchases of Digital Products will only be successful if you have enough funds in your PlayStation Store Wallet.
+12.5 If you purchase a physical item from us (such as an Authorised System, a controller or a boxed game) the PlayStation Physical Goods Terms of Purchase at www.playstation.com/legal/terms/ will apply to your purchase. You should review these terms before completing your purchase, as they include important details on the rules that apply to your purchase.
+13. Shopping on PlayStation Store.
+13.1 Make sure your Child Family Members understand how PlayStation Store works. What follows applies to them as well as you, except where indicated.
+13.2 We guide you through the buying process from choosing what to buy, to purchase confirmation via a series of screens and instructions.
+13.2.1 Read the information we show you during your purchase carefully. It affects the cancellation rights you may otherwise have under applicable local laws – see section 14.
+13.3 When you press the final button when making a purchase from the PlayStation Store:
+13.3.1 we deduct the funds from your PlayStation Store Wallet or your Approved Payment Method; and
+13.3.2 you send the order to us.
+13.4 If we cannot fulfil your order we will refund any sums deducted from your:
+13.4.1 PlayStation Store Wallet to your PlayStation Store Wallet;
+13.4.2 Approved Payment Method to that payment method unless it is one of the Approved Payment Methods for which we cannot do that. In those cases, we send the refund to your PlayStation Store Wallet.
+13.5 When you purchase or download A Digital Product from the PlayStation Store:
+13.5.1 You buy a personal licence to use Digital Products for private use. Your licence to use Digital Products is not transferrable unless your local applicable laws say it must be.
+13.5.2 This means you can use a Digital Product in the ways described in the licence but you do not own the Digital Product.
+13.5.3 We tell you where to find the licence terms during the purchase flow.
+13.5.4 If you delete or close the purchasing Account, or if the purchasing Account is suspended, you may lose access to and use of the Digital Product.
+13.5.5 If a third party published the Digital Product, you may need to associate or link your Account to an account you hold with that third party to use the Digital Product. The Digital Product may become linked to that third party account as well as the purchasing Account. If you unlink the third party account from your Account or if your third party account is closed, suspended or deleted, you may lose access to the Digital Product.
+14. Can I cancel my purchases just because I changed my mind?
+14.1 Yes, in limited circumstances and when you request it within certain timeframes. See our Cancellation Policy at www.playstation.com/legal/playstation-store-cancellation-policy.
+14.2 Read the information we show you during your purchases carefully. When you buy, we provide information and follow a process which limits the change-of-mind cancellation rights for Digital Products that you might otherwise have under applicable local laws.
+14.3 In some countries, local law says that, when you buy products online, you have time to change your mind, cancel your purchase and get a refund. In countries of the European Economic Area, for example:
+14.3.1 When you buy digital content (like a digital copy of a game, you can cancel for any reason within 14 days of your transaction.
+14.3.2 When you buy services (like a subscription), you can cancel for any reason within 14 days of your transaction.
+14.3.3 But, the law also says that, if you consent to immediate delivery of the digital content or immediate supply of the service, we can provide them immediately and limit your right to cancel those orders provided we explain to you how that affects your cancellation rights.
+14.3.4 Because most of our customers want to use their purchases straight away, we design our purchase flows to get your consent to immediate delivery of digital content and services and we provide you with clear information about how that affects your cancellation rights.
+14.4 So, unless a Digital Product is faulty or you have other rights to cancel your order under applicable local laws, when you shop with us:
+14.4.1 You will not be able to change your mind and cancel your digital content purchase once you begin to download or stream the content; and
+14.4.2 You can change your mind and receive a refund for your subscription service purchase within 14 days of purchase, but the amount we refund can be less than your purchase price (to account for the use you have had of the service). Alternatively, if you want to end your subscription when your next payment becomes due, you can do this by adjusting your subscription settings at any time before your next payment date (see www.playstation.com/cancel-subscription for more info). If you do this your subscription will not end immediately (you can continue to use it until your next payment date) but it will stop future subscription payments being taken.
+14.5 For information on change-of-mind cancellation rights for physical items, see the PlayStation Physical Goods Terms of Purchase available at www.playstation.com/legal/terms/.
+15. PlayStation Store Wallet.
+15.1 You can only use PlayStation Store Wallet Funds on the PlayStation Store. We are not a bank and the PlayStation Store Wallet is not a bank account. PlayStation Store Wallet Funds do not earn interest.
+16. Payment Methods.
+16.1 We store your credit and debit card and PayPal account details when you use them for a transaction. We use them for future purchases unless you delete them through your Account settings.
+16.2 We do not store your payment card's 3-digit security number. You do not need to enter it for future purchases.
+16.3 For other Approved Payment Methods you may need to enter the details each time you buy something.
+16.4 When you buy a Digital Product using mobile billing your mobile network provider charges you the amount of the purchase. They may charge you their standard messaging rate on top.
+17. Chargebacks.
+17.1 A chargeback happens when your payment service provider (i.e. the supplier of your payment method such as a bank, or PayPal), reverses a payment you made. A chargeback of a sum paid to us for purchases that we have delivered to you results in a debt to us equal to the amount of the chargeback.
+17.2 As a chargeback can indicate you suspect fraud or Account take-over, we will suspend your Account or console to protect it while we investigate. If there is no lawful reason for the chargeback, your Account will remain suspended until the debt is repaid. We may deduct funds from your PlayStation Store Wallet to pay any debt owed by you to us.
+18. Special Terms applying to some items that we sell.
 General.
-
-20.1. Products we sell may not work with Authorised Systems and software licensed for sale outside of Europe, the Middle East, Africa, India, Russia and Oceania.
-
-20.2. Unless otherwise specified, all Products are for non-commercial, home use only.
-
+18.1 Digital Products we sell may not work with Authorised Systems and software licensed for sale outside of Europe, the Middle East, Africa, India and Oceania.
+18.2 Unless otherwise specified, all items sold on the PlayStation Store are for non-commercial, home use only.
 Games.
-
-20.3. Some games and apps let you buy:
-
-20.3.1. Products from the PlayStation Store; or
-
-20.3.2. other things directly from the publisher of the game or app.
-
-20.3.2.1. You cannot use Wallet Funds to buy anything from the publisher and you will need to register a payment method with them.
-
-20.3.2.2. The spend limit on a Child Family Member's account only applies to purchases from PlayStation Store.
-
-20.4. Some Products offer online services like online multiplayer, leaderboards or communication facilities.
-
-20.4.1. To access online multiplayer you (or another account which has designated your PS4 as its "primary console" or, if you have a PS5, has enabled the "Offline & Homeshare" setting on your PS5) need to have an active PlayStation Plus subscription.
-
+18.3 Some games and apps let you buy:
+18.3.1 Digital Products from the PlayStation Store; or
+18.3.2 other things directly from the publisher of the game or app.
+18.4 You cannot use PlayStation Store Wallet Funds to buy anything from the publisher and you will need to register a payment method with them.
+18.5 The spend limit on a Child Family Member's account only applies to purchases from PlayStation Store.
+18.6 Some games offer online services like online multiplayer, leaderboards or communication facilities.
+To access online multiplayer, unless stated otherwise fora particular game, you need to have an active PlayStation Plus subscription.
 Subscriptions.
-
-20.5. Subscriptions continue indefinitely. We charge you on-going fees automatically on a regular basis until cancelled. We explain the on-going fees, the billing frequency and how to cancel before you buy. We email you before each payment is due.
-
-20.6. Trials roll into paid-for subscriptions. We charge you subscription fees unless your subscription is cancelled before the end of the trial period. We explain this, the on-going fees, the billing frequency and how to cancel before you take out a trial.
-
-20.7. If you do not have enough Wallet Funds to pay a recurring subscription fee, we charge the balance to your default payment method (if any).
-
-20.7.1. This does not apply to purchases made by Child Family Members.
-
-20.8. At the end of each billing period and at the end of a trial, we take the subscription fees for the next period. This will not happen if:
-
-20.8.1. You cancel the subscription before the end of the trial or current billing period.
-
-20.8.2. You do not have enough funds in your PSN Wallet and you do not have a registered payment method.
-
-20.8.3. We discontinue the subscription for any reason.
-
-20.9. If your payment for a subscription fails we may continue trying to take payment from you over the next few days.
-
-20.9.1. You may be able to access the subscription service during that period.
-
-20.9.2. Your billing period will not change. If a payment retry is successful, your next payment date will be the same as if your initial payment had not failed.
-
-20.10. We may change the on-going cost of a subscription (up or down) to reflect changes in the subscription product, to reflect our costs in providing the subscription, to ensure the subscription continues to be a viable service or to respond to market changes, such as changes to exchange rates, local taxes or inflation.
-
-20.10.1. We will notify you by email at least 60 days in advance of any price increase, telling you the new cost and the date from which the new cost will apply. You will be able to cancel before the price rise takes effect.
-
-20.11. If you already have a subscription (whether paid or as part of a free trial) and you buy another subscription for the same service, your current subscription will end at the end of the current billing period and the new subscription will begin.
-
-20.12. The package of Products in a subscription may vary throughout your subscription period. Age, geographic and other restrictions mean you may not be able to access all Products in the package. Some Products may be available to non-subscribers separately.
-
-Pre-Orders.
-
-20.13. You must pay for pre-orders on the date you place your pre-order.
-
-20.14. You can cancel your pre-order and get a refund as explained at the point of purchase and section 16. If you cancel a pre-order you will no longer be entitled to any promotional products offered with the pre-order.
-
+18.7 Subscriptions are ongoing , for an unspecified period. We charge you automatically on a regular basis until you change your subscription settings so that your subscription ends when your next payment becomes due or we bring your subscription to an end. We explain the on-going fees, the billing frequency and how to change your subscription settings before you buy. We email you before each payment is due.
+18.8 Trials roll into paid-for subscriptions. We charge you subscription fees unless you change your subscription settings before the end of the trial period. We explain this, the on-going fees, the billing frequency and how to change your subscription settings before you take out a trial.
+If you do not have enough PlayStation Store Wallet Funds to pay a recurring subscription fee, we charge the balance to your default Approved Payment Method payment method, if any.
+18.9 For Child Family Members, we only ever take subscription payments from the PlayStation Store Wallet.
+18.10 At the end of each billing period for which you have already paid and at the end of a trial, we take the subscription fees for the next period. This will not happen and your subscription will end on your next payment date if:
+18.10.1 You change your subscription settings so that your subscription ends when your next payment becomes due. If you do this your subscription will not end immediately (you can continue to use it until your next payment date) but it will stop future subscription payments being taken.
+18.10.2 You do not have enough funds in your PlayStation Store Wallet and you do not have a registered Approved Payment Method.
+18.10.3 We discontinue your subscription or your subscription billing for any reason.
+18.11 If your payment for a subscription fails we may continue trying to take payment from you over the next few days.
+18.11.1 You may be able to access the subscription service during that period.
+18.11.2 Your billing period will not change. If a payment retry is successful, your next payment date will be the same as if your initial payment had not failed.
+18.12 We may change the on-going cost of a subscription (up or down) to reflect changes in the subscription product, to reflect our costs in providing the subscription, to ensure the subscription continues to be a viable service or to respond to market changes, such as changes to exchange rates, local taxes or inflation. When we increase the price of a subscription:
+18.12.1 We will notify you by email at least 60 days in advance of any price increase, telling you the new cost and the date from which the new cost will apply.
+18.12.2 You will be able to adjust your subscription settings to avoid any price increase before it takes effect and we will tell you how to do this.
+18.12.3 If you already have a subscription (whether paid or as part of a free trial) and you buy another subscription for the same service, your current subscription will end at the end of the period for which you have already paid and the new subscription will begin.
+18.13 We may discontinue your subscription so that your subscription ends at your next payment date by giving you notice that it will be discontinued before your next payment date.
+18.14 The package of Digital Products in a subscription may vary throughout your subscription period. Age, geographic and other restrictions mean you may not be able to access all Digital Products in the package. Some Digital Products may be available to non-subscribers separately.
+Pre-Orders for Digital Products.
+For pre-orders of Digital Products, such as a soon to be released digital copy of a game, you must pay for the pre-order on the date you place your pre-order.
+18.15 You can cancel your pre-order and get a refund as explained at the point of purchase and at section 14. If you cancel a pre-order you will no longer be entitled to any promotional Digital Products offered with the pre-order.
 Virtual Currency.
-
-20.15. Some games include fictional currencies ("
-VC
-"). Depending on the game you can earn VC through gameplay or buy it from PlayStation Store. You can exchange it in-game for other in-game items, experiences or functionality.
-
-20.16. You must not:
-
-20.16.1. sell, purchase, transfer or use VC outside of the game;
-
-20.16.2. wager with or for VC (for example "skin betting") unless the game provides that functionality;
-
-20.16.3. exchange or redeem VC for money or money's worth.
-
-20.17. Each game publisher determines how their VC works and what you can do with it. See the game publisher's terms for details.
-
-21. Content You Create and Share.
-
-21.1. Some Products allow you to share your UGC with us and other players.
-
-21.2. You own your UGC. However you must not commercially exploit it without consent. You need consent from us and, where relevant, the publisher of the Product. This is because the way you make and share your UGC means your UGC may be bound up with software or intellectual property belonging to us and the publisher of the Product.
-
-21.3. When you share your UGC:
-
-21.3.1. We may make it visible across the PSN.
-
-21.3.2. We may make it visible in other places like our websites and those of our affiliated companies.
-
-21.3.3. We and our affiliated companies may alter your UGC for various reasons, including to add your Online ID (or your real name if you choose to use it) so others know it is yours, to ensure it displays well on various devices and so on.
-
-21.3.4. Others can interact with it and do things to it like comment on it, alter it, delete it or reshare it.
-
-21.3.5. We and our affiliated companies may:
-
-21.3.5.1. license, sell and otherwise commercially exploit your UGC (for example, selling subscriptions to access your UGC alone or in combination with other UGC);
-
-21.3.5.2. receive advertising revenue in connection with UGC;
-
-21.3.5.3. use your UGC in the promotion of Products and any other PlayStation® products and services;
-
-21.3.5.4. alter or delete your UGC where necessary to comply with the law or exercise our rights under these Terms.
-
-21.4. We do not pay you for using your UGC as described in section 21.3.
-
-21.5. By sharing UGC you are telling us you have all rights necessary to such UGC and to grant the rights set out in this section 21.
-
-21.6. The licence for a Product may tell you more about how UGC sharing works for that Product.
-
-22. Do we ever change PSN or change Products after you buy them?
-
-22.1. Sometimes, yes, but only where it is reasonable because it is minor and justified. For example, we may change PSN and Products from time to time:
-
-22.1.1 to ensure the PSN or Products are working as intended (e.g. fix bugs and glitches and to improve efficiency);
-
-22.1.2 for security reasons;
-
-22.1.3 to adapt the PSN or Product to a new system or technical environment;
-
-22.1.4 to improve the PSN or Product. This may include updating in-game items, in-game levels and tasks or changing the rewards for completing in-game activities; or
-
-22.1.5 to adapt the PSN or Product to a change in number of users and/or to ensure the commercial viability of the PSN or Product.
-
-23. Closing your account.
-
-23.1. You may close your account by contacting us using the details at section 30.
-
-23.2. If you have not used your account for at least 36 months we may take steps to close it. In that case, we will contact you via the email address registered to your account and give you 6 months to either log in to your account or contact us and tell us to keep your account open.
-
-23.3. After your account is closed, you will not be able to access the PSN or use the Products purchased with that account. Account closure is irreversible.
-
-24. What we do if you breach these Terms or we think your account is compromised?
-
-24.1. If we have evidence to conclude that
-
-24.1.1. either:
-
-24.1.1.1. you;
-
-24.1.1.2. one of your Child Family Members; or
-
-24.1.1.3. the holder of any account that you permit to use your Authorised System;
-
-has breached these terms of service; or
-
-24.1.1.4. your account has been compromised (e.g. when you instigate a chargeback citing fraud);
-
+18.16 Some games include fictional currencies ("VC"). Depending on the game you can earn VC through gameplay or buy it from PlayStation Store. You can exchange it in-game for other in-game items, experiences or functionality.
+18.17 You must not:
+18.17.1 sell, purchase, transfer or use VC outside of the game;
+18.17.2 wager with or for VC (for example "skin betting") unless the game provides that functionality;
+18.17.3 exchange or redeem VC for money or money's worth.
+18.18 Each game publisher determines how their VC works and what you can do with it. See the game publisher's terms for details.
+Physical Items.
+18.19 For any purchases of physical items (such as an Authorised System, a controller or a boxed game) the PlayStation Physical Goods Terms of Purchase will apply to your purchase (in addition to these Terms).
+18.20 You should review the PlayStation Physical Goods Terms of Purchase before completing your purchase of physical items, as they include important information about your purchase.
+18.21 You can access the PlayStation Physical Goods Terms of Purchase at www.playstation.com/legal/terms/.
+19. Content You Create and Share.
+19.1 Some Digital Products allow you to share your UGC with us and other players.
+19.2 You own your UGC. However, you must not commercially exploit it without consent. You need consent from us and, where relevant, the publisher of the Digital Product. This is because the way you make and share your UGC means your UGC may be bound up with software or intellectual property belonging to us and the publisher of the Digital Product.
+19.3 When you share your UGC:
+19.3.1 We may make it visible across PlayStation Online Services.
+19.3.2 We may make it visible in other places like our websites and those of our affiliated companies.
+19.3.3 We and our affiliated companies may alter your UGC for various reasons, including to add your Online ID (or your real name if you choose to use it) so others know it is yours, to ensure it displays well on various devices and so on.
+19.3.4 Others can interact with it and do things to it like comment on it, alter it, delete it or reshare it.
+19.3.5 We and our affiliated companies may:
+19.3.5.1 license, sell and otherwise commercially exploit your UGC (for example, selling subscriptions to access your UGC alone or in combination with other UGC);
+19.3.5.2 receive advertising revenue in connection with UGC;
+19.3.5.3 use your UGC in the promotion of Digital Products and any other PlayStation products and services;
+19.3.5.4 alter or delete your UGC where necessary to comply with the law or exercise our rights under these Terms.
+19.4 We do not pay you for using your UGC as described in section 19.3.
+19.5 By sharing UGC you are telling us you have all rights necessary to such UGC and to grant the rights set out in this section 19.
+19.6 The licence for a Digital Product may tell you more about how UGC sharing works for that Digital Product.
+19.7 If we become aware that you've shared any UGC that is illegal or breaches these Terms, it will be blocked or removed. We may also take additional proportionate remedial action as set out in section 22. This could include temporary or permanent restrictions on your Account, Authorised Systems or access to certain PlayStation Online Services.
+20. Do we ever change PlayStation Online Services or change Digital Products after you buy them?
+20.1 Sometimes, yes, but only where it is reasonable because it is minor and justified. For example, we may change PlayStation Online Services and Digital Products from time to time:
+20.1.1 to ensure the PlayStation Online Services or Digital Products are working as intended (e.g. fix bugs and glitches and to improve efficiency);
+20.1.2 for security reasons;
+20.1.3 to adapt the PlayStation Online Services or Digital Products to a new system or technical environment;
+20.1.4 to improve the PlayStation Online Services or Digital Products. This may include updating in-game items, in-game levels and tasks or changing the rewards for completing in-game activities; or
+20.1.5 to adapt the PlayStation Online Services or Digital Product to a change in number of users and/or to ensure the commercial viability of the PlayStation Online Services or Digital Products.
+21. Closing your Account.
+21.1 You may close your Account by contacting us using the details at section 28.
+21.2 If you have not used your Account for at least 36 months we may take steps to close it. In that case, we will contact you via the email address registered to your Account and give you 6 months to either log in to your Account or contact us and tell us to keep your Account open.
+21.3 After your Account is closed, you will not be able to access the PlayStation Online Services or use the Digital Products purchased with that Account. Account closure is irreversible.
+22. What we do if you breach these Terms or we think your Account is compromised?
+22.1 If we have evidence to conclude that:
+22.1.1 either:
+22.1.2 you;
+22.1.3 one of your Child Family Members; or the holder of any Account that you permit to use your Authorised System
+22.1.4 has breached these Terms including any of the documents referred to in section 7; or;
+22.1.5 your Account has been compromised (e.g. when you instigate a chargeback citing fraud);
 the actions we may take, and the duration of those actions, will be limited to what is objectively necessary to protect you, our interests and those of other users.
-
-24.2. We may take action against account holders who are responsible for or are affected by the breach. This could include:
-
-24.2.1. any Authorised System you use;
-
-24.2.2. your accounts;
-
-24.2.3. your Child Family Member Accounts; and
-
-24.2.4. any other accounts on an Authorised System you use.
-
-24.3. Our actions may include:
-
-24.3.1. resetting account passwords;
-
-24.3.2. suspending subscriptions;
-
-24.3.3. suspending access to some or all Products;
-
-24.3.4. suspending accounts;
-
-24.3.5. uploading updates to the Authorised Systems intended to stop unauthorised use;
-
-24.3.6. preventing Authorised Systems connecting to PSN; and
-
-24.3.7. bringing, initiating and/or participating in government, criminal and/or private legal action against you.
-
-24.4. If we delay acting or fail to act in response to any breach, it will not stop us acting at a later date for that or any other breach.
-
-25. Our liability to you when things go wrong.
-
-25.1. As a consumer, you may have rights under applicable local laws that cannot be excluded, limited or changed. Those rights take priority over anything in this section 25.
-
-25.2. These Terms do not:
-
-25.2.1. affect any statutory guarantees or warranties you have as a consumer under local applicable laws; or
-
-25.2.2. exclude or limit our liability in any way unless we are allowed to do so under your applicable local laws.
-
-25.3. If you are a consumer we have unlimited liability for the following:
-
-25.3.1.
+22.2 We may take action against Account holders who are responsible for or are affected by the breach. This could include:
+22.2.1 any Authorised System you use;
+22.2.2 your Accounts;
+22.2.3 your Child Family Member Accounts; and
+22.2.4 any other accounts on an Authorised System you use.
+22.3 Our actions may include:
+22.3.1 resetting Account passwords;
+22.3.2 suspending subscriptions;
+22.3.3 suspending access to some or all Digital Products;
+22.3.4. suspending Accounts;
+22.3.5 uploading updates to the Authorised Systems intended to stop unauthorised use;
+22.3.6 preventing Authorised Systems connecting to PlayStation Online Services; and
+22.3.7 bringing, initiating and/or participating in government, criminal and/or private legal action against you.
+22.4 If we delay acting or fail to act in response to any breach, it will not stop us acting at a later date for that or any other breach.
+23. Our liability to you when things go wrong.
+23.1 As a consumer, you may have rights under applicable local laws that cannot be excluded, limited or changed. Those rights take priority over anything in this section 23.
+23.2 These Terms do not:
+23.2.1 affect any statutory guarantees or warranties you have as a consumer under local applicable laws; or
+23.2.2 exclude or limit our liability in any way unless we are allowed to do so under your applicable local laws.
+23.3 If you are a consumer we have unlimited liability for the following:
+23.3.1
 Reason:
  If we cause death or personal injury by our negligence or the negligence of our employees, agents or subcontractors.
-
 Our Liability:
  Unlimited.
-
-25.3.2.
+23.3.2
 Reason:
  If the liability is caused by our deliberate breach, our fraud, our fraudulent misrepresentation, or our behaviour is grossly negligent.
-
 Our Liability:
 Unlimited.
-
-25.4. Subject to sections 25.1, 25.2 and 25.3, we limit our liability to you as follows:
-
-25.4.1.
+23.4
+ How we limit our liability to you.
+23.4.1 Subject to sections 23.1, 23.2 and 23.3,
+we limit our liability to you as follows
+:
+23.4.2
 Reason:
- If we fail to deliver any Product.
-
+ If we fail to deliver any item that you purchased from us.
 Our Liability:
- We will refund the amount you paid for the Product.
-
-25.4.2.
+ We will refund the amount you paid for the item.
+23.4.3
 Reason:
- If we deliver a Product but it is faulty.
-
+ If we deliver an item but it is faulty.
 Our Liability:
  You will have the remedies available to you under the statutory warranties in your country of residence. In addition, we commit to the following:
-
-If a Product is faulty, we will always try to get it fixed or replace it.
-
-However, if the Product is so faulty that you have a right to reject it under applicable local law and you choose to reject, we will give you a full refund. If you choose to keep it, we will provide you with a partial refund. If you prefer you can have a replacement Product.
-
-If you don't have a right to reject the Product but we can't get it fixed or replace it within a reasonable time, or without causing you significant inconvenience, we will provide you with a full or partial refund.
-
-We will calculate a partial refund as the difference between the price of the Product and the value of the Product as delivered.
-
-You may also have a right to compensation for reasonable, foreseeable loss or damage caused by the faulty Product.
-
-How Products are fixed.
-
-If a Product is faulty, it can usually be fixed by a process called patching. Patching updates the code over the internet. We sell Products that we do not make so we need someone else to patch them for us. We will always try to ensure they do so and do so in a reasonable time.
-
-25.4.3.
+If any item that you have purchased from us is faulty, we will always try to get it fixed or replace it.
+However, if the item is so faulty that you have a right to reject it under applicable local law and you choose to reject, we will give you a full refund. If you choose to keep it, we will provide you with a partial refund. If you prefer you can have a replacement.
+If you don't have a right to reject the item but we can't get it fixed or replace it within a reasonable time, or without causing you significant inconvenience, we will provide you with a full or partial refund.
+We will calculate a partial refund as the difference between the price of the item and the value of the item as delivered.
+You may also have a right to compensation for reasonable, foreseeable loss or damage caused by the faulty item.
+How Digital Products are fixed.
+If a Digital Product is faulty, it can usually be fixed by a process called patching. Patching updates the code over the internet. We sell Digital Products that we do not make so we need someone else to patch them for us. We will always try to ensure they do so and do so in a reasonable time.
+23.4.4
 Reason:
-Malicious or unauthorised use of the PSN, your account, your Child Family Member Accounts or Products including the activity of hackers.
-
+Malicious or unauthorised use of PlayStation Online Services, your Account, your Child Family Member Accounts or Digital Products including the activity of hackers.
 Our Liability:
  Unless this is caused by our negligence or the negligence of our employees, agents or subcontractors, we have no liability to you.
-
-25.4.4.
+23.4.5
 Reason:
 Temporary
 
-inability to use the PSN.
-
+inability to use PlayStation Online Services.
 Our Liability:
  Unless this is caused by our negligence or the negligence of our employees, agents or subcontractors, we have no liability to you.
-
-25.4.5.
+23.4.6
 Reason:
-If you close your account because you will not accept a material change to these Terms, the Software Usage Terms or our Privacy Policy or if we permanently close the PSN.
-
+If you close your Account because you will not accept a material change to these Terms, the PlayStation® Software Application End User License Agreement, the PlayStation Code of Conduct or our Privacy Policy or if we permanently close PlayStation Online Services.
 Our Liability:
- We will refund your unused PSN Wallet funds and a pro-rated refund for any unexpired periods of your subscriptions.
-
-25.4.6.
+ We will refund your unused PlayStation Store Wallet Funds and provide pro-rated refund for any unexpired periods of your subscriptions.
+23.4.7
 Reason:
-Any event outside our reasonable control (also known as "Force Majeure" or "Act of God").
-
+Any event outside our reasonable control including, without limitation, events such as natural disasters, pandemics or epidemics, war or civil unrest, or failures of utilities, networks, or third-party services, or similar events beyond our reasonable control (an "
+Event Beyond our Control
+").
 Our Liability:
- We have no liability to you.
+ We will have no liability to you for any failure or delay in performing our obligations to the extent it is caused by an
 
-25.4.7.
+Event Beyond our Control.
+23.4.8
 Reason:
-Damage that would have been avoided if you:
-
-- followed our advice to apply an update offered to you free of charge; or
-
-- followed installation instructions; or
-
-- had the minimum system requirements in place.
-
+Damage that would have been avoided if you
+(i) followed our advice to apply an update offered to you free of charge; or
+(ii) followed installation instructions; or
+(iii) had the minimum system requirements in place.
 Our Liability:
  We have no liability to you.
-
-25.4.8.
+23.4.9
 Reason:
 Business losses including loss of profit, loss of business, business interruption or loss of business opportunity.
-
 Our Liability:
  We have no liability to you.
-
-25.4.9.
-Reason:
+23.4.10
+ Reason:
 Any loss you suffer that was not caused by our breach of these Terms and which is not otherwise covered above.
-
 Our Liability:
  We have no liability to you.
-
-25.4.10.
+23.4.11
 Reason:
 In any cases not covered above.
-
 Our Liability:
-Our liability will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused Wallet Funds.
+Our liability will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused PlayStation Store Wallet Funds.
+23.5 To the extent you are using the PlayStation Online Services other than as a consumer:
+23.5.1 we do not limit our liability for: (i) death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; (ii) our fraud or fraudulent misrepresentation; (iii) deliberate breach; (iv) any liability that cannot be limited or excluded under applicable local laws.
+23.5.2 subject to section 23.5.1, we accept no liability for (i) loss of profit; (ii) loss of sales or business; (iii) loss of agreements or contracts; (iv) loss of anticipated savings; (v) loss of or corruption of software; (vi) data or information; (vii) loss of or damage to goodwill; and (viii) any indirect or consequential loss.
+23.5.4 subject to section 23.5.1, our total liability to you under or in connection with these Terms, whether in contract, tort (including negligence), breach of statutory duty or otherwise will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused PlayStation Store Wallet Funds.
+24. Ownership and Use of Intellectual Property Rights ("IP").
+24.1 We own or hold licences to all IP in Authorised Systems, PlayStation Online Services and our Digital Products.
+24.2 Other people own or hold licences to all IP in their Digital Products.
+24.3 You must use Authorised Systems, PlayStation Online Services and Digital Products only:
+24.3.1 in the ways set out in these Terms or the Digital Product licence; unless
+24.3.2 expressly allowed under applicable local law.
+24.4 We take protection of our IP and the security of our Authorised Systems, PlayStation Online Services and Digital Products seriously and pursue people who threaten them.
+24.5 Do not use stolen or illegally acquired Authorised Systems or Digital Products.
+24.6 Do not do any of the following in connection with Authorised Systems, PlayStation Online Services or Digital Products:
+24.6.1 emulate them;
+24.6.2 disrupt their operation;
+24.6.3 use any unauthorised hardware or software;
+24.6.4 avoid any authentication, encryption or security measures;
+24.6.5 access any information that does not belong to you or a Child Family Member;
+24.6.6 share, buy, sell, rent, sub-licence, trade, transfer, phish for or harvest any accounts or account details or other credentials; or
+24.6.7 help anyone else to do any of these things.
+24.7 Do not create derivative works from the Authorised Systems, PlayStation Online Services or Digital Products.
+24.8 Do not hack, crack, decrypt, reverse engineer, decompile or disassemble the Authorised Systems, PlayStation Online Services or any Digital Product or help anyone else to. This restriction applies to the fullest extent permitted under mandatory applicable local law.
+24.9 Do not use Authorised Systems, PlayStation Online Services and Digital Products commercially, charge for their use or make any public performance without consent of the IP owner.
+24.10 If you use the advertised features of an Authorised System, the PlayStation Online Services or a Digital Product in accordance with the licence to it, you will not breach sections 24.7, 24.8 and 24.9.
+24.11 Before you try to do anything that is not permitted under these Terms, we recommend you seek legal advice to confirm it is expressly allowed under applicable local laws.
+25. Do we ever change these Terms? And what happens then?
+25.1 Yes, we may make changes to these Terms.
+25.2 If the changes are reasonable because they are minor and justified, we will give you reasonable notice of the changes by email,
+25.3 For any other changes, we will ask you to accept the new Terms before you log into the PlayStation Online Services again. If your Child Family Member is the main user, you may have to accept before they can log in again too.
+26. How are these Terms enforced?
+26.1 If you are using PlayStation Online Services as a consumer in the European Economic Area:
+26.1.1 these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of the Netherlands but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of the Netherlands.
+26.1.2 we can enforce these Terms in a court of competent jurisdiction in the country in which you live.
+26.1.3 you can enforce these Terms in a court of competent jurisdiction in the country in which you live, in England and Wales where our company (SIENE) is incorporated (under company registration number 06020283), or in the Netherlands where our company is registered as a branch (under branch establishment number 000051647869).
+26.2 If you are using PlayStation Online Services as a consumer outside of the European Economic Area:
+26.2.1 these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of England and Wales.
+26.2.2 we can enforce these Terms in a court of competent jurisdiction the country in which you live.
+26.2.3 you can enforce these Terms in a court of competent jurisdiction in the country in which you live, or where our company is registered.
+26.3 To the extent you are using PlayStation Online Services other than as a consumer:
+26.3.1 these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales; and
+26.3.2 the courts of England and Wales will have exclusive jurisdiction.
+27. Can anyone else enforce these Terms?
+27.1 No. These Terms do not create any rights that are intended to be enforced by a third party.
+28. Questions?
+28.1 If you have any questions, contact us.
+28.2 For online support (help pages and an online contact form): www.playstation.com/support/contact-us/.To write to us the old-fashioned way use: Sony Interactive Entertainment Network Europe Limited, 10 Great Marlborough Street, London, W1F 7LP, UK.
+28.3 When you contact us, we expect our staff to be polite and respectful. We expect the same of you. If you are rude to or abuse or threaten our staff we may restrict you to contacting us by email or refuse to support you any further. If your behaviour suggests a risk to our staff, our community or our business we may suspend your Account and escalate the matter to law enforcement.
 
-25.5. To the extent you are using the PSN other than as a consumer:
+Ver. 1.0
 
-25.5.1. we do not limit our liability for: (i) death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; (ii) our fraud or fraudulent misrepresentation; (iii) deliberate breach; (iv) any liability that cannot be limited or excluded under applicable local laws.
+PlayStation® Software Application End User License Agreement ("Software Terms")
 
-25.5.2. subject to section 25.5.1, we accept no liability for (i) loss of profit; (ii) loss of sales or business; (iii) loss of agreements or contracts; (iv) loss of anticipated savings; (v) loss of or corruption of software; (vi) data or information; (vii) loss of or damage to goodwill; and (viii) any indirect or consequential loss.
+You are agreeing to these Software Terms by playing, using, or accessing any game software application offered by SIE (as defined in Section 1.2.3) for any format, or by any other publisher for an authorized PlayStation system, including any patches, updates, downloadable content, upgrades, or new versions (the "
+Software
+"). Please review these Software Terms carefully.
 
-25.5.3. subject to section 25.5.1, our total liability to you under or in connection with these Terms, whether in contract, tort (including negligence), breach of statutory duty or otherwise will not be more than £100 (or local currency equivalent) or, if higher, the amount of unused Wallet Funds.
+IF YOU ARE A UNITED STATES RESIDENT OR A RESIDENT OF A COUNTRY IN NORTH, CENTRAL, OR SOUTH AMERICA, THEN, TO THE FULLEST EXTENT PERMITTED BY LAW, THESE SOFTWARE TERMS CONTAIN A BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISION IN SECTION 6.1 THAT AFFECTS YOUR RIGHTS UNDER THESE SOFTWARE TERMS AND WITH RESPECT TO ANY "DISPUTE" (AS DEFINED IN SECTION 6.1) BETWEEN YOU AND AN "SIE GROUP COMPANY" (AS DEFINED IN SECTION 1.2.3). YOU HAVE A RIGHT TO OPT OUT OF THE BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS AS DESCRIBED IN SECTION 6.1.
 
-26. Ownership and Use of Intellectual Property Rights ("IP")
+CERTAIN SOFTWARE FEATURES, SUCH AS ONLINE, MULTIPLAYER, OR UPDATED FEATURES, MAY REQUIRE YOUR AGREEMENT TO SEPARATE TERMS. ADDITIONALLY, ACCESSING THE SOFTWARE MAY REQUIRE YOUR AGREEMENT TO TERMS FOR MIDDLEWARE (e.g., ANTI-CHEAT SOFTWARE FOR THE SOFTWARE ON PC).
 
-26.1. We own or hold licences to all IP in Authorised Systems, PSN and our Products.
+1. WHO THE SOFTWARE IS FOR; WHO WE ARE; LICENSE TERMS; FEEDBACK
 
-26.2. Other people own or hold licences to all IP in their Products.
+1.1 Who Can Use the Software
 
-26.3. You must use Authorised Systems, PSN and Products ONLY:
+If the Software displays an age rating, it means the Software contains content that is unsuitable for anyone below that age. Parents and guardians should supervise their children's access to and using of the Software and in particular, their use of online, multiplayer, and community sharing features.
 
-26.3.1. in the ways set out in these Terms or the Product licence; unless
+1.2 Who's the SIE Party to these Software Terms
 
-26.3.2. expressly allowed under applicable local law.
+1.2.1 If any Sony Interactive Entertainment or PlayStation company is the publisher of the Software, these Software Terms form a contract between you and that Sony Interactive Entertainment or PlayStation company.
 
-26.4. We take protection of our IP and the security of our Authorised Systems, PSN and Products seriously and pursue people who threaten them.
+1.2.2 If the publisher of the Software is not a Sony Interactive Entertainment or PlayStation company, these Software Terms form a contract between you and the Sony Interactive Entertainment company listed in the table below for the region where you reside.
 
-26.5. Do not use stolen or illegally acquired Authorised Systems or Products.
+Your Region of Residence
+| Sony Interactive Entertainment company
 
-26.6. Do not do any of the following in connection with Authorised Systems, PSN or Products:
+East Asia and Southeast Asia ("APAC Region")
+| Sony Interactive Entertainment Inc.
 
-26.6.1. emulate them;
+Europe, Africa, Asia (except APAC Region), Australia/Oceania, and the Middle East ("EMEA Region")
+| Sony Interactive Entertainment Europe Limited (registered in England and Wales with company no: 03277793)
 
-26.6.2. disrupt their operation;
+North America, Central America, and South America ("Americas Region")
+| Sony Interactive Entertainment LLC
 
-26.6.3. use any unauthorised hardware or software;
+1.2.3 In these Software Terms, "
+SIE
+" means the Sony Interactive Entertainment or PlayStation company party to these Software Terms; "
+SIE Group Company
+" means SIE and any of its current or former affiliates, including parents or subsidiaries, and their predecessors or successors.
 
-26.6.4. avoid any authentication, encryption or security measures;
+1.3 Publisher Terms and these Software Terms
 
-26.6.5. access any information that does not belong to you or a Child Family Member;
+If you play or use the Software on an authorized PlayStation system and a company other than a Sony Interactive Entertainment or PlayStation company is identified as publisher/offering the Software, then they license you to use it on terms that include these Software Terms IN ADDITION to any other terms the publisher says apply. If there is any conflict between those terms and these Software Terms, these Software Terms will supersede the publisher's terms.
 
-26.6.6. share, buy, sell, rent, sub-licence, trade, transfer, phish for or harvest any accounts or account details or other credentials; or
+1.4 The License to you
 
-26.6.7. help anyone else to do any of these things.
+The Software is licensed to you, not sold. You are granted a limited, non-exclusive, non-transferable, and personal license to play or use the Software for your private, non-commercial use on the system or device it was intended for. This license is only effective from the indicated Software release date, early access date, or beta release date. Any rights in the Software that we do not say are granted to you in this license are reserved, including all intellectual property in the Software. This license does not include the right, and as a condition of these Software Terms you agree not to, do any of the following:
 
-26.7. Do not create derivative works from the Authorised Systems, PSN or Products.
+(a) rent, lease, or sublicense the Software or make it available on a network to other users without the express prior written consent of SIE;
 
-26.8. Do not hack, crack, decrypt, reverse engineer, decompile or disassemble the Authorised Systems, PSN or any Product or help anyone else to. This restriction applies to the fullest extent permitted under mandatory applicable local law.
+(b) modify, create derivative works, adapt, translate, reverse engineer, decompile, or disassemble the Software or required middleware (such as anti-cheat software);
 
-26.9. Do not use Authorised Systems, PSN and Products commercially, charge for their use or make any public performance without consent of the IP owner.
+(c) obtain the Software in any manner other than through SIE's authorized distribution methods;
 
-26.10. If you use the advertised features of an Authorised System, the PSN or a Product in accordance with the licence to it, you will not breach sections 26.7, 26.8 and 26.9.
+(d) emulate the Software;
 
-26.11. Before you try to do anything that is not permitted under these Terms, we recommend you seek legal advice to confirm it is expressly allowed under applicable local laws.
+(e) hack the Software or create or make available unauthorized mods, including programs to gain unfair advantage in online or multiplayer modes or otherwise cheat;
 
-27. Do we ever change these Terms? And what happens then?
+(f) receive or provide "boosting" or like services, or provide personal account credentials to any other person, to advance progress or achieve results not solely based on your own actual gameplay;
 
-27.1. Yes, we may make changes to these Terms.
+(g) copy, publicly perform, or broadcast the Software without the express prior written consent of SIE;
 
-27.2. If the changes are reasonable because they are minor and justified, we will give you reasonable notice of the changes, for example by a posting when you sign in to the PSN, by PSN message or by email,
+(h) use any means to bypass or disable any encryption, security, or authentication mechanism for the Software.
 
-27.3. For any other changes, we will ask you to accept the new Terms before you log into the PSN again. If your Child Family Member is the main user, you may have to accept before they can log in again too.
+Violating any of the above conditions will immediately void your license, and you acknowledge that SIE may employ technological measures, including fraud detection tools, telemetry, anti-cheat systems, and audits of account behavior, to prevent, detect, and respond to violations of these Software Terms. For clarity, your use of sharing and UGC features explained in Section 3.4 will not violate conditions (b) or (g).
 
-28. How are these Terms enforced?
+1.5 Beta Versions and Feedback
 
-28.1. If you are using the PSN as a consumer in the European Economic Area:
+We welcome your ideas and feedback ("
+Feedback
+") on our services and products, but you must only provide us with your own Feedback. By providing your Feedback to us you transfer ownership of it to us, though we may or may not implement any of it. You will not get paid or receive any other compensation for your Feedback unless we say otherwise.
 
-28.1.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of the Netherlands but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of the Netherlands.
+If you participate in, or redeem a voucher for, a beta trial of a Software, you agree to the following additional terms:
 
-28.1.2. we can enforce these Terms in a court of competent jurisdiction in the country in which you live.
+(a) you are licensed to access and play the beta only for the beta period;
 
-28.1.3. you can enforce these Terms in a court of competent jurisdiction in the country in which you live, in England and Wales where our company (SIENE) is incorporated (under company registration number 06020283), or in the Netherlands where our company is registered as a branch (under branch establishment number 000051647869).
+(b) we do not warrant that the beta will not have bugs or work correctly (or at all);
 
-28.2. If you are using the PSN as a consumer outside of the European Economic Area:
+(c) during the beta we may modify the beta without notice, which may add or remove data, content, and functionality, and you agree we will not be liable for any such loss of data, content, or functionality;
 
-28.2.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of England and Wales.
+(d) your progression, unlocks, and 'earned' Virtual Content (see Section 4.1.1 below) in the beta will not carry over into the release version unless we otherwise say so;
 
-28.2.2. we can enforce these Terms in a court of competent jurisdiction the country in which you live.
+(e) we can end the beta or stop you from accessing it at any time.
 
-28.2.3. you can enforce these Terms in a court of competent jurisdiction in the country in which you live, or where our company is registered.
+2. PRIVACY POLICY THIRD PARTY CONTENT
 
-28.3. To the extent you are using the PSN other than as a consumer:
+2.1 Our Privacy Policy
 
-28.3.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales; and
+We will collect, use, disclose, and retain personal information as described in our Privacy Policy at https://www.playstation.com/legal/privacy-policy. We are not responsible for monitoring or recording any activity or communications, although we may do so to investigate violations of or enforce these Software Terms, or to protect the rights and property of SIE, its partners, and customers. Information we get can include your content, voice, and text communications, gameplay videos, the time and location of your activities, your real name, your online ID and IP address. We may also track and record your Software activity and remove any UGC (see Section 3.4, below) that breaches these Software Terms, without further notice to you. Additionally, we may review and take moderation action in response to violations of these Software Terms reported to us by other users. For information about how your data is collected, used, and disclosed for these purposes, and your rights and choices, see our Privacy Policy (https://www.playstation.com/legal/privacy-policy).
 
-28.3.2. the courts of England and Wales will have exclusive jurisdiction.
+2.2 Third-Party Content and Links
 
-29. Can anyone else enforce these Terms?
-
-29.1. No. These Terms do not create any rights that are intended to be enforced by a third party.
-
-30. Questions?
-
-30.1. If you have any questions, contact us.
-
-30.2. For online support (help pages and an online contact form): www.playstation.com/get-help/contact-us/.To write to us the old-fashioned way use: Sony Interactive Entertainment Network Europe Limited, 10 Great Marlborough Street, London, W1F 7LP, UK.
-
-30.3. When you contact us, we expect our staff to be polite and respectful. We expect the same of you. If you are rude to or abuse or threaten our staff we may restrict you to contacting us by email or refuse to support you any further. If your behaviour suggests a risk to our staff, our community or our business we may suspend your account and escalate the matter to law enforcement.
-
-Version 11 Last updated: December 2022
-
-Software Usage Terms
-
-1. Who are we?
-
-1.1. We are Sony Interactive Entertainment Europe Limited (with company number 03277793) of 10 Great Marlborough Street, London, W1F 7LP, United Kingdom.
-
-2. Defined Terms
-
-2.1.
-"Authorised Systems"
- means any of PS one, PlayStation®2, PlayStation®Portable, PlayStation®3, PlayStation®Vita, PlayStation®TV, PlayStation®4 and PlayStation®5 systems.
-
-2.2.
-"PSN"
- means the PlayStation®Network.
-
-2.3.
-"Software"
-means PlayStation game and application software developed to operate on one or more of the Authorised Systems.
-
-2.4. "
-User Generated Content
-", also called "
-UGC
-": text, messages, comments, pictures, photographs, voice, music, videos, game assets, game videos and game-related information and other materials (i) created by you or others on PSN and/or (ii) shared by you or others via PSN.
-
-3. When do these Software Usage Terms apply?
-
-3.1. These Software Usage Terms ("
-Terms
-") apply to your use of all Software on Authorised Systems. This includes your use of PlayStation™Now, which allows you to access Software via devices such as PCs and Smart TVs.
-
-4. Software is Licensed
-
-4.1. When you purchase Software, you are granted a licence to use that Software as described in these Terms, but you do not acquire ownership of the Software. If you do not comply with these Terms we can terminate the Software licence granted to you under these Terms, which means you will no longer have the right to use the Software.
-
-5. Who Licenses the Software to me?
-
-5.1. There are two types of Software:
-
-5.1.1. software published, and licensed to you, by us; and
-
-5.1.2. software published, and licensed to you, by other companies.
-
-5.2. The publisher is identified either:
-
-5.2.1. on the box - for Software on a physical disc such as DVD, Blu-ray Disc or PS Vita Card ("
-Disc-based Software
-"); or
-
-5.2.2. in the product description - for Software made available on the PlayStation®Store or on such other digital retail stores as we approve from time to time ("
-Digital Software
+The Software may refer to, display, or provide you with links to websites or content that third parties independently operate or maintain ("
+Third Party Content and Links
 ").
 
-5.3. If we are the publisher of the Software, we license you to use it on these Terms and any other specific terms we tell you about in relation to specific Software.
+You should be aware that we do not control or direct Third Party Content and Links nor do we monitor, approve, endorse, warrant, or sponsor any Third Party Content and Links. That means we have no liability to you for any Third Party Content and Links; your reliance on any Third Party Content and Links is at your own risk, and you assume all responsibilities and consequences resulting from your reliance.
 
-5.4. If another company is the publisher of the Software, they license you to use it on terms which include, but may not be limited to, these Terms. That company may tell you about other terms it imposes on your use of its Software, in which case those terms apply in addition to these Terms, not instead of them. In the case of any conflict between the additional terms and these Terms, these Terms apply.
+3. ONLINE OFFERINGS
 
-6. Limitations on Your Use of Software
+3.1 Internet Connection and Costs
 
-6.1. Your licence to use Software is a non-exclusive, personal licence to use the Software for private use only on the applicable Authorised Systems (as indicated on the box for Disc-Based Software, in the product description for Digital Software or otherwise notified by us to you from time to time) and only in Europe, the Middle East, Africa, India, Russia and Oceania. Your licence to use games is not transferrable unless your local applicable laws say it must be.
+Online Software features require an internet connection, which you must provide at your expense. You are responsible for all costs and fees charged by your internet service provider related to the access to and use of the Software.
 
-6.2. You must not use Software commercially, broadcast it, charge for its use or make other public performance of it without express permission from us and, if the publisher is another company, additionally from the publisher.
+3.2 Software Updates and End of Service
 
-6.3. You must not lease, rent, sublicense, publish, modify, adapt, or translate any portion of the Software.
+3.2.1 Sometimes we may modify or update the Software beyond what is necessary to maintain the contractual conformity of the Software if a valid reason requires such modification, in particular:
 
-6.4. You must not emulate the Software.
+(a) to ensure the Software is working as intended (e.g., fix bugs and glitches) and to improve efficiency;
 
-6.5. To the fullest extent permitted by law, you must not reverse engineer, decompile, disassemble or copy any portion of the Software, or create any derivative works, or otherwise attempt to create source code from Software object code.
+(b) for security reasons;
 
-6.6. You must not use any means to bypass or disable any encryption, security, or authentication mechanism for the Authorised Systems or any Software, or to gain unauthorised access or to interfere with any account, service, hardware, software or network connected to the PSN.
+(c) to adapt the Software to a new system or technical environment;
 
-6.7. You must not use stolen or illegally acquired Authorised Systems or Software.
+(d) to improve the Software. This may include updating in-game items, in-game levels, and tasks or changing the rewards for completing in-game activities;
 
-6.8. Use of the community features provided by your Authorised System and authorised Software published for use on it in accordance with the applicable agreements described in clause 9.1 will not breach clauses 6.2 and 6.5 of these Terms.
+(e) to adapt to a change in market conditions (for example, a change in number of users) and/or to ensure the commercial viability of the Software.
 
-7. Resale
+3.2.2 The Software is licensed to you on these Software Terms; it is not sold for you to own, and you understand and agree that we may end online and network features of a Software that uses online servers ("
+Online Services
+"). We will provide reasonable advance notice of any end of Online Services. If we discontinue any Online Services, you may still access any offline modes we provide for the Software; however, offline modes are not guaranteed and may change or end at our discretion.
 
-7.1. You must not resell either disc-based games or digital games, unless expressly authorised by us and, if the publisher is another company, additionally by the publisher.
+3.3 Online Community
 
-8. Age Ratings
+We are committed to providing a safe and welcoming environment. By accepting these Software Terms you agree to our Code of Conduct (https://www.playstation.com/support/account/community-code-of-conduct/), in addition to any other provisions of the PlayStation Terms of Service (https://www.playstation.com/Terms) that may apply to you; violations of our Code of Conduct may result in moderation action taken against your accounts and PlayStation devices as described in the PlayStation Terms of Service.
 
-8.1. If Software displays an age rating, it means it contains content that is unsuitable for anyone below that age. If you are a parent or guardian, see www.playstation.com/safety for information on how to stop games rated above a certain level running on your Authorised System.
+3.4 Sharing and User Generated Content
 
-8.2. If you, or an account-holder for whom you are responsible, have a registered age below the age rating indicated on specific Software, we may prevent you or that account-holder, viewing, purchasing or using that Software. In respect of games Software, we may prevent you or that account-holder using online modes of that game, even if the offline modes are playable on your Authorised System.
+3.4.1 The Software may allow you to create or share content such as text, images, videos, gameplay clips, music, or other materials ("
+UGC
+"). Creating and sharing UGC helps build our community, but you are responsible for what you share.
 
-9. Privacy and Using Software Online
+3.4.2 By posting or sharing UGC through the Software or related services, you grant SIE Group Companies a non-exclusive, worldwide, perpetual, irrevocable, royalty-free license (with the right to sublicense) to use, host, store, reproduce, adapt, modify, publish, distribute, display, and perform that UGC in connection with the Software, PlayStation services, and their promotion. This includes using your UGC, alone or combined with others', for in-game events, marketing, and community showcases. You will not receive payment unless we tell you otherwise.
 
-9.1. The PSN allows you to use your Software online. When you use the PSN:
+3.4.3 You promise that you own or control all rights in your UGC and that it does not violate anyone else's rights, the law, or our Code of Conduct. UGC you share may be seen or used by others. Please do not post personal information or anything you do not want made public.
 
-9.1.1. the PSN Terms of Service and User Agreement ("
-Terms of Service
-") which you entered into with Sony Interactive Entertainment Network Europe Limited when you created your account for the PSN ("
-Account
-") applies in addition to these Terms. The current Terms of Service can be found at www.playstation.com/legal/PSNTerms;
+3.4.4 We may review, edit, remove, or disable access to any UGC at any time and for any reason, including if it violates these Software Terms, applicable law, or community standards. We are not responsible for UGC created or shared by other users, and you use or rely on it at your own risk.
 
-9.1.2. we and Sony Interactive Entertainment Network Europe Limited may collect information about you. An explanation of how your personal information is used can be found in the PlayStation Privacy Policy. You can find the Terms of Service and PlayStation Privacy Policy at www.playstation.com/legal/PSNTerms; and
+4. VIRTUAL UNIVERSE WITH VIRTUAL CURRENCY AND OTHER VIRTUAL CONTENT
 
-9.1.3. if Software is licensed to you by another company, they may also collect information about you and they will explain that in their privacy policy.
+4.1 Economy in a Closed Universe
 
-10. How to behave towards us and other users
+4.1.1 The Software is designed as a closed virtual universe. Offered digital content including virtual in-game currency, goods, or assets such as coins, points, tokens, gold, gems, weapons, gear, vehicles, buffs, power-ups, progression/unlocks, live events, trophies, rewards, or badges ("
+Virtual Content
+") is licensed to you solely for use in the Software and is not your property, regardless of whether purchased with real-world money or 'earned' in-game.
 
-10.1. The Authorised Systems and Software may provide community features that let you communicate and interact with other people via the PSN and via other social networks. Your use of community features is governed by several agreements, with different companies:
+4.1.2 You agree to use Virtual Content only as authorized within the Software and not to do any of the following:
 
-10.1.1. these Terms; and
+(a) sell, purchase, transfer, or use Virtual Content outside the Software;
 
-10.1.2. the Terms of Service; and
+(b) sell or exchange Virtual Content for real-world currency or anything of real-world value unless the Software provides that functionality and then only in strict compliance with the Software publisher's terms for that sale or exchange;
 
-10.1.3. the PlayStation Privacy Policy; plus
+(c) wager with or for Virtual Content (for example "skin betting") unless the Software provides that functionality;
 
-10.1.4. any additional terms provided by the Software publisher; and
+(d) make available any cheats, technological measures, or other methods designed to enable or encourage any collection, selling, or trading of Virtual Content;
 
-10.1.5. any additional terms provided by the company that operates the social network you use (for which you might have to have an account).
+(e) create or participate in any exploitation of price differences of Virtual Content by any means (for example, between real currency prices).
 
-10.2. You and your family members must follow our Code of Conduct in all dealings with us and other members of the PSN community. Read this carefully and help us keep PSN the best place to play for everyone.
+4.1.3 Since any Software's game environment may change over time, we cannot guarantee that you will be able to participate in all live events or earn all in-game achievements. Access to some Virtual Content may require additional purchase. Some in-game elements, like Virtual Content associated with season passes, are made available to players for a limited time. Where season pass Virtual Content is time-limited, we will use reasonable efforts to communicate this to you in the Software or otherwise. We may extend the time-limit for Virtual Content, including season passes, at our option with or without advance notice. Fees charged for time-limited content are based on access to the applicable content during the time period indicated at the time of purchase and apply whether or not you actually access the content. Season pass rewards earned during a given season must be redeemed during that season, unless we choose to provide a grace period for redemption at our sole discretion.
 
-√ Be inclusive.
+4.2 Access Restrictions; Availability Limits
 
-PSN is for everyone, regardless of gender identity, sexual orientation, race, ethnicity, nationality, colour, immigration status, social and economic class, educational level, shape and size, family status, political belief, religion, and mental and physical ability, or any other attribute that people use to label others or divide communities.
+Virtual Content is licensed, not owned; SIE can terminate your access to Virtual Content (whether paid for or free) if you breach these Software Terms, if any account associated with the Software is closed, terminated, banned, or suspended, or if the Software is modified in accordance with section 3.2 such that Virtual Content is discontinued.
 
-☒ Do not
- do or say anything hateful. For more information, please visit playstation.com/hate-speech-policy.
+You understand and agree that in addition to licenses of Virtual Content being subject to purchase and cancelation terms and conditions of the storefront/vendor, the availability of Virtual Content is not guaranteed, prices are subject to change, and order sizes may be limited without prior notice to you. Purchases of Virtual Content licenses may be non-refundable; please check the terms and conditions of the Virtual Content storefront/vendor carefully.
 
-☒ Do not
- threaten, harm, or alarm anyone or encourage anyone else to do so.
+4.3 Special Terms for Japan Residents
 
-☒ Do not
- bully, harass, or stalk anyone.
+THIS SECTION 4.3 WILL APPLY ONLY IF YOU ARE A RESIDENT OF JAPAN.
 
-√ Be sensible. Follow the law.
+Regardless of the storefront/vendor, licenses for virtual in-game currency in Software published by SIE and purchased with real-world currency are issued by Sony Interactive Entertainment Inc. ("
+SIE Inc.
+"), who in turn entrusts the storefront/vendor with sales of the licenses to you.
 
-☒ Do not
-be vulgar or offensive.
+A specified prepaid payment instrument pursuant to the "Payment Services Act" may be found at the SIE Inc. website for the Software or at https://www.playstation.com/ja-jp/legal/games/payment-services-act-jp/. Licensed content that is indicated as a prepaid payment instrument in the section titled "Display for Prepaid Payment Instrument" found on the said websites and that license is purchased for a fee, is treated as a prepaid payment instrument under the Payment Services Act. Other licensed content purchased through such prepaid payment instrument shall be deemed to have been provided with such products and services upon acquisition, and will not fall under the category of prepaid payment instruments under the Payment Services Act.
 
-☒ Do not
-encourage anyone to hurt themselves or someone else.
+Depending on the user's age, an upper limit may be set on the purchase amount for licenses to virtual in-game currency purchasable with real-world currency for a certain period of time. If an upper limit is set, an indication of same pursuant to the Payment Services Act will be provided on "Display for Prepaid Payment Instrument".
 
-☒ Do not
-threaten, condone, perform, or promote any illegal acts.
+The terms of this Section 4.3 or https://www.playstation.com/ja-jp/legal/games/payment-services-act-jp/ will prevail in the event of any conflict with the terms in Sections 4.1 or 4.2.
 
-☒ Do not
-impersonate anyone else.
+5. WARRANTY; DISCLAIMER; LIABILITY LIMITATIONS
 
-☒ Do not
-infringe anyone's privacy or spread lies about anyone.
+5.1 FOR RESIDENTS OF AMERICAS AND APAC REGIONS:
 
-☒ Do not
-infringe anyone's intellectual property.
+WE PROVIDE THE SOFTWARE AND ONLINE SERVICES "AS IS." THIS MEANS WE DO NOT PROMISE THEY WILL WORK PERFECTLY ON EVERY DEVICE OR THAT THEY WILL NEVER HAVE BUGS OR INTERRUPTIONS.
 
-√ Be kind.
+OUR RESPONSIBILITIES AND LIMITS:
 
-Help each other out. Remember you were new once too. You can help make someone's early gaming and community experiences good ones by being considerate.
+EXCEPT AS REQUIRED BY APPLICABLE LOCAL LAW, SIE MAKES NO EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
-√ Be respectful.
+WE DO NOT GUARANTEE THAT THE SOFTWARE OR ONLINE SERVICES WILL BE ERROR-FREE, UNINTERRUPTED, COMPATIBLE WITH ALL SYSTEMS, OR FREE FROM DATA LOSS.
 
-We know we can't expect everyone to agree all the time. Disagree respectfully or walk away.
+WE MAY STOP SUPPORTING OR DISCONTINUE THE SOFTWARE AT ANY TIME, AND TERMINATE ONLINE SERVICES IN WHOLE OR IN PART AS PROVIDED IN THESE SOFTWARE TERMS, WITHOUT LIABILITY TO YOU. THIS MAY MEAN LOSS OF ACCESS TO GAMEPLAY, PROGRESSION, OR VIRTUAL CONTENT.
 
-☒ Do not
-do anything to harm the PlayStation brand or PSN community.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LOCAL LAW, SIE WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS, DATA, OR GOODWILL) ARISING FROM USE OF THE SOFTWARE, ONLINE SERVICES, OR THESE SOFTWARE TERMS, EVEN IF WE WERE ADVISED OF POSSIBLE DAMAGES.
 
-√ Be responsible.
+OUR TOTAL LIABILITY FOR ALL CLAIMS RELATED TO THE SOFTWARE AND ONLINE SERVICES WILL NOT EXCEED THE AMOUNT YOU PAID FOR IT.
 
-If you believe you have found a vulnerability in PSN products or services, tell us so we can fix it. Please visit HackerOne.com/PlayStation for information on our BugBounty program.
+SOME REGIONS DO NOT ALLOW LIMITS ON WARRANTIES OR LIABILITY. IN SUCH CASES, THESE LIMITS APPLY ONLY TO THE EXTENT THE LAW ALLOWS. IF YOU ARE A RESIDENT OF JAPAN, SIE'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES WILL NOT EXCEED THE AMOUNT PAID FOR THE SOFTWARE UNLESS SIE HAS BEEN WILLFULLY OR GROSSLY NEGLIGENT.
 
-☒ Do not
- use the PSN or any of its products for, or associate them with, spam or any commercial activity.
+5.2 FOR RESIDENTS OF EMEA REGION:
 
-☒ Do not
- share, buy, sell, rent, sub-licence, trade, or transfer any accounts, account details, or other credentials.
+5.2.1 As a consumer, you may have rights under applicable local laws that cannot be excluded, limited, or changed. Those rights take priority over anything in these Software Terms, including in this Section 5.2.
 
-√ Be a team player.
+5.2.2 These Software Terms do not:
 
-☒ Do not
-disturb or interrupt gameplay.
+(a) affect any statutory guarantees or warranties you have as a consumer under local applicable laws (such as your rights if the Software is faulty);
 
-☒ Do not
-cheat.
+(b) exclude or limit our liability in any way for death or personal injury caused by our negligence or the negligence of our employees, agents, or subcontractors;
 
-☒ Do not
- use any bugs, glitches, vulnerabilities, or unintentional mechanics in products or PSN to get an advantage.
+(c) exclude or limit our liability in any way for our deliberate breach, fraud, fraudulent misrepresentation, or gross negligence;
 
-☒ Do not
- phish for or harvest any accounts, account details, or other credentials.
+(d) exclude or limit our liability in any way unless we are allowed to do so under your applicable local laws.
 
-☒ Do not
- forward recommendations or offers to your contacts without their permission.
+5.2.3 As a consumer, subject to Section 5.2.1 and 5.2.2, SIE's liability to you is limited to £100 (or local currency equivalent) or, if higher, the price of the Software that gave rise to the liability.
 
-☒ Do not
- share or send information that misleads others.
+5.2.4 To the extent Section 5.2.3 does not apply:
 
-√ Be discreet. Keep it decent.
+(a) we do not limit our liability for: (i) death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; (ii) our fraud or fraudulent misrepresentation; (iii) any liability that cannot be limited or excluded under applicable local laws;
 
-Always use common sense and good manners. Things you say and do online affect other people and have real world consequences. Think before you post anything online. Beware that information you put online can spread and may be seen by people you didn't expect would see it.
+(b) subject to Section 5.2.4(a), no SIE Group Company accepts liability for: (i) loss of profit; (ii) loss of sales or business; (iii) loss of agreements or contracts; (iv) loss of anticipated savings; (v) loss of or corruption of software; (vi) data or information; (vii) loss of or damage to goodwill; (viii) any indirect or consequential loss;
 
-☒ Do not
-reveal personal information about other people or yourself. It makes you and them vulnerable. Personal information includes, but is not limited to, social network handles, messaging app profiles, phone numbers, email addresses, and real-world addresses like your home, school, or temporary location.
+(c) subject to Section 5.2.4(a), SIE Group Company's total liability to you under or in connection with these Software Terms, whether in contract, tort (including negligence), breach of statutory duty or otherwise will not be more than £100 (or local currency equivalent).
 
-☒ Do not
- share material that is pornographic, obscene,
+5.2.5 No SIE Group Company offers any maintenance or support services with respect to the Software.
 
-or that depicts extreme or abhorrent violence.
+6. BINDING ARBITRATION FOR CERTAIN RESIDENTS
 
-☒ Do not
-share or threaten to share any image or other media of another person without their consent.
+6.1 Residents of Americas Region:
 
-√ Help us ensure PSN is the best place to play.
+The following terms in this Section 6.1, to the fullest extent permitted under applicable local law and except where prohibited for individuals resident in the Province of Quebec, only apply to you if you are a resident of the United States or a country in North, Central, or South America.
 
-We are committed to providing a safe and welcoming environment. If you breach this Code, or your conduct off PSN gives us reason to believe you may endanger the safety or well-being of our community, we may take any action as reasonably necessary to protect PSN and our players.
+6.1.1 Purpose
 
-If you believe someone has breached the Code of Conduct, tell us so we can take action to help keep PSN and our community safe. It is particularly important to tell us if you think there is a risk anyone could get hurt in real life. If you see someone else misbehaving:
+The term "Dispute" means any dispute, claim, or controversy between you and any SIE Group Company regarding use of the Software, whether based in contract, statute, regulation, ordinance, tort (including fraud, misrepresentation, fraudulent inducement, or negligence), or any other legal or equitable theory, and includes the validity, enforceability or scope of this Section 6.1 (with the exception of the enforceability of the Class Action Waiver clause below). "Dispute" is to be given the broadest possible meaning that will be enforced. If you have a Dispute with any SIE Group Company or any of a SIE Group Company's officers, directors, employees and agents that cannot be resolved through negotiation within the time frame described in the "Notice of Dispute" clause below, you and the SIE Group Company that you have a Dispute with agree to seek resolution of the Dispute only through arbitration of that Dispute in accordance with the terms of this section, and not litigate any Dispute in court, except for those matters listed in the Exclusions from Arbitration clause. Arbitration means that the Dispute will be resolved by a neutral arbitrator instead of in a court by a judge or jury.
 
-√
-Report them to us using our contextual grief reporting tools. For more information on grief reporting and blocking, please visit playstation.com/reporting and playstation.com/blocking.
+6.1.2 Exclusions from Arbitration
 
-√
-If you engage with them, stay calm and respectful. Lead by example and don't breach this Code yourself.
+You or any SIE Group Company can bring claims in your local small claims court, if the rules of that court allow it. Additionally, if the claims asserted in any request or demand for arbitration could have been brought in small claims court, then either your or the SIE Group Company you have a dispute with may elect to have the claims heard in small claims court, instead of in arbitration, at any time before the arbitrator is appointed, by notifying the other party of that election in writing. Any dispute about whether a claim qualifies for small claims court will be resolved by that court, not by an arbitrator. In the event of any such dispute, the arbitration proceeding will remain closed unless and until a decision by the small claims court that the claim should proceed in arbitration.
 
-☒ Do not
-submit false grief reports or otherwise abuse the grief reporting system.
+To the extent you or a SIE Group Company seeks public injunctive relief (i.e., injunctive relief that has the primary purpose and effect of prohibiting acts that threaten future injury to the public), the entitlement to and extent of such relief must be litigated in court and not in arbitration. All parties agree that the litigation of any issues of public injunctive relief shall be stayed pending the outcome of the merits of any individual claims in arbitration.
 
-√ Follow any specific rules for each product.
+6.1.3 Opt-Out Right
 
-For more information, find additional resources at playstation.com/safety and playstation.com/behavior.
+YOU HAVE THE RIGHT TO OPT OUT OF BINDING ARBITRATION AND CLASS ACTION WAIVER WITHIN 30 DAYS. IF YOU DO NOT WISH TO BE BOUND BY THE BINDING ARBITRATION AND CLASS ACTION WAIVER IN THIS SECTION 6.1, YOU MUST NOTIFY US IN WRITING WITHIN 30 DAYS OF THE DATE THAT YOU ACCEPT THIS AGREEMENT UNLESS A LONGER PERIOD IS REQUIRED BY APPLICABLE LAW. YOUR WRITTEN NOTIFICATION MUST BE MAILED TO 2207 BRIDGEPOINTE PARKWAY, SAN MATEO, CA 94404, ATTN: LEGAL DEPARTMENT/ARBITRATION AND MUST INCLUDE: (1) YOUR NAME, (2) YOUR ADDRESS, (3) YOUR PLAYSTATION SERVICES ONLINE ID, IF YOU HAVE ONE, AND (4) A CLEAR STATEMENT THAT YOU DO NOT WISH TO RESOLVE DISPUTES WITH ANY SIE GROUP COMPANY THROUGH ARBITRATION.
 
-11. Creating and Sharing Online
+IF YOU OPT OUT IN ACCORDANCE WITH THE PROVISIONS OF THIS SECTION, IT WILL NOT AFFECT THE VALIDITY OF ANY OTHER AGREEMENT TO ARBITRATE BETWEEN YOU AND ANY SIE GROUP COMPANY. THUS, IF YOU OPT OUT OF THIS AGREEMENT AND AT THE TIME OF YOUR OPT OUT YOU WERE BOUND BY AN EXISTING AGREEMENT TO ARBITRATE DISPUTES BETWEEN YOU AND ANY SIE GROUP COMPANY, THAT EXISTING ARBITRATION AGREEMENT WILL REMAIN IN FULL FORCE AND EFFECT.
 
-11.1. UGC created and shared by you belong to you but we and, where applicable, the relevant Software publisher still have intellectual property rights in your UGC so you must not commercially exploit UGC without our consent and the consent of the Software publisher.
+6.1.4 Notice of Dispute
 
-11.2. You authorise us, our affiliates and other PSN users, to use, distribute, copy, modify, display, and publish your UGC, your PSN Online ID (and, if you choose to use it, your name) throughout the PSN and other associated services such as websites associated to the Software. You also authorise us, without payment to you, to license, sell and otherwise commercially exploit your UGC (for example, selling subscriptions to access your UGC (alone or in combination with other UGC) and/or receiving advertising revenue in connection with UGC), and to use your UGC in the promotion of PlayStation® products, Software and services. You recognise that we and other PSN users may alter or delete your UGC. By posting UGC you are telling us that you have all rights necessary to post such UGC and to grant the rights set out in this clause.
+IF YOU HAVE A DISPUTE WITH ANY SIE GROUP COMPANY, YOU MUST FIRST SEND WRITTEN NOTICE TO 2207 BRIDGEPOINTE PARKWAY, SAN MATEO, CA 94404, ATTN: LEGAL DEPARTMENT – DISPUTE RESOLUTION, TO GIVE THE SIE GROUP COMPANY YOU HAVE A DISPUTE WITH THE OPPORTUNITY TO RESOLVE THE DISPUTE INFORMALLY THROUGH NEGOTIATION. This written notice must contain: (1) your name; (2) your PlayStation services online ID, if you have one; (3) a description of the problem, including relevant documents and supporting information; and (4) a description of the relief you are seeking, including a good-faith estimate of any damages suffered. You and the SIE Group Company you have a Dispute with agree to negotiate resolution of the Dispute in good faith for no less than 60 days after you provide notice of the Dispute with the required information. If the Dispute is not resolved within 60 days from receipt of the notice of the Dispute, you or the SIE Group Company you have a Dispute with may pursue your claim in arbitration or small-claims court pursuant to the terms in this section.
 
-12. What if I have a bad experience online?
+6.1.5 Class Action Waiver
 
-12.1. We want you all to enjoy our online community but we can't guarantee that everyone will behave properly. As such, we accept no liability to you for other PSN Users' activity and UGC and no liability to others for your activity and UGC.
+YOU AND THE SIE GROUP COMPANY WITH WHICH YOU HAVE A DISPUTE AGREE THAT ARBITRATION WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION OR AS A NAMED OR UNNAMED MEMBER IN A CLASS OR REPRESENTATIVE ACTION, UNLESS BOTH YOU AND THE SIE GROUP COMPANY WITH WHICH YOU HAVE A DISPUTE SPECIFICALLY AGREE TO DO SO IN WRITING FOLLOWING INITIATION OF THE ARBITRATION.
 
-12.2. If you experience any unacceptable or inappropriate behaviour in-game, we want you to let the relevant publisher (which might be us) know.
+6.1.6 Initiation of Arbitration/Selection of Arbitrator
 
-12.3. Although we may enable you and other users to post to social network services and other third party sites, we are not responsible for those services. If you experience any unacceptable or inappropriate behaviour on a social network service or third party site, please report it to the social network service or third party site using their grief reporting process.
+If you or the SIE Group Company you have a Dispute with elect to resolve your Dispute through arbitration, the party initiating the arbitration proceeding may initiate it with the American Arbitration Association ("AAA"), https://www.adr.org. The terms of this section govern in the event they conflict with the rules of the arbitration organization selected by the parties.
 
-13. Reporting from games we publish
+6.1.7 Arbitration Procedures
 
-13.1. In the games we publish and for functionality we provide via our Authorised Systems (e.g. PSN messaging), we include grief reporting mechanisms where we think they might be most relevant. For example, you'll see a report option next to messages you receive on PSN and in-game reporting tools in each of the games we publish, if that game offers the ability to share UGC. If you use the most proximate grief reporting tool, when you submit the report, you may also be able to send us applicable evidence which will help us assess your report. Of course, this means other people can grief report you and your UGC too.
+Because the software and/or service provided to you by the SIE Group Company you have a Dispute with concern interstate commerce, the Federal Arbitration Act ("FAA") governs the arbitrability of all Disputes. However, applicable federal or state law may also apply to the substance of any Disputes. For claims of less than $75,000, the AAA's Consumer Arbitration Rules shall apply, except to the extent any of those rules conflict with the terms of this agreement; for claims seeking over $75,000, the AAA's Commercial Arbitration Rules shall apply, except to the extent any of those rules conflict with the terms of this agreement. The AAA rules are available at www.adr.org or by calling 1-800-778-7879.
 
-13.2. For more information on grief reporting please visit www.playstation.com/safety.
+The parties agree that an administrative conference with the AAA shall be conducted in each arbitration proceeding, and you and a representative of the SIE Group Company you have a dispute with shall appear at the administrative conference via video conference or telephone. If you fail to appear at the administrative conference, regardless of whether your counsel attends, the AAA will administratively close the arbitration proceeding without prejudice, unless you show good cause as to why you were not able to attend the conference.
 
-14. Do we track what you do online?
+Payment of all filing, administrative, and arbitrator fees will be governed by the AAA Rules. The party initiating the arbitration is required to pay an initial filing fee, but if you are the party who initiates arbitration, then the SIE Group Company you have a dispute with will reimburse you for the filing fee at the conclusion of the arbitration to the extent it exceeds the fee for filing a complaint in federal or state court in your county of residence. Further, if your claims do not exceed $75,000 and you provided notice to and negotiated in good faith with the SIE Group Company you had a Dispute with as described above, if the arbitrator finds that you are the prevailing party in the arbitration, you will be entitled to recover reasonable attorneys' fees and costs as determined by the arbitrator, in addition to any rights to recover the same under controlling state or federal law afforded to the SIE Group Company you have a Dispute with or you. The arbitrator will make any award in writing but need not provide a statement of reasons unless requested by a party. The award will be binding and final, except for any right of appeal provided by the FAA, and may be entered in any court having jurisdiction over the parties for purposes of enforcement.
 
-14.1. Yes, but we can't track all activity and we make no commitment to do so.
+6.1.8 Batch Arbitration
 
-14.2. We may track and record your Software activity and remove any of your UGC that breaches these Terms, without further notice to you. Other users may record things they see and send them to us.
+The parties mutually agree to abide by the following Batch Arbitration procedure in the event that 50 or more similar individual arbitration demands are filed against the same SIE Group Company with the assistance of the same law firm(s).
 
-14.3. Information we get can include your content, voice and text communications, gameplay videos, the time and location of your activities, your real name, your PSN Online ID and IP address.
+Under the Batch Arbitration procedure, the AAA will (i) administer the arbitration demands in batches of 50; (ii) provide for the administration of each batch as a single consolidated arbitration with one set of filing and administrative fees per side per batch; and (iii) appoint a single, different arbitrator for each batch, subject to any applicable disclosure and disqualification procedures available under applicable law.
 
-14.4. We (or our affiliated companies) use that information to enforce these Terms, to comply with the law, to protect our rights and those of our licensors and users, and to protect our community. We may pass this information to the police or other appropriate authorities.
+Arbitrators appointed pursuant to this Batch Arbitration procedure will issue separate awards for each individual claimant.
 
-14.5. See our Privacy Policy at www.playstation.com/legal/PSNTerms/ for more details about this use of your information.
+Arbitrations administered pursuant to this Batch Arbitration procedure may be administered and proceed concurrently to the extent administratively feasible.
 
-15. Feedback and Beta Trials
+You and the SIE Group Company you have a dispute with agree to work in good faith throughout the Batch Arbitration process to streamline procedures, increase efficiencies, and seek to resolve Disputes.
 
-15.1. We welcome your ideas and feedback on our services and products, but you must only provide us with your own ideas and feedback. By providing your ideas and feedback to us you transfer ownership of them to us, although we may or may not implement them. You will not get paid or receive any other compensation for your ideas or feedback.
+6.1.9 Arbitration Location
 
-15.2. If you participate in, or redeem a voucher for, a free beta trial you agree to the following additional terms:
+You or the applicable SIE Group Company may initiate arbitration in either San Mateo County, California or the United States county in which you reside. In the event that you select the county of your United States residence, the SIE Group Company may transfer the arbitration to San Mateo, County in the event that it agrees to pay any additional fees or costs you incur as a result of the change in location as determined by the arbitrator.
 
-15.2.1. you must keep the beta software secure and in good condition and must not copy the beta software, give or sell it to anyone, try to reverse engineer it, nor use it to create derivative works;
+6.1.10 Severability
 
-15.2.2. you are licensed to use the beta software only for the beta;
+If any clause within this arbitration agreement (other than the Class Action Waiver clause above) is found to be illegal or unenforceable, that clause will be severed from this section, and the remainder of this arbitration agreement will be given full force and effect. If the Class Action Waiver clause is found to be illegal or unenforceable in its entirety, this entire arbitration agreement will be unenforceable, and the Dispute will be decided by a court.
 
-15.2.3. we do not warrant that the beta software will work correctly (or at all);
+6.2 Residents of Mainland China, Macau, and Hong Kong
 
-15.2.4. during the beta we may modify the beta software without notice, which may add or remove data, content and functionality, and you agree we will not be liable for any such loss of data, content or functionality; and
+If you reside in Mainland China, Macau, or Hong Kong, you agree to refer any Dispute to final binding arbitration administered by the Hong Kong International Arbitration Centre (HKIAC) under the UNCITRAL Arbitration Rules in force when the Notice of Arbitration is submitted, as modified by the HKIAC Procedures for the Administration of Arbitration under the UNCITRAL Arbitration Rules. The law of this arbitration clause shall be
 
-15.2.5. we can end the beta or stop you accessing it at any time.
+Hong Kong law
+.
+The seat of arbitration shall be
 
-16. Software Updates and End of Service
+Hong Kong
+.
+The number of arbitrators shall be one. The arbitration proceedings shall be conducted in English.
 
-16.1. Sometimes we may update Software, but only where it is reasonable because it is minor and justified. For example, we may make changes:
+7. GOVERNING LAW AND VENUE
 
-16.1.1 to ensure the Software is working as intended (e.g. fix bugs and glitches) and to improve efficiency;
+7.1 Definitions
 
-16.1.2 for security reasons;
+Different laws may apply depending on where you live. This Section explains which laws and courts apply, using the following definitions:
 
-16.1.3 to adapt the Software to a new system or technical environment;
+Your Region of Residence | Governing Law | Venue
 
-16.1.4 to improve the Software. This may include updating in-game items, in-game levels and tasks or changing the rewards for completing in-game activities; or
+South Korea | South Korea | Seoul, South Korea
 
-16.1.5 to adapt the Software to a change in number of users and/or to ensure the commercial viability of the Software.
+APAC Region, except South Korea | Japan | Tokyo, Japan
 
-17. Copyright Ownership
+EMEA Region | England and Wales | The courts of England and Wales or, if you are a consumer residing outside England and Wales, the courts of the country of your residence.
 
-17.1. All Software contains library programs, the copyright to which is owned by Sony Interactive Entertainment Inc. and exclusively licensed to us for our geographic area of operation. Other copyrights and intellectual property rights subsist in the Software and may be notified to you from time to time.
+Americas Region | California | San Mateo, California
 
-18. Enforcement of Software Usage Terms
+7.2 Application
 
-18.1. You agree we can enforce these Terms against you in respect of all Software whether or not we are the publisher.
+Except as described in Sections 6 and 7.3, you agree that:
 
-19. Your rights and our liability
+(a) These Software Terms will be governed by, and construed and interpreted in accordance with, the Governing Law (except for its conflict of laws rules) as set out in Section 7.1;
 
-19.1. As a consumer, you may have rights under applicable local laws that cannot be excluded, limited or changed. Those rights take priority over anything in these Terms, including in this clause 19.
+(b) For all disputes arising out of or relating to these Software Terms the courts of the Venue (as set out in Section 7.1) will have exclusive jurisdiction.
 
-19.2. These Terms do not:
+7.3 Protections under Mandatory Laws Unaffected
 
-19.2.1. affect any statutory guarantees or warranties you have as a consumer under local applicable laws (such as your rights if the Software is faulty);
+If you are a consumer residing in a jurisdiction that has mandatory consumer laws, such as countries in Europe and Australia or the Province of Quebec, you will also have the additional protection of the mandatory consumer laws of the jurisdiction you live in, and those mandatory consumer laws take priority over the Governing Law.
 
-19.2.2. exclude or limit our liability in any way for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors;
+8. MISCELLANEOUS
 
-19.2.3. exclude or limit our liability in any way for our deliberate breach, fraud, fraudulent misrepresentation or gross negligence; or
+8.1 Enforceability
 
-19.2.4. exclude or limit our liability in any way unless we are allowed to do so under your applicable local laws.
+If any part of these Software Terms is found invalid or unenforceable, in whole or in part, that part will be modified to the minimum extent necessary to make it valid and enforceable, and the validity and enforceability of all other parts of these Software Terms will not be affected in any way.
 
-19.3. If you are a consumer, subject to clause 19.1 and 19.2, our liability to you is limited to £100 (or local currency equivalent) or, if higher, the PS Store price of the Software that gave rise to the liability.
+8.2 Whole Agreement
 
-19.4. To the extent you are using the Software other than as a consumer:
+Except as required by applicable local law, these Software Terms make up the entire agreement between you and SIE concerning the Software and supersede all prior agreements or understandings between you and SIE.
 
-19.4.1. we do not limit our liability for: (i) death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; (ii) our fraud or fraudulent misrepresentation; (iii) any liability that cannot be limited or excluded under applicable local laws.
+8.3 Export Control
 
-19.4.2. subject to clause 19.4.1, we accept no liability for (i) loss of profit; (ii) loss of sales or business; (iii) loss of agreements or contracts; (iv) loss of anticipated savings; (v) loss of or corruption of software; (vi) data or information; (vii) loss of or damage to goodwill; and (viii) any indirect or consequential loss.
+The Software may contain technology under export-control laws and regulations of the European Union, Japan, the United States, the United Kingdom, or other applicable territories ("
+Export Laws
+"). You must not export or re-export the Software to territories, persons, or entities in violation of Export Laws, and you must comply with Export Laws when using the Software. By using the Software, you are telling us that you are not (i) located in a territory that (a) is subject to a trade embargo enforced by the European Union, Japan, the United States, or the United Kingdom, nor (b) has been designated by the United States as a "terrorist supporting" country; or (ii) listed on any sanctions list maintained by the European Union, Japan, the United States, or the United Kingdom.
 
-19.4.3 subject to clause 19.4.1, our total liability to you under or in connection with these Terms, whether in contract, tort (including negligence), breach of statutory duty or otherwise will not be more than £100 (or local currency equivalent).
+8.4 Previous Terms and Changes to these Software Terms
 
-20. Changes to these Terms and our right to transfer our contracts with you
+8.4.1 Previous iterations replaced
 
-20.1 We may make changes to these Terms from time to time. If the changes are minor and justified, we will give you reasonable notice of the changes, for example by email. For any other changes, we will ask you to accept the new Terms before you log into the PSN again. If your Child Family Member is the main user, you may have to accept before they can log in again too.
+These Software Terms replace any previous iterations of any SIE Group Company licenses or terms covering the Software.
 
-21. Governing law, jurisdiction and third party rights
+8.4.2 What happens when these terms change
 
-21.1. If you are using the Software as a consumer:
+We may from time to time make changes to these Software Terms. We will provide reasonable notice of our changes--for example, 30 days before they take effect--such as by posting on the publisher web presence or Software page at the digital storefront for the Software. We may also ask that you affirm the changed terms before accessing the Software again; if one of your family members is a minor and is the main user, you may be asked to affirm the changes before that user can access the Software again, too.
 
-21.1.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales but you will have the additional protection of the mandatory laws of the country in which you live. The mandatory laws of the country in which you live take priority over the laws of England and Wales.
+8.5 No Waiver
 
-21.1.2. we can enforce these Terms in a court of competent jurisdiction in the country in which you live.
+No failure or delay by us in exercising any right or remedy under these Software Terms means that we waive those or any other rights or remedies under these Software Terms or at law.
 
-21.1.3. you can enforce these Terms in a court of competent jurisdiction in in the country in which you live, or where our company is registered.
+8.6 Surviving Sections of Software Terms
 
-21.2. To the extent you are using the Software other than as a consumer:
+Sections 2 through 8 will survive any termination of these Software Terms.
 
-21.2.1. these Terms, any contracts formed in accordance with them and any disputes we may have in connection with them will be governed by and determined according to the laws of England and Wales; and
+8.7 Additional Terms for Apple App Store and Mac App Store Software
 
-21.2.2. the courts of England and Wales will have exclusive jurisdiction.
+The following additional terms and conditions apply with respect to Software downloaded from Apple's App Store or Apple's Mac App Store.
 
-Last Updated: December 2022 (v2)
+You acknowledge that these Software Terms are between you and SIE only, and not with Apple, Inc. ("
+Apple
+"). SIE, and not Apple, is solely responsible for the Software and the services and content available thereon. You agree that your use of the Software shall be subject to the terms of these Software Terms and the Usage Rules set forth in Apple's Media Services Terms and Conditions.
+
+The parties agree that Apple shall have no obligation to provide maintenance and support services with respect to the Software. If the Software fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price of the Software. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Software, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be SIE's sole responsibility.
+
+You agree that SIE, and not Apple, is responsible for addressing any claims by you or any third party relating to the Software or your possession and use of the Software, including, but not limited to (i) product liability claims; (ii) any claim that the Software fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+
+You agree that SIE, and not Apple, shall be responsible for the investigation, defense, settlement and discharge of any third party intellectual property infringement claim related to the Software or your possession and use of the Software.
+
+You agree to comply with all applicable third party terms of agreement when using the Software (e.g., you must not be in violation of your wireless data service terms of agreement when using the Software) and that Apple and Apple's subsidiaries are third party beneficiaries to these Software Terms. Upon your acceptance of these Software Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Software Terms against you as a third party beneficiary thereof.
+
+8.8 Additional Terms for Software on Microsoft Video Game Console Systems
+
+The following additional terms and conditions apply to you for any Software available for use on any Microsoft video game console system, and you agree as follows:
+
+(a) to the maximum extent allowed by applicable law, Microsoft and its affiliates disclaim all warranties, have no liability to you concerning the Software, and have no obligation to provide you with support or other services;
+
+(b) nothing in these Software Terms is intended to prevent or limit your access to the Software for use on any Microsoft video game console system, nor to govern or change, in any way, your relationship with Microsoft under Microsoft's applicable agreements with you, including the Xbox Live Terms of Use or any other agreement under which Microsoft grants you any right to install and use the Software.
+
+8.9 Additional Terms for Mainland China Residents
+
+SIE will act as licensor for any SIE-owned Software accessed from Mainland China. In addition, the following provisions will apply for users accessing the Software through the "WeGame" game service:
+
+(a) These Software Terms are between you and SIE only, and not with Shenzhen Tencent Computer Systems Company Limited or Shenzhen Tencent Information Technology Company Limited (together, "
+Tencent
+"), and these Software Terms shall not affect the relationship between you and Tencent;
+
+(b) SIE, not Tencent, is responsible for addressing any claims of you or any third party relating to the quality, functionality, or gameplay for the Software;
+
+(c) These Software Terms shall not prevent or limit access to the Software without any reasonable reason;
+
+(d) These Software Terms shall not purport to govern or change, in any way, your relationship with Tencent under Tencent's applicable agreement with you, including the Tencent WeGame Subscriber Agreement.
+
+8.10 Questions; Complaints; Claims
+
+You may submit any claims with respect to the Software to Sony Interactive Entertainment, 2207 Bridgepointe Parkway, San Mateo, California 94404 USA, ATTN: Legal & Public Policy Department. You may submit any questions with respect to the Software to PlayStation Support (https://www.playstation.com/support/).
+
+- END -
 
 Document selection
-
 Country / Region selection
