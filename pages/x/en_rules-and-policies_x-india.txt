@@ -78,23 +78,45 @@ Under the IT Rules Amendment 2026, SGI means “audio, visual or audio-visual in
 Your responsibilities for SGI
 
 Declaration:
-By posting any SGI, you are declaring that, if the content you post is “synthetically generated information,” you will prominently label it as such in a way “that is easily noticeable and adequately perceivable,” and in the case of synthetically generated “audio content,” include a “prominently prefixed audio disclosure.”
+Before posting any content on X, you must declare whether it is “synthetically generated information". By using X, you confirm that you will not post SGI without making this declaration. You will prominently label it as such in a way “that is easily noticeable and adequately perceivable,” and in the case of synthetically generated “audio content,” include a “prominently prefixed audio disclosure.”
 
 No tampering:
  You must not attempt to remove, modify, suppress, or tamper with any labels, metadata or other technical provenance identifiers applied to SGI.
+
+Prohibited SGI:
+The IT Rules Amendment 2026 prohibits the use of computer resources to create, generate, modify, alter, publish, transmit, share, or disseminate any unlawful SGI. Unlawful SGI includes content that:
+
+(a) Contains child sexual exploitative and abuse material or non-consensual intimate imagery;
+
+(b) Is obscene, pornographic, paedophilic, vulgar, indecent, sexually explicit, or invasive of another person’s privacy including bodily privacy;
+
+(c) Creates any false document or false electronic record;
+
+(d) Relates to the preparation, development, or procurement of explosives, arms, or ammunition;
+
+(e) Falsely depicts or portrays any natural person by misrepresenting their identity, voice, conduct, actions, or statements;
+
+(f) Falsey depicts or portrays any real world event by misrepresenting that said event occurred, with or without the involvment of any natural person; or
+
+(g) Violates any other law in force, such as the Bharatiya Nyaya Sanhita, 2023, the Protection of Children from Sexual Offences Act, 2012, and the Explosive Substances Act, 1908.
+
+The IT Rules Amendment 2026 requires us to inform you that instructing X’s systems to generate unlawful SGI, or posting unlawful SGI, may attract civil and/or criminal penalties under the applicable laws, such as the Information Technology Act, 2000, the Bharatiya Nyaya Sanhita, 2023, the Protection of Children from Sexual Offences Act, 2012, the Representation of the People Act, 1951, the Indecent Representation of Women (Prohibition) Act, 1986, the Sexual Harassment of Women at Workplace Act, 2013, and the Immoral Traffic (Prevention) Act, 1956. Further, failing to declare SGI you upload or publish on X, or creating and/or sharing unlawful SGI may also result in enforcement actions required under the IT Rules Amendment 2026 such as removal of content and/or suspension of your account, disclosure of your information and/or mandatory reporting of the offence to a competent authority.
+
+Our measures for transparency and compliance
+
+X automatically applies watermarks to all images generated or edited by Grok and all Grok-generated videos. This supports prominent labelling of lawful SGI and helps prevent unlawful synthetic content.
 
 What is not SGI
 
 Under the IT Rules Amendment 2026, SGI does not include “routine or good faith actions” or content that “arises from:
 
 (a)
+
 routine or good-faith editing, formatting, enhancement, technical correction, colour adjustment, noise reduction, transcription, or compression that does not materially alter, distort, or misrepresent the substance, context, or meaning of the underlying audio, visual or audio-visual information; or
 
-(b)
- the routine or good-faith creation, preparation, formatting, presentation or design of documents, presentations, portable document format (PDF) files, educational or training materials, research outputs, including the use of illustrative, hypothetical, draft, template-based or conceptual content, where such creation or presentation does not result in the creation or generation of any false document or false electronic record; or
+(b) the routine or good-faith creation, preparation, formatting, presentation or design of documents, presentations, portable document format (PDF) files, educational or training materials, research outputs, including the use of illustrative, hypothetical, draft, template-based or conceptual content, where such creation or presentation does not result in the creation or generation of any false document or false electronic record; or
 
-(c)
-the use of computer resources solely for improving accessibility, clarity, quality, translation, description, searchability, or discoverability, without generating, altering, or manipulating any material part of the underlying audio, visual or audio-visual information."
+(c) the use of computer resources solely for improving accessibility, clarity, quality, translation, description, searchability, or discoverability, without generating, altering, or manipulating any material part of the underlying audio, visual or audio-visual information."
 
 We’re introducing a profile setting which allows people in India to mark their X account as having a confirmed phone number. Activating this setting displays a
 Confirmed phone number
