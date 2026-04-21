@@ -2928,6 +2928,246 @@ Developer Data Protection Addendum
 
 Impressum
 
+Bulgarian
+
+Споразумение с потребителя на Reddit
+
+31 март 2026
+
+28 юни 2025
+
+Споразумение за Premium и виртуални стоки
+
+24 септември 2024
+
+Предварителни условия за ползване
+
+Условия за автори
+
+Условия за разработчици
+
+Условия за API за данни
+
+Условия за вграждане в Reddit
+
+Responsible Disclosure and Bug Bounty Program Terms
+
+Политика за използване на търговска марка
+
+Privacy Policy
+
+Public Content Policy
+
+Cookie Notice
+
+Reddit Rules
+
+Кодекс за поведение на модератора
+
+Information for EU users
+
+Information for UK users
+
+Information for AU users
+
+Advertising Platform Terms
+
+Reddit Business Tool Terms
+
+Reddit Advertising Data Processing Agreement
+
+Reddit Jurisdiction Specific Terms
+
+Reddit Ads Subprocessors
+
+Ads API Terms
+
+Third Party Audience Targeting (Beta) Terms
+
+Advertising Policies and Billing
+
+Brand Guidelines
+
+Press & Broadcast Guidelines
+
+Условия за доходи
+
+Политика за доходи в Reddit
+
+24 септември 2024
+
+Transparency
+
+Guidelines for Law Enforcement
+
+Reddit's Anti-Slavery and Human Trafficking Statement
+
+Developer Data Protection Addendum
+
+Impressum
+
+Политика за отговорни строители
+
+Croatian
+
+Redditov Ugovor o korištenju
+
+31. ožujka 2026
+
+28. lipnja 2025
+
+Redditovi Ekonomski uvjeti
+
+24. rujna 2024
+
+Uvjeti za probne značajke
+
+Uvjeti za kreatore
+
+Uvjeti za developere
+
+Uvjeti za podatkovni API
+
+Uvjeti za ugrađene elemente Reddita
+
+Responsible Disclosure and Bug Bounty Program Terms
+
+Pravila upotrebe zaštitnog znaka
+
+Privacy Policy
+
+Public Content Policy
+
+Cookie Notice
+
+Reddit Rules
+
+Kodeks ponašanja moderatora
+
+Information for EU users
+
+Information for UK users
+
+Information for AU users
+
+Advertising Platform Terms
+
+Reddit Business Tool Terms
+
+Reddit Advertising Data Processing Agreement
+
+Reddit Jurisdiction Specific Terms
+
+Reddit Ads Subprocessors
+
+Ads API Terms
+
+Third Party Audience Targeting (Beta) Terms
+
+Advertising Policies and Billing
+
+Brand Guidelines
+
+Press & Broadcast Guidelines
+
+Uvjeti za zaradu
+
+Redditova Politika o zaradi
+
+24. rujna 2024
+
+Transparency
+
+Guidelines for Law Enforcement
+
+Reddit's Anti-Slavery and Human Trafficking Statement
+
+Developer Data Protection Addendum
+
+Impressum
+
+Pravila odgovornog graditelja
+
+Slovak
+
+Dohoda s používateľom Redditu
+
+31. marca 2026
+
+28. júna 2025
+
+Ekonomické podmienky Redditu
+
+24. rujna 2024
+
+Podmienky používania náhľadu
+
+Podmienky pre tvorcov
+
+Podmienky pre vývojárov
+
+Podmienky pre údaje API
+
+Podmienky ukážok Reddit
+
+Responsible Disclosure and Bug Bounty Program Terms
+
+Zásady používania ochranných známok
+
+Privacy Policy
+
+Public Content Policy
+
+Cookie Notice
+
+Reddit Rules
+
+Kódex správania moderátora
+
+Information for EU users
+
+Information for UK users
+
+Information for AU users
+
+Advertising Platform Terms
+
+Reddit Business Tool Terms
+
+Reddit Advertising Data Processing Agreement
+
+Reddit Jurisdiction Specific Terms
+
+Reddit Ads Subprocessors
+
+Ads API Terms
+
+Third Party Audience Targeting (Beta) Terms
+
+Advertising Policies and Billing
+
+Brand Guidelines
+
+Press & Broadcast Guidelines
+
+Podmienky zarábania
+
+Zásady zarábania Reddit
+
+24. septembra 2024
+
+Transparency
+
+Guidelines for Law Enforcement
+
+Reddit's Anti-Slavery and Human Trafficking Statement
+
+Developer Data Protection Addendum
+
+Impressum
+
+Zásady zodpovednej tvorby
+
 English
 
 Bahasa Melayu
@@ -2943,6 +3183,8 @@ Español (ES)
 Español (MX)
 
 Français
+
+hrvatski (Hrvatska)
 
 Italiano
 
@@ -2960,6 +3202,8 @@ Português (PT)
 
 Română
 
+Slovenčina (Slovensko)
+
 Suomi
 
 Svenska
@@ -2971,6 +3215,8 @@ Tiếng Việt
 Türkçe
 
 Ελληνικά
+
+Български (България)
 
 Русский
 
@@ -3034,6 +3280,8 @@ Español (MX)
 
 Français
 
+hrvatski (Hrvatska)
+
 Italiano
 
 Magyar
@@ -3050,6 +3298,8 @@ Português (PT)
 
 Română
 
+Slovenčina (Slovensko)
+
 Suomi
 
 Svenska
@@ -3061,6 +3311,8 @@ Tiếng Việt
 Türkçe
 
 Ελληνικά
+
+Български (България)
 
 Русский
 

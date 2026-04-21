@@ -2227,6 +2227,15 @@ Learn More (Privacy Policy URL)
 https://policies.google.com/privacy
 Web Domain
 x.com
+Name
+x_studio_context
+Description
+Cookie is used to store context and state for users using X Studio, such that server side rendering can provide the correct data to render
+Controller
+Learn More (Privacy Policy URL)
+https://x.com/privacy
+Web Domain
+studio.x.com
 
           Share this article
 
