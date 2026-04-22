@@ -112,7 +112,7 @@ Civic integrity policy
 ,
 Synthetic and manipulated media policy
 , and any other misleading information policies listed at
-help.twitter.com/misinfo
+help.x.com/misinfo
 .
 
 Content that automated systems have determined may violate the
@@ -134,7 +134,7 @@ Civic integrity policy
  and
 Synthetic and manipulated media policy
 , and any other misleading information policies listed at
-help.twitter.com/misinfo
+help.x.com/misinfo
 .
 
 Accounts that are thought to be engaged in
@@ -298,7 +298,7 @@ control the media you see in posts
 Autoplay video settings
 
 You can stop videos from autoplaying in your timelines, Moments, and the Explore tab by changing the video autoplay setting. Your settings for video autoplay can be adjusted independently on
-twitter.com
+x.com
  and your X app (for example, you can set videos to autoplay on your iOS device and not on the web).
 
 Learn more about

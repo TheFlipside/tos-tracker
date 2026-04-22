@@ -74,11 +74,11 @@ X Rules
  and, if applicable, submit a request to have the content reviewed for possible violations of X’s
 Terms of Service
 , here:
-https://help.twitter.com/forms
+https://help.x.com/forms
 .
 
 If you have already submitted a request and have received a response from X indicating that the content in question does not currently violate X’s Terms of Service, you can submit a request for content to be withheld through our legal request submission site:
-https://legalrequests.twitter.com
+https://legalrequests.x.com
 . You will then receive an automated response confirming that your request has been received by our support system. We will send another email once we’ve had a chance to evaluate your request.
 
 NOTE: As previously stated, we will promptly notify affected users upon receipt of requests to withhold content unless we are prohibited from doing so (e.g., if we receive a court order under seal). This notification will include a copy of your takedown request.

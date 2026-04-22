@@ -46,7 +46,7 @@ You can stop participating in the program at any time and X may stop operating t
 
 Terms and Conditions
 
-X, Inc. ("X") has designed and developed a "X Mobile Application Testing Program" ("X Experiments Program" which encompasses the programs previously known as the "X for Android Experiment Alpha Program or "X for Android Experiment Program") to, among other things, allow a limited number of people to download test versions of X applications for mobile devices (the “Experimental Software”), such as the “X for Android” or "X for iOS" application, and to provide feedback and comments to X through an email form regarding use of such applications. By joining the X Experiments Program, you agree to be bound by the terms and conditions set forth below (the "Agreement").
+X Corp. ("X") has designed and developed a "X Mobile Application Testing Program" ("X Experiments Program" which encompasses the programs previously known as the "X for Android Experiment Alpha Program or "X for Android Experiment Program") to, among other things, allow a limited number of people to download test versions of X applications for mobile devices (the “Experimental Software”), such as the “X for Android” or "X for iOS" application, and to provide feedback and comments to X through an email form regarding use of such applications. By joining the X Experiments Program, you agree to be bound by the terms and conditions set forth below (the "Agreement").
 
 1.  Third-Party Services
 

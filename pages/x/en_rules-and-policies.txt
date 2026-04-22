@@ -75,6 +75,9 @@ Authenticity
 
 Safety and cybercrime
 Last viewed
+Private information
+policy
+Last viewed
 Suicide and Self-harm
 Policy
 Last viewed
@@ -102,9 +105,6 @@ Last viewed
 Child sexual exploitation
 policy
 Last viewed
-Private information
-policy
-Last viewed
 Non-consensual nudity
 policy
 Last viewed
@@ -126,6 +126,12 @@ Automated copyright claims for live
 video
 
 Platform Use Guidelines
+Last viewed
+How cookies are used on
+X
+Last viewed
+About country withheld
+content
 Last viewed
 Automation
 rules
@@ -150,9 +156,6 @@ Bangers
 Last viewed
 X shopping
 policies
-Last viewed
-How cookies are used on
-X
 Last viewed
 Parental Controls on
 X
@@ -190,9 +193,6 @@ X
 Last viewed
 About X’s
 APIs
-Last viewed
-About country withheld
-content
 Last viewed
 Notices on X and what they
 mean
@@ -232,12 +232,12 @@ philosophy
 
 Account Settings
 Last viewed
-Safety and
-security
-
-Last viewed
 Using
 X
+
+Last viewed
+Safety and
+security
 
 Last viewed
 How to contact X about a deceased family member's
@@ -259,16 +259,22 @@ Last viewed
 About the X Experiments
 Program
 Last viewed
-About user research at
-X
+What is the X iOS Beta
+program?
 Last viewed
 X Voices, X Insiders, and Creator Insiders Terms of
 Use
 Last viewed
-What is the X iOS Beta
-program?
+About user research at
+X
 
 Country-specific resources
+Last viewed
+Grievance Officer -
+India
+Last viewed
+DSA Vetted
+Researchers
 Last viewed
 X India
 Last viewed
@@ -290,9 +296,6 @@ Last viewed
 European Media Freedom
 Act
 Last viewed
-DSA Vetted
-Researchers
-Last viewed
 Japan
 Resources
 Last viewed
@@ -304,9 +307,6 @@ Resources
 Last viewed
 Digital Services
 Act
-Last viewed
-Grievance Officer -
-India
 
 Did someone say … cookies?
 

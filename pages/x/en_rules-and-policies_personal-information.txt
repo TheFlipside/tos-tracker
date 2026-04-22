@@ -151,7 +151,7 @@ The following are not in violation of this policy:
 
 the media is publicly available or is being covered by mainstream media
 
-the media and the accompanying tweet text add value to the public discourse or are shared in public interest
+the media and the accompanying Post text add value to the public discourse or are shared in public interest
 
 the media contains eyewitness accounts or on the ground reports from developing events
 
