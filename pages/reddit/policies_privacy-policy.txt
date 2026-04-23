@@ -46,6 +46,10 @@ Earn Terms
 
 English (US)
 
+العربية
+
+Български
+
 Čeština
 
 Dansk
@@ -66,6 +70,8 @@ Magyar
 
 Français (FR)
 
+Hrvatski
+
 Dutch (NL)
 
 Norsk bokmål
@@ -83,6 +89,8 @@ Português (BR)
 Português (PT)
 
 Русский
+
+Slovenčina
 
 Svenska (SE)
 

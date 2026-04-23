@@ -3168,6 +3168,86 @@ Impressum
 
 Zásady zodpovednej tvorby
 
+Arabic
+
+اتفاقية المستخدم المتبعة في Reddit
+
+31 مارس 2026
+
+28 يونيو 2025
+
+الشروط الاقتصادية المعمول بها لدى Reddit
+
+24 سبتمبر 2024
+
+شروط الاستخدام للمعاينات
+
+شروط المنشئ
+
+شروط المطوّر
+
+شروط واجهة برمجة تطبيقات البيانات
+
+شروط تضمينات Reddit
+
+Responsible Disclosure and Bug Bounty Program Terms
+
+سياسة استخدام العلامات التجارية
+
+Privacy Policy
+
+Public Content Policy
+
+Cookie Notice
+
+Reddit Rules
+
+مدونة قواعد سلوك المشرفين
+
+Information for EU users
+
+Information for UK users
+
+Information for AU users
+
+Advertising Platform Terms
+
+Reddit Business Tool Terms
+
+Reddit Advertising Data Processing Agreement
+
+Reddit Jurisdiction Specific Terms
+
+Reddit Ads Subprocessors
+
+Ads API Terms
+
+Third Party Audience Targeting (Beta) Terms
+
+Advertising Policies and Billing
+
+Brand Guidelines
+
+Press & Broadcast Guidelines
+
+شروط الربح
+
+سياسة الربح لدى Reddit
+
+24 سبتمبر 2024
+
+Transparency
+
+Guidelines for Law Enforcement
+
+Reddit's Anti-Slavery and Human Trafficking Statement
+
+Developer Data Protection Addendum
+
+Impressum
+
+Responsible Builder Policy
+
 English
 
 Bahasa Melayu
@@ -3223,6 +3303,8 @@ Türkçe
 Srpski
 
 Українська
+
+عربي
 
 हिन्दी
 
@@ -3319,6 +3401,8 @@ Türkçe
 Srpski
 
 Українська
+
+عربي
 
 हिन्दी
 
