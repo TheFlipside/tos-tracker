@@ -45,11 +45,7 @@ In addition to showing content from accounts and Topics you follow, we also make
 
 Recommending responsibly
 
-Recommendations may amplify content, so it’s important they’re surfaced responsibly. Promoting
-healthy conversations
- is one of X’s core
-principles
-; “freedom of speech is a fundamental human right — but freedom to have that speech amplified by X is not.” While our
+Recommendations may amplify content, so it’s important they’re surfaced responsibly. Promoting healthy conversations is one of X’s core principles; “freedom of speech is a fundamental human right — but freedom to have that speech amplified by X is not.” While our
 enforcement philosophy
  empowers people to understand different sides of an issue by allowing many forms of speech to exist on our platform, we also work hard to prevent the amplification of harmful content on X.
 
@@ -69,13 +65,7 @@ Prioritizing safety
 
 During important events including, but not limited to, certain crises and elections, the likelihood, immediacy, severity, and potential for harm may increase significantly. We take additional steps in these cases to prevent potentially misleading or harmful content from being inadvertently amplified. For example, during events such as
 civic processes
- and certain
-crises
-, we may proactively recommend informative messages or updates to add context to disputed or potentially misleading narratives that emerge. This includes creating X
-Moments
- and
-launching prebunks
-, which proactively feature informative messages or updates designed to counter emergent misleading narratives.
+ and certain crises, we may proactively recommend informative messages or updates to add context to disputed or potentially misleading narratives that emerge. This includes creating X Moments and launching prebunks, which proactively feature informative messages or updates designed to counter emergent misleading narratives.
 
 Content ineligible for recommendations
 
@@ -83,13 +73,9 @@ Because there is a range of
 enforcement options
  for certain potential violations, X does not always take down potentially problematic content. However, we strive to keep the following categories of content out of our recommendations:
 
-Content from
-state-affiliated media
- accounts or the accounts of governments that are known to restrict access to the open internet during armed interstate conflicts.
+Content from state-affiliated media accounts or the accounts of governments that are known to restrict access to the open internet during armed interstate conflicts.
 
-Content that includes information known to be obtained through a
-hack
- and does not come from websites (specific articles or whole domains) that comment on or distribute materials in the course of some additional purpose, such as journalist coverage or commentary.
+Content that includes information known to be obtained through a hack and does not come from websites (specific articles or whole domains) that comment on or distribute materials in the course of some additional purpose, such as journalist coverage or commentary.
 
 Content that violates any of the
 X Rules
@@ -107,14 +93,6 @@ Abusive Behavior
 Hateful Conduct policies
 .
 
-​​Harmful misleading information, including violations of the
-Civic integrity policy
-,
-Synthetic and manipulated media policy
-, and any other misleading information policies listed at
-help.x.com/misinfo
-.
-
 Content that automated systems have determined may violate the
 X Rules
 , but that has not yet been reviewed by a human and/or may have been identified in error.
@@ -129,14 +107,6 @@ Accounts that recently violated the
 X Rules
 .
 
-Accounts sharing harmful misleading information, including violations of the
-Civic integrity policy
- and
-Synthetic and manipulated media policy
-, and any other misleading information policies listed at
-help.x.com/misinfo
-.
-
 Accounts that are thought to be engaged in
 spammy
  behavior.
@@ -145,11 +115,7 @@ Accounts that contain
 graphic violence or hateful imagery
  in X profile elements.
 
-Accounts labeled as
-state-affiliated media
- or which belong to
-states
- that limit access to free information and are engaged in armed interstate conflict.
+Accounts labeled as state-affiliated media or which belong to states that limit access to free information and are engaged in armed interstate conflict.
 
 Where can I find recommendations?
 
