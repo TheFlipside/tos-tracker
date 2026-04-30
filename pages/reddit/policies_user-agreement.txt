@@ -230,7 +230,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Richtlinie für verantwortungsvollen Aufbau
 
 Español (ES)
 
@@ -340,7 +340,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Política de creadores responsables
 
 Español (MX)
 
@@ -450,7 +450,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Política de creadores responsables
 
 Français
 
@@ -560,7 +560,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Politique des créateurs responsables
 
 Italiano
 
@@ -670,7 +670,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Politica per creatori responsabili
 
 Nederlands
 
@@ -778,7 +778,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Beleid inzake verantwoord ontwikkelen
 
 Português (BR)
 
@@ -888,7 +888,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Política de Criador Responsável
 
 Português (PT)
 
@@ -998,7 +998,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Política de Construtor Responsável
 
 Svenska
 
@@ -1102,7 +1102,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Policy för ansvarsfulla byggare
 
 Bengali
 
@@ -1188,7 +1188,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+দায়িত্বশীল নির্মাতা নীতি
 
 Hindi
 
@@ -1274,7 +1274,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+ज़िम्मेदार बिल्डर पॉलिसी
 
 Tagalog
 
@@ -1360,7 +1360,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Patakaran ng Responsible Builder
 
 Thai
 
@@ -1446,7 +1446,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+นโยบายผู้สร้างที่มีความรับผิดชอบ
 
 Polski
 
@@ -1530,7 +1530,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Zasady odpowiedzialnego twórcy rozwiązań
 
 Romanian
 
@@ -1616,7 +1616,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Politica pentru dezvoltatori responsabili
 
 Vietnamese
 
@@ -1702,7 +1702,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Chính sách xây dựng có trách nhiệm
 
 Malay
 
@@ -1786,7 +1786,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Dasar Pembina Bertanggungjawab
 
 Hungarian
 
@@ -1872,7 +1872,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Felelős fejlesztői szabályzat
 
 Greek
 
@@ -1958,7 +1958,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Πολιτική υπεύθυνων υποστηρικτών
 
 Finnish
 
@@ -2044,7 +2044,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Vastuullisen kehittäjän käytäntö
 
 Norwegian
 
@@ -2130,7 +2130,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Retningslinjer for ansvarlige byggere
 
 Russian
 
@@ -2216,7 +2216,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Политика ответственного создателя
 
 Turkish
 
@@ -2302,7 +2302,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Sorumlu Geliştirici Politikası
 
 Chinese (Simplified)
 
@@ -2388,7 +2388,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+负责任建设者政策
 
 Chinese (Traditional)
 
@@ -2474,7 +2474,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+負責任開發人員政策
 
 Czech
 
@@ -2550,7 +2550,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Zásady odpovědné tvorby
 
 Danish
 
@@ -2626,7 +2626,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Politik for ansvarlig app-bygger
 
 Japanese
 
@@ -2702,6 +2702,8 @@ Developer Data Protection Addendum
 
 Impressum
 
+責任あるビルダーポリシー
+
 Korean
 
 Reddit 이용 약관
@@ -2776,7 +2778,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+책임 있는 빌더 정책
 
 Serbian
 
@@ -2852,7 +2854,7 @@ Developer Data Protection Addendum
 
 Impressum
 
-Responsible Builder Policy
+Smernice za odgovorne neimare
 
 Ukrainian
 
@@ -2878,7 +2880,7 @@ Responsible Disclosure and Bug Bounty Program Terms
 
 Політика використання торговельних марок
 
-Privacy Policy
+Політика конфіденційності Reddit
 
 Public Content Policy
 
@@ -2928,6 +2930,8 @@ Developer Data Protection Addendum
 
 Impressum
 
+Політика відповідального розробника
+
 Bulgarian
 
 Споразумение с потребителя на Reddit
@@ -2954,13 +2958,13 @@ Responsible Disclosure and Bug Bounty Program Terms
 
 Политика за използване на търговска марка
 
-Privacy Policy
+Политика за поверителност на Reddit
 
 Public Content Policy
 
 Cookie Notice
 
-Reddit Rules
+Правила на Reddit
 
 Кодекс за поведение на модератора
 
@@ -3034,13 +3038,13 @@ Responsible Disclosure and Bug Bounty Program Terms
 
 Pravila upotrebe zaštitnog znaka
 
-Privacy Policy
+Pravila zaštite privatnosti na Redditu
 
 Public Content Policy
 
 Cookie Notice
 
-Reddit Rules
+Pravila Reddita
 
 Kodeks ponašanja moderatora
 
@@ -3114,13 +3118,13 @@ Responsible Disclosure and Bug Bounty Program Terms
 
 Zásady používania ochranných známok
 
-Privacy Policy
+Zásady ochrany osobných údajov Redditu
 
 Public Content Policy
 
 Cookie Notice
 
-Reddit Rules
+Pravidlá Redditu
 
 Kódex správania moderátora
 
@@ -3194,13 +3198,13 @@ Responsible Disclosure and Bug Bounty Program Terms
 
 سياسة استخدام العلامات التجارية
 
-Privacy Policy
+سياسة خصوصية Reddit
 
 Public Content Policy
 
 Cookie Notice
 
-Reddit Rules
+قواعد Reddit
 
 مدونة قواعد سلوك المشرفين
 
