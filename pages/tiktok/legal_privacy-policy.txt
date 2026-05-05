@@ -1,46 +1,24 @@
 Privacy Policy | TikTok
-Introduction
-What Information We Collect
-How We Use Your Information
-How We Share Your Information
-Our Legal Bases and How We Process Your Information
-Your Rights and Choices
-Data Security and Retention
-Our Global Operations and Data Transfers
-Younger Users
-Privacy Policy Updates
-Contact Us
 EEA/UK/CH
 Privacy Policy
 Last updated:
 30 November 2025
 Introduction
-What Information We Collect
-How We Use Your Information
-How We Share Your Information
-Our Legal Bases and How We Process Your Information
-Your Rights and Choices
-Data Security and Retention
-Our Global Operations and Data Transfers
-Younger Users
-Privacy Policy Updates
-Contact Us
-Introduction
 This privacy policy ("
 Privacy Policy
-") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “
+") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the â
 Platform
-”), that link to or reference this Privacy Policy.
+â), that link to or reference this Privacy Policy.
 Data Controller
-: If you live in the European Economic Area (“
+: If you live in the European Economic Area (â
 EEA
-”), the United Kingdom (“
+â), the United Kingdom (â
 UK
-”), or Switzerland, TikTok Technology Limited, an Irish company (“
+â), or Switzerland, TikTok Technology Limited, an Irish company (â
 TikTok Ireland
-”), and TikTok Information Technologies UK Limited (“
+â), and TikTok Information Technologies UK Limited (â
 TikTok UK
-”), a UK company, ("
+â), a UK company, ("
 TikTok
 ," "
 our
@@ -71,7 +49,7 @@ User Content
 Messages.
  We collect the content of the messages you send and receive on the Platform and the associated metadata (such as the time the message was sent, received or read, as well as the participants in the communication). We also collect the messages you send or receive through our chat functionality when using our shopping feature to communicate with sellers or using virtual assistants.
 Your Contacts and Other Connections.
- If you choose to sync your contacts, we will collect information from your device’s phone book such as names, phone numbers, and email addresses, and match that information to users of the Platform. If you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts. We also collect information about the accounts you follow and that follow you.
+ If you choose to sync your contacts, we will collect information from your deviceâs phone book such as names, phone numbers, and email addresses, and match that information to users of the Platform. If you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts. We also collect information about the accounts you follow and that follow you.
 Purchase Information.
  When you make a purchase, a payment, or other transaction on or through the Platform, including when you buy TikTok Coins or purchase products through our shopping features, we collect information about the transaction, such as payment card information, billing, delivery, and contact information, and products you purchased.
 Surveys, Research, and Promotions.
@@ -81,13 +59,13 @@ Information You Provide
 Information When You Contact Us.
  When you contact us, we collect the information you send us, such as proof of identity or age, feedback or inquiries about your use of the Platform or information about possible violations of our
 Terms of Service
- (our “
+ (our â
 Terms
-”),
+â),
 Community Guidelines
- (our “
+ (our â
 Guidelines
-”), or other policies.
+â), or other policies.
 Information From Forms and Features You Use
 . We collect the
 Information You Provide
@@ -113,7 +91,7 @@ User Content
 Inferred Information.
  We infer your attributes (such as age-range and gender) and interests based on the information we have about you. We use inferences, for example, to keep the Platform safe (such as for content moderation), to show you relevant information, and, where permitted, to serve you personalised ads based on your interests.
 Cookies.
- We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you don’t see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our
+ We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you donât see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our
 Cookies Policy
 . We will obtain your consent to our use of cookies where required by law.
 Information From Other Sources
@@ -128,7 +106,7 @@ We receive information about you from sellers as well as payment and transaction
 Third Party Platforms and Partners.
  Third party platforms provide us with information (such as your email address, authentication ID, and public profile) when you choose to sign up for or log in to the Platform using sign-in features provided by those third parties. We may also receive contact information that you hold or is held about you when contact information is synced with our Platform by you or another user. When you interact with any third party service (such as third party apps, websites or products) that integrate
 TikTok Developer Tools
-, we will receive the information necessary to provide you with features like cross-service authentication or cross-posting. For example, this will happen if you log in to another platform with your TikTok account or if you use TikTok’s “share” button on a third party platform to share content from there to the Platform. We may also receive information from third party providers which we use for safety purposes, including to protect users on the Platform and for content moderation.
+, we will receive the information necessary to provide you with features like cross-service authentication or cross-posting. For example, this will happen if you log in to another platform with your TikTok account or if you use TikTokâs âshareâ button on a third party platform to share content from there to the Platform. We may also receive information from third party providers which we use for safety purposes, including to protect users on the Platform and for content moderation.
 Additional Sources.
 We may collect or receive information about you from organisations, businesses, people, and others, including, for example, publicly available sources, government authorities, professional organisations, and charity groups. We also collect information about you where you are included or mentioned in
 User Content
@@ -136,16 +114,16 @@ User Content
 Messages
 , in a complaint, appeal, request or feedback submitted by a user or third party, or if your contact information is provided to us by a user.
 How We Use Your Information
-We use your information to operate, provide, develop, and improve the Platform, including for the following purposes. You can find more detail in “
+We use your information to operate, provide, develop, and improve the Platform, including for the following purposes. You can find more detail in â
 Our Legal Bases and How We Process Your Information
-”.
+â.
 Provide and administer the Platform, such as enabling you to create, share, and consume content, to interact with other users and their content, and provide user support.
 Provide our shopping features (such as personalised shopping benefits) and facilitate the purchase and delivery of products, goods and services, including sharing your information with sellers, payment and transaction fulfilment providers, and other service providers in order to process your orders.
-Personalise and customise certain features and content such as providing your “For You” feed and content creation tools.
+Personalise and customise certain features and content such as providing your âFor Youâ feed and content creation tools.
 Enforce our Terms, Guidelines, and other policies that apply to you. We review
 User Content
  and other information through a mix of technology (including through automated means) and human moderation to protect the safety and well-being of our community.
-Provide certain interactive features, such as enabling your content to be used in other users’ videos,
+Provide certain interactive features, such as enabling your content to be used in other usersâ videos,
 Suggest your account to other users and suggest accounts of others to you to help connect you with other users.
 Provide and improve our advertising services, including to serve ads (including personalised ads, where permitted). For information about how we process personal information through our advertising network, see our
 TikTok Ad Network Privacy Policy
@@ -198,7 +176,7 @@ Information You Provide
 Automatically Collected Information
 , and
 Information From Other Sources
-. We don’t share information with advertisers that can be used to contact you (such as your name or email address) unless you give us your permission.
+. We donât share information with advertisers that can be used to contact you (such as your name or email address) unless you give us your permission.
 Measurement and Data Partners.
  We share
 Information You Provide
@@ -222,9 +200,9 @@ Automatically Collected Information
 Learn more
  about the joint processing for TikTok Analytics.
 Our Corporate Group
-As a global company, the Platform is supported by certain entities within our corporate group (“
+As a global company, the Platform is supported by certain entities within our corporate group (â
 Corporate Group
-”). These entities process
+â). These entities process
 Information You Provide
 ,
 Automatically Collected Information
@@ -264,17 +242,17 @@ Legal Obligations and Rights.
 What Information We Collect
 " with law enforcement agencies, public authorities, researchers, copyright holders, or other third parties if we have good faith belief that it is necessary to:
 comply with applicable law, legal process or government requests, as consistent with internationally recognised standards,
-protect the rights, property, and safety of our users, copyright holders, and others, including to protect life or prevent imminent bodily harm. For example, we may provide information (such as your IP address) to law enforcement in the event of an emergency where someone’s life or safety is at risk,
+protect the rights, property, and safety of our users, copyright holders, and others, including to protect life or prevent imminent bodily harm. For example, we may provide information (such as your IP address) to law enforcement in the event of an emergency where someoneâs life or safety is at risk,
 investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards, or
 detect, investigate, prevent, or address misleading activity, copyright infringement, or other illegal activity.
 To learn more about how we handle requests from law enforcement agencies and public authorities, see our
 Law Enforcement Guidelines
 .
 Our Legal Bases and How We Process Your Information
-We may only use your information when we have a “legal basis” to do so. We use different legal bases depending on why we use your information (in other words, the “purpose” of our processing). These legal bases are contractual necessity, legitimate interests (ours, yours or those of another party), consent, compliance with a legal obligation, performing a task in the public interest, and protection of vital interests.
-Here we explain the legal bases we rely on when we process your information. This section also describes why we use your information, how this information is processed, the categories of information involved, and the associated rights (which always includes the right to access your information). For more information on how to exercise any of your rights, please check out the “
+We may only use your information when we have a âlegal basisâ to do so. We use different legal bases depending on why we use your information (in other words, the âpurposeâ of our processing). These legal bases are contractual necessity, legitimate interests (ours, yours or those of another party), consent, compliance with a legal obligation, performing a task in the public interest, and protection of vital interests.
+Here we explain the legal bases we rely on when we process your information. This section also describes why we use your information, how this information is processed, the categories of information involved, and the associated rights (which always includes the right to access your information). For more information on how to exercise any of your rights, please check out the â
 Your Rights and Choices
-” section in the Privacy Policy.
+â section in the Privacy Policy.
 Contractual Necessity
 If you have the legal capacity to enter into an enforceable contract, we use
 Information You Provide
@@ -286,7 +264,7 @@ Information From Other Sources
 Provide you with the Platform.
  We use your information to allow you to access and use the Platform, including allowing you to create, share and consume content, interact with others, utilise social features, and provide you with products and services you purchase.
 Personalise features and content.
- We also personalise certain features and content such as providing your “For You” feed, which shows you videos that we think you would be interested in (see
+ We also personalise certain features and content such as providing your âFor Youâ feed, which shows you videos that we think you would be interested in (see
 here
  for more information) and by suggesting accounts to you.
 Product orders and deliveries.
@@ -397,7 +375,7 @@ We share your information with independent researchers to facilitate research th
 here
  to learn more
 Legitimate Interest relied upon
-: To facilitate independent research that aims to develop society’s collective knowledge, including in the areas of misinformation and disinformation, violence, cybercrime, and social trends.
+: To facilitate independent research that aims to develop societyâs collective knowledge, including in the areas of misinformation and disinformation, violence, cybercrime, and social trends.
 Information used
 :
 Information You Provide
@@ -448,7 +426,7 @@ If you are under the age of majority (under 18 in most relevant countries), with
 Provide you with the Platform
 We use your information to allow you to access and use the Platform, including allowing you to create, share, and consume content, interact with others, utilise features, and provide you with products and services you purchase.
 Legitimate Interests relied upon
-: To provide, support, and maintain products and features that enable users who can’t enter into an enforceable contract with us to communicate, discover, and engage with content and express themselves. We also rely on the legitimate interest of our users in being able to access the Platform in an easy and intuitive manner..
+: To provide, support, and maintain products and features that enable users who canât enter into an enforceable contract with us to communicate, discover, and engage with content and express themselves. We also rely on the legitimate interest of our users in being able to access the Platform in an easy and intuitive manner..
 Information used
 :
 Information You Provide
@@ -464,11 +442,11 @@ certain
 
 features and content
 
-on the Platform, such as providing your “For You” feed, which shows you videos that we think you would be interested in (see
+on the Platform, such as providing your âFor Youâ feed, which shows you videos that we think you would be interested in (see
  here
  for more information) and by suggesting accounts to you.
 Legitimate Interests relied upon
-: To provide, support, and maintain products and features that enable users who can’t enter into an enforceable contract with us to communicate, discover, create and engage with content and users relevant to their interests. We also rely on the legitimate interest of our users who can’t enter into an enforceable contract with us in being able to access the Platform and content relevant to their interests.
+: To provide, support, and maintain products and features that enable users who canât enter into an enforceable contract with us to communicate, discover, create and engage with content and users relevant to their interests. We also rely on the legitimate interest of our users who canât enter into an enforceable contract with us in being able to access the Platform and content relevant to their interests.
 Information used
 :
 Information You Provide
@@ -480,7 +458,7 @@ Information From Other Sources
 Enforce our Terms, Guidelines, or policies.
 We use your information to enforce our Terms, Guidelines, and policies (including through automated means and human moderation). This may include age restricting or removing content, maintaining our For You feed eligibility standards, or suspending or banning your account if we determine that you are violating our Terms or Guidelines.
 Legitimate Interests relied upon
-: To keep the Platform free of harmful or inappropriate content, to investigate suspicious activity or breaches of our Terms, Guidelines, or policies and to protect the safety of users who can’t enter into an enforceable contract with us, including to prevent exploitation or other harm to which such individuals may be particularly vulnerable. It is also in the legitimate interests of our users who can’t enter into an enforceable contract with us, and the public at large, to prevent bad experiences and promote safety, integrity and security.
+: To keep the Platform free of harmful or inappropriate content, to investigate suspicious activity or breaches of our Terms, Guidelines, or policies and to protect the safety of users who canât enter into an enforceable contract with us, including to prevent exploitation or other harm to which such individuals may be particularly vulnerable. It is also in the legitimate interests of our users who canât enter into an enforceable contract with us, and the public at large, to prevent bad experiences and promote safety, integrity and security.
 Information used
 :
 Information You Provide
@@ -492,7 +470,7 @@ Information From Other Sources
 Administer the Platform.
 We use the information we have to administer the Platform, such as to communicate with users and respond to and process queries, claims or disputes (including when you tell us about a problem, or ask for a copy of your information).
 Legitimate Interests relied upon
-: To share meaningful updates with our users who can’t enter into an enforceable contract with us about service-related matters, and process their queries, claims and disputes.
+: To share meaningful updates with our users who canât enter into an enforceable contract with us about service-related matters, and process their queries, claims and disputes.
 Information used
 :
 Information You Provide
@@ -504,7 +482,7 @@ Information From Other Sources
 Your Rights
 : Whenever we use your information on the basis that it is necessary for legitimate interests, you can object to, and request restriction of, such usage.
 Your Consent
-We ask for your consent to access or use your information for specific purposes. If we do, you’ll always be able to revoke your consent through your device permissions or in-app settings.
+We ask for your consent to access or use your information for specific purposes. If we do, youâll always be able to revoke your consent through your device permissions or in-app settings.
 Personalised advertising
 .
 With your consent, we serve you personalised ads on the Platform based on your activity on and off the Platform.
@@ -527,7 +505,7 @@ Retain your payment card information.
 With your consent, we store your payment card information to facilitate future transactions through our Platform.
 Information used:
 Information You Provide
-Sellers’ marketing communications.
+Sellersâ marketing communications.
 With your consent, we facilitate the sending of marketing communications to you by sellers on our Platform and/or share your email address with sellers for the purpose of sending marketing communications to you.
 Information used:
 Information You Provide
@@ -582,9 +560,9 @@ Access your information.
 access your information that is available to other users when you navigate to the "
 me
 " tab on your account.
-request a copy of your information by using the “
+request a copy of your information by using the â
 Download your data
-” tool. Click
+â tool. Click
 here
  for detailed instructions.
 Delete your information.
@@ -605,25 +583,25 @@ Rectify your information.
 Account Information
  and video content).
 Port your information.
- You have the right to data portability in circumstances where we rely on contractual necessity or consent as our legal basis. This means that you have the right to receive your information in a structured, commonly used, and machine-readable format and to share it with a third party. You can exercise your right of portability by choosing to “
+ You have the right to data portability in circumstances where we rely on contractual necessity or consent as our legal basis. This means that you have the right to receive your information in a structured, commonly used, and machine-readable format and to share it with a third party. You can exercise your right of portability by choosing to â
 Download your data
-” in your settings. Click
+â in your settings. Click
 here
- for detailed instructions. You can also port your TikTok data through TikTok’s Data Portability API. Click
+ for detailed instructions. You can also port your TikTok data through TikTokâs Data Portability API. Click
 here
  for further information.
 Object to the processing of your information
 . You also have the
 right to object
- to the processing of your information in certain circumstances. This right applies when we are performing a task in the public interest, pursuing our legitimate interests or those of a third party, or when your data is processed for the purpose of facilitating scientific or historical research in certain circumstances. In submitting an objection request, please provide all relevant information, including the processing activity you are objecting to, why you want to object and how the processing activity affects you, and any additional information that you think will help us review your request. We will stop the particular processing if we don't have compelling legitimate grounds to continue that processing or don’t need it for legal claims.
+ to the processing of your information in certain circumstances. This right applies when we are performing a task in the public interest, pursuing our legitimate interests or those of a third party, or when your data is processed for the purpose of facilitating scientific or historical research in certain circumstances. In submitting an objection request, please provide all relevant information, including the processing activity you are objecting to, why you want to object and how the processing activity affects you, and any additional information that you think will help us review your request. We will stop the particular processing if we don't have compelling legitimate grounds to continue that processing or donât need it for legal claims.
 Restrict the processing of your information
 . You have the right to request the restriction of the processing of your information where (a) you are challenging the accuracy of the information, (b) the information has been unlawfully processed, but you are opposing the deletion of that information, (c) where you need the information to be retained for the pursuit or defence of a legal claim, or (d) you have objected to processing and you are awaiting the outcome of that objection request.
 To exercise any of the above rights, please contact us through our
 webform
 . Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details or provide additional information so that we can understand your request.
-We encourage you to “
+We encourage you to â
 Contact us
-” if you are not satisfied with how we have responded to any of your rights requests. You also have the right to lodge a complaint with the Irish Data Protection Commission (TikTok Ireland’s lead supervisory authority) or with your local supervisory authority.
+â if you are not satisfied with how we have responded to any of your rights requests. You also have the right to lodge a complaint with the Irish Data Protection Commission (TikTok Irelandâs lead supervisory authority) or with your local supervisory authority.
 In addition to these rights, you can control privacy settings for your account. Click
 here
  for more information.
@@ -649,45 +627,45 @@ User Content
  from public view immediately but keep your information as is necessary to process the violation.
 Our Global Operations and Data Transfers
 To support our global operations:
-We store the information described in the “
+We store the information described in the â
 What Information We Collect
-” section in servers located in the United States, Malaysia and Singapore.
+â section in servers located in the United States, Malaysia and Singapore.
 Certain entities in our Corporate Group, located outside your country of residence (see
 here
-), are given limited remote access to this information so they can provide certain functions, as described in the Our Corporate Group section in “
+), are given limited remote access to this information so they can provide certain functions, as described in the Our Corporate Group section in â
 How We Share Your Information
-”. This access is limited, secure and only granted where necessary under strict security controls and authorisation approval protocols.
-We share “
+â. This access is limited, secure and only granted where necessary under strict security controls and authorisation approval protocols.
+We share â
 What Information We Collect
-” with service providers, partners and other third party entities, as described in “
+â with service providers, partners and other third party entities, as described in â
 How We Share Your Information
-”. These third parties can be located outside your country of residence.
+â. These third parties can be located outside your country of residence.
 These entities commit to processing information in compliance with applicable privacy laws and to implementing appropriate security measures to protect your information.
 When we transfer your information outside of the EEA, the UK, or Switzerland, we ensure it benefits from an adequate level of data protection by relying on:
 Adequacy decisions. These are decisions from the
 European Commission
- under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “
+ under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in â
 What Information We Collect
-” to some countries with adequacy decisions, such as the countries listed
+â to some countries with adequacy decisions, such as the countries listed
 here
 ; or
 Article 49. In the absence of an adequacy decision, We rely on Article 49 (1)(b) and (c) GDPR to transfer
 Purchase Information
- as described in “
+ as described in â
 What Information We Collect
-” to sellers and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
+â to sellers and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
 Standard contractual clauses. The European Commission has approved
 contractual clauses
- under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “
+ under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in â
 What Information We Collect
-” to certain entities in our Corporate Group (as described
+â to certain entities in our Corporate Group (as described
 here
 )
 
 and third parties in countries without an adequacy decision.
-For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the “
+For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the â
 Contact us
-” section below.
+â section below.
 Younger Users
 You must be at least 13 years old to use the Platform. If you believe that there is a user who is below this minimum age, please contact us using this
 webform
@@ -697,9 +675,9 @@ Help Centre
 .
 If you are the guardian of a teen, our
 Guardian's Guide
- contains information and resources to help you understand the Platform and the tools and controls you or your teen can use, including “Family Pairing” features.
+ contains information and resources to help you understand the Platform and the tools and controls you or your teen can use, including âFamily Pairingâ features.
 Privacy Policy Updates
-We may amend or update this Privacy Policy from time to time. We will notify you of any material changes to this policy by a notice provided through the Platform or by other means. The “Last Updated” date at the top of this policy reflects the effective date of such policy changes.
+We may amend or update this Privacy Policy from time to time. We will notify you of any material changes to this policy by a notice provided through the Platform or by other means. The âLast Updatedâ date at the top of this policy reflects the effective date of such policy changes.
 Contact Us
 You can contact us about this Privacy Policy through our
 webform
@@ -710,7 +688,6 @@ You can also contact us at the following postal address.
 For users in the European Economic Area and Switzerland
 : TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland.
 For users in Switzerland, our appointed representative is:
-TikTok Switzerland GmbH, Talacker 41, 8001, Zürich, Switzerland.
+TikTok Switzerland GmbH, Talacker 41, 8001, ZÃ¼rich, Switzerland.
 For users in the United Kingdom
 : TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
-© 2026 TikTok
