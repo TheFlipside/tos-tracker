@@ -2,4 +2,4 @@
 .claude/** linguist-vendored
 
 # Pulled in
-pages/**
+pages/** linguist-vendored
