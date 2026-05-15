@@ -127,6 +127,9 @@ video
 
 Platform Use Guidelines
 Last viewed
+About X
+limits
+Last viewed
 How cookies are used on
 X
 Last viewed
@@ -196,9 +199,6 @@ APIs
 Last viewed
 Notices on X and what they
 mean
-Last viewed
-About X
-limits
 Last viewed
 About search rules and
 restrictions

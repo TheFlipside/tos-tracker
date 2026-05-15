@@ -41,8 +41,8 @@ The current technical limits for accounts are:
 
 Direct Messages (daily)
 : The limit is 500 messages sent per day.
-posts
-: 2,400 per day. The daily update limit is further broken down into smaller limits for semi-hourly intervals. Reposts are counted as posts.
+Posts
+: 50 original posts and 200 replies per day for unverified accounts. The daily update limit is further broken down into smaller limits for semi-hourly intervals.
 Changes to account email
 : 4 per hour.
 Following (daily)
