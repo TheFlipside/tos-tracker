@@ -127,6 +127,9 @@ video
 
 Platform Use Guidelines
 Last viewed
+Additional information about data
+processing
+Last viewed
 About X
 limits
 Last viewed
@@ -171,9 +174,6 @@ Policy
 Last viewed
 About public-interest exceptions on
 X
-Last viewed
-Additional information about data
-processing
 Last viewed
 About rules and best practices with account
 behaviors
