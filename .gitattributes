@@ -1,0 +1,5 @@
+# Claude
+.claude/** linguist-vendored
+
+# Pulled in
+pages/** linguist-vendored
