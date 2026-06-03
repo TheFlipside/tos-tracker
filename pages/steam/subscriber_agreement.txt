@@ -95,61 +95,64 @@ sign in
 
 language
 
-简体中文 (Simplified Chinese)
+											简体中文 (Simplified Chinese)
 
-繁體中文 (Traditional Chinese)
+											繁體中文 (Traditional Chinese)
 
-日本語 (Japanese)
+											日本語 (Japanese)
 
-한국어 (Korean)
+											한국어 (Korean)
 
-ไทย (Thai)
+											ไทย (Thai)
 
-Български (Bulgarian)
+											Bahasa Indonesia (Indonesian)
 
-Čeština (Czech)
+											Bahasa Melayu (Malay)
+BETA
 
-Dansk (Danish)
+											Български (Bulgarian)
 
-Deutsch (German)
+											Čeština (Czech)
 
-Español - España (Spanish - Spain)
+											Dansk (Danish)
 
-Español - Latinoamérica (Spanish - Latin America)
+											Deutsch (German)
 
-Ελληνικά (Greek)
+											Español - España (Spanish - Spain)
 
-Français (French)
+											Español - Latinoamérica (Spanish - Latin America)
 
-Italiano (Italian)
+											Ελληνικά (Greek)
 
-Bahasa Indonesia (Indonesian)
+											Français (French)
 
-Magyar (Hungarian)
+											Italiano (Italian)
 
-Nederlands (Dutch)
+											Magyar (Hungarian)
 
-Norsk (Norwegian)
+											Nederlands (Dutch)
 
-Polski (Polish)
+											Norsk (Norwegian)
 
-Português (Portuguese - Portugal)
+											Polski (Polish)
 
-Português - Brasil (Portuguese - Brazil)
+											Português (Portuguese - Portugal)
 
-Română (Romanian)
+											Português - Brasil (Portuguese - Brazil)
 
-Русский (Russian)
+											Română (Romanian)
 
-Suomi (Finnish)
+											Русский (Russian)
 
-Svenska (Swedish)
+											Suomi (Finnish)
 
-Türkçe (Turkish)
+											Svenska (Swedish)
 
-Tiếng Việt (Vietnamese)
+											Türkçe (Turkish)
 
-Українська (Ukrainian)
+											Tiếng Việt (Vietnamese)
+
+											Українська (Ukrainian)
 
 Report a translation problem
 
