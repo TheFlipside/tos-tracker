@@ -263,9 +263,6 @@ California Device Protection Request
                 Quick solutions
 
                                                 Your Orders
-                                                Track or cancel orders
-
-                                                Your Orders
 
                                                 Track or cancel orders
 
@@ -310,9 +307,15 @@ Get to Know Us
 
 Careers
 
-Blog
+Amazon Newsletter
 
 About Amazon
+
+Accessibility
+
+Sustainability
+
+Press Center
 
 Investor Relations
 
@@ -322,36 +325,50 @@ Amazon Science
 
 Make Money with Us
 
-Sell products on Amazon
-
-Sell on Amazon Business
+Sell on Amazon
 
 Sell apps on Amazon
 
+Supply to Amazon
+
+Protect & Build Your Brand
+
 Become an Affiliate
+
+Become a Delivery Driver
+
+Start a Package Delivery Business
 
 Advertise Your Products
 
 Self-Publish with Us
 
-Host an Amazon Hub
+Become an Amazon Hub Partner
 
 ›
-See More Make Money with Us
+See More Ways to Make Money
 
 Amazon Payment Products
+
+Amazon Visa
+
+Amazon Store Card
+
+Amazon Secured Card
 
 Amazon Business Card
 
 Shop with Points
 
+Credit Card Marketplace
+
 Reload Your Balance
+
+Gift Cards
 
 Amazon Currency Converter
 
 Let Us Help You
-
-Amazon and COVID-19
 
 Your Account
 
@@ -359,16 +376,19 @@ Your Orders
 
 Shipping Rates & Policies
 
+Amazon Prime
+
 Returns & Replacements
 
 Manage Your Content and Devices
 
+Recalls and Product Safety Alerts
+
+Registry & Gift List
+
 Help
 
 English
-
-€
-EUR - Euro
 
 United States
 
@@ -404,9 +424,17 @@ Amazon Business
 Everything For
 Your Business
 
+Amazon Fresh
+Groceries & More
+Right To Your Door
+
 AmazonGlobal
 Ship Orders
 Internationally
+
+Home Services
+Experienced Pros
+Happiness Guarantee
 
 Amazon Web Services
 Scalable Cloud
@@ -436,6 +464,10 @@ Kindle Direct Publishing
 Indie Digital & Print Publishing
 Made Easy
 
+Amazon Photos
+Unlimited Photo Storage
+Free With Prime
+
 Prime Video Direct
 Video Distribution
 Made Easy
@@ -443,6 +475,14 @@ Made Easy
 Shopbop
 Designer
 Fashion Brands
+
+Amazon Resale
+Great Deals on
+Quality Used Products
+
+Whole Foods Market
+America’s Healthiest
+Grocery Store
 
 Woot!
 Deals and
@@ -470,6 +510,10 @@ Neighbors App
 
 PillPack
 Pharmacy Simplified
+
+Amazon Renewed
+Refurbished tech
+you can trust
 
 Conditions of Use
 
