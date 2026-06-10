@@ -402,12 +402,12 @@ First Party Funktionscookies
 
 First Party Funktionscookies
 
-Diese Cookies ermöglichen es uns, verbesserte Funktionalität und Personalisierung anzubieten. Wenn du diese Cookies nicht zulässt, kann es sein, dass einige oder alle dieser Dienste nicht richtig funktionieren.
+Diese Cookies ermöglichen es uns, verbesserte Funktionen und Personalisierung bereitzustellen. Ohne diese Cookies funktionieren einige oder alle Dienste möglicherweise nicht richtig.
 First Party Performance-Cookies
 
 First Party Performance-Cookies
 
-iese Cookies ermöglichen es uns, Besuche und Herkunftsorte des Datenverkehrs zu zählen, damit wir die Leistung unserer Dienste messen und verbessern können. Die Cookies erlauben es uns, zu erfahren, welche Seiten am meisten und welche am wenigsten beliebt sind und wie sich die Besucher auf der Plattform bewegen. Wenn du diese Cookies nicht zulässt, sind wir nicht in der Lage, die Leistung unserer Dienste zu überprüfen.
+Mit diesen Cookies können wir Besuche und Traffic-Quellen zählen, damit wir die Leistung unserer Dienste erfassen und verbessern können. Mithilfe dieser Cookies erhalten wir Aufschluss darüber, welche Seiten am beliebtesten und welche am unbeliebtesten sind und wie sich Nutzer*innen auf der Plattform bewegen. Ohne diese Cookies können wir die Leistung unserer Dienste nicht beobachten.
 Targeting-Cookies von Erstanbietern
 
 Targeting-Cookies von Erstanbietern
@@ -546,11 +546,11 @@ Targeting Cookies
 Targeting Cookies
 
 These cookies may be used to deliver targeted advertisements and to build a profile of your interests. If you do not allow these cookies you will still experience advertising but it will be less tailored to you.
-Social-Media-Cookies
+Auswahl und Bereitstellung von Inhalten und Reporting
 
-Social-Media-Cookies
+Auswahl und Bereitstellung von Inhalten und Reporting
 
-Diese Cookies werden von einer Reihe von Social Media-Diensten gesetzt, die wir auf der Website verwenden, damit Sie unsere Inhalte mit Ihren Freunden und Netzwerken teilen können. Diese Cookies sind in der Lage, Ihren Browser über andere Websites hinweg zu verfolgen und ein Profil Ihrer Interessen zu erstellen. Dies kann sich auf Inhalte und Nachrichten auswirken, die Sie auf anderen Websites sehen. Wenn Sie diese Cookies nicht zulassen, können Sie diese Freigabetools möglicherweise nicht verwenden oder sehen.
+Diese Cookies werden von einer Reihe von Social-Media-Diensten gesetzt, die wir der Website hinzugefügt haben, damit du unsere Inhalte mit deinen Freund*innen und Netzwerken teilen kannst. Sie sind in der Lage, deinen Browser auf anderen Websites zu verfolgen und ein Profil deiner Interessen zu erstellen. Das kann sich auf die Inhalte und Nachrichten auswirken, die du auf anderen Websites siehst. Ohne diese Cookies kannst du diese Tools zum Teilen von Inhalten möglicherweise nicht verwenden oder sehen.
 Spezielle Verwendungszwecke
  86 Lieferanten können diesen Zweck nutzen
 Immer aktiv
