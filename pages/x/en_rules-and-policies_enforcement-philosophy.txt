@@ -4,50 +4,29 @@ Skip to main content
 
                   Help Center
 
-Using X
-Managing your account
-Safety and security
-Rules and policies
-Resources
-New user FAQ
-Glossary
-A safer X
-Accessibility
-Our rules
-My privacy
-How we address misinformation on X
-Recommender Systems
-Contact Us
-
-Help Center
-
-Platform Use Guidelines
-
-Our approach to policy development and enforcement philosophy
-Our approach to policy development and enforcement philosophy
-Help Center
-
-Platform Use Guidelines
-
           Our approach to policy development and enforcement philosophy
 
 X is reflective of real conversations happening in the world and that sometimes includes perspectives that may be offensive, controversial, and/or bigoted to others. While we welcome everyone to express themselves on our service, we will not tolerate behavior that harasses, threatens, or uses fear to silence the voices of others.
 
-We have the
+We have theÂ
 X Rules
- in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more about
+Â in place to help ensure everyone feels safe expressing their beliefs and we strive to enforce them with uniform consistency. Learn more aboutÂ
 different enforcement actions
 .
 
 Our policy development process
 
-Creating a new policy or making a policy change requires in-depth research around trends in online behavior, developing clear external language that sets expectations around what’s allowed, and creating enforcement guidance for reviewers that can be scaled across millions of posts.
+Â
+
+Creating a new policy or making a policy change requires in-depth research around trends in online behavior, developing clear external language that sets expectations around whatâs allowed, and creating enforcement guidance for reviewers that can be scaled across millions of posts.
 
 While drafting policy language, we gather feedback from a variety of internal teams as well as our Trust & Safety Council. This is vital to ensure we are considering global perspectives around the changing nature of online speech, including how our rules are applied and interpreted in different cultural and social contexts. Finally, we train our global review teams, update the X Rules, and start enforcing the new policy.
 
 Our enforcement philosophy
 
-We empower people to understand different sides of an issue and encourage dissenting opinions and viewpoints to be discussed openly. This approach allows many forms of speech to exist on our platform and, in particular, promotes counterspeech: speech that presents facts to correct misstatements or misperceptions, points out hypocrisy or contradictions, warns of offline or online consequences, denounces hateful or dangerous speech, or helps change minds and disarm.
+ Â
+
+We empower people to understand different sides of an issueÂ and encourage dissenting opinions and viewpoints to be discussed openly. This approach allows many forms of speech to exist on our platform and, in particular, promotes counterspeech: speech that presents facts to correct misstatements or misperceptions, points out hypocrisy or contradictions, warns of offline or online consequences, denounces hateful or dangerous speech, or helps change minds and disarm.
 
 Thus,
 context matters
@@ -75,7 +54,7 @@ We start from a position of assuming that people do not intend to violate our Ru
 
 What is the severity of the violation?
 
-Certain types of behavior may pose serious safety and security risks and/or result in physical, emotional, and financial hardship for the people involved. These egregious violations of the X Rules — such as posting violent threats, non-consensual intimate media, or content that sexually exploits children — result in the immediate and permanent suspension of an account. Other violations could lead to a range of different steps, like requiring someone to remove the offending post(s) and/or temporarily limiting their ability to post new post(s).
+Certain types of behavior may pose serious safety and security risks and/or result in physical, emotional, and financial hardship for the people involved. These egregious violations of the X Rules â such as posting violent threats, non-consensual intimate media, or content that sexually exploits children â result in the immediate and permanent suspension of an account. Other violations could lead to a range of different steps, like requiring someone to remove the offending post(s) and/or temporarily limiting their ability to post new post(s).
 
 Is the behavior newsworthy and in the legitimate public interest?
 
@@ -94,13 +73,13 @@ Source of the content:
  Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
 
 Availability of coverage:
- Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
+ Everyday people play a crucial role in providing firsthand accounts of whatâs happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
 
           Share this article
 
 Post
 
-Did someone say … cookies?
+Did someone say â¦ cookies?
 
   X and its partners use cookies to provide you with a better, safer and
   faster service and to support our business. Some cookies are necessary to use
