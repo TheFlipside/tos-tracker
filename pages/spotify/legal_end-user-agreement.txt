@@ -372,7 +372,7 @@ Sie verpflichten sich, Spotify von sämtlichen Schäden (Anwaltshonorare und -ko
 Soweit nach dem zwingenden Recht eines Mitgliedstaates der Europäischen Union oder eines anderen Landes nicht etwas anderes vorgeschrieben ist, unterliegt die Vereinbarung (und etwaige aus oder in Zusammenhang damit entstehenden außervertraglichen Streitigkeiten/Ansprüche) deutschem Recht, unter Ausschluss der Kollisionsnormen. Spotify nimmt bei Verträgen, für die die vorliegenden Allgemeinen Nutzungsbedingungen gelten, nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
 Deine Privatsphäre ist uns wichtig
 Wir und unsere
-88
+87
  Partner speichern Informationen auf Geräten und/oder greifen darauf zu, z. B. eindeutige IDs in Cookies, um personenbezogene Daten zu verarbeiten. Klicke unten auf „Cookie-Einstellungen“, um mehr über die Zwecke zu erfahren, für die wir und unsere Partner Cookies verwenden, oder um die Einstellungen zu ändern. Du kannst deine Einstellungen jederzeit überprüfen oder deine Einwilligung widerrufen, indem du in unserer Cookie-Richtlinie auf den Link zu deinen Cookie-Einstellungen klickst. Diese Entscheidungen werden unseren Partnern mitgeteilt und haben keinen Einfluss auf die Browsingdaten.
  Indem Du auf “Cookies akzeptieren” klickst, willigst Du in unsere Nutzung und die Weitergabe Deiner Daten an
 unsere Partner
@@ -421,7 +421,7 @@ Wenn wir über deine E-Mail-Adresse, Geräte-ID, andere Kontaktdaten oder Daten 
 
 The Trade Desk Inc. (EUID), LiveRamp (RampID), ID5 (ID5 ID), Google (PAIR ID)
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
- 78 Lieferanten können diesen Zweck nutzen
+ 77 Lieferanten können diesen Zweck nutzen
 
 Speichern von oder Zugriff auf Informationen auf einem Endgerät
 
@@ -436,26 +436,26 @@ Cookies, Geräte- oder ähnliche Onlinekennungen können zusammen mit anderen In
 Liste von IAB-Lieferanten
  | Illustrationen anzeigen
 Personalisierte Werbung
- 73 Lieferanten können diesen Zweck nutzen
+ 72 Lieferanten können diesen Zweck nutzen
 
 Personalisierte Werbung
 
 Verwendung von Profilen zur Auswahl personalisierter Werbung
- 60 Lieferanten können diesen Zweck nutzen
+ 59 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
 Werbung, die Ihnen auf diesem Dienst angezeigt wird, kann auf Ihrem Werbeprofil basieren.  Dieses Werbeprofil kann Ihre Aktivitäten (wie ausgefüllte Formulare, angesehene Inhalte) auf diesem Dienst oder anderen Webseiten oder Apps, mögliche Interessen und persönliche Merkmale beinhalten.
 Illustrationen anzeigen
 Erstellung von Profilen für personalisierte Werbung
- 60 Lieferanten können diesen Zweck nutzen
+ 59 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
 Informationen über Ihre Aktivitäten auf diesem Dienst (wie ausgefüllte Formulare, angesehene Inhalte) können gespeichert und mit anderen Informationen über Sie (z. B. Informationen aus Ihrer vorherigen Aktivität auf diesem Dienst oder anderen Webseiten oder Apps) oder ähnlichen Benutzern kombiniert werden. Diese werden dann verwendet, um ein Profil über Sie zu erstellen oder zu verbessern (dies kann z. B. mögliche Interessen und persönliche Merkmale beinhalten). Ihr Profil kann (auch zu einem späteren Zeitpunkt) verwendet werden, um es zu ermöglichen, Ihnen Werbung zu präsentieren, die aufgrund Ihrer möglichen Interessen für Sie wahrscheinlich relevanter ist.
 Illustrationen anzeigen
 Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen
- 70 Lieferanten können diesen Zweck nutzen
+ 69 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -488,12 +488,12 @@ Inhalte, die Ihnen auf diesem Dienst präsentiert werden, können auf Ihren Inha
 Illustrationen anzeigen
 Liste von IAB-Lieferanten
 Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung der Angebote
- 83 Lieferanten können diesen Zweck nutzen
+ 82 Lieferanten können diesen Zweck nutzen
 
 Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung der Angebote
 
 Analyse von Zielgruppen durch Statistiken oder Kombinationen von Daten aus verschiedenen Quellen
- 54 Lieferanten können diesen Zweck nutzen
+ 53 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -505,7 +505,7 @@ Den Berechtigten Interessen Widersprechen
                         Widerspruch entfernen
 
 Entwicklung und Verbesserung der Angebote
- 59 Lieferanten können diesen Zweck nutzen
+ 58 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -524,7 +524,7 @@ Den Berechtigten Interessen Widersprechen
                         Widerspruch entfernen
 
 Messung der Werbeleistung
- 78 Lieferanten können diesen Zweck nutzen
+ 77 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -552,11 +552,11 @@ Auswahl und Bereitstellung von Inhalten und Reporting
 
 Diese Cookies werden von einer Reihe von Social-Media-Diensten gesetzt, die wir der Website hinzugefügt haben, damit du unsere Inhalte mit deinen Freund*innen und Netzwerken teilen kannst. Sie sind in der Lage, deinen Browser auf anderen Websites zu verfolgen und ein Profil deiner Interessen zu erstellen. Das kann sich auf die Inhalte und Nachrichten auswirken, die du auf anderen Websites siehst. Ohne diese Cookies kannst du diese Tools zum Teilen von Inhalten möglicherweise nicht verwenden oder sehen.
 Spezielle Verwendungszwecke
- 86 Lieferanten können diesen Zweck nutzen
+ 85 Lieferanten können diesen Zweck nutzen
 Immer aktiv
 Falls du oben in “Informationen auf einem Gerät speichern und/oder abrufen” einwilligst, dann verarbeiten wir deine Daten auch für die folgenden speziellen Verwendungszwecke. Falls du nicht möchtest, dass wir deine Daten für diese Zwecke verarbeiten, dann bitte deaktiviere “Informationen auf einem Gerät speichern und/oder abrufen”.
 Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung
- 61 Partner können diesen Sonderzweck nutzen
+ 60 Partner können diesen Sonderzweck nutzen
 
 Switch Label
 
@@ -572,14 +572,14 @@ label
 Bestimmte Informationen (wie IP-Adresse oder Endgerätefunktionen) werden verwendet, um die technische Kompatibilität des Inhalts oder der Werbung zu gewährleisten und die Übertragung des Inhalts oder der Werbung auf Ihr Endgerät zu ermöglichen.
 Illustrationen anzeigen
 Abgleichung und Kombination von Daten aus unterschiedlichen Quellen
- 57 Partner können diese Funktion nutzen
+ 56 Partner können diese Funktion nutzen
 
 Switch Label
 
 label
 Informationen über Ihre Aktivitäten auf diesem Dienst können zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke mit anderen Informationen über Sie aus unterschiedlichen Quellen abgeglichen und kombiniert werden (z. B. Ihre Aktivitäten auf einem anderen Online-Dienst, Ihrer Nutzung einer Kundenkarte im Geschäft oder Ihren Antworten auf eine Umfrage).
 Verknüpfung verschiedener Endgeräte
- 59 Partner können diese Funktion nutzen
+ 58 Partner können diese Funktion nutzen
 
 Switch Label
 
@@ -593,7 +593,7 @@ Switch Label
 label
 Ihr Endgerät kann zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke mithilfe von Informationen unterschieden werden, die es beim Zugriff auf das Internet automatisch übermittelt (z. B. die IP-Adresse Ihrer Internetverbindung oder die Art des Browsers, den Sie verwenden).
 Ihre Entscheidungen zum Datenschutz speichern und übermitteln
- 54 Partner können diesen Sonderzweck nutzen
+ 53 Partner können diesen Sonderzweck nutzen
 
 Switch Label
 
