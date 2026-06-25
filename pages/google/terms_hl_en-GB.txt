@@ -623,6 +623,7 @@ emails that you send and receive through Gmail
 pictures that you share with friends via Photos
 travel itineraries that you share with Google
 close
+close
 Opens in a new tab
 (opens a footnote)
 Google

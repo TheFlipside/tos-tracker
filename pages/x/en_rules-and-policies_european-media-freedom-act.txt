@@ -51,7 +51,954 @@ _________________________________________________________________
 
           List of media service provider declarations
 
-Under the EMFA, we are required to make information declared by MSPs publicly available. We will add a list of MSPs and the declarations they have submitted to this page as they become available.
+Under the EMFA, we are required to make information declared by MSPs publicly available.
+
+Declared MSP
+
+Declarations Made by the MSP*
+
+Regulatory Governing Body Details**
+
+Declared MSP
+
+Medialivre
+
+@Now_Canal_
+
+@cmjornal
+
+@Record_Portugal
+
+@JNegocios
+
+@revistaSABADO
+
+@Aquela_Maquina
+
+@petsndcompany
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Entidade Reguladora para a Comunicação Social (ERC)
+
+Regulatory Governing Body Address:
+
+Avenida 24 de Julho, n.º 58, 1200‑869 Lisboa, Portugal
+
+Regulatory Governing Body Website:
+
+https://www.erc.pt/
+
+Regulatory Governing Body Contact Details:
+
++351210107000; info@erc.pt
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Vosges TV
+
+@vosgestv
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+ARCOM
+
+Regulatory Governing Body Address:
+
+2/10 rue Brahms, Paris, France, 75012
+
+Regulatory Governing Body Website:
+
+https://www.arcom.fr/
+
+Regulatory Governing Body Contact Details:
+
+0140583445; arcom.nancy@arcom.fr
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es
+
+@eldiarioes
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es/sectores-que-regulamos/medios-de-comunicacion-emfa
+
+Regulatory Governing Body Contact Details:
+
++34 91 432 96 00; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Cordopolis
+
+@cordopolis_es
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+verTele
+
+@Vertele
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Euskadi
+
+@eldiarioeus
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Región de Murcia
+
+@eldiariomurcia
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+ CNMC
+
+Regulatory Governing Body Address:
+
+ Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
+ +34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+ National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Aragón
+
+@ElDiarioAragon
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+ CNMC
+
+Regulatory Governing Body Address:
+
+ Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
+ +34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Rioja2
+
+@Rioja2
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Cantabria
+
+@eldiarioescan
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Andalucía
+
+@eldiarioand
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Navarra
+
+@eldiariona
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Comunitat Valenciana
+
+@elDiariocv
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+TSmedia
+
+@SiolNEWS
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Agencija za komunikacijska omrežja in storitve Republike Slovenije
+
+Regulatory Governing Body Address:
+
+Stegne 7, 1000 Ljubljana
+
+Regulatory Governing Body Website:
+
+https://www.akos-rs.si/
+
+Regulatory Governing Body Contact Details:
+
++386 (0)1 583 63 00; info.box@akos-rs.si
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+TSmedia
+
+@
+SiolTRENDI
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Agencija za komunikacijska omrežja in storitve Republike Slovenije
+
+Regulatory Governing Body Address:
+
+Stegne 7, 1000 Ljubljana
+
+Regulatory Governing Body Website:
+
+https://www.akos-rs.si/
+
+Regulatory Governing Body Contact Details:
+
++386 (0)1 583 63 00; info.box@akos-rs.si
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+TSmedia
+
+@SiolSportal
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Agencija za komunikacijska omrežja in storitve Republike Slovenije
+
+Regulatory Governing Body Address:
+
+Stegne 7, 1000 Ljubljana
+
+Regulatory Governing Body Website:
+
+https://www.akos-rs.si/
+
+Regulatory Governing Body Contact Details:
+
++386 (0)1 583 63 00; info.box@akos-rs.si
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+VAL DE LOIRE TV
+
+@valdeloiretv
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+ ARCOM (Autorité de Régulation de la Communication Audiovisuelle et Numérique)
+
+Regulatory Governing Body Address:
+
+ 9 rue Brahms, 75012 PARIS
+
+Regulatory Governing Body Website:
+
+https://www.arcom.fr/
+
+Regulatory Governing Body Contact Details:
+
+ +33 140583800; professionnels-dsa@arcom.fr
+
+Regulatory Governing Body Type:
+
+ National Regulatory Authority
+
+Declared MSP
+
+elDiario.es Cultura
+
+@eldiarioCultura
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Radio Študent
+
+@radiostudent
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Agencija za komunikacijska omrežja in storitve Republike Slovenije
+
+Regulatory Governing Body Address:
+
+Stegne 7, p. p. 418, 1001 Ljubljana
+
+Regulatory Governing Body Website:
+
+https://www.akos-rs.si/
+
+Regulatory Governing Body Contact Details:
+
++386 (0)1 583 63 00; info.box@akos-rs.si
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Irish Independent
+
+@Independent_ie
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Press Council of Ireland
+
+Regulatory Governing Body Address:
+
+32 Westland Square, Pearse Street, Dublin 2, D02 R9T2
+
+Regulatory Governing Body Website:
+
+https://pressombudsman.ie/
+
+Regulatory Governing Body Contact Details:
+
++353 1 648 9130; administrator@pressombudsman.ie
+
+Regulatory Governing Body Type:
+
+Self-Regulatory Mechanism
+
+Declared MSP
+
+Crimeworld
+
+@crimeworld_com
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Press Council of Ireland
+
+Regulatory Governing Body Address:
+
+32 Westland Square, Pearse Street, Dublin 2, D02 R9T2
+
+Regulatory Governing Body Website:
+
+https://pressombudsman.ie/
+
+Regulatory Governing Body Contact Details:
+
++353 1 648 9130; administrator@pressombudsman.ie
+
+Regulatory Governing Body Type:
+
+Self-Regulatory Mechanism
+
+Declared MSP
+
+Institute Meta's list (orig. Zavod Metina lista)
+
+@metinalista
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+Ministry of Culture
+
+Regulatory Governing Body Address:
+
+Maistrova ulica 10, 1000 Ljubljana
+
+Regulatory Governing Body Website:
+
+https://www.gov.si/en/state-authorities/ministries/ministry-of-culture/
+
+Regulatory Governing Body Contact Details:
+
+0038613695900; gp.mk@gov.si
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
+Observador
+
+@observadorpt
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+ERC - Entidade Reguladora para a Comunicação Social
+
+Regulatory Governing Body Address:
+
+Av. 24 de Julho 58, 1200-869 Lisboa
+
+Regulatory Governing Body Website:
+
+https://www.erc.pt/
+
+Regulatory Governing Body Contact Details:
+
++351210107000; info@erc.pt
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+________________________________________________________________
+
+* (Declarations Made by the MSP):
+The MSP has confirmed that the information provided in their declarations are true and accurate. The MSP acknowledges liability for false, misleading or incomplete statements.
+
+** (Regulatory Governing Body Details):
+This information has been provided by the MSP.
 
           Share this article
 
