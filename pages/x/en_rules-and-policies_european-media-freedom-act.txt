@@ -353,6 +353,46 @@ Regulatory Governing Body Type:
 
 Declared MSP
 
+ElDiario.es Castilla-La Mancha
+
+@eldiarioesclm
+
+Declarations Made by the MSP*
+
+The MSP declares that it:
+
+complies with Article 6(1) EMFA;
+
+is editorially independent from Member States, political parties, third countries. and entities controlled or financed by third countries;
+
+is subject to the necessary regulatory requirements and regulatory oversight by a regulatory governing body; and
+
+does not provide AI generated content without human review or editorial control.
+
+Regulatory Governing Body Details**
+
+Regulatory Governing Body Name:
+
+CNMC
+
+Regulatory Governing Body Address:
+
+Calle Alcalá 47, 28014 Madrid
+
+Regulatory Governing Body Website:
+
+https://www.cnmc.es
+
+Regulatory Governing Body Contact Details:
+
++34 914329600; info@cnmc.es
+
+Regulatory Governing Body Type:
+
+National Regulatory Authority
+
+Declared MSP
+
 elDiario.es Aragón
 
 @ElDiarioAragon
