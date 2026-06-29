@@ -1,4 +1,4 @@
-PLAYSTATION TERMS OF SERVICE,PlayStation® Software Application End User License Agreement ("Software Terms")
+PLAYSTATION TERMS OF SERVICE,Code of Conduct,PlayStation® Software Application End User License Agreement ("Software Terms")
 PLAYSTATION TERMS OF SERVICE
 Version 12 Last updated: April 2026
 IMPORTANT
@@ -401,6 +401,125 @@ Our liability will not be more than £100 (or local currency equivalent) or, if 
 28.1 If you have any questions, contact us.
 28.2 For online support (help pages and an online contact form): www.playstation.com/support/contact-us/.To write to us the old-fashioned way use: Sony Interactive Entertainment Network Europe Limited, 10 Great Marlborough Street, London, W1F 7LP, UK.
 28.3 When you contact us, we expect our staff to be polite and respectful. We expect the same of you. If you are rude to or abuse or threaten our staff we may restrict you to contacting us by email or refuse to support you any further. If your behaviour suggests a risk to our staff, our community or our business we may suspend your Account and escalate the matter to law enforcement.
+
+Code of Conduct
+
+Read this carefully and help us keep PlayStation the best place to play for everyone.
+
+✓
+ Be inclusive.
+
+PlayStation is for everyone, regardless of, gender identity, sexual orientation, race, ethnicity, nationality, colour, immigration status, social and economic class, educational level, shape and size, family status, political belief, religion, and mental and physical ability, or any other attribute that people use to label others or divide communities.
+
+☒ Do not
+ do or say anything hateful. For more information, please visit playstation.com/hate-speech-policy.
+
+☒ Do not
+ threaten, harm or alarm anyone, or encourage anyone else to do so.
+
+☒ Do not
+ bully, harass or stalk anyone.
+
+✓
+ Be sensible. Follow the law.
+
+☒ Do not
+be vulgar or offensive.
+
+☒ Do not
+encourage anyone to hurt themself or someone else.
+
+☒ Do not
+threaten, condone, perform or promote any illegal acts.
+
+☒ Do not
+impersonate anyone else.
+
+☒ Do not
+infringe anyone's privacy or spread lies about anyone.
+
+☒ Do not
+infringe anyone's intellectual property rights.
+
+✓
+ Be kind.
+
+Help each other out. Remember you were new once too. You can help make someone's early gaming and community experiences good ones by being considerate.
+
+✓
+ Be respectful.
+
+We know we can't expect everyone to agree all the time. Disagree respectfully or walk away.
+
+☒ Do not
+do anything to harm the PlayStation community.
+
+✓
+ Be responsible.
+
+If you believe you have found a vulnerability in PlayStation products or services, tell us so we can fix it. Please visit HackerOne.com/PlayStation for information about our Bug Bounty programme.
+
+☒ Do not
+ use PlayStation or any of its products for, or associate them with, spam or any commercial activity.
+
+☒ Do not
+ share, buy, sell, rent, sublicense, trade or transfer any accounts, account details or other credentials.
+
+✓
+ Be a team player.
+
+☒ Do not
+disturb or interrupt gameplay.
+
+☒ Do not
+cheat.
+
+☒ Do not
+ use any bugs, glitches, vulnerabilities or unintentional mechanics in PlayStation products or services to gain an advantage.
+
+☒ Do not
+ phish for or harvest any accounts, account details or other credentials.
+
+☒ Do not
+ forward recommendations or offers to your contacts without their permission.
+
+☒ Do not
+ share or send information that misleads others.
+
+✓
+ Be discreet. Keep it decent.
+
+Always use common sense and good manners. Things that you say and do online affect other people and have real-world consequences. Think before you post anything online. Beware that information you put online can spread and may be seen by people who you didn't expect would see it.
+
+☒ Do not
+reveal personal information about other people or yourself. It makes you and them vulnerable. Personal information includes, but is not limited to, social network handles, messaging app profiles, phone numbers, email addresses and real-world addresses like your home, school or temporary location.
+
+☒ Do not
+ share, solicit, access, distribute or store material that is obscene, pornographic or illegal, which includes, but is not limited to, child sexual exploitation, extreme crime, drug-related material, and terrorism and intentional use or threat of violence in pursuit of political, ideological or religious objectives.
+
+☒ Do not
+share or threaten to share any image or other media of another person without their consent.
+
+✓
+ Help us ensure PlayStation is the best place to play.
+
+We are committed to providing a safe and welcoming environment. If you breach this Code, or your conduct off PlayStation gives us reason to believe you may endanger the safety or wellbeing of our community, we may take any action as reasonably necessary to protect PlayStation and our players.
+
+If you believe someone has breached the Code of Conduct, tell us so we can take action to help keep PlayStation and our community safe. It is particularly important to tell us if you think there is a risk that anyone could get hurt in real life. If you see someone else misbehaving:
+
+✓
+ Report them to us using our contextual grief reporting tools. For more information about grief reporting and blocking, please visit playstation.com/reporting and playstation.com/blocking.
+
+✓
+ If you engage with them, stay calm and respectful. Lead by example and don't breach this Code yourself.
+
+☒ Do not
+submit false grief reports or otherwise abuse the grief reporting system.
+
+✓
+ Follow any specific rules for each product.
+
+For more information, you can find additional resources at playstation.com/safety and playstation.com/behavior.
 
 Ver. 1.0
 
