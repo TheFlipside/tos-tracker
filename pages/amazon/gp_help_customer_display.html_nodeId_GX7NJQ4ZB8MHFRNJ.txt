@@ -14,7 +14,7 @@ Amazon.com Privacy Notice - Amazon Customer Service
 
 Amazon.com Privacy Notice
 
-Last updated: December 31, 2025.
+Last updated: June 30, 2026.
  View the
 prior version
  of this Privacy Notice.
@@ -84,9 +84,9 @@ Automatic Information:
                         such as the products and services you interact with.
 
 Information from Other Sources:
- We might receive information about you from other sources, such as updated delivery
-                        and address information from our carriers, which we use to correct our records and
-                        deliver your next purchase more easily.
+ We might receive information about you from other sources. For example, our carriers
+                        may provide us with updated delivery and address information, which we use to keep
+                        our records current and make delivery of your future purchases easier.
 
 See
 examples of information we collect or receive
@@ -104,7 +104,12 @@ Purchase and delivery of products and services.
 
 Provide, troubleshoot, and improve Amazon Services.
  We use your personal information to provide functionality, analyze performance, fix
-                  errors, and improve the usability and effectiveness of the Amazon Services.
+                  errors, and improve the usability and effectiveness of the Amazon Services. In so
+                  doing, we use machine learning and artificial intelligence to support and enhance
+                  the customer experience across our products and services. This includes using data
+                  to develop or deploy our generative AI models and services. See our
+Generative AI Development Disclosure
+ for more information.
 
 Recommendations and personalization.
  We use your personal information to recommend features, products, and services that
@@ -125,7 +130,7 @@ Comply with legal obligations.
 
 Communicate with you.
  We use your personal information to communicate with you in relation to Amazon Services
-                  via different channels (for example, by phone, email, chat).
+                  via different channels (for example, by phone, email or chat).
 
 Advertising.
  We use your personal information to display interest-based ads for features, products,
@@ -434,6 +439,8 @@ Developer
 
 offer your products or services on or through Amazon Services;
 
+ use Login with Amazon or otherwise link your Amazon account to a third-party business;
+
 communicate with us by phone, email, or otherwise;
 
 complete a questionnaire, a support ticket, or a contest entry form;
@@ -552,7 +559,15 @@ account information, purchase or redemption information, and page-view informati
 
 information about your interactions with products and services offered by our subsidiaries;
 
-search results and links, including paid listings (such as Sponsored Links);
+information about how you interact with ads served by Amazon on third-party websites and apps (learn more in our
+Interest-Based Ads notice
+);
+
+content we receive from third parties to provide, develop, and improve Amazon Services,
+                  such as advertising-related information and identifiers (as described in more detail
+                  in our
+Interest-Based Ads notice
+);
 
 information about internet-connected devices and services linked with Alexa; and
 
