@@ -8,6 +8,8 @@ All
 
 User Agreement
 
+July 1, 2026
+
 March 31, 2026
 
 June 28, 2025
@@ -128,6 +130,8 @@ All
 
 Nutzungsvereinbarung
 
+01.07.2026
+
 31.03.2026
 
 28.06.2025
@@ -237,6 +241,8 @@ Español (ES)
 All
 
 Acuerdo del usuario
+
+1 julio 2026
 
 31 marzo 2026
 
@@ -348,6 +354,8 @@ All
 
 Acuerdo de Usuario
 
+1 julio 2026
+
 31 marzo 2026
 
 28 jun. 2025
@@ -457,6 +465,8 @@ Français
 All
 
 Contrat d’Utilisation
+
+1er juillet 2026
 
 31 mars 2026
 
@@ -568,6 +578,8 @@ All
 
 Accordo per gli Utenti
 
+1° luglio 2026
+
 31 marzo 2026
 
 28 giugno 2025
@@ -678,6 +690,8 @@ All
 
 Gebruikersovereenkomst
 
+1 juli 2026
+
 31 maart 2026
 
 28 juni 2025
@@ -785,6 +799,8 @@ Português (BR)
 All
 
 Contrato de Usuário
+
+1º de julho de 2026
 
 31 de março de 2026
 
@@ -896,6 +912,8 @@ All
 
 Contrato de Utilizador
 
+1 de julho de 2026
+
 31/06/2026
 
 28/06/2025
@@ -1006,6 +1024,8 @@ All
 
 Användaravtal
 
+1 juli 2026
+
 31 mars 2026
 
 28 juni 2025
@@ -1110,6 +1130,8 @@ All
 
 Reddit ইউজার এগ্রিমেন্ট
 
+1 জুলাই, 2026
+
 31 মার্চ 2026
 
 28শে জুন, 2025
@@ -1195,6 +1217,8 @@ Hindi
 All
 
 Reddit यूज़र एग्रीमेंट
+
+1 जुलाई, 2026
 
 31 मार्च, 2026
 
@@ -1282,6 +1306,8 @@ All
 
 Kasunduan sa User ng Reddit
 
+Hulyo 1, 2026
+
 Marso 31, 2026
 
 Hunyo 28, 2025
@@ -1367,6 +1393,8 @@ Thai
 All
 
 ข้อตกลงสำหรับผู้ใช้ของ Reddit
+
+1 กรกฎาคม 2026
 
 31 มีนาคม 2026
 
@@ -1454,6 +1482,8 @@ All
 
 Umowa użytkownika serwisu Reddit
 
+1 lipca 2026
+
 31 marca 2026
 
 28 czerwca 2025
@@ -1537,6 +1567,8 @@ Romanian
 All
 
 Acordul de utilizare Reddit
+
+1 iulie 2026
 
 31 martie 2026
 
@@ -1624,6 +1656,8 @@ All
 
 Thỏa thuận người dùng Reddit
 
+Ngày 01 tháng 7 năm 2026
+
 Ngày 31 tháng 3 năm 2026
 
 Ngày 28 tháng 6 năm 2025
@@ -1710,6 +1744,8 @@ All
 
 Perjanjian Pengguna Reddit
 
+1 Julai 2026
+
 31 Mac 2026
 
 28 Jun 2025
@@ -1793,6 +1829,8 @@ Hungarian
 All
 
 Reddit Felhasználói megállapodás
+
+2026. július 1
 
 2026. március 31
 
@@ -1880,6 +1918,8 @@ All
 
 Συμφωνία χρήστη του Reddit
 
+1 Ιουλίου 2026
+
 31 Μαρτίου 2026
 
 28 Ιουνίου 2025
@@ -1965,6 +2005,8 @@ Finnish
 All
 
 Redditin Käyttöehdot
+
+1. heinäkuuta 2026
 
 31. maaliskuuta 2026
 
@@ -2052,6 +2094,8 @@ All
 
 Brukeravtalen til Reddit
 
+1. juli 2026
+
 31. mars 2026
 
 28. juni 2025
@@ -2137,6 +2181,8 @@ Russian
 All
 
 Пользовательское соглашение Reddit
+
+1 июля 2026
 
 31 марта 2026
 
@@ -2224,6 +2270,8 @@ All
 
 Reddit Kullanıcı Sözleşmesi
 
+1 Temmuz 2026
+
 31 Mart 2026
 
 28 Haziran 2025
@@ -2309,6 +2357,8 @@ Chinese (Simplified)
 All
 
 Reddit 用户协议
+
+2026 年 7 月 1 日
 
 2026 年 3 月 31 日
 
@@ -2396,6 +2446,8 @@ All
 
 Reddit 的使用者協議
 
+2026 年 7 月 1 日
+
 2026 年 3 月 31 日
 
 2025 年 6 月 28 日
@@ -2478,7 +2530,11 @@ Impressum
 
 Czech
 
+All
+
 Smlouva Redditu s uživatelem
+
+1. července 2026
 
 31. března 2026
 
@@ -2554,7 +2610,11 @@ Zásady odpovědné tvorby
 
 Danish
 
+All
+
 Reddits brugeraftale
+
+1. juli 2026
 
 31. marts 2026
 
@@ -2630,7 +2690,11 @@ Politik for ansvarlig app-bygger
 
 Japanese
 
+All
+
 Reddit 利用規約
+
+2026 年 7 月 1 日
 
 2026年3月31日
 
@@ -2706,7 +2770,11 @@ Impressum
 
 Korean
 
+All
+
 Reddit 이용 약관
+
+2026년 7월 1일
 
 2026년 3월 31일
 
@@ -2782,7 +2850,11 @@ Impressum
 
 Serbian
 
+All
+
 Ugovor sa korisnikom platforme Reddit
+
+1. jul 2026
 
 31. marta 2026
 
@@ -2858,7 +2930,11 @@ Smernice za odgovorne neimare
 
 Ukrainian
 
+All
+
 Угода користувача Reddit
+
+1 липня 2026
 
 31 березня 2026
 
@@ -2934,7 +3010,11 @@ Impressum
 
 Bulgarian
 
+All
+
 Споразумение с потребителя на Reddit
+
+1 юли 2026
 
 31 март 2026
 
@@ -3014,7 +3094,11 @@ Impressum
 
 Croatian
 
+All
+
 Redditov Ugovor o korištenju
+
+1. srpnja 2026
 
 31. ožujka 2026
 
@@ -3094,7 +3178,11 @@ Pravila odgovornog graditelja
 
 Slovak
 
+All
+
 Dohoda s používateľom Redditu
+
+1. júla 2026
 
 31. marca 2026
 
@@ -3174,7 +3262,11 @@ Zásady zodpovednej tvorby
 
 Arabic
 
+All
+
 اتفاقية المستخدم المتبعة في Reddit
+
+1 يوليو 2026
 
 31 مارس 2026
 
@@ -3332,6 +3424,8 @@ Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland
 
 										Revisions
 
+July 1, 2026
+
 March 31, 2026
 
 June 28, 2025
@@ -3425,11 +3519,6 @@ Srpski
 English
 
 Effective July 1, 2026. Last Revised May 26, 2026
-
-We’ve updated our User Agreement. Please take a look before the changes take effect on July 1, 2026.
-This page is the updated User Agreement; for the version effective until July 1, 2026, click
-here
-.
 
 Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.
 
