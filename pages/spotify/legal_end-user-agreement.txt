@@ -593,7 +593,7 @@ Switch Label
 label
 Ihr Endgerät kann zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke mithilfe von Informationen unterschieden werden, die es beim Zugriff auf das Internet automatisch übermittelt (z. B. die IP-Adresse Ihrer Internetverbindung oder die Art des Browsers, den Sie verwenden).
 Ihre Entscheidungen zum Datenschutz speichern und übermitteln
- 53 Partner können diesen Sonderzweck nutzen
+ 54 Partner können diesen Sonderzweck nutzen
 
 Switch Label
 
