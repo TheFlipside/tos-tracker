@@ -12,7 +12,7 @@ Terms of Service | TikTok
 EEA/UK/CH
 Terms of Service
 (These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)
-Last updated: August 2025
+Last updated: July 2026
 Welcome to TikTok.
 These Terms of Service and the other additional terms and policies which may apply to you (see Section 3) (“
 Terms
@@ -32,7 +32,6 @@ While we encourage you to read these Terms in full, click
 here
  for a summary.
 In short: This is a contract between you and TikTok. You should read it and any other terms that apply to you.
-
 1. Who your contract is with
 2. The services covered by these Terms
 3. Additional terms that apply if you use certain features
@@ -88,19 +87,8 @@ Commercial Music Library Terms
 : These apply if you are a commercial entity or you post content on the Platform that includes music from the Commercial Music Library.
 Intellectual Property Policy
 : This applies to all content on the Platform protected by intellectual property rights.
-TikTok Shop Terms of Use: These apply when you use TikTok Shop (where available). These terms differ based on where you live:
-UK
-,
-Ireland
-,
-Spain
-,
-Germany
-,
-France
- and
-Italy
-.
+TikTok Shop Terms of Use
+: These apply when you use TikTok Shop (where available). These terms differ based on where you live
 Branded Content Policy
 : This applies when you post content on the Platform promoting a third party brand or its products or services in exchange for payment or any other incentive.
 Business Terms
