@@ -3678,6 +3678,8 @@ Responsible Builder Policy
 
 English
 
+Bahasa Indonesia
+
 Bahasa Melayu
 
 Čeština
@@ -3689,6 +3691,8 @@ Deutsch
 Español (ES)
 
 Español (MX)
+
+فارسی
 
 Français
 
@@ -3731,6 +3735,10 @@ Türkçe
 Srpski
 
 Українська
+
+עברית
+
+اُردُو
 
 عربي
 
@@ -3778,6 +3786,8 @@ Oct 15, 2020
 
 English
 
+Bahasa Indonesia
+
 Bahasa Melayu
 
 Čeština
@@ -3789,6 +3799,8 @@ Deutsch
 Español (ES)
 
 Español (MX)
+
+فارسی
 
 Français
 
@@ -3831,6 +3843,10 @@ Türkçe
 Srpski
 
 Українська
+
+עברית
+
+اُردُو
 
 عربي
 

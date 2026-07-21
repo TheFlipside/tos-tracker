@@ -64,13 +64,19 @@ Español (ES)
 
 Español (MX)
 
+فارسی
+
 Suomi
 
 Magyar
 
 Français (FR)
 
+עברית
+
 Hrvatski
+
+Bahasa Indonesia
 
 Dutch (NL)
 
@@ -111,6 +117,8 @@ Bahasa Melayu
 Română
 
 Українська мова
+
+اردو
 
 Tiếng Việt
 

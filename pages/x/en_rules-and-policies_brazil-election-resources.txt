@@ -1,4 +1,4 @@
-Brazil Election Resources
+Brazil Online Safety Resources
 
 Skip to main content
 
@@ -23,25 +23,147 @@ Help Center
 
 Country-specific resources
 
-Brazil Election Resources
-Brazil Election Resources
+Brazil Online Safety Resources
+Brazil Online Safety Resources
 Help Center
 
 Country-specific resources
 
-          Brazil Election Resources
+          Brazil Online Safety Resources
 
 Information from X
 
-X's purpose is to serve the public conversation. Violence, harassment and other similar types of behavior discourage people from expressing themselves, and ultimately diminish the value of global public conversation. We’re committed to supporting people’s right to open, accurate, and safe political discourse on X. It is our top priority to protect our platform during elections to ensure the safety and authenticity of people and conversations on X.
-
-X Rules
+X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation.
 
 Our
 Rules
- are to ensure all people can participate in the public conversation freely and safely. We encourage you to review our
-Rules and policies
-. X is steadfast in safeguarding the integrity of elections and we strive to enforce the Rules with uniform consistency. Policies that may relate to elections are:
+ are to ensure all people can participate in the public conversation freely and safely. We have a
+range of enforcement options
+, which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by
+filing a report
+.
+
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to:
+https://help.x.com/safety-and-security/control-your-x-experience
+ for further information.
+
+We suggest staying informed about
+account safety and security
+, safeguarding your privacy, avoiding spam and scams, and consider
+controlling what you see
+. Our Help Center provides answers to the most
+common questions
+; but if you need account support, submitting a
+support form
+ ensures your request is routed to the appropriate team.
+
+User Controls
+
+To help you enjoy a safe experience on X, we provide tools designed to help you to control what you see, so that you can personalize your experience on X. We make it easy for you to take action on a post. Tap the
+…
+ icon at the top of any post on your timeline to quickly access options like unfollow, mute, block, report, and more.
+
+Following and unfollowing:
+ Users can choose to either see or stop seeing someone’s posts on their timeline.
+
+Muting
+: Users can mute an account if they do not want to see that account’s posts.
+
+Blocking
+: Block is a feature that helps you control how you interact with other accounts on X. This feature helps people in restricting specific accounts from following, Direct Messaging, and engaging with them.
+
+Controlling replies:
+ Users can choose who can reply to their posts. The default setting for public accounts is that anyone can reply, but options are available to turn off replies entirely (except for mentioned accounts), limit replies to verified accounts, or limit replies to accounts that the posting user follows. A user can adjust these settings when composing a post, with their adjustments affecting that individual post. To help minimise unwanted replies and improve meaningful conversations, users can also adjust who can reply to a post after the post has been shared. Learn more about conversations on X
+here
+.
+
+Reporting
+: Users can report accounts or posts they think are in violation of the X Rules. More details can be found below.
+
+We also provide tools to help you decide what others can see about you. This includes but is not limited to our discoverability settings, sharing your location in posts, and media settings which allow you to mark your posts as containing sensitive content.
+
+Protect your posts:
+ Protecting your posts means your posts will only be visible to your followers. With your posts protected, you have control of your X experience: every time someone wants to follow your account, you have the choice to accept or decline their request. Read more
+about public and protected posts
+.
+
+Photo tagging:
+ Tagging friends in photos can be a great way to stay connected, but you might decide you want your X experience to be more private. You can choose between allowing anyone, just friends, or no one to tag you in photos. Read about
+changing your photo tagging settings
+.
+
+Control the media you see in posts:
+ Your
+Privacy and safety
+ settings include post media options, if you decide that you want to see a warning over media in posts that may contain sensitive content. Your settings default is to provide the warning, but you can change the setting at any time. Read more about how to
+control the media you see in posts
+.
+
+Reporting Illegal Content in Brazil
+
+You can also report illegal content under Brazilian law, pursuant to the Brazilian Supreme Court decision of article 19 of Law n. 12.965/2014 (“
+Marco Civil da Internet
+”) and Decree n. 12.975/2026, by making a report to X through this
+form
+.
+
+Appeal Process
+
+If you believe we made an error, you can appeal an illegal content decision. This
+form
+ is provided to enable an end-user in Brazil to submit an appeal.
+
+Law Enforcement Authorities
+
+If you are a member of law enforcement or government, the most expeditious way to submit your request regarding illegal content is through our Legal Request Submissions site (
+https://t.co/lr
+ or
+https://legalrequests.x.com
+). Find more information in our
+Guidelines for Law Enforcement
+.
+
+Removal of Identical Replications of Content Already Declared Unlawful by Final Judicial Decision
+
+This
+form
+ is provided to enable an end-user in Brazil, or their legal representative, to request removal of identical replications of content already declared unlawful in Brazil, pursuant to the decision set by the Brazilian Supreme Federal Court – RE 1.037.396, Thematic Issue 987.
+
+Reporting Violence Against Women in Brazil under Decree 12.976/2026
+
+X is committed to providing accessible tools to report illegal content, including those addressed by Brazilian Decree No. 12.976/2026 on the protection of women online and combating digital violence against women.
+
+To report posts depicting images or videos that were taken or appear to have been taken or shared without consent under Decree 12.976/2026, including the
+disclosure of scenes of sex, nudity or lewd acts without consent or unauthorized recording of scenes of nudity or sexual acts of an intimate and private nature
+, report to X through this
+form
+.
+
+For all other types of violence against women, we encourage users to report to X through this
+form
+.
+
+IF YOU ARE A VICTIM OF VIOLENCE OR NEED SUPPORT, CALL 180 FOR FREE, SPECIALIZED ASSISTANCE AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK. THIS IS THE OFFICIAL BRAZILIAN WOMEN'S SUPPORT CENTER. X PROVIDES REPORTING TOOLS BUT RECOMMENDS CONTACTING AUTHORITIES AND SUPPORT SERVICES FOR PERSONAL SAFETY AND LEGAL GUIDANCE.
+
+We also recommend that you report any non-consensual intimate media through
+https://stopncii.org/criar-seu-caso/
+ in order to have a hash/digital fingerprint generated with regards to the relevant image or video. StopNCII.org shares hashes with participating companies so they can help detect and remove duplicate images/videos from being shared online. X is a partner of StopNCII.org and participates in the efforts to avoid the mass dissemination of non-consensual nudity. Using this tool can help ensure that any reported media is not only made unavailable on X, but also in other platforms that are partners to StopNCII.org.
+
+Minors Protection
+
+How do our age assurance methods work?
+
+In accordance with the Brazilian
+Law nº 15.211, 17 of September 2025 (“ECA Digital")
+ that provides for the protection of children and teenagers in digital environments, X is legally required to provide age assurance measures. We take a
+multi-faceted age assurance approach
+ to verify or estimate whether users are 18 or older. These are designed to be simple, private and secure.
+
+Elections
+
+Information from X
+
+X is steadfast in safeguarding the integrity of elections and we strive to enforce the Rules with uniform consistency. Policies that may relate to elections are:
 
 Violent content
 
@@ -69,51 +191,13 @@ filing a report
 https://help.x.com/en/rules-and-policies/x-report-violation
  for details and instructions on how to submit a report to X and for an overview of the reporting process.
 
-Safety on X
+Electoral Violations Reporting
 
-Our Help Center has tips on
-using X
-, and resources to help you
-stay safe on X
-. We also suggest staying informed about
-account safety and security
-, safeguarding your privacy, avoiding spam and scams, and consider
-controlling what you see
-. We provide answers to the most
-common questions
-; but if you need account support, submitting a
-support form
- ensures your request is routed to the appropriate team. You can always
-appeal
- an enforcement decision.
+You can also report electoral violations under Brazilian law, by making a report to X through this
+form
+. Please consider the item on Electoral Violations to report violations during elections.
 
-SIADE
-
-The Electoral Disinformation Alert System (SIADE) has been put in place by the Superior Electoral Court (TSE) to report content with the potential to cause harm to the balance of the election or the integrity of the electoral process.
-
-The automated system allows anyone to file a report against:
-
-Disinformation that affects the Electoral Court
-
-Disinformation that affects members and collaborators of the Electoral Court and the Electoral Public Ministry
-
-Threats and incitement to violence against members or assets of the Electoral Court and the Public Electoral Ministry
-
-Disruption or incitement to the abolition of the Democratic Rule of Law (Anti-democratic acts)
-
-Use of artificial intelligence in violation of labeling rules or to convey disinformation
-
-Hateful behavior or speech
-
-Misinformative content directed at candidates and parties that affect the legitimacy of the electoral process.
-
-You can report such violations through this
-portal
-.
-
-After processing, alerts can be sent to platforms so that they can assess the possibility of a violation of their terms of use and apply the corresponding measures.
-
-SIADE is a coordinating effort within TSE’s Center for Combating Disinformation and Defending Democracy (CIEDDE).
+If you are a candidate, party, or coalition and wish to report content under Article 9-E, Paragraph 2, a dedicated channel by e-mail has been created and informed to all parties. In doubt, reach out to the national committee of your party or our local Government Affairs team.
 
 Community Notes
 
@@ -122,9 +206,11 @@ Community Notes
 Sign up to become a contributor
 .
 
-This is an open and transparent process, that’s why we’ve made the Community Notes algorithm open source and
-publicly available on GitHub
-, along with the data that powers it so anyone can audit, analyze or suggest improvements.
+Community Notes’
+code
+ and
+data
+ are open-source, allowing anyone to view its logic to analyse, review, or help improve it. This makes it an extraordinarily transparent approach to addressing misleading information.
 
 Community Notes do not represent X’s viewpoint and cannot be edited or modified by our teams. A post with a Community Note will not be labeled, removed, or addressed by X unless it is found to be violating the
 X Rules
@@ -134,7 +220,7 @@ Terms of Service
 Privacy Policy
 . Failure to abide by the rules can result in one’s removal from accessing Community Notes, and/or other remediations.
 
-Anyone can report notes they believe aren’t in accordance with those rules by selecting the  menu on a note, and then selecting Report, or by using this
+Anyone can report notes they believe aren’t in accordance with those rules by selecting the menu on a note, and then selecting Report, or by using this
 form
 .
 
