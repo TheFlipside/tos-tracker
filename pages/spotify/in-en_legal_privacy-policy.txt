@@ -1355,7 +1355,7 @@ For the purposes of the GDPR, Spotify AB is the data controller of personal data
 © Spotify
 Deine Privatsphäre ist uns wichtig
 Wir und unsere
-87
+88
  Partner speichern Informationen auf Geräten und/oder greifen darauf zu, z. B. eindeutige IDs in Cookies, um personenbezogene Daten zu verarbeiten. Klicke unten auf „Cookie-Einstellungen“, um mehr über die Zwecke zu erfahren, für die wir und unsere Partner Cookies verwenden, oder um die Einstellungen zu ändern. Du kannst deine Einstellungen jederzeit überprüfen oder deine Einwilligung widerrufen, indem du in unserer Cookie-Richtlinie auf den Link zu deinen Cookie-Einstellungen klickst. Diese Entscheidungen werden unseren Partnern mitgeteilt und haben keinen Einfluss auf die Browsingdaten.
  Indem Du auf “Cookies akzeptieren” klickst, willigst Du in unsere Nutzung und die Weitergabe Deiner Daten an
 unsere Partner
@@ -1471,7 +1471,7 @@ Inhalte, die Ihnen auf diesem Dienst präsentiert werden, können auf Ihren Inha
 Illustrationen anzeigen
 Liste von IAB-Lieferanten
 Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung der Angebote
- 82 Lieferanten können diesen Zweck nutzen
+ 83 Lieferanten können diesen Zweck nutzen
 
 Messung von Werbeleistung und der Performance von Inhalten, Zielgruppenforschung sowie Entwicklung und Verbesserung der Angebote
 
@@ -1488,14 +1488,14 @@ Den Berechtigten Interessen Widersprechen
                         Widerspruch entfernen
 
 Entwicklung und Verbesserung der Angebote
- 58 Lieferanten können diesen Zweck nutzen
+ 59 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
 Informationen über Ihre Aktivitäten auf diesem Angebot, wie z. B. Ihre Interaktion mit Anzeigen oder Inhalten, können dabei helfen, Produkte und Angebote zu verbessern und neue Produkte und Angebote zu entwickeln basierend auf Benutzerinteraktionen, der Art der Zielgruppe usw. Dieser Verarbeitungszweck umfasst nicht die Entwicklung, Ergänzung oder Verbesserung von Benutzerprofilen und Kennungen.
 Illustrationen anzeigen
 Messung der Performance von Inhalten
- 26 Lieferanten können diesen Zweck nutzen
+ 27 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -1507,7 +1507,7 @@ Den Berechtigten Interessen Widersprechen
                         Widerspruch entfernen
 
 Messung der Werbeleistung
- 77 Lieferanten können diesen Zweck nutzen
+ 78 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -1534,8 +1534,13 @@ Auswahl und Bereitstellung von Inhalten und Reporting
 Auswahl und Bereitstellung von Inhalten und Reporting
 
 Diese Cookies werden von einer Reihe von Social-Media-Diensten gesetzt, die wir der Website hinzugefügt haben, damit du unsere Inhalte mit deinen Freund*innen und Netzwerken teilen kannst. Sie sind in der Lage, deinen Browser auf anderen Websites zu verfolgen und ein Profil deiner Interessen zu erstellen. Das kann sich auf die Inhalte und Nachrichten auswirken, die du auf anderen Websites siehst. Ohne diese Cookies kannst du diese Tools zum Teilen von Inhalten möglicherweise nicht verwenden oder sehen.
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable us to provide enhanced functionality and personalisation. If you do not allow these cookies then some or all of these services may not function properly.
 Spezielle Verwendungszwecke
- 85 Lieferanten können diesen Zweck nutzen
+ 86 Lieferanten können diesen Zweck nutzen
 Immer aktiv
 Falls du oben in “Informationen auf einem Gerät speichern und/oder abrufen” einwilligst, dann verarbeiten wir deine Daten auch für die folgenden speziellen Verwendungszwecke. Falls du nicht möchtest, dass wir deine Daten für diese Zwecke verarbeiten, dann bitte deaktiviere “Informationen auf einem Gerät speichern und/oder abrufen”.
 Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung
@@ -1555,7 +1560,7 @@ label
 Bestimmte Informationen (wie IP-Adresse oder Endgerätefunktionen) werden verwendet, um die technische Kompatibilität des Inhalts oder der Werbung zu gewährleisten und die Übertragung des Inhalts oder der Werbung auf Ihr Endgerät zu ermöglichen.
 Illustrationen anzeigen
 Abgleichung und Kombination von Daten aus unterschiedlichen Quellen
- 56 Partner können diese Funktion nutzen
+ 57 Partner können diese Funktion nutzen
 
 Switch Label
 

@@ -342,7 +342,7 @@ here
 Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
 
 Language
-English (US)
+English
 Social
 Menu
 Product
@@ -354,3 +354,12 @@ Resources
 Policies
 Policies
 Social
+
+Discord
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Privacy Notice
+Cookies Settings
+
+Reject All Cookies
+
+Accept All Cookies
