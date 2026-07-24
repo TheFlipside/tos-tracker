@@ -1488,7 +1488,7 @@ Den Berechtigten Interessen Widersprechen
                         Widerspruch entfernen
 
 Entwicklung und Verbesserung der Angebote
- 59 Lieferanten können diesen Zweck nutzen
+ 58 Lieferanten können diesen Zweck nutzen
 
 Switch Label
 
@@ -1540,7 +1540,7 @@ Functional Cookies
 
 These cookies enable us to provide enhanced functionality and personalisation. If you do not allow these cookies then some or all of these services may not function properly.
 Spezielle Verwendungszwecke
- 86 Lieferanten können diesen Zweck nutzen
+ 85 Lieferanten können diesen Zweck nutzen
 Immer aktiv
 Falls du oben in “Informationen auf einem Gerät speichern und/oder abrufen” einwilligst, dann verarbeiten wir deine Daten auch für die folgenden speziellen Verwendungszwecke. Falls du nicht möchtest, dass wir deine Daten für diese Zwecke verarbeiten, dann bitte deaktiviere “Informationen auf einem Gerät speichern und/oder abrufen”.
 Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung
@@ -1560,7 +1560,7 @@ label
 Bestimmte Informationen (wie IP-Adresse oder Endgerätefunktionen) werden verwendet, um die technische Kompatibilität des Inhalts oder der Werbung zu gewährleisten und die Übertragung des Inhalts oder der Werbung auf Ihr Endgerät zu ermöglichen.
 Illustrationen anzeigen
 Abgleichung und Kombination von Daten aus unterschiedlichen Quellen
- 57 Partner können diese Funktion nutzen
+ 56 Partner können diese Funktion nutzen
 
 Switch Label
 
